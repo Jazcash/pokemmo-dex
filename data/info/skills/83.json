@@ -1,0 +1,12 @@
+{
+"id": 83,
+"name": "Fire Spin",
+"skill_damage_type": "SPECIAL",
+"base_power": 35,
+"base_accuracy": 85,
+"base_pp": 15,
+"priority": 0,
+"type": "FIRE",
+"target_type": 0,
+"true_damage": false
+}

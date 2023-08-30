@@ -1,0 +1,12 @@
+{
+"id": 469,
+"name": "Wide Guard",
+"skill_damage_type": "STATUS",
+"base_power": 0,
+"base_accuracy": 101,
+"base_pp": 10,
+"priority": 3,
+"type": "ROCK",
+"target_type": 12,
+"true_damage": false
+}

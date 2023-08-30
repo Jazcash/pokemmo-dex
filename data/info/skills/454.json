@@ -1,0 +1,12 @@
+{
+"id": 454,
+"name": "Attack Order",
+"skill_damage_type": "PHYSICAL",
+"base_power": 90,
+"base_accuracy": 100,
+"base_pp": 15,
+"priority": 0,
+"type": "BUG",
+"target_type": 0,
+"true_damage": false
+}

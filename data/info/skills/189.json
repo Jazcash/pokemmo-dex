@@ -1,0 +1,12 @@
+{
+"id": 189,
+"name": "Mud-Slap",
+"skill_damage_type": "SPECIAL",
+"base_power": 20,
+"base_accuracy": 100,
+"base_pp": 10,
+"priority": 0,
+"type": "GROUND",
+"target_type": 0,
+"true_damage": false
+}

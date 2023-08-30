@@ -1,0 +1,900 @@
+{
+"id": 163,
+"name": "Hoothoot",
+"exp_type": "MEDIUM_FAST",
+"obtainable": true,
+"gender_ratio": 127,
+"height": 7,
+"weight": 212,
+"egg_groups": [
+	"flying"
+],
+"abilities": [
+	{
+		"id": 15,
+		"name": "Insomnia"
+	},
+	{
+		"id": 51,
+		"name": "Keen Eye"
+	},
+	{
+		"id": 110,
+		"name": "Tinted Lens"
+	}
+],
+"forms": [
+	{
+		"form_id": 0,
+		"id": 163,
+		"name": "Hoothoot"
+	}
+],
+"evolutions": [
+	{
+		"id": 164,
+		"name": "Noctowl",
+		"type": "LEVEL",
+		"val": 20
+	}
+],
+"moves": [
+	{
+		"id": 33,
+		"name": "Tackle",
+		"type": "level",
+		"level": 1
+	},
+	{
+		"id": 45,
+		"name": "Growl",
+		"type": "level",
+		"level": 1
+	},
+	{
+		"id": 64,
+		"name": "Peck",
+		"type": "level",
+		"level": 1
+	},
+	{
+		"id": 193,
+		"name": "Foresight",
+		"type": "level",
+		"level": 1
+	},
+	{
+		"id": 33,
+		"name": "Tackle",
+		"type": "level",
+		"level": 3
+	},
+	{
+		"id": 497,
+		"name": "Echoed Voice",
+		"type": "level",
+		"level": 6
+	},
+	{
+		"id": 64,
+		"name": "Peck",
+		"type": "level",
+		"level": 7
+	},
+	{
+		"id": 93,
+		"name": "Confusion",
+		"type": "level",
+		"level": 9
+	},
+	{
+		"id": 115,
+		"name": "Reflect",
+		"type": "level",
+		"level": 12
+	},
+	{
+		"id": 375,
+		"name": "Psycho Shift",
+		"type": "level",
+		"level": 15
+	},
+	{
+		"id": 428,
+		"name": "Zen Headbutt",
+		"type": "level",
+		"level": 16
+	},
+	{
+		"id": 403,
+		"name": "Air Slash",
+		"type": "level",
+		"level": 18
+	},
+	{
+		"id": 326,
+		"name": "Extrasensory",
+		"type": "level",
+		"level": 21
+	},
+	{
+		"id": 36,
+		"name": "Take Down",
+		"type": "level",
+		"level": 24
+	},
+	{
+		"id": 253,
+		"name": "Uproar",
+		"type": "level",
+		"level": 27
+	},
+	{
+		"id": 355,
+		"name": "Roost",
+		"type": "level",
+		"level": 30
+	},
+	{
+		"id": 95,
+		"name": "Hypnosis",
+		"type": "level",
+		"level": 36
+	},
+	{
+		"id": 138,
+		"name": "Dream Eater",
+		"type": "level",
+		"level": 39
+	},
+	{
+		"id": 485,
+		"name": "Synchronoise",
+		"type": "level",
+		"level": 43
+	},
+	{
+		"id": 17,
+		"name": "Wing Attack",
+		"type": "egg_moves"
+	},
+	{
+		"id": 48,
+		"name": "Supersonic",
+		"type": "egg_moves"
+	},
+	{
+		"id": 119,
+		"name": "Mirror Move",
+		"type": "egg_moves"
+	},
+	{
+		"id": 212,
+		"name": "Mean Look",
+		"type": "egg_moves"
+	},
+	{
+		"id": 297,
+		"name": "FeatherDance",
+		"type": "egg_moves"
+	},
+	{
+		"id": 95,
+		"name": "Hypnosis",
+		"type": "move_tutor"
+	},
+	{
+		"id": 143,
+		"name": "Sky Attack",
+		"type": "move_tutor"
+	},
+	{
+		"id": 171,
+		"name": "Nightmare",
+		"type": "move_tutor"
+	},
+	{
+		"id": 173,
+		"name": "Snore",
+		"type": "move_tutor"
+	},
+	{
+		"id": 185,
+		"name": "Faint Attack",
+		"type": "move_tutor"
+	},
+	{
+		"id": 239,
+		"name": "Twister",
+		"type": "move_tutor"
+	},
+	{
+		"id": 253,
+		"name": "Uproar",
+		"type": "move_tutor"
+	},
+	{
+		"id": 277,
+		"name": "Magic Coat",
+		"type": "move_tutor"
+	},
+	{
+		"id": 466,
+		"name": "Ominous Wind",
+		"type": "move_tutor"
+	},
+	{
+		"id": 18,
+		"name": "Whirlwind",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 19,
+		"name": "Fly",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 36,
+		"name": "Take Down",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 38,
+		"name": "Double-Edge",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 92,
+		"name": "Toxic",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 94,
+		"name": "Psychic",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 97,
+		"name": "Agility",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 101,
+		"name": "Night Shade",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 102,
+		"name": "Mimic",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 103,
+		"name": "Screech",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 104,
+		"name": "Double Team",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 115,
+		"name": "Reflect",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 129,
+		"name": "Swift",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 133,
+		"name": "Amnesia",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 138,
+		"name": "Dream Eater",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 148,
+		"name": "Flash",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 156,
+		"name": "Rest",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 164,
+		"name": "Substitute",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 168,
+		"name": "Thief",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 174,
+		"name": "Curse",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 182,
+		"name": "Protect",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 189,
+		"name": "Mud-Slap",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 197,
+		"name": "Detect",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 203,
+		"name": "Endure",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 207,
+		"name": "Swagger",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 211,
+		"name": "Steel Wing",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 213,
+		"name": "Attract",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 214,
+		"name": "Sleep Talk",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 216,
+		"name": "Return",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 218,
+		"name": "Frustration",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 237,
+		"name": "Hidden Power",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 240,
+		"name": "Rain Dance",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 241,
+		"name": "Sunny Day",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 244,
+		"name": "Psych Up",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 247,
+		"name": "Shadow Ball",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 257,
+		"name": "Heat Wave",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 263,
+		"name": "Facade",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 278,
+		"name": "Recycle",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 286,
+		"name": "Imprison",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 290,
+		"name": "Secret Power",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 304,
+		"name": "Hyper Voice",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 314,
+		"name": "Air Cutter",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 318,
+		"name": "Silver Wind",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 332,
+		"name": "Aerial Ace",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 347,
+		"name": "Calm Mind",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 355,
+		"name": "Roost",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 363,
+		"name": "Natural Gift",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 365,
+		"name": "Pluck",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 366,
+		"name": "Tailwind",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 403,
+		"name": "Air Slash",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 417,
+		"name": "Nasty Plot",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 428,
+		"name": "Zen Headbutt",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 432,
+		"name": "Defog",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 445,
+		"name": "Captivate",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 496,
+		"name": "Round",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 497,
+		"name": "Echoed Voice",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 500,
+		"name": "Stored Power",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 526,
+		"name": "Work Up",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 542,
+		"name": "Hurricane",
+		"type": "move_learner_tools"
+	}
+],
+"types": [
+	"NORMAL",
+	"FLYING"
+],
+"stats": {
+	"hp": 60,
+	"attack": 30,
+	"defense": 30,
+	"speed": 50,
+	"sp_attack": 36,
+	"sp_defense": 56
+},
+"yields": {
+	"exp": 52,
+	"ev_hp": 1,
+	"ev_attack": 0,
+	"ev_defense": 0,
+	"ev_speed": 0,
+	"ev_sp_attack": 0,
+	"ev_sp_defense": 0
+},
+"tiers": [
+	"Untiered"
+],
+"held_items": [],
+"locations": [
+	{
+		"type": "Grass",
+		"region_id": 0,
+		"region_name": "Kanto",
+		"location": "ROUTE 1 (Night)",
+		"min_level": 2,
+		"max_level": 5,
+		"rarity": "Very Common"
+	},
+	{
+		"type": "Grass",
+		"region_id": 0,
+		"region_name": "Kanto",
+		"location": "ROUTE 2 (Night)",
+		"min_level": 4,
+		"max_level": 6,
+		"rarity": "Uncommon"
+	},
+	{
+		"type": "Grass",
+		"region_id": 0,
+		"region_name": "Kanto",
+		"location": "ROUTE 5 (Night)",
+		"min_level": 12,
+		"max_level": 15,
+		"rarity": "Uncommon"
+	},
+	{
+		"type": "Grass",
+		"region_id": 0,
+		"region_name": "Kanto",
+		"location": "ROUTE 8 (Night)",
+		"min_level": 15,
+		"max_level": 17,
+		"rarity": "Horde"
+	},
+	{
+		"type": "Grass",
+		"region_id": 0,
+		"region_name": "Kanto",
+		"location": "ROUTE 11 (Night)",
+		"min_level": 13,
+		"max_level": 17,
+		"rarity": "Uncommon"
+	},
+	{
+		"type": "Grass",
+		"region_id": 0,
+		"region_name": "Kanto",
+		"location": "ROUTE 25 (Night)",
+		"min_level": 12,
+		"max_level": 14,
+		"rarity": "Uncommon"
+	},
+	{
+		"type": "Grass",
+		"region_id": 0,
+		"region_name": "Kanto",
+		"location": "VIRIDIAN FOREST (Night)",
+		"min_level": 5,
+		"max_level": 7,
+		"rarity": "Common"
+	},
+	{
+		"type": "Grass",
+		"region_id": 1,
+		"region_name": "Hoenn",
+		"location": "SAFARI ZONE",
+		"min_level": 35,
+		"max_level": 37,
+		"rarity": "Rare"
+	},
+	{
+		"type": "Shadow",
+		"region_id": 2,
+		"region_name": "Unova",
+		"location": "Dreamyard",
+		"min_level": 6,
+		"max_level": 7,
+		"rarity": "Special"
+	},
+	{
+		"type": "Grass",
+		"region_id": 3,
+		"region_name": "Sinnoh",
+		"location": "Eterna Forest (Night)",
+		"min_level": 10,
+		"max_level": 10,
+		"rarity": "Horde"
+	},
+	{
+		"type": "Grass",
+		"region_id": 3,
+		"region_name": "Sinnoh",
+		"location": "Eterna Forest (Night)",
+		"min_level": 12,
+		"max_level": 12,
+		"rarity": "Uncommon"
+	},
+	{
+		"type": "Inside",
+		"region_id": 3,
+		"region_name": "Sinnoh",
+		"location": "Great Marsh (Night)",
+		"min_level": 27,
+		"max_level": 29,
+		"rarity": "Very Rare"
+	},
+	{
+		"type": "Grass",
+		"region_id": 3,
+		"region_name": "Sinnoh",
+		"location": "Route 205 (Night)",
+		"min_level": 12,
+		"max_level": 12,
+		"rarity": "Rare"
+	},
+	{
+		"type": "Grass",
+		"region_id": 3,
+		"region_name": "Sinnoh",
+		"location": "Route 210 (Night)",
+		"min_level": 20,
+		"max_level": 27,
+		"rarity": "Uncommon"
+	},
+	{
+		"type": "Grass",
+		"region_id": 3,
+		"region_name": "Sinnoh",
+		"location": "Route 211 (Night)",
+		"min_level": 15,
+		"max_level": 15,
+		"rarity": "Uncommon"
+	},
+	{
+		"type": "Headbutt",
+		"region_id": 4,
+		"region_name": "Johto",
+		"location": "Cherrygrove City",
+		"min_level": 4,
+		"max_level": 5,
+		"rarity": "Very Common"
+	},
+	{
+		"type": "Headbutt",
+		"region_id": 4,
+		"region_name": "Johto",
+		"location": "Ecruteak City",
+		"min_level": 18,
+		"max_level": 20,
+		"rarity": "Very Common"
+	},
+	{
+		"type": "Cave",
+		"region_id": 4,
+		"region_name": "Johto",
+		"location": "Ilex Forest (Night)",
+		"min_level": 12,
+		"max_level": 13,
+		"rarity": "Uncommon"
+	},
+	{
+		"type": "Grass",
+		"region_id": 4,
+		"region_name": "Johto",
+		"location": "National Park (Night)",
+		"min_level": 16,
+		"max_level": 18,
+		"rarity": "Very Common"
+	},
+	{
+		"type": "Headbutt",
+		"region_id": 4,
+		"region_name": "Johto",
+		"location": "National Park",
+		"min_level": 16,
+		"max_level": 18,
+		"rarity": "Very Common"
+	},
+	{
+		"type": "Headbutt",
+		"region_id": 4,
+		"region_name": "Johto",
+		"location": "New Bark Town",
+		"min_level": 2,
+		"max_level": 4,
+		"rarity": "Very Common"
+	},
+	{
+		"type": "Headbutt",
+		"region_id": 4,
+		"region_name": "Johto",
+		"location": "Pokéathlon Dome",
+		"min_level": 16,
+		"max_level": 18,
+		"rarity": "Very Common"
+	},
+	{
+		"type": "Grass",
+		"region_id": 4,
+		"region_name": "Johto",
+		"location": "Route 29 (Night)",
+		"min_level": 2,
+		"max_level": 4,
+		"rarity": "Very Common"
+	},
+	{
+		"type": "Headbutt",
+		"region_id": 4,
+		"region_name": "Johto",
+		"location": "Route 29",
+		"min_level": 2,
+		"max_level": 4,
+		"rarity": "Very Common"
+	},
+	{
+		"type": "Grass",
+		"region_id": 4,
+		"region_name": "Johto",
+		"location": "Route 30 (Night)",
+		"min_level": 3,
+		"max_level": 4,
+		"rarity": "Very Common"
+	},
+	{
+		"type": "Headbutt",
+		"region_id": 4,
+		"region_name": "Johto",
+		"location": "Route 30",
+		"min_level": 4,
+		"max_level": 5,
+		"rarity": "Very Common"
+	},
+	{
+		"type": "Grass",
+		"region_id": 4,
+		"region_name": "Johto",
+		"location": "Route 31 (Night)",
+		"min_level": 4,
+		"max_level": 7,
+		"rarity": "Very Common"
+	},
+	{
+		"type": "Headbutt",
+		"region_id": 4,
+		"region_name": "Johto",
+		"location": "Route 31",
+		"min_level": 4,
+		"max_level": 7,
+		"rarity": "Very Common"
+	},
+	{
+		"type": "Grass",
+		"region_id": 4,
+		"region_name": "Johto",
+		"location": "Route 32 (Night)",
+		"min_level": 8,
+		"max_level": 9,
+		"rarity": "Rare"
+	},
+	{
+		"type": "Grass",
+		"region_id": 4,
+		"region_name": "Johto",
+		"location": "Route 34 (Night)",
+		"min_level": 13,
+		"max_level": 14,
+		"rarity": "Uncommon"
+	},
+	{
+		"type": "Grass",
+		"region_id": 4,
+		"region_name": "Johto",
+		"location": "Route 35 (Night)",
+		"min_level": 15,
+		"max_level": 17,
+		"rarity": "Uncommon"
+	},
+	{
+		"type": "Headbutt",
+		"region_id": 4,
+		"region_name": "Johto",
+		"location": "Route 35",
+		"min_level": 15,
+		"max_level": 17,
+		"rarity": "Very Common"
+	},
+	{
+		"type": "Grass",
+		"region_id": 4,
+		"region_name": "Johto",
+		"location": "Route 36 (Night)",
+		"min_level": 16,
+		"max_level": 18,
+		"rarity": "Uncommon"
+	},
+	{
+		"type": "Headbutt",
+		"region_id": 4,
+		"region_name": "Johto",
+		"location": "Route 36",
+		"min_level": 6,
+		"max_level": 8,
+		"rarity": "Very Common"
+	},
+	{
+		"type": "Grass",
+		"region_id": 4,
+		"region_name": "Johto",
+		"location": "Route 37 (Night)",
+		"min_level": 17,
+		"max_level": 19,
+		"rarity": "Common"
+	},
+	{
+		"type": "Headbutt",
+		"region_id": 4,
+		"region_name": "Johto",
+		"location": "Route 37",
+		"min_level": 16,
+		"max_level": 18,
+		"rarity": "Very Common"
+	},
+	{
+		"type": "Headbutt",
+		"region_id": 4,
+		"region_name": "Johto",
+		"location": "Route 38",
+		"min_level": 19,
+		"max_level": 20,
+		"rarity": "Very Common"
+	},
+	{
+		"type": "Headbutt",
+		"region_id": 4,
+		"region_name": "Johto",
+		"location": "Ruins of Alph",
+		"min_level": 6,
+		"max_level": 8,
+		"rarity": "Very Common"
+	},
+	{
+		"type": "Headbutt",
+		"region_id": 4,
+		"region_name": "Johto",
+		"location": "Violet City",
+		"min_level": 6,
+		"max_level": 8,
+		"rarity": "Very Common"
+	}
+]
+}

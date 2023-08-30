@@ -1,0 +1,12 @@
+{
+"id": 239,
+"name": "Twister",
+"skill_damage_type": "SPECIAL",
+"base_power": 40,
+"base_accuracy": 100,
+"base_pp": 20,
+"priority": 0,
+"type": "DRAGON",
+"target_type": 5,
+"true_damage": false
+}

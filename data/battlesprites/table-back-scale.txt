@@ -1,0 +1,4 @@
+;Table which determines scales for battle sprites.
+;Lines starting with ; will be ignored
+;Please only include values for overriden sprites!
+;Each entry should be a separate line and contain ID=SCALE, like "1=3" without quotes.

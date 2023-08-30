@@ -1,0 +1,267 @@
+{
+"id": 132,
+"name": "Ditto",
+"exp_type": "MEDIUM_FAST",
+"obtainable": true,
+"gender_ratio": 255,
+"height": 3,
+"weight": 40,
+"egg_groups": [
+	"ditto"
+],
+"abilities": [
+	{
+		"id": 7,
+		"name": "Limber"
+	},
+	{
+		"id": 0,
+		"name": "--"
+	},
+	{
+		"id": 150,
+		"name": "Imposter"
+	}
+],
+"forms": [
+	{
+		"form_id": 0,
+		"id": 132,
+		"name": "Ditto"
+	}
+],
+"evolutions": [],
+"moves": [
+	{
+		"id": 144,
+		"name": "Transform",
+		"type": "level",
+		"level": 1
+	}
+],
+"types": [
+	"NORMAL",
+	"NORMAL"
+],
+"stats": {
+	"hp": 48,
+	"attack": 48,
+	"defense": 48,
+	"speed": 48,
+	"sp_attack": 48,
+	"sp_defense": 48
+},
+"yields": {
+	"exp": 101,
+	"ev_hp": 1,
+	"ev_attack": 0,
+	"ev_defense": 0,
+	"ev_speed": 0,
+	"ev_sp_attack": 0,
+	"ev_sp_defense": 0
+},
+"tiers": [
+	"Never Used"
+],
+"held_items": [
+	{
+		"id": 5274,
+		"name": "Quick Powder"
+	},
+	{
+		"id": 5257,
+		"name": "Metal Powder"
+	}
+],
+"locations": [
+	{
+		"type": "Cave",
+		"region_id": 0,
+		"region_name": "Kanto",
+		"location": "CERULEAN CAVE",
+		"min_level": 54,
+		"max_level": 60,
+		"rarity": "Rare"
+	},
+	{
+		"type": "Inside",
+		"region_id": 0,
+		"region_name": "Kanto",
+		"location": "POKéMON MANSION",
+		"min_level": 28,
+		"max_level": 30,
+		"rarity": "Horde"
+	},
+	{
+		"type": "Inside",
+		"region_id": 0,
+		"region_name": "Kanto",
+		"location": "POKéMON MANSION",
+		"min_level": 30,
+		"max_level": 30,
+		"rarity": "Rare"
+	},
+	{
+		"type": "Grass",
+		"region_id": 0,
+		"region_name": "Kanto",
+		"location": "ROUTE 13",
+		"min_level": 25,
+		"max_level": 25,
+		"rarity": "Rare"
+	},
+	{
+		"type": "Grass",
+		"region_id": 0,
+		"region_name": "Kanto",
+		"location": "ROUTE 14",
+		"min_level": 25,
+		"max_level": 25,
+		"rarity": "Uncommon"
+	},
+	{
+		"type": "Grass",
+		"region_id": 0,
+		"region_name": "Kanto",
+		"location": "ROUTE 15",
+		"min_level": 25,
+		"max_level": 25,
+		"rarity": "Uncommon"
+	},
+	{
+		"type": "Grass",
+		"region_id": 0,
+		"region_name": "Kanto",
+		"location": "ROUTE 23",
+		"min_level": 38,
+		"max_level": 42,
+		"rarity": "Rare"
+	},
+	{
+		"type": "Cave",
+		"region_id": 1,
+		"region_name": "Hoenn",
+		"location": "DESERT UNDERPASS",
+		"min_level": 40,
+		"max_level": 45,
+		"rarity": "Very Common"
+	},
+	{
+		"type": "Cave",
+		"region_id": 1,
+		"region_name": "Hoenn",
+		"location": "RUSTURF TUNNEL",
+		"min_level": 13,
+		"max_level": 13,
+		"rarity": "Lure"
+	},
+	{
+		"type": "Grass",
+		"region_id": 2,
+		"region_name": "Unova",
+		"location": "Giant Chasm",
+		"min_level": 53,
+		"max_level": 55,
+		"rarity": "Rare"
+	},
+	{
+		"type": "Dark Grass",
+		"region_id": 2,
+		"region_name": "Unova",
+		"location": "Giant Chasm",
+		"min_level": 58,
+		"max_level": 60,
+		"rarity": "Rare"
+	},
+	{
+		"type": "Grass",
+		"region_id": 2,
+		"region_name": "Unova",
+		"location": "P2 Laboratory",
+		"min_level": 34,
+		"max_level": 34,
+		"rarity": "Lure"
+	},
+	{
+		"type": "Grass",
+		"region_id": 2,
+		"region_name": "Unova",
+		"location": "P2 Laboratory",
+		"min_level": 36,
+		"max_level": 38,
+		"rarity": "Special"
+	},
+	{
+		"type": "Grass",
+		"region_id": 2,
+		"region_name": "Unova",
+		"location": "Route 5",
+		"min_level": 23,
+		"max_level": 25,
+		"rarity": "Special"
+	},
+	{
+		"type": "Grass",
+		"region_id": 4,
+		"region_name": "Johto",
+		"location": "Route 34",
+		"min_level": 13,
+		"max_level": 14,
+		"rarity": "Rare"
+	},
+	{
+		"type": "Grass",
+		"region_id": 4,
+		"region_name": "Johto",
+		"location": "Route 35",
+		"min_level": 15,
+		"max_level": 17,
+		"rarity": "Rare"
+	},
+	{
+		"type": "Grass",
+		"region_id": 4,
+		"region_name": "Johto",
+		"location": "Route 47",
+		"min_level": 33,
+		"max_level": 35,
+		"rarity": "Very Common"
+	},
+	{
+		"type": "Cave",
+		"region_id": 4,
+		"region_name": "Johto",
+		"location": "Safari Zone",
+		"min_level": 28,
+		"max_level": 31,
+		"rarity": "Very Rare"
+	},
+	{
+		"type": "Cave",
+		"region_id": 4,
+		"region_name": "Johto",
+		"location": "Safari Zone",
+		"min_level": 28,
+		"max_level": 31,
+		"rarity": "Very Rare"
+	},
+	{
+		"type": "Cave",
+		"region_id": 4,
+		"region_name": "Johto",
+		"location": "Safari Zone",
+		"min_level": 28,
+		"max_level": 31,
+		"rarity": "Very Rare"
+	},
+	{
+		"type": "Cave",
+		"region_id": 4,
+		"region_name": "Johto",
+		"location": "Safari Zone",
+		"min_level": 28,
+		"max_level": 31,
+		"rarity": "Very Rare"
+	}
+]
+}

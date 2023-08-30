@@ -1,0 +1,238 @@
+{
+"id": 13,
+"name": "Weedle",
+"exp_type": "MEDIUM_FAST",
+"obtainable": true,
+"gender_ratio": 127,
+"height": 3,
+"weight": 32,
+"egg_groups": [
+	"bug"
+],
+"abilities": [
+	{
+		"id": 19,
+		"name": "Shield Dust"
+	},
+	{
+		"id": 0,
+		"name": "--"
+	},
+	{
+		"id": 50,
+		"name": "Run Away"
+	}
+],
+"forms": [
+	{
+		"form_id": 0,
+		"id": 13,
+		"name": "Weedle"
+	}
+],
+"evolutions": [
+	{
+		"id": 14,
+		"name": "Kakuna",
+		"type": "LEVEL",
+		"val": 7
+	}
+],
+"moves": [
+	{
+		"id": 40,
+		"name": "Poison Sting",
+		"type": "level",
+		"level": 1
+	},
+	{
+		"id": 81,
+		"name": "String Shot",
+		"type": "level",
+		"level": 1
+	},
+	{
+		"id": 450,
+		"name": "Bug Bite",
+		"type": "level",
+		"level": 9
+	},
+	{
+		"id": 81,
+		"name": "String Shot",
+		"type": "move_tutor"
+	},
+	{
+		"id": 450,
+		"name": "Bug Bite",
+		"type": "move_tutor"
+	},
+	{
+		"id": 527,
+		"name": "Electroweb",
+		"type": "move_tutor"
+	}
+],
+"types": [
+	"BUG",
+	"POISON"
+],
+"stats": {
+	"hp": 40,
+	"attack": 35,
+	"defense": 30,
+	"speed": 50,
+	"sp_attack": 20,
+	"sp_defense": 20
+},
+"yields": {
+	"exp": 39,
+	"ev_hp": 0,
+	"ev_attack": 0,
+	"ev_defense": 0,
+	"ev_speed": 1,
+	"ev_sp_attack": 0,
+	"ev_sp_defense": 0
+},
+"tiers": [
+	"Untiered"
+],
+"held_items": [],
+"locations": [
+	{
+		"type": "Grass",
+		"region_id": 0,
+		"region_name": "Kanto",
+		"location": "PATTERN BUSH",
+		"min_level": 50,
+		"max_level": 52,
+		"rarity": "Uncommon"
+	},
+	{
+		"type": "Grass",
+		"region_id": 0,
+		"region_name": "Kanto",
+		"location": "ROUTE 2",
+		"min_level": 3,
+		"max_level": 5,
+		"rarity": "Rare"
+	},
+	{
+		"type": "Grass",
+		"region_id": 0,
+		"region_name": "Kanto",
+		"location": "ROUTE 24",
+		"min_level": 11,
+		"max_level": 12,
+		"rarity": "Uncommon"
+	},
+	{
+		"type": "Grass",
+		"region_id": 0,
+		"region_name": "Kanto",
+		"location": "ROUTE 25",
+		"min_level": 11,
+		"max_level": 12,
+		"rarity": "Uncommon"
+	},
+	{
+		"type": "Grass",
+		"region_id": 0,
+		"region_name": "Kanto",
+		"location": "VIRIDIAN FOREST",
+		"min_level": 5,
+		"max_level": 7,
+		"rarity": "Common"
+	},
+	{
+		"type": "Cave",
+		"region_id": 4,
+		"region_name": "Johto",
+		"location": "Ilex Forest (Day/Morning)",
+		"min_level": 12,
+		"max_level": 13,
+		"rarity": "Common"
+	},
+	{
+		"type": "Grass",
+		"region_id": 4,
+		"region_name": "Johto",
+		"location": "National Park (Day/Morning/SEASON0)",
+		"min_level": 16,
+		"max_level": 18,
+		"rarity": "Uncommon"
+	},
+	{
+		"type": "Grass",
+		"region_id": 4,
+		"region_name": "Johto",
+		"location": "National Park (Day/Morning/SEASON1)",
+		"min_level": 16,
+		"max_level": 18,
+		"rarity": "Uncommon"
+	},
+	{
+		"type": "Grass",
+		"region_id": 4,
+		"region_name": "Johto",
+		"location": "National Park (Day/Morning/SEASON2)",
+		"min_level": 16,
+		"max_level": 18,
+		"rarity": "Uncommon"
+	},
+	{
+		"type": "Grass",
+		"region_id": 4,
+		"region_name": "Johto",
+		"location": "National Park (Day/Morning/SEASON3)",
+		"min_level": 16,
+		"max_level": 18,
+		"rarity": "Uncommon"
+	},
+	{
+		"type": "Grass",
+		"region_id": 4,
+		"region_name": "Johto",
+		"location": "Route 30 (Day/Morning)",
+		"min_level": 3,
+		"max_level": 4,
+		"rarity": "Common"
+	},
+	{
+		"type": "Grass",
+		"region_id": 4,
+		"region_name": "Johto",
+		"location": "Route 31 (Day/Morning/SEASON0)",
+		"min_level": 4,
+		"max_level": 7,
+		"rarity": "Common"
+	},
+	{
+		"type": "Grass",
+		"region_id": 4,
+		"region_name": "Johto",
+		"location": "Route 31 (Day/Morning/SEASON1)",
+		"min_level": 4,
+		"max_level": 7,
+		"rarity": "Common"
+	},
+	{
+		"type": "Grass",
+		"region_id": 4,
+		"region_name": "Johto",
+		"location": "Route 31 (Day/Morning/SEASON2)",
+		"min_level": 4,
+		"max_level": 7,
+		"rarity": "Common"
+	},
+	{
+		"type": "Grass",
+		"region_id": 4,
+		"region_name": "Johto",
+		"location": "Route 31 (Day/Morning/SEASON3)",
+		"min_level": 4,
+		"max_level": 7,
+		"rarity": "Common"
+	}
+]
+}

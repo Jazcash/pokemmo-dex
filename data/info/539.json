@@ -1,0 +1,616 @@
+{
+"id": 539,
+"name": "Sawk",
+"exp_type": "MEDIUM_FAST",
+"obtainable": true,
+"gender_ratio": 0,
+"height": 14,
+"weight": 510,
+"egg_groups": [
+	"humanoid"
+],
+"abilities": [
+	{
+		"id": 5,
+		"name": "Sturdy"
+	},
+	{
+		"id": 39,
+		"name": "Inner Focus"
+	},
+	{
+		"id": 104,
+		"name": "Mold Breaker"
+	}
+],
+"forms": [
+	{
+		"form_id": 0,
+		"id": 539,
+		"name": "Sawk"
+	}
+],
+"evolutions": [],
+"moves": [
+	{
+		"id": 43,
+		"name": "Leer",
+		"type": "level",
+		"level": 1
+	},
+	{
+		"id": 116,
+		"name": "Focus Energy",
+		"type": "level",
+		"level": 1
+	},
+	{
+		"id": 117,
+		"name": "Bide",
+		"type": "level",
+		"level": 1
+	},
+	{
+		"id": 249,
+		"name": "Rock Smash",
+		"type": "level",
+		"level": 1
+	},
+	{
+		"id": 116,
+		"name": "Focus Energy",
+		"type": "level",
+		"level": 5
+	},
+	{
+		"id": 24,
+		"name": "Double Kick",
+		"type": "level",
+		"level": 10
+	},
+	{
+		"id": 501,
+		"name": "Quick Guard",
+		"type": "level",
+		"level": 15
+	},
+	{
+		"id": 2,
+		"name": "Karate Chop",
+		"type": "level",
+		"level": 17
+	},
+	{
+		"id": 490,
+		"name": "Low Sweep",
+		"type": "level",
+		"level": 20
+	},
+	{
+		"id": 339,
+		"name": "Bulk Up",
+		"type": "level",
+		"level": 25
+	},
+	{
+		"id": 514,
+		"name": "Retaliate",
+		"type": "level",
+		"level": 30
+	},
+	{
+		"id": 280,
+		"name": "Brick Break",
+		"type": "level",
+		"level": 35
+	},
+	{
+		"id": 68,
+		"name": "Counter",
+		"type": "level",
+		"level": 40
+	},
+	{
+		"id": 203,
+		"name": "Endure",
+		"type": "level",
+		"level": 45
+	},
+	{
+		"id": 179,
+		"name": "Reversal",
+		"type": "level",
+		"level": 50
+	},
+	{
+		"id": 370,
+		"name": "Close Combat",
+		"type": "level",
+		"level": 55
+	},
+	{
+		"id": 173,
+		"name": "Snore",
+		"type": "move_tutor"
+	},
+	{
+		"id": 220,
+		"name": "Pain Split",
+		"type": "move_tutor"
+	},
+	{
+		"id": 282,
+		"name": "Knock Off",
+		"type": "move_tutor"
+	},
+	{
+		"id": 335,
+		"name": "Block",
+		"type": "move_tutor"
+	},
+	{
+		"id": 530,
+		"name": "Dual Chop",
+		"type": "move_tutor"
+	},
+	{
+		"id": 5,
+		"name": "Mega Punch",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 7,
+		"name": "Fire Punch",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 8,
+		"name": "Ice Punch",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 9,
+		"name": "ThunderPunch",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 25,
+		"name": "Mega Kick",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 67,
+		"name": "Low Kick",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 68,
+		"name": "Counter",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 70,
+		"name": "Strength",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 89,
+		"name": "Earthquake",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 91,
+		"name": "Dig",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 92,
+		"name": "Toxic",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 104,
+		"name": "Double Team",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 116,
+		"name": "Focus Energy",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 117,
+		"name": "Bide",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 156,
+		"name": "Rest",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 157,
+		"name": "Rock Slide",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 164,
+		"name": "Substitute",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 179,
+		"name": "Reversal",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 182,
+		"name": "Protect",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 184,
+		"name": "Scary Face",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 203,
+		"name": "Endure",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 207,
+		"name": "Swagger",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 213,
+		"name": "Attract",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 214,
+		"name": "Sleep Talk",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 216,
+		"name": "Return",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 218,
+		"name": "Frustration",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 237,
+		"name": "Hidden Power",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 240,
+		"name": "Rain Dance",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 241,
+		"name": "Sunny Day",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 249,
+		"name": "Rock Smash",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 263,
+		"name": "Facade",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 264,
+		"name": "Focus Punch",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 269,
+		"name": "Taunt",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 270,
+		"name": "Helping Hand",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 276,
+		"name": "Superpower",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 279,
+		"name": "Revenge",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 280,
+		"name": "Brick Break",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 290,
+		"name": "Secret Power",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 317,
+		"name": "Rock Tomb",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 339,
+		"name": "Bulk Up",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 370,
+		"name": "Close Combat",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 371,
+		"name": "Payback",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 374,
+		"name": "Fling",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 398,
+		"name": "Poison Jab",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 411,
+		"name": "Focus Blast",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 416,
+		"name": "Giga Impact",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 428,
+		"name": "Zen Headbutt",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 444,
+		"name": "Stone Edge",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 447,
+		"name": "Grass Knot",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 490,
+		"name": "Low Sweep",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 496,
+		"name": "Round",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 514,
+		"name": "Retaliate",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 523,
+		"name": "Bulldoze",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 526,
+		"name": "Work Up",
+		"type": "move_learner_tools"
+	}
+],
+"types": [
+	"FIGHTING",
+	"FIGHTING"
+],
+"stats": {
+	"hp": 75,
+	"attack": 125,
+	"defense": 75,
+	"speed": 85,
+	"sp_attack": 30,
+	"sp_defense": 75
+},
+"yields": {
+	"exp": 163,
+	"ev_hp": 0,
+	"ev_attack": 2,
+	"ev_defense": 0,
+	"ev_speed": 0,
+	"ev_sp_attack": 0,
+	"ev_sp_defense": 0
+},
+"tiers": [
+	"Untiered"
+],
+"held_items": [
+	{
+		"id": 5241,
+		"name": "Black Belt"
+	},
+	{
+		"id": 5268,
+		"name": "Expert Belt"
+	}
+],
+"locations": [
+	{
+		"type": "Grass",
+		"region_id": 2,
+		"region_name": "Unova",
+		"location": "Pinwheel Forest",
+		"min_level": 12,
+		"max_level": 15,
+		"rarity": "Rare"
+	},
+	{
+		"type": "Dark Grass",
+		"region_id": 2,
+		"region_name": "Unova",
+		"location": "Pinwheel Forest",
+		"min_level": 14,
+		"max_level": 17,
+		"rarity": "Rare"
+	},
+	{
+		"type": "Grass",
+		"region_id": 2,
+		"region_name": "Unova",
+		"location": "Pinwheel Forest",
+		"min_level": 13,
+		"max_level": 15,
+		"rarity": "Special"
+	},
+	{
+		"type": "Grass",
+		"region_id": 2,
+		"region_name": "Unova",
+		"location": "Route 10",
+		"min_level": 33,
+		"max_level": 36,
+		"rarity": "Rare"
+	},
+	{
+		"type": "Dark Grass",
+		"region_id": 2,
+		"region_name": "Unova",
+		"location": "Route 10",
+		"min_level": 38,
+		"max_level": 41,
+		"rarity": "Rare"
+	},
+	{
+		"type": "Grass",
+		"region_id": 2,
+		"region_name": "Unova",
+		"location": "Route 15",
+		"min_level": 46,
+		"max_level": 47,
+		"rarity": "Horde"
+	},
+	{
+		"type": "Grass",
+		"region_id": 2,
+		"region_name": "Unova",
+		"location": "Route 15",
+		"min_level": 48,
+		"max_level": 49,
+		"rarity": "Uncommon"
+	},
+	{
+		"type": "Grass",
+		"region_id": 2,
+		"region_name": "Unova",
+		"location": "Route 15",
+		"min_level": 48,
+		"max_level": 49,
+		"rarity": "Uncommon"
+	},
+	{
+		"type": "Grass",
+		"region_id": 2,
+		"region_name": "Unova",
+		"location": "Route 15",
+		"min_level": 48,
+		"max_level": 49,
+		"rarity": "Uncommon"
+	},
+	{
+		"type": "Grass",
+		"region_id": 2,
+		"region_name": "Unova",
+		"location": "Route 15",
+		"min_level": 48,
+		"max_level": 49,
+		"rarity": "Common"
+	},
+	{
+		"type": "Dark Grass",
+		"region_id": 2,
+		"region_name": "Unova",
+		"location": "Route 15",
+		"min_level": 53,
+		"max_level": 54,
+		"rarity": "Uncommon"
+	},
+	{
+		"type": "Dark Grass",
+		"region_id": 2,
+		"region_name": "Unova",
+		"location": "Route 15",
+		"min_level": 53,
+		"max_level": 54,
+		"rarity": "Uncommon"
+	},
+	{
+		"type": "Dark Grass",
+		"region_id": 2,
+		"region_name": "Unova",
+		"location": "Route 15",
+		"min_level": 53,
+		"max_level": 54,
+		"rarity": "Uncommon"
+	},
+	{
+		"type": "Dark Grass",
+		"region_id": 2,
+		"region_name": "Unova",
+		"location": "Route 15",
+		"min_level": 53,
+		"max_level": 54,
+		"rarity": "Common"
+	},
+	{
+		"type": "Grass",
+		"region_id": 2,
+		"region_name": "Unova",
+		"location": "Route 18",
+		"min_level": 29,
+		"max_level": 31,
+		"rarity": "Uncommon"
+	},
+	{
+		"type": "Grass",
+		"region_id": 2,
+		"region_name": "Unova",
+		"location": "Route 18 (Day/Morning)",
+		"min_level": 27,
+		"max_level": 28,
+		"rarity": "Horde"
+	},
+	{
+		"type": "Dark Grass",
+		"region_id": 2,
+		"region_name": "Unova",
+		"location": "Route 18",
+		"min_level": 33,
+		"max_level": 35,
+		"rarity": "Uncommon"
+	}
+]
+}

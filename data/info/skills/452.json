@@ -1,0 +1,12 @@
+{
+"id": 452,
+"name": "Wood Hammer",
+"skill_damage_type": "PHYSICAL",
+"base_power": 120,
+"base_accuracy": 100,
+"base_pp": 15,
+"priority": 0,
+"type": "GRASS",
+"target_type": 0,
+"true_damage": false
+}

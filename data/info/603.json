@@ -1,0 +1,423 @@
+{
+"id": 603,
+"name": "Eelektrik",
+"exp_type": "SLOW",
+"obtainable": true,
+"gender_ratio": 127,
+"height": 12,
+"weight": 220,
+"egg_groups": [
+	"chaos"
+],
+"abilities": [
+	{
+		"id": 26,
+		"name": "Levitate"
+	},
+	{
+		"id": 0,
+		"name": "--"
+	},
+	{
+		"id": 0,
+		"name": "--"
+	}
+],
+"forms": [
+	{
+		"form_id": 0,
+		"id": 603,
+		"name": "Eelektrik"
+	}
+],
+"evolutions": [
+	{
+		"id": 604,
+		"name": "Eelektross",
+		"type": "ITEM",
+		"val": 5083,
+		"item_name": "Thunderstone"
+	}
+],
+"moves": [
+	{
+		"id": 29,
+		"name": "Headbutt",
+		"type": "level",
+		"level": 1
+	},
+	{
+		"id": 86,
+		"name": "Thunder Wave",
+		"type": "level",
+		"level": 1
+	},
+	{
+		"id": 209,
+		"name": "Spark",
+		"type": "level",
+		"level": 1
+	},
+	{
+		"id": 451,
+		"name": "Charge Beam",
+		"type": "level",
+		"level": 1
+	},
+	{
+		"id": 20,
+		"name": "Bind",
+		"type": "level",
+		"level": 9
+	},
+	{
+		"id": 51,
+		"name": "Acid",
+		"type": "level",
+		"level": 19
+	},
+	{
+		"id": 435,
+		"name": "Discharge",
+		"type": "level",
+		"level": 29
+	},
+	{
+		"id": 85,
+		"name": "Thunderbolt",
+		"type": "level",
+		"level": 44
+	},
+	{
+		"id": 491,
+		"name": "Acid Spray",
+		"type": "level",
+		"level": 49
+	},
+	{
+		"id": 489,
+		"name": "Coil",
+		"type": "level",
+		"level": 54
+	},
+	{
+		"id": 528,
+		"name": "Wild Charge",
+		"type": "level",
+		"level": 59
+	},
+	{
+		"id": 380,
+		"name": "Gastro Acid",
+		"type": "level",
+		"level": 64
+	},
+	{
+		"id": 192,
+		"name": "Zap Cannon",
+		"type": "level",
+		"level": 69
+	},
+	{
+		"id": 37,
+		"name": "Thrash",
+		"type": "level",
+		"level": 74
+	},
+	{
+		"id": 20,
+		"name": "Bind",
+		"type": "move_tutor"
+	},
+	{
+		"id": 162,
+		"name": "Super Fang",
+		"type": "move_tutor"
+	},
+	{
+		"id": 173,
+		"name": "Snore",
+		"type": "move_tutor"
+	},
+	{
+		"id": 282,
+		"name": "Knock Off",
+		"type": "move_tutor"
+	},
+	{
+		"id": 324,
+		"name": "Signal Beam",
+		"type": "move_tutor"
+	},
+	{
+		"id": 340,
+		"name": "Bounce",
+		"type": "move_tutor"
+	},
+	{
+		"id": 380,
+		"name": "Gastro Acid",
+		"type": "move_tutor"
+	},
+	{
+		"id": 393,
+		"name": "Magnet Rise",
+		"type": "move_tutor"
+	},
+	{
+		"id": 401,
+		"name": "Aqua Tail",
+		"type": "move_tutor"
+	},
+	{
+		"id": 33,
+		"name": "Tackle",
+		"type": "prevo_moves"
+	},
+	{
+		"id": 29,
+		"name": "Headbutt",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 34,
+		"name": "Body Slam",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 36,
+		"name": "Take Down",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 85,
+		"name": "Thunderbolt",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 86,
+		"name": "Thunder Wave",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 87,
+		"name": "Thunder",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 92,
+		"name": "Toxic",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 104,
+		"name": "Double Team",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 113,
+		"name": "Light Screen",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 148,
+		"name": "Flash",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 156,
+		"name": "Rest",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 164,
+		"name": "Substitute",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 182,
+		"name": "Protect",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 184,
+		"name": "Scary Face",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 192,
+		"name": "Zap Cannon",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 202,
+		"name": "Giga Drain",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 203,
+		"name": "Endure",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 207,
+		"name": "Swagger",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 213,
+		"name": "Attract",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 214,
+		"name": "Sleep Talk",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 216,
+		"name": "Return",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 218,
+		"name": "Frustration",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 231,
+		"name": "Iron Tail",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 237,
+		"name": "Hidden Power",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 240,
+		"name": "Rain Dance",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 242,
+		"name": "Crunch",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 263,
+		"name": "Facade",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 290,
+		"name": "Secret Power",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 351,
+		"name": "Shock Wave",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 369,
+		"name": "U-turn",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 422,
+		"name": "Thunder Fang",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 430,
+		"name": "Flash Cannon",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 451,
+		"name": "Charge Beam",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 486,
+		"name": "Electro Ball",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 491,
+		"name": "Acid Spray",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 496,
+		"name": "Round",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 512,
+		"name": "Acrobatics",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 521,
+		"name": "Volt Switch",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 528,
+		"name": "Wild Charge",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 242,
+		"name": "Crunch",
+		"type": "on_evolution"
+	}
+],
+"types": [
+	"ELECTRIC",
+	"ELECTRIC"
+],
+"stats": {
+	"hp": 65,
+	"attack": 85,
+	"defense": 70,
+	"speed": 40,
+	"sp_attack": 75,
+	"sp_defense": 70
+},
+"yields": {
+	"exp": 142,
+	"ev_hp": 0,
+	"ev_attack": 2,
+	"ev_defense": 0,
+	"ev_speed": 0,
+	"ev_sp_attack": 0,
+	"ev_sp_defense": 0
+},
+"tiers": [
+	"Untiered"
+],
+"held_items": [],
+"locations": [
+	{
+		"type": "Water",
+		"region_id": 2,
+		"region_name": "Unova",
+		"location": "Undella Bay",
+		"min_level": 58,
+		"max_level": 58,
+		"rarity": "Lure"
+	},
+	{
+		"type": "Water",
+		"region_id": 2,
+		"region_name": "Unova",
+		"location": "Undella Town",
+		"min_level": 58,
+		"max_level": 58,
+		"rarity": "Lure"
+	}
+]
+}

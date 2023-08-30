@@ -1,0 +1,464 @@
+{
+"id": 45,
+"name": "Vileplume",
+"exp_type": "MEDIUM_SLOW",
+"obtainable": true,
+"gender_ratio": 127,
+"height": 12,
+"weight": 186,
+"egg_groups": [
+	"plant"
+],
+"abilities": [
+	{
+		"id": 34,
+		"name": "Chlorophyll"
+	},
+	{
+		"id": 0,
+		"name": "--"
+	},
+	{
+		"id": 27,
+		"name": "Effect Spore"
+	}
+],
+"forms": [
+	{
+		"form_id": 0,
+		"id": 45,
+		"name": "Vileplume"
+	}
+],
+"evolutions": [],
+"moves": [
+	{
+		"id": 51,
+		"name": "Acid",
+		"type": "level",
+		"level": 1
+	},
+	{
+		"id": 71,
+		"name": "Absorb",
+		"type": "level",
+		"level": 1
+	},
+	{
+		"id": 72,
+		"name": "Mega Drain",
+		"type": "level",
+		"level": 1
+	},
+	{
+		"id": 74,
+		"name": "Growth",
+		"type": "level",
+		"level": 1
+	},
+	{
+		"id": 77,
+		"name": "PoisonPowder",
+		"type": "level",
+		"level": 1
+	},
+	{
+		"id": 78,
+		"name": "Stun Spore",
+		"type": "level",
+		"level": 1
+	},
+	{
+		"id": 79,
+		"name": "Sleep Powder",
+		"type": "level",
+		"level": 1
+	},
+	{
+		"id": 80,
+		"name": "Petal Dance",
+		"type": "level",
+		"level": 1
+	},
+	{
+		"id": 92,
+		"name": "Toxic",
+		"type": "level",
+		"level": 1
+	},
+	{
+		"id": 202,
+		"name": "Giga Drain",
+		"type": "level",
+		"level": 1
+	},
+	{
+		"id": 230,
+		"name": "Sweet Scent",
+		"type": "level",
+		"level": 1
+	},
+	{
+		"id": 236,
+		"name": "Moonlight",
+		"type": "level",
+		"level": 1
+	},
+	{
+		"id": 312,
+		"name": "Aromatherapy",
+		"type": "level",
+		"level": 1
+	},
+	{
+		"id": 76,
+		"name": "SolarBeam",
+		"type": "level",
+		"level": 1
+	},
+	{
+		"id": 79,
+		"name": "Sleep Powder",
+		"type": "level",
+		"level": 19
+	},
+	{
+		"id": 80,
+		"name": "Petal Dance",
+		"type": "level",
+		"level": 54
+	},
+	{
+		"id": 76,
+		"name": "SolarBeam",
+		"type": "level",
+		"level": 69
+	},
+	{
+		"id": 173,
+		"name": "Snore",
+		"type": "move_tutor"
+	},
+	{
+		"id": 235,
+		"name": "Synthesis",
+		"type": "move_tutor"
+	},
+	{
+		"id": 380,
+		"name": "Gastro Acid",
+		"type": "move_tutor"
+	},
+	{
+		"id": 388,
+		"name": "Worry Seed",
+		"type": "move_tutor"
+	},
+	{
+		"id": 495,
+		"name": "After You",
+		"type": "move_tutor"
+	},
+	{
+		"id": 73,
+		"name": "Leech Seed",
+		"type": "special_moves"
+	},
+	{
+		"id": 75,
+		"name": "Razor Leaf",
+		"type": "prevo_moves"
+	},
+	{
+		"id": 363,
+		"name": "Natural Gift",
+		"type": "prevo_moves"
+	},
+	{
+		"id": 381,
+		"name": "Lucky Chant",
+		"type": "prevo_moves"
+	},
+	{
+		"id": 14,
+		"name": "Swords Dance",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 15,
+		"name": "Cut",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 29,
+		"name": "Headbutt",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 34,
+		"name": "Body Slam",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 36,
+		"name": "Take Down",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 38,
+		"name": "Double-Edge",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 63,
+		"name": "Hyper Beam",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 72,
+		"name": "Mega Drain",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 76,
+		"name": "SolarBeam",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 92,
+		"name": "Toxic",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 99,
+		"name": "Rage",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 102,
+		"name": "Mimic",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 104,
+		"name": "Double Team",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 115,
+		"name": "Reflect",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 117,
+		"name": "Bide",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 148,
+		"name": "Flash",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 156,
+		"name": "Rest",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 164,
+		"name": "Substitute",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 174,
+		"name": "Curse",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 182,
+		"name": "Protect",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 188,
+		"name": "Sludge Bomb",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 202,
+		"name": "Giga Drain",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 203,
+		"name": "Endure",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 204,
+		"name": "Charm",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 207,
+		"name": "Swagger",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 213,
+		"name": "Attract",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 214,
+		"name": "Sleep Talk",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 216,
+		"name": "Return",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 218,
+		"name": "Frustration",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 219,
+		"name": "Safeguard",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 230,
+		"name": "Sweet Scent",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 237,
+		"name": "Hidden Power",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 241,
+		"name": "Sunny Day",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 263,
+		"name": "Facade",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 267,
+		"name": "Nature Power",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 290,
+		"name": "Secret Power",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 331,
+		"name": "Bullet Seed",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 363,
+		"name": "Natural Gift",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 374,
+		"name": "Fling",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 402,
+		"name": "Seed Bomb",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 409,
+		"name": "Drain Punch",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 412,
+		"name": "Energy Ball",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 416,
+		"name": "Giga Impact",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 445,
+		"name": "Captivate",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 447,
+		"name": "Grass Knot",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 474,
+		"name": "Venoshock",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 482,
+		"name": "Sludge Wave",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 496,
+		"name": "Round",
+		"type": "move_learner_tools"
+	}
+],
+"types": [
+	"GRASS",
+	"POISON"
+],
+"stats": {
+	"hp": 75,
+	"attack": 80,
+	"defense": 85,
+	"speed": 50,
+	"sp_attack": 110,
+	"sp_defense": 90
+},
+"yields": {
+	"exp": 216,
+	"ev_hp": 0,
+	"ev_attack": 0,
+	"ev_defense": 0,
+	"ev_speed": 0,
+	"ev_sp_attack": 3,
+	"ev_sp_defense": 0
+},
+"tiers": [
+	"Untiered"
+],
+"held_items": [
+	{
+		"id": 5545,
+		"name": "Absorb Bulb"
+	}
+],
+"locations": [
+	{
+		"type": "Grass",
+		"region_id": 0,
+		"region_name": "Kanto",
+		"location": "ROUTE 13",
+		"min_level": 34,
+		"max_level": 34,
+		"rarity": "Lure"
+	}
+]
+}

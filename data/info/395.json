@@ -1,0 +1,616 @@
+{
+"id": 395,
+"name": "Empoleon",
+"exp_type": "MEDIUM_SLOW",
+"obtainable": true,
+"gender_ratio": 31,
+"height": 17,
+"weight": 845,
+"egg_groups": [
+	"water a",
+	"field"
+],
+"abilities": [
+	{
+		"id": 67,
+		"name": "Torrent"
+	},
+	{
+		"id": 0,
+		"name": "--"
+	},
+	{
+		"id": 128,
+		"name": "Defiant"
+	}
+],
+"forms": [
+	{
+		"form_id": 0,
+		"id": 395,
+		"name": "Empoleon"
+	}
+],
+"evolutions": [],
+"moves": [
+	{
+		"id": 33,
+		"name": "Tackle",
+		"type": "level",
+		"level": 1
+	},
+	{
+		"id": 45,
+		"name": "Growl",
+		"type": "level",
+		"level": 1
+	},
+	{
+		"id": 145,
+		"name": "Bubble",
+		"type": "level",
+		"level": 1
+	},
+	{
+		"id": 232,
+		"name": "Metal Claw",
+		"type": "level",
+		"level": 1
+	},
+	{
+		"id": 453,
+		"name": "Aqua Jet",
+		"type": "level",
+		"level": 1
+	},
+	{
+		"id": 45,
+		"name": "Growl",
+		"type": "level",
+		"level": 4
+	},
+	{
+		"id": 145,
+		"name": "Bubble",
+		"type": "level",
+		"level": 8
+	},
+	{
+		"id": 55,
+		"name": "Water Gun",
+		"type": "level",
+		"level": 8
+	},
+	{
+		"id": 14,
+		"name": "Swords Dance",
+		"type": "level",
+		"level": 11
+	},
+	{
+		"id": 332,
+		"name": "Aerial Ace",
+		"type": "level",
+		"level": 11
+	},
+	{
+		"id": 64,
+		"name": "Peck",
+		"type": "level",
+		"level": 15
+	},
+	{
+		"id": 352,
+		"name": "Water Pulse",
+		"type": "level",
+		"level": 18
+	},
+	{
+		"id": 61,
+		"name": "BubbleBeam",
+		"type": "level",
+		"level": 19
+	},
+	{
+		"id": 207,
+		"name": "Swagger",
+		"type": "level",
+		"level": 24
+	},
+	{
+		"id": 355,
+		"name": "Roost",
+		"type": "level",
+		"level": 25
+	},
+	{
+		"id": 31,
+		"name": "Fury Attack",
+		"type": "level",
+		"level": 28
+	},
+	{
+		"id": 362,
+		"name": "Brine",
+		"type": "level",
+		"level": 33
+	},
+	{
+		"id": 453,
+		"name": "Aqua Jet",
+		"type": "level",
+		"level": 36
+	},
+	{
+		"id": 250,
+		"name": "Whirlpool",
+		"type": "level",
+		"level": 39
+	},
+	{
+		"id": 38,
+		"name": "Double-Edge",
+		"type": "level",
+		"level": 43
+	},
+	{
+		"id": 54,
+		"name": "Mist",
+		"type": "level",
+		"level": 46
+	},
+	{
+		"id": 65,
+		"name": "Drill Peck",
+		"type": "level",
+		"level": 52
+	},
+	{
+		"id": 56,
+		"name": "Hydro Pump",
+		"type": "level",
+		"level": 59
+	},
+	{
+		"id": 173,
+		"name": "Snore",
+		"type": "move_tutor"
+	},
+	{
+		"id": 282,
+		"name": "Knock Off",
+		"type": "move_tutor"
+	},
+	{
+		"id": 308,
+		"name": "Hydro Cannon",
+		"type": "move_tutor"
+	},
+	{
+		"id": 324,
+		"name": "Signal Beam",
+		"type": "move_tutor"
+	},
+	{
+		"id": 343,
+		"name": "Covet",
+		"type": "move_tutor"
+	},
+	{
+		"id": 518,
+		"name": "Water Pledge",
+		"type": "move_tutor"
+	},
+	{
+		"id": 47,
+		"name": "Sing",
+		"type": "special_moves"
+	},
+	{
+		"id": 1,
+		"name": "Pound",
+		"type": "prevo_moves"
+	},
+	{
+		"id": 117,
+		"name": "Bide",
+		"type": "prevo_moves"
+	},
+	{
+		"id": 204,
+		"name": "Charm",
+		"type": "prevo_moves"
+	},
+	{
+		"id": 346,
+		"name": "Water Sport",
+		"type": "prevo_moves"
+	},
+	{
+		"id": 14,
+		"name": "Swords Dance",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 15,
+		"name": "Cut",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 29,
+		"name": "Headbutt",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 38,
+		"name": "Double-Edge",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 46,
+		"name": "Roar",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 55,
+		"name": "Water Gun",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 56,
+		"name": "Hydro Pump",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 57,
+		"name": "Surf",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 58,
+		"name": "Ice Beam",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 59,
+		"name": "Blizzard",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 61,
+		"name": "BubbleBeam",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 63,
+		"name": "Hyper Beam",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 70,
+		"name": "Strength",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 89,
+		"name": "Earthquake",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 91,
+		"name": "Dig",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 92,
+		"name": "Toxic",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 97,
+		"name": "Agility",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 104,
+		"name": "Double Team",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 117,
+		"name": "Bide",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 127,
+		"name": "Waterfall",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 156,
+		"name": "Rest",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 157,
+		"name": "Rock Slide",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 164,
+		"name": "Substitute",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 182,
+		"name": "Protect",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 189,
+		"name": "Mud-Slap",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 196,
+		"name": "Icy Wind",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 203,
+		"name": "Endure",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 204,
+		"name": "Charm",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 207,
+		"name": "Swagger",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 210,
+		"name": "Fury Cutter",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 211,
+		"name": "Steel Wing",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 213,
+		"name": "Attract",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 214,
+		"name": "Sleep Talk",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 216,
+		"name": "Return",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 218,
+		"name": "Frustration",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 232,
+		"name": "Metal Claw",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 237,
+		"name": "Hidden Power",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 240,
+		"name": "Rain Dance",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 249,
+		"name": "Rock Smash",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 250,
+		"name": "Whirlpool",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 258,
+		"name": "Snowscape",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 263,
+		"name": "Facade",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 280,
+		"name": "Brick Break",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 290,
+		"name": "Secret Power",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 291,
+		"name": "Dive",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 317,
+		"name": "Rock Tomb",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 332,
+		"name": "Aerial Ace",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 334,
+		"name": "Iron Defense",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 352,
+		"name": "Water Pulse",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 355,
+		"name": "Roost",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 362,
+		"name": "Brine",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 363,
+		"name": "Natural Gift",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 365,
+		"name": "Pluck",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 374,
+		"name": "Fling",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 416,
+		"name": "Giga Impact",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 419,
+		"name": "Avalanche",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 421,
+		"name": "Shadow Claw",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 430,
+		"name": "Flash Cannon",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 431,
+		"name": "Rock Climb",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 432,
+		"name": "Defog",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 445,
+		"name": "Captivate",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 446,
+		"name": "Stealth Rock",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 447,
+		"name": "Grass Knot",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 468,
+		"name": "Hone Claws",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 496,
+		"name": "Round",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 497,
+		"name": "Echoed Voice",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 503,
+		"name": "Scald",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 511,
+		"name": "Quash",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 523,
+		"name": "Bulldoze",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 526,
+		"name": "Work Up",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 430,
+		"name": "Flash Cannon",
+		"type": "on_evolution"
+	},
+	{
+		"id": 453,
+		"name": "Aqua Jet",
+		"type": "on_evolution"
+	}
+],
+"types": [
+	"WATER",
+	"STEEL"
+],
+"stats": {
+	"hp": 84,
+	"attack": 86,
+	"defense": 88,
+	"speed": 60,
+	"sp_attack": 111,
+	"sp_defense": 101
+},
+"yields": {
+	"exp": 239,
+	"ev_hp": 0,
+	"ev_attack": 0,
+	"ev_defense": 0,
+	"ev_speed": 0,
+	"ev_sp_attack": 3,
+	"ev_sp_defense": 0
+},
+"tiers": [
+	"Under Used"
+],
+"held_items": [],
+"locations": []
+}

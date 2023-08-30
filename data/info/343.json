@@ -1,0 +1,563 @@
+{
+"id": 343,
+"name": "Baltoy",
+"exp_type": "MEDIUM_FAST",
+"obtainable": true,
+"gender_ratio": 255,
+"height": 5,
+"weight": 215,
+"egg_groups": [
+	"genderless"
+],
+"abilities": [
+	{
+		"id": 26,
+		"name": "Levitate"
+	},
+	{
+		"id": 0,
+		"name": "--"
+	},
+	{
+		"id": 0,
+		"name": "--"
+	}
+],
+"forms": [
+	{
+		"form_id": 0,
+		"id": 343,
+		"name": "Baltoy"
+	}
+],
+"evolutions": [
+	{
+		"id": 344,
+		"name": "Claydol",
+		"type": "LEVEL",
+		"val": 36
+	}
+],
+"moves": [
+	{
+		"id": 93,
+		"name": "Confusion",
+		"type": "level",
+		"level": 1
+	},
+	{
+		"id": 106,
+		"name": "Harden",
+		"type": "level",
+		"level": 1
+	},
+	{
+		"id": 189,
+		"name": "Mud-Slap",
+		"type": "level",
+		"level": 1
+	},
+	{
+		"id": 229,
+		"name": "Rapid Spin",
+		"type": "level",
+		"level": 3
+	},
+	{
+		"id": 93,
+		"name": "Confusion",
+		"type": "level",
+		"level": 6
+	},
+	{
+		"id": 189,
+		"name": "Mud-Slap",
+		"type": "level",
+		"level": 7
+	},
+	{
+		"id": 317,
+		"name": "Rock Tomb",
+		"type": "level",
+		"level": 9
+	},
+	{
+		"id": 377,
+		"name": "Heal Block",
+		"type": "level",
+		"level": 10
+	},
+	{
+		"id": 379,
+		"name": "Power Trick",
+		"type": "level",
+		"level": 12
+	},
+	{
+		"id": 60,
+		"name": "Psybeam",
+		"type": "level",
+		"level": 15
+	},
+	{
+		"id": 246,
+		"name": "AncientPower",
+		"type": "level",
+		"level": 18
+	},
+	{
+		"id": 286,
+		"name": "Imprison",
+		"type": "level",
+		"level": 21
+	},
+	{
+		"id": 322,
+		"name": "Cosmic Power",
+		"type": "level",
+		"level": 24
+	},
+	{
+		"id": 326,
+		"name": "Extrasensory",
+		"type": "level",
+		"level": 27
+	},
+	{
+		"id": 414,
+		"name": "Earth Power",
+		"type": "level",
+		"level": 30
+	},
+	{
+		"id": 120,
+		"name": "Selfdestruct",
+		"type": "level",
+		"level": 33
+	},
+	{
+		"id": 470,
+		"name": "Guard Split",
+		"type": "level",
+		"level": 36
+	},
+	{
+		"id": 471,
+		"name": "Power Split",
+		"type": "level",
+		"level": 36
+	},
+	{
+		"id": 201,
+		"name": "Sandstorm",
+		"type": "level",
+		"level": 39
+	},
+	{
+		"id": 153,
+		"name": "Explosion",
+		"type": "level",
+		"level": 42
+	},
+	{
+		"id": 173,
+		"name": "Snore",
+		"type": "move_tutor"
+	},
+	{
+		"id": 246,
+		"name": "AncientPower",
+		"type": "move_tutor"
+	},
+	{
+		"id": 277,
+		"name": "Magic Coat",
+		"type": "move_tutor"
+	},
+	{
+		"id": 324,
+		"name": "Signal Beam",
+		"type": "move_tutor"
+	},
+	{
+		"id": 356,
+		"name": "Gravity",
+		"type": "move_tutor"
+	},
+	{
+		"id": 472,
+		"name": "Wonder Room",
+		"type": "move_tutor"
+	},
+	{
+		"id": 287,
+		"name": "Refresh",
+		"type": "special_moves"
+	},
+	{
+		"id": 29,
+		"name": "Headbutt",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 38,
+		"name": "Double-Edge",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 58,
+		"name": "Ice Beam",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 60,
+		"name": "Psybeam",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 76,
+		"name": "SolarBeam",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 89,
+		"name": "Earthquake",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 91,
+		"name": "Dig",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 92,
+		"name": "Toxic",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 94,
+		"name": "Psychic",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 102,
+		"name": "Mimic",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 104,
+		"name": "Double Team",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 113,
+		"name": "Light Screen",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 115,
+		"name": "Reflect",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 120,
+		"name": "Selfdestruct",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 138,
+		"name": "Dream Eater",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 148,
+		"name": "Flash",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 153,
+		"name": "Explosion",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 156,
+		"name": "Rest",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 157,
+		"name": "Rock Slide",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 164,
+		"name": "Substitute",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 182,
+		"name": "Protect",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 189,
+		"name": "Mud-Slap",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 201,
+		"name": "Sandstorm",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 203,
+		"name": "Endure",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 207,
+		"name": "Swagger",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 214,
+		"name": "Sleep Talk",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 216,
+		"name": "Return",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 218,
+		"name": "Frustration",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 219,
+		"name": "Safeguard",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 237,
+		"name": "Hidden Power",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 240,
+		"name": "Rain Dance",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 241,
+		"name": "Sunny Day",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 244,
+		"name": "Psych Up",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 247,
+		"name": "Shadow Ball",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 263,
+		"name": "Facade",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 271,
+		"name": "Trick",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 278,
+		"name": "Recycle",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 285,
+		"name": "Skill Swap",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 286,
+		"name": "Imprison",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 290,
+		"name": "Secret Power",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 317,
+		"name": "Rock Tomb",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 322,
+		"name": "Cosmic Power",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 328,
+		"name": "Sand Tomb",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 347,
+		"name": "Calm Mind",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 360,
+		"name": "Gyro Ball",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 363,
+		"name": "Natural Gift",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 384,
+		"name": "Power Swap",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 385,
+		"name": "Guard Swap",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 397,
+		"name": "Rock Polish",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 414,
+		"name": "Earth Power",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 428,
+		"name": "Zen Headbutt",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 433,
+		"name": "Trick Room",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 446,
+		"name": "Stealth Rock",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 447,
+		"name": "Grass Knot",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 451,
+		"name": "Charge Beam",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 473,
+		"name": "Psyshock",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 477,
+		"name": "Telekinesis",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 479,
+		"name": "Smack Down",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 496,
+		"name": "Round",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 502,
+		"name": "Ally Switch",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 506,
+		"name": "Hex",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 523,
+		"name": "Bulldoze",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 529,
+		"name": "Drill Run",
+		"type": "move_learner_tools"
+	}
+],
+"types": [
+	"GROUND",
+	"PSYCHIC"
+],
+"stats": {
+	"hp": 40,
+	"attack": 40,
+	"defense": 55,
+	"speed": 55,
+	"sp_attack": 40,
+	"sp_defense": 70
+},
+"yields": {
+	"exp": 60,
+	"ev_hp": 0,
+	"ev_attack": 0,
+	"ev_defense": 0,
+	"ev_speed": 0,
+	"ev_sp_attack": 0,
+	"ev_sp_defense": 1
+},
+"tiers": [
+	"Untiered"
+],
+"held_items": [
+	{
+		"id": 5269,
+		"name": "Light Clay"
+	}
+],
+"locations": [
+	{
+		"type": "Cave",
+		"region_id": 1,
+		"region_name": "Hoenn",
+		"location": "MIRAGE TOWER",
+		"min_level": 21,
+		"max_level": 23,
+		"rarity": "Common"
+	},
+	{
+		"type": "Grass",
+		"region_id": 1,
+		"region_name": "Hoenn",
+		"location": "ROUTE 111",
+		"min_level": 21,
+		"max_level": 23,
+		"rarity": "Common"
+	}
+]
+}

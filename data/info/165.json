@@ -1,0 +1,619 @@
+{
+"id": 165,
+"name": "Ledyba",
+"exp_type": "FAST",
+"obtainable": true,
+"gender_ratio": 127,
+"height": 10,
+"weight": 108,
+"egg_groups": [
+	"bug"
+],
+"abilities": [
+	{
+		"id": 68,
+		"name": "Swarm"
+	},
+	{
+		"id": 48,
+		"name": "Early Bird"
+	},
+	{
+		"id": 155,
+		"name": "Rattled"
+	}
+],
+"forms": [
+	{
+		"form_id": 0,
+		"id": 165,
+		"name": "Ledyba"
+	}
+],
+"evolutions": [
+	{
+		"id": 166,
+		"name": "Ledian",
+		"type": "LEVEL",
+		"val": 18
+	}
+],
+"moves": [
+	{
+		"id": 33,
+		"name": "Tackle",
+		"type": "level",
+		"level": 1
+	},
+	{
+		"id": 48,
+		"name": "Supersonic",
+		"type": "level",
+		"level": 5
+	},
+	{
+		"id": 129,
+		"name": "Swift",
+		"type": "level",
+		"level": 8
+	},
+	{
+		"id": 113,
+		"name": "Light Screen",
+		"type": "level",
+		"level": 12
+	},
+	{
+		"id": 115,
+		"name": "Reflect",
+		"type": "level",
+		"level": 12
+	},
+	{
+		"id": 219,
+		"name": "Safeguard",
+		"type": "level",
+		"level": 12
+	},
+	{
+		"id": 183,
+		"name": "Mach Punch",
+		"type": "level",
+		"level": 15
+	},
+	{
+		"id": 318,
+		"name": "Silver Wind",
+		"type": "level",
+		"level": 19
+	},
+	{
+		"id": 355,
+		"name": "Roost",
+		"type": "level",
+		"level": 19
+	},
+	{
+		"id": 4,
+		"name": "Comet Punch",
+		"type": "level",
+		"level": 22
+	},
+	{
+		"id": 522,
+		"name": "Struggle Bug",
+		"type": "level",
+		"level": 22
+	},
+	{
+		"id": 226,
+		"name": "Baton Pass",
+		"type": "level",
+		"level": 26
+	},
+	{
+		"id": 97,
+		"name": "Agility",
+		"type": "level",
+		"level": 29
+	},
+	{
+		"id": 405,
+		"name": "Bug Buzz",
+		"type": "level",
+		"level": 33
+	},
+	{
+		"id": 403,
+		"name": "Air Slash",
+		"type": "level",
+		"level": 36
+	},
+	{
+		"id": 38,
+		"name": "Double-Edge",
+		"type": "level",
+		"level": 40
+	},
+	{
+		"id": 146,
+		"name": "Dizzy Punch",
+		"type": "egg_moves"
+	},
+	{
+		"id": 81,
+		"name": "String Shot",
+		"type": "move_tutor"
+	},
+	{
+		"id": 173,
+		"name": "Snore",
+		"type": "move_tutor"
+	},
+	{
+		"id": 253,
+		"name": "Uproar",
+		"type": "move_tutor"
+	},
+	{
+		"id": 282,
+		"name": "Knock Off",
+		"type": "move_tutor"
+	},
+	{
+		"id": 450,
+		"name": "Bug Bite",
+		"type": "move_tutor"
+	},
+	{
+		"id": 466,
+		"name": "Ominous Wind",
+		"type": "move_tutor"
+	},
+	{
+		"id": 112,
+		"name": "Barrier",
+		"type": "special_moves"
+	},
+	{
+		"id": 287,
+		"name": "Refresh",
+		"type": "special_moves"
+	},
+	{
+		"id": 5,
+		"name": "Mega Punch",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 8,
+		"name": "Ice Punch",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 9,
+		"name": "ThunderPunch",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 14,
+		"name": "Swords Dance",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 25,
+		"name": "Mega Kick",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 29,
+		"name": "Headbutt",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 38,
+		"name": "Double-Edge",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 60,
+		"name": "Psybeam",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 68,
+		"name": "Counter",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 76,
+		"name": "SolarBeam",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 91,
+		"name": "Dig",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 92,
+		"name": "Toxic",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 97,
+		"name": "Agility",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 102,
+		"name": "Mimic",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 103,
+		"name": "Screech",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 104,
+		"name": "Double Team",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 113,
+		"name": "Light Screen",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 115,
+		"name": "Reflect",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 117,
+		"name": "Bide",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 129,
+		"name": "Swift",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 148,
+		"name": "Flash",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 156,
+		"name": "Rest",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 164,
+		"name": "Substitute",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 168,
+		"name": "Thief",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 174,
+		"name": "Curse",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 182,
+		"name": "Protect",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 202,
+		"name": "Giga Drain",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 203,
+		"name": "Endure",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 205,
+		"name": "Rollout",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 207,
+		"name": "Swagger",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 213,
+		"name": "Attract",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 214,
+		"name": "Sleep Talk",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 216,
+		"name": "Return",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 218,
+		"name": "Frustration",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 219,
+		"name": "Safeguard",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 223,
+		"name": "DynamicPunch",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 226,
+		"name": "Baton Pass",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 227,
+		"name": "Encore",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 230,
+		"name": "Sweet Scent",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 237,
+		"name": "Hidden Power",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 241,
+		"name": "Sunny Day",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 263,
+		"name": "Facade",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 264,
+		"name": "Focus Punch",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 280,
+		"name": "Brick Break",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 290,
+		"name": "Secret Power",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 314,
+		"name": "Air Cutter",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 318,
+		"name": "Silver Wind",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 332,
+		"name": "Aerial Ace",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 355,
+		"name": "Roost",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 363,
+		"name": "Natural Gift",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 366,
+		"name": "Tailwind",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 369,
+		"name": "U-turn",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 374,
+		"name": "Fling",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 403,
+		"name": "Air Slash",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 405,
+		"name": "Bug Buzz",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 409,
+		"name": "Drain Punch",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 445,
+		"name": "Captivate",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 496,
+		"name": "Round",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 512,
+		"name": "Acrobatics",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 522,
+		"name": "Struggle Bug",
+		"type": "move_learner_tools"
+	}
+],
+"types": [
+	"BUG",
+	"FLYING"
+],
+"stats": {
+	"hp": 40,
+	"attack": 20,
+	"defense": 30,
+	"speed": 55,
+	"sp_attack": 40,
+	"sp_defense": 80
+},
+"yields": {
+	"exp": 53,
+	"ev_hp": 0,
+	"ev_attack": 0,
+	"ev_defense": 0,
+	"ev_speed": 0,
+	"ev_sp_attack": 0,
+	"ev_sp_defense": 1
+},
+"tiers": [
+	"Untiered"
+],
+"held_items": [],
+"locations": [
+	{
+		"type": "Grass",
+		"region_id": 0,
+		"region_name": "Kanto",
+		"location": "PATTERN BUSH (Day/Morning)",
+		"min_level": 50,
+		"max_level": 52,
+		"rarity": "Uncommon"
+	},
+	{
+		"type": "Grass",
+		"region_id": 0,
+		"region_name": "Kanto",
+		"location": "VIRIDIAN FOREST (Morning)",
+		"min_level": 5,
+		"max_level": 7,
+		"rarity": "Uncommon"
+	},
+	{
+		"type": "Grass",
+		"region_id": 1,
+		"region_name": "Hoenn",
+		"location": "SAFARI ZONE",
+		"min_level": 35,
+		"max_level": 37,
+		"rarity": "Rare"
+	},
+	{
+		"type": "Grass",
+		"region_id": 4,
+		"region_name": "Johto",
+		"location": "National Park (Morning)",
+		"min_level": 12,
+		"max_level": 14,
+		"rarity": "Horde"
+	},
+	{
+		"type": "Grass",
+		"region_id": 4,
+		"region_name": "Johto",
+		"location": "National Park (Morning)",
+		"min_level": 16,
+		"max_level": 18,
+		"rarity": "Uncommon"
+	},
+	{
+		"type": "Grass",
+		"region_id": 4,
+		"region_name": "Johto",
+		"location": "Route 30 (Day/Morning)",
+		"min_level": 3,
+		"max_level": 4,
+		"rarity": "Uncommon"
+	},
+	{
+		"type": "Grass",
+		"region_id": 4,
+		"region_name": "Johto",
+		"location": "Route 31 (Morning)",
+		"min_level": 4,
+		"max_level": 7,
+		"rarity": "Uncommon"
+	},
+	{
+		"type": "Grass",
+		"region_id": 4,
+		"region_name": "Johto",
+		"location": "Route 36 (Morning/SEASON0)",
+		"min_level": 16,
+		"max_level": 18,
+		"rarity": "Uncommon"
+	},
+	{
+		"type": "Grass",
+		"region_id": 4,
+		"region_name": "Johto",
+		"location": "Route 36 (Morning/SEASON1)",
+		"min_level": 16,
+		"max_level": 18,
+		"rarity": "Uncommon"
+	},
+	{
+		"type": "Grass",
+		"region_id": 4,
+		"region_name": "Johto",
+		"location": "Route 36 (Morning/SEASON2)",
+		"min_level": 16,
+		"max_level": 18,
+		"rarity": "Uncommon"
+	},
+	{
+		"type": "Grass",
+		"region_id": 4,
+		"region_name": "Johto",
+		"location": "Route 36 (Morning/SEASON3)",
+		"min_level": 16,
+		"max_level": 18,
+		"rarity": "Uncommon"
+	},
+	{
+		"type": "Grass",
+		"region_id": 4,
+		"region_name": "Johto",
+		"location": "Route 37 (Morning)",
+		"min_level": 17,
+		"max_level": 19,
+		"rarity": "Uncommon"
+	}
+]
+}

@@ -1,0 +1,12 @@
+{
+"id": 224,
+"name": "Megahorn",
+"skill_damage_type": "PHYSICAL",
+"base_power": 120,
+"base_accuracy": 85,
+"base_pp": 10,
+"priority": 0,
+"type": "BUG",
+"target_type": 0,
+"true_damage": false
+}

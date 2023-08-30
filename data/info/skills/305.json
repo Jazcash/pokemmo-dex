@@ -1,0 +1,12 @@
+{
+"id": 305,
+"name": "Poison Fang",
+"skill_damage_type": "PHYSICAL",
+"base_power": 50,
+"base_accuracy": 100,
+"base_pp": 15,
+"priority": 0,
+"type": "POISON",
+"target_type": 0,
+"true_damage": false
+}

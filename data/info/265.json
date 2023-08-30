@@ -1,0 +1,222 @@
+{
+"id": 265,
+"name": "Wurmple",
+"exp_type": "MEDIUM_FAST",
+"obtainable": true,
+"gender_ratio": 127,
+"height": 3,
+"weight": 36,
+"egg_groups": [
+	"bug"
+],
+"abilities": [
+	{
+		"id": 19,
+		"name": "Shield Dust"
+	},
+	{
+		"id": 0,
+		"name": "--"
+	},
+	{
+		"id": 50,
+		"name": "Run Away"
+	}
+],
+"forms": [
+	{
+		"form_id": 0,
+		"id": 265,
+		"name": "Wurmple"
+	}
+],
+"evolutions": [
+	{
+		"id": 266,
+		"name": "Silcoon",
+		"type": "PERSONALITY_HIGH",
+		"val": 7
+	},
+	{
+		"id": 268,
+		"name": "Cascoon",
+		"type": "PERSONALITY_LOW",
+		"val": 7
+	}
+],
+"moves": [
+	{
+		"id": 33,
+		"name": "Tackle",
+		"type": "level",
+		"level": 1
+	},
+	{
+		"id": 81,
+		"name": "String Shot",
+		"type": "level",
+		"level": 1
+	},
+	{
+		"id": 40,
+		"name": "Poison Sting",
+		"type": "level",
+		"level": 1
+	},
+	{
+		"id": 40,
+		"name": "Poison Sting",
+		"type": "level",
+		"level": 5
+	},
+	{
+		"id": 33,
+		"name": "Tackle",
+		"type": "level",
+		"level": 6
+	},
+	{
+		"id": 450,
+		"name": "Bug Bite",
+		"type": "level",
+		"level": 15
+	},
+	{
+		"id": 81,
+		"name": "String Shot",
+		"type": "move_tutor"
+	},
+	{
+		"id": 173,
+		"name": "Snore",
+		"type": "move_tutor"
+	},
+	{
+		"id": 450,
+		"name": "Bug Bite",
+		"type": "move_tutor"
+	},
+	{
+		"id": 527,
+		"name": "Electroweb",
+		"type": "move_tutor"
+	}
+],
+"types": [
+	"BUG",
+	"BUG"
+],
+"stats": {
+	"hp": 45,
+	"attack": 45,
+	"defense": 35,
+	"speed": 20,
+	"sp_attack": 20,
+	"sp_defense": 30
+},
+"yields": {
+	"exp": 39,
+	"ev_hp": 1,
+	"ev_attack": 0,
+	"ev_defense": 0,
+	"ev_speed": 0,
+	"ev_sp_attack": 0,
+	"ev_sp_defense": 0
+},
+"tiers": [
+	"Untiered"
+],
+"held_items": [
+	{
+		"id": 5151,
+		"name": "Pecha Berry"
+	},
+	{
+		"id": 5213,
+		"name": "BrightPowder"
+	}
+],
+"locations": [
+	{
+		"type": "Grass",
+		"region_id": 1,
+		"region_name": "Hoenn",
+		"location": "PETALBURG WOODS",
+		"min_level": 5,
+		"max_level": 6,
+		"rarity": "Common"
+	},
+	{
+		"type": "Grass",
+		"region_id": 1,
+		"region_name": "Hoenn",
+		"location": "ROUTE 101",
+		"min_level": 2,
+		"max_level": 3,
+		"rarity": "Very Common"
+	},
+	{
+		"type": "Grass",
+		"region_id": 1,
+		"region_name": "Hoenn",
+		"location": "ROUTE 102",
+		"min_level": 3,
+		"max_level": 4,
+		"rarity": "Very Common"
+	},
+	{
+		"type": "Grass",
+		"region_id": 1,
+		"region_name": "Hoenn",
+		"location": "ROUTE 104",
+		"min_level": 4,
+		"max_level": 5,
+		"rarity": "Common"
+	},
+	{
+		"type": "Grass",
+		"region_id": 3,
+		"region_name": "Sinnoh",
+		"location": "Eterna Forest",
+		"min_level": 10,
+		"max_level": 11,
+		"rarity": "Uncommon"
+	},
+	{
+		"type": "Honey Tree",
+		"region_id": 3,
+		"region_name": "Sinnoh",
+		"location": "Honey Tree",
+		"min_level": 15,
+		"max_level": 20,
+		"rarity": "Common"
+	},
+	{
+		"type": "Grass",
+		"region_id": 3,
+		"region_name": "Sinnoh",
+		"location": "Route 204 (Day/Morning)",
+		"min_level": 4,
+		"max_level": 9,
+		"rarity": "Uncommon"
+	},
+	{
+		"type": "Grass",
+		"region_id": 3,
+		"region_name": "Sinnoh",
+		"location": "Route 204 (Day/Morning)",
+		"min_level": 7,
+		"max_level": 8,
+		"rarity": "Horde"
+	},
+	{
+		"type": "Grass",
+		"region_id": 3,
+		"region_name": "Sinnoh",
+		"location": "Route 205 (Day/Morning)",
+		"min_level": 13,
+		"max_level": 13,
+		"rarity": "Rare"
+	}
+]
+}

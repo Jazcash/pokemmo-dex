@@ -1,0 +1,12 @@
+{
+"id": 345,
+"name": "Magical Leaf",
+"skill_damage_type": "SPECIAL",
+"base_power": 60,
+"base_accuracy": 101,
+"base_pp": 20,
+"priority": 0,
+"type": "GRASS",
+"target_type": 0,
+"true_damage": false
+}

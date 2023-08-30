@@ -1,0 +1,537 @@
+{
+"id": 270,
+"name": "Lotad",
+"exp_type": "MEDIUM_SLOW",
+"obtainable": true,
+"gender_ratio": 127,
+"height": 5,
+"weight": 26,
+"egg_groups": [
+	"water a",
+	"plant"
+],
+"abilities": [
+	{
+		"id": 33,
+		"name": "Swift Swim"
+	},
+	{
+		"id": 44,
+		"name": "Rain Dish"
+	},
+	{
+		"id": 20,
+		"name": "Own Tempo"
+	}
+],
+"forms": [
+	{
+		"form_id": 0,
+		"id": 270,
+		"name": "Lotad"
+	}
+],
+"evolutions": [
+	{
+		"id": 271,
+		"name": "Lombre",
+		"type": "LEVEL",
+		"val": 14
+	}
+],
+"moves": [
+	{
+		"id": 45,
+		"name": "Growl",
+		"type": "level",
+		"level": 1
+	},
+	{
+		"id": 310,
+		"name": "Astonish",
+		"type": "level",
+		"level": 1
+	},
+	{
+		"id": 45,
+		"name": "Growl",
+		"type": "level",
+		"level": 3
+	},
+	{
+		"id": 71,
+		"name": "Absorb",
+		"type": "level",
+		"level": 3
+	},
+	{
+		"id": 55,
+		"name": "Water Gun",
+		"type": "level",
+		"level": 6
+	},
+	{
+		"id": 54,
+		"name": "Mist",
+		"type": "level",
+		"level": 9
+	},
+	{
+		"id": 145,
+		"name": "Bubble",
+		"type": "level",
+		"level": 9
+	},
+	{
+		"id": 72,
+		"name": "Mega Drain",
+		"type": "level",
+		"level": 12
+	},
+	{
+		"id": 363,
+		"name": "Natural Gift",
+		"type": "level",
+		"level": 12
+	},
+	{
+		"id": 175,
+		"name": "Flail",
+		"type": "level",
+		"level": 16
+	},
+	{
+		"id": 61,
+		"name": "BubbleBeam",
+		"type": "level",
+		"level": 20
+	},
+	{
+		"id": 267,
+		"name": "Nature Power",
+		"type": "level",
+		"level": 24
+	},
+	{
+		"id": 202,
+		"name": "Giga Drain",
+		"type": "level",
+		"level": 28
+	},
+	{
+		"id": 240,
+		"name": "Rain Dance",
+		"type": "level",
+		"level": 33
+	},
+	{
+		"id": 428,
+		"name": "Zen Headbutt",
+		"type": "level",
+		"level": 38
+	},
+	{
+		"id": 412,
+		"name": "Energy Ball",
+		"type": "level",
+		"level": 43
+	},
+	{
+		"id": 73,
+		"name": "Leech Seed",
+		"type": "egg_moves"
+	},
+	{
+		"id": 75,
+		"name": "Razor Leaf",
+		"type": "egg_moves"
+	},
+	{
+		"id": 298,
+		"name": "Teeter Dance",
+		"type": "egg_moves"
+	},
+	{
+		"id": 321,
+		"name": "Tickle",
+		"type": "egg_moves"
+	},
+	{
+		"id": 173,
+		"name": "Snore",
+		"type": "move_tutor"
+	},
+	{
+		"id": 235,
+		"name": "Synthesis",
+		"type": "move_tutor"
+	},
+	{
+		"id": 253,
+		"name": "Uproar",
+		"type": "move_tutor"
+	},
+	{
+		"id": 14,
+		"name": "Swords Dance",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 29,
+		"name": "Headbutt",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 34,
+		"name": "Body Slam",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 38,
+		"name": "Double-Edge",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 55,
+		"name": "Water Gun",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 57,
+		"name": "Surf",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 58,
+		"name": "Ice Beam",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 59,
+		"name": "Blizzard",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 61,
+		"name": "BubbleBeam",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 68,
+		"name": "Counter",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 72,
+		"name": "Mega Drain",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 76,
+		"name": "SolarBeam",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 92,
+		"name": "Toxic",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 102,
+		"name": "Mimic",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 104,
+		"name": "Double Team",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 148,
+		"name": "Flash",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 156,
+		"name": "Rest",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 164,
+		"name": "Substitute",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 168,
+		"name": "Thief",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 182,
+		"name": "Protect",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 196,
+		"name": "Icy Wind",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 202,
+		"name": "Giga Drain",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 203,
+		"name": "Endure",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 207,
+		"name": "Swagger",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 213,
+		"name": "Attract",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 214,
+		"name": "Sleep Talk",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 216,
+		"name": "Return",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 218,
+		"name": "Frustration",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 230,
+		"name": "Sweet Scent",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 237,
+		"name": "Hidden Power",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 240,
+		"name": "Rain Dance",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 241,
+		"name": "Sunny Day",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 250,
+		"name": "Whirlpool",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 258,
+		"name": "Snowscape",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 263,
+		"name": "Facade",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 267,
+		"name": "Nature Power",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 290,
+		"name": "Secret Power",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 331,
+		"name": "Bullet Seed",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 352,
+		"name": "Water Pulse",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 363,
+		"name": "Natural Gift",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 402,
+		"name": "Seed Bomb",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 412,
+		"name": "Energy Ball",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 428,
+		"name": "Zen Headbutt",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 445,
+		"name": "Captivate",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 447,
+		"name": "Grass Knot",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 496,
+		"name": "Round",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 497,
+		"name": "Echoed Voice",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 503,
+		"name": "Scald",
+		"type": "move_learner_tools"
+	}
+],
+"types": [
+	"WATER",
+	"GRASS"
+],
+"stats": {
+	"hp": 40,
+	"attack": 30,
+	"defense": 30,
+	"speed": 30,
+	"sp_attack": 40,
+	"sp_defense": 50
+},
+"yields": {
+	"exp": 44,
+	"ev_hp": 0,
+	"ev_attack": 0,
+	"ev_defense": 0,
+	"ev_speed": 0,
+	"ev_sp_attack": 0,
+	"ev_sp_defense": 1
+},
+"tiers": [
+	"Untiered"
+],
+"held_items": [
+	{
+		"id": 5219,
+		"name": "Mental Herb"
+	}
+],
+"locations": [
+	{
+		"type": "Water",
+		"region_id": 1,
+		"region_name": "Hoenn",
+		"location": "PETALBURG CITY",
+		"min_level": 20,
+		"max_level": 30,
+		"rarity": "Uncommon"
+	},
+	{
+		"type": "Grass",
+		"region_id": 1,
+		"region_name": "Hoenn",
+		"location": "ROUTE 102",
+		"min_level": 3,
+		"max_level": 4,
+		"rarity": "Uncommon"
+	},
+	{
+		"type": "Water",
+		"region_id": 1,
+		"region_name": "Hoenn",
+		"location": "ROUTE 102",
+		"min_level": 20,
+		"max_level": 30,
+		"rarity": "Uncommon"
+	},
+	{
+		"type": "Water",
+		"region_id": 1,
+		"region_name": "Hoenn",
+		"location": "ROUTE 111",
+		"min_level": 20,
+		"max_level": 30,
+		"rarity": "Uncommon"
+	},
+	{
+		"type": "Grass",
+		"region_id": 1,
+		"region_name": "Hoenn",
+		"location": "ROUTE 114",
+		"min_level": 16,
+		"max_level": 19,
+		"rarity": "Common"
+	},
+	{
+		"type": "Grass",
+		"region_id": 1,
+		"region_name": "Hoenn",
+		"location": "ROUTE 114 (Night/Morning)",
+		"min_level": 15,
+		"max_level": 17,
+		"rarity": "Horde"
+	},
+	{
+		"type": "Water",
+		"region_id": 1,
+		"region_name": "Hoenn",
+		"location": "ROUTE 114",
+		"min_level": 20,
+		"max_level": 30,
+		"rarity": "Uncommon"
+	},
+	{
+		"type": "Water",
+		"region_id": 1,
+		"region_name": "Hoenn",
+		"location": "ROUTE 117",
+		"min_level": 20,
+		"max_level": 30,
+		"rarity": "Common"
+	},
+	{
+		"type": "Water",
+		"region_id": 1,
+		"region_name": "Hoenn",
+		"location": "ROUTE 120",
+		"min_level": 25,
+		"max_level": 30,
+		"rarity": "Uncommon"
+	},
+	{
+		"type": "Water",
+		"region_id": 1,
+		"region_name": "Hoenn",
+		"location": "ROUTE 123",
+		"min_level": 25,
+		"max_level": 30,
+		"rarity": "Uncommon"
+	}
+]
+}

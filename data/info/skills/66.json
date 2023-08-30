@@ -1,0 +1,12 @@
+{
+"id": 66,
+"name": "Submission",
+"skill_damage_type": "PHYSICAL",
+"base_power": 80,
+"base_accuracy": 80,
+"base_pp": 20,
+"priority": 0,
+"type": "FIGHTING",
+"target_type": 0,
+"true_damage": false
+}

@@ -1,0 +1,12 @@
+{
+"id": 186,
+"name": "Sweet Kiss",
+"skill_damage_type": "STATUS",
+"base_power": 0,
+"base_accuracy": 75,
+"base_pp": 10,
+"priority": 0,
+"type": "NORMAL",
+"target_type": 0,
+"true_damage": false
+}

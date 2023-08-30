@@ -1,0 +1,664 @@
+{
+"id": 91,
+"name": "Cloyster",
+"exp_type": "SLOW",
+"obtainable": true,
+"gender_ratio": 127,
+"height": 15,
+"weight": 1325,
+"egg_groups": [
+	"water c"
+],
+"abilities": [
+	{
+		"id": 75,
+		"name": "Shell Armor"
+	},
+	{
+		"id": 92,
+		"name": "Skill Link"
+	},
+	{
+		"id": 142,
+		"name": "Overcoat"
+	}
+],
+"forms": [
+	{
+		"form_id": 0,
+		"id": 91,
+		"name": "Cloyster"
+	}
+],
+"evolutions": [],
+"moves": [
+	{
+		"id": 33,
+		"name": "Tackle",
+		"type": "level",
+		"level": 1
+	},
+	{
+		"id": 43,
+		"name": "Leer",
+		"type": "level",
+		"level": 1
+	},
+	{
+		"id": 48,
+		"name": "Supersonic",
+		"type": "level",
+		"level": 1
+	},
+	{
+		"id": 55,
+		"name": "Water Gun",
+		"type": "level",
+		"level": 1
+	},
+	{
+		"id": 56,
+		"name": "Hydro Pump",
+		"type": "level",
+		"level": 1
+	},
+	{
+		"id": 58,
+		"name": "Ice Beam",
+		"type": "level",
+		"level": 1
+	},
+	{
+		"id": 62,
+		"name": "Aurora Beam",
+		"type": "level",
+		"level": 1
+	},
+	{
+		"id": 110,
+		"name": "Withdraw",
+		"type": "level",
+		"level": 1
+	},
+	{
+		"id": 128,
+		"name": "Clamp",
+		"type": "level",
+		"level": 1
+	},
+	{
+		"id": 182,
+		"name": "Protect",
+		"type": "level",
+		"level": 1
+	},
+	{
+		"id": 191,
+		"name": "Spikes",
+		"type": "level",
+		"level": 1
+	},
+	{
+		"id": 250,
+		"name": "Whirlpool",
+		"type": "level",
+		"level": 1
+	},
+	{
+		"id": 333,
+		"name": "Icicle Spear",
+		"type": "level",
+		"level": 1
+	},
+	{
+		"id": 334,
+		"name": "Iron Defense",
+		"type": "level",
+		"level": 1
+	},
+	{
+		"id": 390,
+		"name": "Toxic Spikes",
+		"type": "level",
+		"level": 1
+	},
+	{
+		"id": 420,
+		"name": "Ice Shard",
+		"type": "level",
+		"level": 1
+	},
+	{
+		"id": 504,
+		"name": "Shell Smash",
+		"type": "level",
+		"level": 1
+	},
+	{
+		"id": 534,
+		"name": "Razor Shell",
+		"type": "level",
+		"level": 1
+	},
+	{
+		"id": 556,
+		"name": "Icicle Crash",
+		"type": "level",
+		"level": 1
+	},
+	{
+		"id": 131,
+		"name": "Spike Cannon",
+		"type": "level",
+		"level": 1
+	},
+	{
+		"id": 112,
+		"name": "Barrier",
+		"type": "level",
+		"level": 1
+	},
+	{
+		"id": 41,
+		"name": "Twineedle",
+		"type": "level",
+		"level": 1
+	},
+	{
+		"id": 534,
+		"name": "Razor Shell",
+		"type": "level",
+		"level": 5
+	},
+	{
+		"id": 131,
+		"name": "Spike Cannon",
+		"type": "level",
+		"level": 13
+	},
+	{
+		"id": 191,
+		"name": "Spikes",
+		"type": "level",
+		"level": 28
+	},
+	{
+		"id": 556,
+		"name": "Icicle Crash",
+		"type": "level",
+		"level": 50
+	},
+	{
+		"id": 173,
+		"name": "Snore",
+		"type": "move_tutor"
+	},
+	{
+		"id": 324,
+		"name": "Signal Beam",
+		"type": "move_tutor"
+	},
+	{
+		"id": 287,
+		"name": "Refresh",
+		"type": "special_moves"
+	},
+	{
+		"id": 362,
+		"name": "Brine",
+		"type": "prevo_moves"
+	},
+	{
+		"id": 29,
+		"name": "Headbutt",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 34,
+		"name": "Body Slam",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 36,
+		"name": "Take Down",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 38,
+		"name": "Double-Edge",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 42,
+		"name": "Pin Missile",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 55,
+		"name": "Water Gun",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 56,
+		"name": "Hydro Pump",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 57,
+		"name": "Surf",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 58,
+		"name": "Ice Beam",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 59,
+		"name": "Blizzard",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 61,
+		"name": "BubbleBeam",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 63,
+		"name": "Hyper Beam",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 92,
+		"name": "Toxic",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 99,
+		"name": "Rage",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 100,
+		"name": "Teleport",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 102,
+		"name": "Mimic",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 103,
+		"name": "Screech",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 104,
+		"name": "Double Team",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 113,
+		"name": "Light Screen",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 115,
+		"name": "Reflect",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 117,
+		"name": "Bide",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 120,
+		"name": "Selfdestruct",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 127,
+		"name": "Waterfall",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 129,
+		"name": "Swift",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 153,
+		"name": "Explosion",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 156,
+		"name": "Rest",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 161,
+		"name": "Tri Attack",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 164,
+		"name": "Substitute",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 174,
+		"name": "Curse",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 182,
+		"name": "Protect",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 184,
+		"name": "Scary Face",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 191,
+		"name": "Spikes",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 196,
+		"name": "Icy Wind",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 203,
+		"name": "Endure",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 207,
+		"name": "Swagger",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 213,
+		"name": "Attract",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 214,
+		"name": "Sleep Talk",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 216,
+		"name": "Return",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 218,
+		"name": "Frustration",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 237,
+		"name": "Hidden Power",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 240,
+		"name": "Rain Dance",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 250,
+		"name": "Whirlpool",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 258,
+		"name": "Snowscape",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 259,
+		"name": "Torment",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 263,
+		"name": "Facade",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 270,
+		"name": "Helping Hand",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 290,
+		"name": "Secret Power",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 291,
+		"name": "Dive",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 311,
+		"name": "Weather Ball",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 333,
+		"name": "Icicle Spear",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 334,
+		"name": "Iron Defense",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 341,
+		"name": "Mud Shot",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 350,
+		"name": "Rock Blast",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 352,
+		"name": "Water Pulse",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 362,
+		"name": "Brine",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 363,
+		"name": "Natural Gift",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 371,
+		"name": "Payback",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 390,
+		"name": "Toxic Spikes",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 398,
+		"name": "Poison Jab",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 416,
+		"name": "Giga Impact",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 419,
+		"name": "Avalanche",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 445,
+		"name": "Captivate",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 496,
+		"name": "Round",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 524,
+		"name": "Frost Breath",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 529,
+		"name": "Drill Run",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 534,
+		"name": "Razor Shell",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 333,
+		"name": "Icicle Spear",
+		"type": "on_evolution"
+	}
+],
+"types": [
+	"WATER",
+	"ICE"
+],
+"stats": {
+	"hp": 50,
+	"attack": 95,
+	"defense": 180,
+	"speed": 70,
+	"sp_attack": 85,
+	"sp_defense": 45
+},
+"yields": {
+	"exp": 184,
+	"ev_hp": 0,
+	"ev_attack": 0,
+	"ev_defense": 2,
+	"ev_speed": 0,
+	"ev_sp_attack": 0,
+	"ev_sp_defense": 0
+},
+"tiers": [
+	"Under Used"
+],
+"held_items": [
+	{
+		"id": 5088,
+		"name": "Pearl"
+	},
+	{
+		"id": 5089,
+		"name": "Big Pearl"
+	}
+],
+"locations": [
+	{
+		"type": "Water",
+		"region_id": 0,
+		"region_name": "Kanto",
+		"location": "ROUTE 11",
+		"min_level": 38,
+		"max_level": 38,
+		"rarity": "Lure"
+	},
+	{
+		"type": "Water",
+		"region_id": 0,
+		"region_name": "Kanto",
+		"location": "S.S. ANNE",
+		"min_level": 38,
+		"max_level": 38,
+		"rarity": "Lure"
+	},
+	{
+		"type": "Water",
+		"region_id": 0,
+		"region_name": "Kanto",
+		"location": "VERMILION CITY",
+		"min_level": 38,
+		"max_level": 38,
+		"rarity": "Lure"
+	},
+	{
+		"type": "Fishing",
+		"region_id": 2,
+		"region_name": "Unova",
+		"location": "Route 13",
+		"min_level": 55,
+		"max_level": 60,
+		"rarity": "Special"
+	},
+	{
+		"type": "Fishing",
+		"region_id": 2,
+		"region_name": "Unova",
+		"location": "Undella Bay",
+		"min_level": 55,
+		"max_level": 60,
+		"rarity": "Special"
+	},
+	{
+		"type": "Fishing",
+		"region_id": 2,
+		"region_name": "Unova",
+		"location": "Undella Town",
+		"min_level": 55,
+		"max_level": 60,
+		"rarity": "Special"
+	},
+	{
+		"type": "Water",
+		"region_id": 4,
+		"region_name": "Johto",
+		"location": "New Bark Town",
+		"min_level": 28,
+		"max_level": 28,
+		"rarity": "Lure"
+	},
+	{
+		"type": "Water",
+		"region_id": 4,
+		"region_name": "Johto",
+		"location": "Route 26",
+		"min_level": 43,
+		"max_level": 43,
+		"rarity": "Lure"
+	},
+	{
+		"type": "Water",
+		"region_id": 4,
+		"region_name": "Johto",
+		"location": "Route 27",
+		"min_level": 28,
+		"max_level": 28,
+		"rarity": "Lure"
+	}
+]
+}

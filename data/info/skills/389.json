@@ -1,0 +1,12 @@
+{
+"id": 389,
+"name": "Sucker Punch",
+"skill_damage_type": "PHYSICAL",
+"base_power": 70,
+"base_accuracy": 100,
+"base_pp": 5,
+"priority": 1,
+"type": "DARK",
+"target_type": 0,
+"true_damage": false
+}

@@ -1,0 +1,12 @@
+{
+"id": 134,
+"name": "Kinesis",
+"skill_damage_type": "STATUS",
+"base_power": 0,
+"base_accuracy": 80,
+"base_pp": 15,
+"priority": 0,
+"type": "PSYCHIC",
+"target_type": 0,
+"true_damage": false
+}

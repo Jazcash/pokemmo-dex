@@ -1,0 +1,181 @@
+{
+"id": 360,
+"name": "Wynaut",
+"exp_type": "MEDIUM_FAST",
+"obtainable": true,
+"gender_ratio": 127,
+"height": 6,
+"weight": 140,
+"egg_groups": [
+	"cannot breed"
+],
+"abilities": [
+	{
+		"id": 23,
+		"name": "Shadow Tag"
+	},
+	{
+		"id": 0,
+		"name": "--"
+	},
+	{
+		"id": 140,
+		"name": "Telepathy"
+	}
+],
+"forms": [
+	{
+		"form_id": 0,
+		"id": 360,
+		"name": "Wynaut"
+	}
+],
+"evolutions": [
+	{
+		"id": 202,
+		"name": "Wobbuffet",
+		"type": "LEVEL",
+		"val": 15
+	}
+],
+"moves": [
+	{
+		"id": 68,
+		"name": "Counter",
+		"type": "level",
+		"level": 1
+	},
+	{
+		"id": 133,
+		"name": "Amnesia",
+		"type": "level",
+		"level": 1
+	},
+	{
+		"id": 150,
+		"name": "Splash",
+		"type": "level",
+		"level": 1
+	},
+	{
+		"id": 194,
+		"name": "Destiny Bond",
+		"type": "level",
+		"level": 1
+	},
+	{
+		"id": 204,
+		"name": "Charm",
+		"type": "level",
+		"level": 1
+	},
+	{
+		"id": 219,
+		"name": "Safeguard",
+		"type": "level",
+		"level": 1
+	},
+	{
+		"id": 227,
+		"name": "Encore",
+		"type": "level",
+		"level": 1
+	},
+	{
+		"id": 243,
+		"name": "Mirror Coat",
+		"type": "level",
+		"level": 1
+	},
+	{
+		"id": 68,
+		"name": "Counter",
+		"type": "level",
+		"level": 15
+	},
+	{
+		"id": 194,
+		"name": "Destiny Bond",
+		"type": "level",
+		"level": 15
+	},
+	{
+		"id": 219,
+		"name": "Safeguard",
+		"type": "level",
+		"level": 15
+	},
+	{
+		"id": 243,
+		"name": "Mirror Coat",
+		"type": "level",
+		"level": 15
+	},
+	{
+		"id": 321,
+		"name": "Tickle",
+		"type": "special_moves"
+	},
+	{
+		"id": 68,
+		"name": "Counter",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 133,
+		"name": "Amnesia",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 204,
+		"name": "Charm",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 219,
+		"name": "Safeguard",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 227,
+		"name": "Encore",
+		"type": "move_learner_tools"
+	}
+],
+"types": [
+	"PSYCHIC",
+	"PSYCHIC"
+],
+"stats": {
+	"hp": 95,
+	"attack": 23,
+	"defense": 48,
+	"speed": 23,
+	"sp_attack": 23,
+	"sp_defense": 48
+},
+"yields": {
+	"exp": 52,
+	"ev_hp": 1,
+	"ev_attack": 0,
+	"ev_defense": 0,
+	"ev_speed": 0,
+	"ev_sp_attack": 0,
+	"ev_sp_defense": 0
+},
+"tiers": [
+	"Untiered"
+],
+"held_items": [],
+"locations": [
+	{
+		"type": "Grass",
+		"region_id": 0,
+		"region_name": "Kanto",
+		"location": "THREE ISLE PORT",
+		"min_level": 46,
+		"max_level": 46,
+		"rarity": "Lure"
+	}
+]
+}

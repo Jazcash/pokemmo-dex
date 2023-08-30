@@ -1,0 +1,12 @@
+{
+"id": 409,
+"name": "Drain Punch",
+"skill_damage_type": "PHYSICAL",
+"base_power": 75,
+"base_accuracy": 100,
+"base_pp": 10,
+"priority": 0,
+"type": "FIGHTING",
+"target_type": 0,
+"true_damage": false
+}

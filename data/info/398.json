@@ -1,0 +1,493 @@
+{
+"id": 398,
+"name": "Staraptor",
+"exp_type": "MEDIUM_SLOW",
+"obtainable": true,
+"gender_ratio": 127,
+"height": 12,
+"weight": 249,
+"egg_groups": [
+	"flying"
+],
+"abilities": [
+	{
+		"id": 22,
+		"name": "Intimidate"
+	},
+	{
+		"id": 0,
+		"name": "--"
+	},
+	{
+		"id": 120,
+		"name": "Reckless"
+	}
+],
+"forms": [
+	{
+		"form_id": 0,
+		"id": 398,
+		"name": "Staraptor"
+	}
+],
+"evolutions": [],
+"moves": [
+	{
+		"id": 17,
+		"name": "Wing Attack",
+		"type": "level",
+		"level": 1
+	},
+	{
+		"id": 33,
+		"name": "Tackle",
+		"type": "level",
+		"level": 1
+	},
+	{
+		"id": 45,
+		"name": "Growl",
+		"type": "level",
+		"level": 1
+	},
+	{
+		"id": 98,
+		"name": "Quick Attack",
+		"type": "level",
+		"level": 1
+	},
+	{
+		"id": 370,
+		"name": "Close Combat",
+		"type": "level",
+		"level": 1
+	},
+	{
+		"id": 16,
+		"name": "Gust",
+		"type": "level",
+		"level": 1
+	},
+	{
+		"id": 98,
+		"name": "Quick Attack",
+		"type": "level",
+		"level": 5
+	},
+	{
+		"id": 17,
+		"name": "Wing Attack",
+		"type": "level",
+		"level": 9
+	},
+	{
+		"id": 104,
+		"name": "Double Team",
+		"type": "level",
+		"level": 13
+	},
+	{
+		"id": 403,
+		"name": "Air Slash",
+		"type": "level",
+		"level": 15
+	},
+	{
+		"id": 283,
+		"name": "Endeavor",
+		"type": "level",
+		"level": 18
+	},
+	{
+		"id": 355,
+		"name": "Roost",
+		"type": "level",
+		"level": 21
+	},
+	{
+		"id": 18,
+		"name": "Whirlwind",
+		"type": "level",
+		"level": 23
+	},
+	{
+		"id": 332,
+		"name": "Aerial Ace",
+		"type": "level",
+		"level": 28
+	},
+	{
+		"id": 38,
+		"name": "Double-Edge",
+		"type": "level",
+		"level": 29
+	},
+	{
+		"id": 36,
+		"name": "Take Down",
+		"type": "level",
+		"level": 33
+	},
+	{
+		"id": 370,
+		"name": "Close Combat",
+		"type": "level",
+		"level": 34
+	},
+	{
+		"id": 97,
+		"name": "Agility",
+		"type": "level",
+		"level": 41
+	},
+	{
+		"id": 416,
+		"name": "Giga Impact",
+		"type": "level",
+		"level": 47
+	},
+	{
+		"id": 413,
+		"name": "Brave Bird",
+		"type": "level",
+		"level": 49
+	},
+	{
+		"id": 515,
+		"name": "Final Gambit",
+		"type": "level",
+		"level": 57
+	},
+	{
+		"id": 143,
+		"name": "Sky Attack",
+		"type": "move_tutor"
+	},
+	{
+		"id": 173,
+		"name": "Snore",
+		"type": "move_tutor"
+	},
+	{
+		"id": 239,
+		"name": "Twister",
+		"type": "move_tutor"
+	},
+	{
+		"id": 253,
+		"name": "Uproar",
+		"type": "move_tutor"
+	},
+	{
+		"id": 283,
+		"name": "Endeavor",
+		"type": "move_tutor"
+	},
+	{
+		"id": 466,
+		"name": "Ominous Wind",
+		"type": "move_tutor"
+	},
+	{
+		"id": 18,
+		"name": "Whirlwind",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 19,
+		"name": "Fly",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 36,
+		"name": "Take Down",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 38,
+		"name": "Double-Edge",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 63,
+		"name": "Hyper Beam",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 92,
+		"name": "Toxic",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 97,
+		"name": "Agility",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 104,
+		"name": "Double Team",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 116,
+		"name": "Focus Energy",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 129,
+		"name": "Swift",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 156,
+		"name": "Rest",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 164,
+		"name": "Substitute",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 168,
+		"name": "Thief",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 182,
+		"name": "Protect",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 189,
+		"name": "Mud-Slap",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 197,
+		"name": "Detect",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 203,
+		"name": "Endure",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 207,
+		"name": "Swagger",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 211,
+		"name": "Steel Wing",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 213,
+		"name": "Attract",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 214,
+		"name": "Sleep Talk",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 216,
+		"name": "Return",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 218,
+		"name": "Frustration",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 237,
+		"name": "Hidden Power",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 240,
+		"name": "Rain Dance",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 241,
+		"name": "Sunny Day",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 257,
+		"name": "Heat Wave",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 263,
+		"name": "Facade",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 270,
+		"name": "Helping Hand",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 279,
+		"name": "Revenge",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 290,
+		"name": "Secret Power",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 314,
+		"name": "Air Cutter",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 332,
+		"name": "Aerial Ace",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 355,
+		"name": "Roost",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 363,
+		"name": "Natural Gift",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 365,
+		"name": "Pluck",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 366,
+		"name": "Tailwind",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 369,
+		"name": "U-turn",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 370,
+		"name": "Close Combat",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 403,
+		"name": "Air Slash",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 413,
+		"name": "Brave Bird",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 416,
+		"name": "Giga Impact",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 432,
+		"name": "Defog",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 445,
+		"name": "Captivate",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 496,
+		"name": "Round",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 497,
+		"name": "Echoed Voice",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 512,
+		"name": "Acrobatics",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 514,
+		"name": "Retaliate",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 522,
+		"name": "Struggle Bug",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 526,
+		"name": "Work Up",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 542,
+		"name": "Hurricane",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 370,
+		"name": "Close Combat",
+		"type": "on_evolution"
+	}
+],
+"types": [
+	"NORMAL",
+	"FLYING"
+],
+"stats": {
+	"hp": 85,
+	"attack": 120,
+	"defense": 70,
+	"speed": 100,
+	"sp_attack": 50,
+	"sp_defense": 60
+},
+"yields": {
+	"exp": 214,
+	"ev_hp": 0,
+	"ev_attack": 3,
+	"ev_defense": 0,
+	"ev_speed": 0,
+	"ev_sp_attack": 0,
+	"ev_sp_defense": 0
+},
+"tiers": [
+	"Over Used"
+],
+"held_items": [
+	{
+		"id": 5188,
+		"name": "Yache Berry"
+	}
+],
+"locations": [
+	{
+		"type": "Grass",
+		"region_id": 3,
+		"region_name": "Sinnoh",
+		"location": "Sendoff Spring",
+		"min_level": 43,
+		"max_level": 43,
+		"rarity": "Lure"
+	}
+]
+}

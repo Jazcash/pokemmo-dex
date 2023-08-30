@@ -1,0 +1,12 @@
+{
+"id": 325,
+"name": "Shadow Punch",
+"skill_damage_type": "PHYSICAL",
+"base_power": 60,
+"base_accuracy": 101,
+"base_pp": 20,
+"priority": 0,
+"type": "GHOST",
+"target_type": 0,
+"true_damage": false
+}

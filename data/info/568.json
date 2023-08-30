@@ -1,0 +1,455 @@
+{
+"id": 568,
+"name": "Trubbish",
+"exp_type": "MEDIUM_FAST",
+"obtainable": true,
+"gender_ratio": 127,
+"height": 6,
+"weight": 310,
+"egg_groups": [
+	"mineral"
+],
+"abilities": [
+	{
+		"id": 1,
+		"name": "Stench"
+	},
+	{
+		"id": 60,
+		"name": "Sticky Hold"
+	},
+	{
+		"id": 106,
+		"name": "Aftermath"
+	}
+],
+"forms": [
+	{
+		"form_id": 0,
+		"id": 568,
+		"name": "Trubbish"
+	}
+],
+"evolutions": [
+	{
+		"id": 569,
+		"name": "Garbodor",
+		"type": "LEVEL",
+		"val": 36
+	}
+],
+"moves": [
+	{
+		"id": 1,
+		"name": "Pound",
+		"type": "level",
+		"level": 1
+	},
+	{
+		"id": 139,
+		"name": "Poison Gas",
+		"type": "level",
+		"level": 1
+	},
+	{
+		"id": 278,
+		"name": "Recycle",
+		"type": "level",
+		"level": 3
+	},
+	{
+		"id": 491,
+		"name": "Acid Spray",
+		"type": "level",
+		"level": 6
+	},
+	{
+		"id": 133,
+		"name": "Amnesia",
+		"type": "level",
+		"level": 9
+	},
+	{
+		"id": 499,
+		"name": "Clear Smog",
+		"type": "level",
+		"level": 12
+	},
+	{
+		"id": 3,
+		"name": "DoubleSlap",
+		"type": "level",
+		"level": 14
+	},
+	{
+		"id": 390,
+		"name": "Toxic Spikes",
+		"type": "level",
+		"level": 15
+	},
+	{
+		"id": 124,
+		"name": "Sludge",
+		"type": "level",
+		"level": 18
+	},
+	{
+		"id": 254,
+		"name": "Stockpile",
+		"type": "level",
+		"level": 21
+	},
+	{
+		"id": 256,
+		"name": "Swallow",
+		"type": "level",
+		"level": 21
+	},
+	{
+		"id": 36,
+		"name": "Take Down",
+		"type": "level",
+		"level": 24
+	},
+	{
+		"id": 188,
+		"name": "Sludge Bomb",
+		"type": "level",
+		"level": 27
+	},
+	{
+		"id": 92,
+		"name": "Toxic",
+		"type": "level",
+		"level": 30
+	},
+	{
+		"id": 220,
+		"name": "Pain Split",
+		"type": "level",
+		"level": 37
+	},
+	{
+		"id": 441,
+		"name": "Gunk Shot",
+		"type": "level",
+		"level": 39
+	},
+	{
+		"id": 153,
+		"name": "Explosion",
+		"type": "level",
+		"level": 42
+	},
+	{
+		"id": 28,
+		"name": "Sand-Attack",
+		"type": "egg_moves"
+	},
+	{
+		"id": 114,
+		"name": "Haze",
+		"type": "egg_moves"
+	},
+	{
+		"id": 300,
+		"name": "Mud Sport",
+		"type": "egg_moves"
+	},
+	{
+		"id": 475,
+		"name": "Autotomize",
+		"type": "egg_moves"
+	},
+	{
+		"id": 173,
+		"name": "Snore",
+		"type": "move_tutor"
+	},
+	{
+		"id": 180,
+		"name": "Spite",
+		"type": "move_tutor"
+	},
+	{
+		"id": 220,
+		"name": "Pain Split",
+		"type": "move_tutor"
+	},
+	{
+		"id": 36,
+		"name": "Take Down",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 92,
+		"name": "Toxic",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 104,
+		"name": "Double Team",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 120,
+		"name": "Selfdestruct",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 133,
+		"name": "Amnesia",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 153,
+		"name": "Explosion",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 156,
+		"name": "Rest",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 164,
+		"name": "Substitute",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 168,
+		"name": "Thief",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 174,
+		"name": "Curse",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 182,
+		"name": "Protect",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 188,
+		"name": "Sludge Bomb",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 191,
+		"name": "Spikes",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 202,
+		"name": "Giga Drain",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 203,
+		"name": "Endure",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 205,
+		"name": "Rollout",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 207,
+		"name": "Swagger",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 213,
+		"name": "Attract",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 214,
+		"name": "Sleep Talk",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 216,
+		"name": "Return",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 218,
+		"name": "Frustration",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 237,
+		"name": "Hidden Power",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 240,
+		"name": "Rain Dance",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 241,
+		"name": "Sunny Day",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 263,
+		"name": "Facade",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 278,
+		"name": "Recycle",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 290,
+		"name": "Secret Power",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 350,
+		"name": "Rock Blast",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 371,
+		"name": "Payback",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 390,
+		"name": "Toxic Spikes",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 399,
+		"name": "Dark Pulse",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 402,
+		"name": "Seed Bomb",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 409,
+		"name": "Drain Punch",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 441,
+		"name": "Gunk Shot",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 474,
+		"name": "Venoshock",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 482,
+		"name": "Sludge Wave",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 491,
+		"name": "Acid Spray",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 496,
+		"name": "Round",
+		"type": "move_learner_tools"
+	}
+],
+"types": [
+	"POISON",
+	"POISON"
+],
+"stats": {
+	"hp": 50,
+	"attack": 50,
+	"defense": 62,
+	"speed": 65,
+	"sp_attack": 40,
+	"sp_defense": 62
+},
+"yields": {
+	"exp": 66,
+	"ev_hp": 0,
+	"ev_attack": 0,
+	"ev_defense": 0,
+	"ev_speed": 1,
+	"ev_sp_attack": 0,
+	"ev_sp_defense": 0
+},
+"tiers": [
+	"Untiered"
+],
+"held_items": [
+	{
+		"id": 5281,
+		"name": "Black Sludge"
+	},
+	{
+		"id": 5251,
+		"name": "Silk Scarf"
+	},
+	{
+		"id": 5092,
+		"name": "Nugget"
+	}
+],
+"locations": [
+	{
+		"type": "Grass",
+		"region_id": 2,
+		"region_name": "Unova",
+		"location": "Route 5",
+		"min_level": 19,
+		"max_level": 21,
+		"rarity": "Common"
+	},
+	{
+		"type": "Dark Grass",
+		"region_id": 2,
+		"region_name": "Unova",
+		"location": "Route 5",
+		"min_level": 22,
+		"max_level": 24,
+		"rarity": "Common"
+	},
+	{
+		"type": "Grass",
+		"region_id": 2,
+		"region_name": "Unova",
+		"location": "Route 16",
+		"min_level": 19,
+		"max_level": 21,
+		"rarity": "Common"
+	},
+	{
+		"type": "Dark Grass",
+		"region_id": 2,
+		"region_name": "Unova",
+		"location": "Route 16",
+		"min_level": 21,
+		"max_level": 22,
+		"rarity": "Horde"
+	},
+	{
+		"type": "Dark Grass",
+		"region_id": 2,
+		"region_name": "Unova",
+		"location": "Route 16",
+		"min_level": 22,
+		"max_level": 24,
+		"rarity": "Common"
+	}
+]
+}

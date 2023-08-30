@@ -1,0 +1,12 @@
+{
+"id": 232,
+"name": "Metal Claw",
+"skill_damage_type": "PHYSICAL",
+"base_power": 50,
+"base_accuracy": 95,
+"base_pp": 35,
+"priority": 0,
+"type": "STEEL",
+"target_type": 0,
+"true_damage": false
+}

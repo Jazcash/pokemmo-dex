@@ -1,0 +1,12 @@
+{
+"id": 548,
+"name": "Secret Sword",
+"skill_damage_type": "SPECIAL",
+"base_power": 85,
+"base_accuracy": 100,
+"base_pp": 10,
+"priority": 0,
+"type": "FIGHTING",
+"target_type": 0,
+"true_damage": false
+}

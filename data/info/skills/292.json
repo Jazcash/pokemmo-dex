@@ -1,0 +1,12 @@
+{
+"id": 292,
+"name": "Arm Thrust",
+"skill_damage_type": "PHYSICAL",
+"base_power": 15,
+"base_accuracy": 100,
+"base_pp": 20,
+"priority": 0,
+"type": "FIGHTING",
+"target_type": 0,
+"true_damage": false
+}

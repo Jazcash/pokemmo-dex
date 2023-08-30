@@ -1,0 +1,12 @@
+{
+"id": 165,
+"name": "Struggle",
+"skill_damage_type": "PHYSICAL",
+"base_power": 50,
+"base_accuracy": 101,
+"base_pp": 1,
+"priority": 0,
+"type": "NORMAL",
+"target_type": 9,
+"true_damage": false
+}

@@ -1,0 +1,1433 @@
+{
+"id": 41,
+"name": "Zubat",
+"exp_type": "MEDIUM_FAST",
+"obtainable": true,
+"gender_ratio": 127,
+"height": 8,
+"weight": 75,
+"egg_groups": [
+	"flying"
+],
+"abilities": [
+	{
+		"id": 39,
+		"name": "Inner Focus"
+	},
+	{
+		"id": 0,
+		"name": "--"
+	},
+	{
+		"id": 151,
+		"name": "Infiltrator"
+	}
+],
+"forms": [
+	{
+		"form_id": 0,
+		"id": 41,
+		"name": "Zubat"
+	}
+],
+"evolutions": [
+	{
+		"id": 42,
+		"name": "Golbat",
+		"type": "LEVEL",
+		"val": 22
+	}
+],
+"moves": [
+	{
+		"id": 48,
+		"name": "Supersonic",
+		"type": "level",
+		"level": 1
+	},
+	{
+		"id": 71,
+		"name": "Absorb",
+		"type": "level",
+		"level": 1
+	},
+	{
+		"id": 16,
+		"name": "Gust",
+		"type": "level",
+		"level": 1
+	},
+	{
+		"id": 17,
+		"name": "Wing Attack",
+		"type": "level",
+		"level": 4
+	},
+	{
+		"id": 48,
+		"name": "Supersonic",
+		"type": "level",
+		"level": 5
+	},
+	{
+		"id": 310,
+		"name": "Astonish",
+		"type": "level",
+		"level": 5
+	},
+	{
+		"id": 95,
+		"name": "Hypnosis",
+		"type": "level",
+		"level": 6
+	},
+	{
+		"id": 44,
+		"name": "Bite",
+		"type": "level",
+		"level": 9
+	},
+	{
+		"id": 212,
+		"name": "Mean Look",
+		"type": "level",
+		"level": 10
+	},
+	{
+		"id": 129,
+		"name": "Swift",
+		"type": "level",
+		"level": 12
+	},
+	{
+		"id": 305,
+		"name": "Poison Fang",
+		"type": "level",
+		"level": 15
+	},
+	{
+		"id": 109,
+		"name": "Confuse Ray",
+		"type": "level",
+		"level": 17
+	},
+	{
+		"id": 501,
+		"name": "Quick Guard",
+		"type": "level",
+		"level": 20
+	},
+	{
+		"id": 114,
+		"name": "Haze",
+		"type": "level",
+		"level": 20
+	},
+	{
+		"id": 314,
+		"name": "Air Cutter",
+		"type": "level",
+		"level": 25
+	},
+	{
+		"id": 440,
+		"name": "Cross Poison",
+		"type": "level",
+		"level": 25
+	},
+	{
+		"id": 141,
+		"name": "Leech Life",
+		"type": "level",
+		"level": 25
+	},
+	{
+		"id": 92,
+		"name": "Toxic",
+		"type": "level",
+		"level": 28
+	},
+	{
+		"id": 512,
+		"name": "Acrobatics",
+		"type": "level",
+		"level": 33
+	},
+	{
+		"id": 403,
+		"name": "Air Slash",
+		"type": "level",
+		"level": 33
+	},
+	{
+		"id": 474,
+		"name": "Venoshock",
+		"type": "level",
+		"level": 40
+	},
+	{
+		"id": 98,
+		"name": "Quick Attack",
+		"type": "egg_moves"
+	},
+	{
+		"id": 228,
+		"name": "Pursuit",
+		"type": "egg_moves"
+	},
+	{
+		"id": 95,
+		"name": "Hypnosis",
+		"type": "move_tutor"
+	},
+	{
+		"id": 162,
+		"name": "Super Fang",
+		"type": "move_tutor"
+	},
+	{
+		"id": 173,
+		"name": "Snore",
+		"type": "move_tutor"
+	},
+	{
+		"id": 185,
+		"name": "Faint Attack",
+		"type": "move_tutor"
+	},
+	{
+		"id": 239,
+		"name": "Twister",
+		"type": "move_tutor"
+	},
+	{
+		"id": 253,
+		"name": "Uproar",
+		"type": "move_tutor"
+	},
+	{
+		"id": 466,
+		"name": "Ominous Wind",
+		"type": "move_tutor"
+	},
+	{
+		"id": 175,
+		"name": "Flail",
+		"type": "special_moves"
+	},
+	{
+		"id": 13,
+		"name": "Razor Wind",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 18,
+		"name": "Whirlwind",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 19,
+		"name": "Fly",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 29,
+		"name": "Headbutt",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 36,
+		"name": "Take Down",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 38,
+		"name": "Double-Edge",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 72,
+		"name": "Mega Drain",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 92,
+		"name": "Toxic",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 97,
+		"name": "Agility",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 99,
+		"name": "Rage",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 102,
+		"name": "Mimic",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 104,
+		"name": "Double Team",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 109,
+		"name": "Confuse Ray",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 117,
+		"name": "Bide",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 129,
+		"name": "Swift",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 141,
+		"name": "Leech Life",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 156,
+		"name": "Rest",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 164,
+		"name": "Substitute",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 168,
+		"name": "Thief",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 174,
+		"name": "Curse",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 182,
+		"name": "Protect",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 188,
+		"name": "Sludge Bomb",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 197,
+		"name": "Detect",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 202,
+		"name": "Giga Drain",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 203,
+		"name": "Endure",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 207,
+		"name": "Swagger",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 211,
+		"name": "Steel Wing",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 213,
+		"name": "Attract",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 214,
+		"name": "Sleep Talk",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 216,
+		"name": "Return",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 218,
+		"name": "Frustration",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 237,
+		"name": "Hidden Power",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 240,
+		"name": "Rain Dance",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 241,
+		"name": "Sunny Day",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 242,
+		"name": "Crunch",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 247,
+		"name": "Shadow Ball",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 257,
+		"name": "Heat Wave",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 259,
+		"name": "Torment",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 263,
+		"name": "Facade",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 269,
+		"name": "Taunt",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 289,
+		"name": "Snatch",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 290,
+		"name": "Secret Power",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 314,
+		"name": "Air Cutter",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 332,
+		"name": "Aerial Ace",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 355,
+		"name": "Roost",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 363,
+		"name": "Natural Gift",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 365,
+		"name": "Pluck",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 366,
+		"name": "Tailwind",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 369,
+		"name": "U-turn",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 371,
+		"name": "Payback",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 372,
+		"name": "Assurance",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 403,
+		"name": "Air Slash",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 413,
+		"name": "Brave Bird",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 417,
+		"name": "Nasty Plot",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 428,
+		"name": "Zen Headbutt",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 432,
+		"name": "Defog",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 440,
+		"name": "Cross Poison",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 445,
+		"name": "Captivate",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 474,
+		"name": "Venoshock",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 496,
+		"name": "Round",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 512,
+		"name": "Acrobatics",
+		"type": "move_learner_tools"
+	}
+],
+"types": [
+	"POISON",
+	"FLYING"
+],
+"stats": {
+	"hp": 40,
+	"attack": 45,
+	"defense": 35,
+	"speed": 55,
+	"sp_attack": 30,
+	"sp_defense": 40
+},
+"yields": {
+	"exp": 49,
+	"ev_hp": 0,
+	"ev_attack": 0,
+	"ev_defense": 0,
+	"ev_speed": 1,
+	"ev_sp_attack": 0,
+	"ev_sp_defense": 0
+},
+"tiers": [
+	"Untiered"
+],
+"held_items": [],
+"locations": [
+	{
+		"type": "Cave",
+		"region_id": 0,
+		"region_name": "Kanto",
+		"location": "ALTERING CAVE",
+		"min_level": 8,
+		"max_level": 25,
+		"rarity": "Uncommon"
+	},
+	{
+		"type": "Cave",
+		"region_id": 0,
+		"region_name": "Kanto",
+		"location": "DIGLETT'S CAVE",
+		"min_level": 15,
+		"max_level": 18,
+		"rarity": "Uncommon"
+	},
+	{
+		"type": "Cave",
+		"region_id": 0,
+		"region_name": "Kanto",
+		"location": "ICEFALL CAVE",
+		"min_level": 48,
+		"max_level": 50,
+		"rarity": "Uncommon"
+	},
+	{
+		"type": "Cave",
+		"region_id": 0,
+		"region_name": "Kanto",
+		"location": "ICEFALL CAVE",
+		"min_level": 48,
+		"max_level": 50,
+		"rarity": "Uncommon"
+	},
+	{
+		"type": "Cave",
+		"region_id": 0,
+		"region_name": "Kanto",
+		"location": "ICEFALL CAVE",
+		"min_level": 48,
+		"max_level": 50,
+		"rarity": "Uncommon"
+	},
+	{
+		"type": "Cave",
+		"region_id": 0,
+		"region_name": "Kanto",
+		"location": "ICEFALL CAVE",
+		"min_level": 48,
+		"max_level": 50,
+		"rarity": "Uncommon"
+	},
+	{
+		"type": "Cave",
+		"region_id": 0,
+		"region_name": "Kanto",
+		"location": "LOST CAVE",
+		"min_level": 50,
+		"max_level": 52,
+		"rarity": "Uncommon"
+	},
+	{
+		"type": "Cave",
+		"region_id": 0,
+		"region_name": "Kanto",
+		"location": "MT. MOON",
+		"min_level": 5,
+		"max_level": 6,
+		"rarity": "Horde"
+	},
+	{
+		"type": "Cave",
+		"region_id": 0,
+		"region_name": "Kanto",
+		"location": "MT. MOON",
+		"min_level": 7,
+		"max_level": 11,
+		"rarity": "Very Common"
+	},
+	{
+		"type": "Inside",
+		"region_id": 0,
+		"region_name": "Kanto",
+		"location": "POKéMON TOWER",
+		"min_level": 13,
+		"max_level": 17,
+		"rarity": "Horde"
+	},
+	{
+		"type": "Inside",
+		"region_id": 0,
+		"region_name": "Kanto",
+		"location": "POKéMON TOWER",
+		"min_level": 15,
+		"max_level": 19,
+		"rarity": "Rare"
+	},
+	{
+		"type": "Cave",
+		"region_id": 0,
+		"region_name": "Kanto",
+		"location": "ROCK TUNNEL",
+		"min_level": 13,
+		"max_level": 15,
+		"rarity": "Horde"
+	},
+	{
+		"type": "Cave",
+		"region_id": 0,
+		"region_name": "Kanto",
+		"location": "ROCK TUNNEL",
+		"min_level": 15,
+		"max_level": 16,
+		"rarity": "Common"
+	},
+	{
+		"type": "Grass",
+		"region_id": 0,
+		"region_name": "Kanto",
+		"location": "ROUTE 3 (Night)",
+		"min_level": 6,
+		"max_level": 8,
+		"rarity": "Uncommon"
+	},
+	{
+		"type": "Grass",
+		"region_id": 0,
+		"region_name": "Kanto",
+		"location": "ROUTE 4 (Night)",
+		"min_level": 8,
+		"max_level": 12,
+		"rarity": "Uncommon"
+	},
+	{
+		"type": "Grass",
+		"region_id": 0,
+		"region_name": "Kanto",
+		"location": "ROUTE 9 (Night)",
+		"min_level": 14,
+		"max_level": 17,
+		"rarity": "Rare"
+	},
+	{
+		"type": "Grass",
+		"region_id": 0,
+		"region_name": "Kanto",
+		"location": "ROUTE 10 (Night)",
+		"min_level": 14,
+		"max_level": 17,
+		"rarity": "Rare"
+	},
+	{
+		"type": "Cave",
+		"region_id": 0,
+		"region_name": "Kanto",
+		"location": "SEAFOAM ISLANDS",
+		"min_level": 26,
+		"max_level": 32,
+		"rarity": "Uncommon"
+	},
+	{
+		"type": "Cave",
+		"region_id": 0,
+		"region_name": "Kanto",
+		"location": "SEAFOAM ISLANDS",
+		"min_level": 26,
+		"max_level": 32,
+		"rarity": "Uncommon"
+	},
+	{
+		"type": "Cave",
+		"region_id": 0,
+		"region_name": "Kanto",
+		"location": "SEAFOAM ISLANDS",
+		"min_level": 26,
+		"max_level": 32,
+		"rarity": "Uncommon"
+	},
+	{
+		"type": "Cave",
+		"region_id": 0,
+		"region_name": "Kanto",
+		"location": "SEAFOAM ISLANDS",
+		"min_level": 26,
+		"max_level": 32,
+		"rarity": "Uncommon"
+	},
+	{
+		"type": "Cave",
+		"region_id": 0,
+		"region_name": "Kanto",
+		"location": "VICTORY ROAD",
+		"min_level": 42,
+		"max_level": 46,
+		"rarity": "Rare"
+	},
+	{
+		"type": "Cave",
+		"region_id": 1,
+		"region_name": "Hoenn",
+		"location": "ALTERING CAVE",
+		"min_level": 8,
+		"max_level": 25,
+		"rarity": "Uncommon"
+	},
+	{
+		"type": "Cave",
+		"region_id": 1,
+		"region_name": "Hoenn",
+		"location": "GRANITE CAVE",
+		"min_level": 8,
+		"max_level": 11,
+		"rarity": "Horde"
+	},
+	{
+		"type": "Cave",
+		"region_id": 1,
+		"region_name": "Hoenn",
+		"location": "GRANITE CAVE",
+		"min_level": 9,
+		"max_level": 13,
+		"rarity": "Very Common"
+	},
+	{
+		"type": "Cave",
+		"region_id": 1,
+		"region_name": "Hoenn",
+		"location": "METEOR FALLS",
+		"min_level": 16,
+		"max_level": 20,
+		"rarity": "Very Common"
+	},
+	{
+		"type": "Water",
+		"region_id": 1,
+		"region_name": "Hoenn",
+		"location": "METEOR FALLS",
+		"min_level": 20,
+		"max_level": 40,
+		"rarity": "Very Common"
+	},
+	{
+		"type": "Water",
+		"region_id": 1,
+		"region_name": "Hoenn",
+		"location": "METEOR FALLS",
+		"min_level": 20,
+		"max_level": 30,
+		"rarity": "Horde"
+	},
+	{
+		"type": "Water",
+		"region_id": 1,
+		"region_name": "Hoenn",
+		"location": "SCORCHED SLAB",
+		"min_level": 25,
+		"max_level": 30,
+		"rarity": "Very Common"
+	},
+	{
+		"type": "Water",
+		"region_id": 1,
+		"region_name": "Hoenn",
+		"location": "SCORCHED SLAB",
+		"min_level": 25,
+		"max_level": 30,
+		"rarity": "Horde"
+	},
+	{
+		"type": "Cave",
+		"region_id": 1,
+		"region_name": "Hoenn",
+		"location": "SEAFLOOR CAVERN",
+		"min_level": 33,
+		"max_level": 36,
+		"rarity": "Uncommon"
+	},
+	{
+		"type": "Water",
+		"region_id": 1,
+		"region_name": "Hoenn",
+		"location": "SEAFLOOR CAVERN",
+		"min_level": 30,
+		"max_level": 35,
+		"rarity": "Uncommon"
+	},
+	{
+		"type": "Water",
+		"region_id": 1,
+		"region_name": "Hoenn",
+		"location": "SEALED CHAMBER",
+		"min_level": 30,
+		"max_level": 40,
+		"rarity": "Uncommon"
+	},
+	{
+		"type": "Cave",
+		"region_id": 1,
+		"region_name": "Hoenn",
+		"location": "SHOAL CAVE",
+		"min_level": 31,
+		"max_level": 31,
+		"rarity": "Uncommon"
+	},
+	{
+		"type": "Cave",
+		"region_id": 1,
+		"region_name": "Hoenn",
+		"location": "SHOAL CAVE",
+		"min_level": 31,
+		"max_level": 31,
+		"rarity": "Uncommon"
+	},
+	{
+		"type": "Cave",
+		"region_id": 1,
+		"region_name": "Hoenn",
+		"location": "SHOAL CAVE",
+		"min_level": 31,
+		"max_level": 31,
+		"rarity": "Uncommon"
+	},
+	{
+		"type": "Cave",
+		"region_id": 1,
+		"region_name": "Hoenn",
+		"location": "SHOAL CAVE",
+		"min_level": 31,
+		"max_level": 31,
+		"rarity": "Uncommon"
+	},
+	{
+		"type": "Water",
+		"region_id": 1,
+		"region_name": "Hoenn",
+		"location": "SHOAL CAVE",
+		"min_level": 30,
+		"max_level": 35,
+		"rarity": "Uncommon"
+	},
+	{
+		"type": "Cave",
+		"region_id": 1,
+		"region_name": "Hoenn",
+		"location": "VICTORY ROAD",
+		"min_level": 36,
+		"max_level": 38,
+		"rarity": "Rare"
+	},
+	{
+		"type": "Grass",
+		"region_id": 3,
+		"region_name": "Sinnoh",
+		"location": "Acuity Lakefront (Night/SEASON0)",
+		"min_level": 35,
+		"max_level": 35,
+		"rarity": "Uncommon"
+	},
+	{
+		"type": "Grass",
+		"region_id": 3,
+		"region_name": "Sinnoh",
+		"location": "Acuity Lakefront (Night/SEASON1)",
+		"min_level": 35,
+		"max_level": 35,
+		"rarity": "Uncommon"
+	},
+	{
+		"type": "Grass",
+		"region_id": 3,
+		"region_name": "Sinnoh",
+		"location": "Acuity Lakefront (Night/SEASON2)",
+		"min_level": 35,
+		"max_level": 35,
+		"rarity": "Uncommon"
+	},
+	{
+		"type": "Grass",
+		"region_id": 3,
+		"region_name": "Sinnoh",
+		"location": "Acuity Lakefront (Night/SEASON3)",
+		"min_level": 35,
+		"max_level": 35,
+		"rarity": "Rare"
+	},
+	{
+		"type": "Cave",
+		"region_id": 3,
+		"region_name": "Sinnoh",
+		"location": "Iron Island",
+		"min_level": 30,
+		"max_level": 30,
+		"rarity": "Uncommon"
+	},
+	{
+		"type": "Cave",
+		"region_id": 3,
+		"region_name": "Sinnoh",
+		"location": "Maniac Tunnel",
+		"min_level": 23,
+		"max_level": 25,
+		"rarity": "Rare"
+	},
+	{
+		"type": "Cave",
+		"region_id": 3,
+		"region_name": "Sinnoh",
+		"location": "Mt. Coronet",
+		"min_level": 14,
+		"max_level": 19,
+		"rarity": "Uncommon"
+	},
+	{
+		"type": "Water",
+		"region_id": 3,
+		"region_name": "Sinnoh",
+		"location": "Mt. Coronet",
+		"min_level": 20,
+		"max_level": 30,
+		"rarity": "Very Common"
+	},
+	{
+		"type": "Water",
+		"region_id": 3,
+		"region_name": "Sinnoh",
+		"location": "Mt. Coronet",
+		"min_level": 20,
+		"max_level": 30,
+		"rarity": "Horde"
+	},
+	{
+		"type": "Cave",
+		"region_id": 3,
+		"region_name": "Sinnoh",
+		"location": "Oreburgh Gate",
+		"min_level": 5,
+		"max_level": 10,
+		"rarity": "Very Common"
+	},
+	{
+		"type": "Cave",
+		"region_id": 3,
+		"region_name": "Sinnoh",
+		"location": "Oreburgh Gate",
+		"min_level": 6,
+		"max_level": 7,
+		"rarity": "Horde"
+	},
+	{
+		"type": "Water",
+		"region_id": 3,
+		"region_name": "Sinnoh",
+		"location": "Oreburgh Gate",
+		"min_level": 20,
+		"max_level": 30,
+		"rarity": "Very Common"
+	},
+	{
+		"type": "Water",
+		"region_id": 3,
+		"region_name": "Sinnoh",
+		"location": "Oreburgh Gate",
+		"min_level": 20,
+		"max_level": 30,
+		"rarity": "Horde"
+	},
+	{
+		"type": "Cave",
+		"region_id": 3,
+		"region_name": "Sinnoh",
+		"location": "Oreburgh Mine",
+		"min_level": 6,
+		"max_level": 10,
+		"rarity": "Common"
+	},
+	{
+		"type": "Cave",
+		"region_id": 3,
+		"region_name": "Sinnoh",
+		"location": "Ravaged Path",
+		"min_level": 4,
+		"max_level": 6,
+		"rarity": "Very Common"
+	},
+	{
+		"type": "Water",
+		"region_id": 3,
+		"region_name": "Sinnoh",
+		"location": "Ravaged Path",
+		"min_level": 20,
+		"max_level": 30,
+		"rarity": "Very Common"
+	},
+	{
+		"type": "Grass",
+		"region_id": 3,
+		"region_name": "Sinnoh",
+		"location": "Route 203 (Night)",
+		"min_level": 4,
+		"max_level": 5,
+		"rarity": "Uncommon"
+	},
+	{
+		"type": "Grass",
+		"region_id": 3,
+		"region_name": "Sinnoh",
+		"location": "Route 204 (Night)",
+		"min_level": 3,
+		"max_level": 8,
+		"rarity": "Uncommon"
+	},
+	{
+		"type": "Grass",
+		"region_id": 3,
+		"region_name": "Sinnoh",
+		"location": "Route 206 (Night)",
+		"min_level": 17,
+		"max_level": 17,
+		"rarity": "Uncommon"
+	},
+	{
+		"type": "Grass",
+		"region_id": 3,
+		"region_name": "Sinnoh",
+		"location": "Route 207 (Night)",
+		"min_level": 5,
+		"max_level": 6,
+		"rarity": "Uncommon"
+	},
+	{
+		"type": "Grass",
+		"region_id": 3,
+		"region_name": "Sinnoh",
+		"location": "Route 208 (Night)",
+		"min_level": 16,
+		"max_level": 17,
+		"rarity": "Horde"
+	},
+	{
+		"type": "Grass",
+		"region_id": 3,
+		"region_name": "Sinnoh",
+		"location": "Route 208 (Night)",
+		"min_level": 19,
+		"max_level": 19,
+		"rarity": "Uncommon"
+	},
+	{
+		"type": "Cave",
+		"region_id": 3,
+		"region_name": "Sinnoh",
+		"location": "Route 209",
+		"min_level": 16,
+		"max_level": 21,
+		"rarity": "Horde"
+	},
+	{
+		"type": "Cave",
+		"region_id": 3,
+		"region_name": "Sinnoh",
+		"location": "Route 209",
+		"min_level": 17,
+		"max_level": 21,
+		"rarity": "Very Common"
+	},
+	{
+		"type": "Grass",
+		"region_id": 3,
+		"region_name": "Sinnoh",
+		"location": "Route 209 (Night)",
+		"min_level": 19,
+		"max_level": 19,
+		"rarity": "Uncommon"
+	},
+	{
+		"type": "Grass",
+		"region_id": 3,
+		"region_name": "Sinnoh",
+		"location": "Route 211 (Night)",
+		"min_level": 14,
+		"max_level": 28,
+		"rarity": "Uncommon"
+	},
+	{
+		"type": "Grass",
+		"region_id": 3,
+		"region_name": "Sinnoh",
+		"location": "Route 214 (Night)",
+		"min_level": 22,
+		"max_level": 22,
+		"rarity": "Uncommon"
+	},
+	{
+		"type": "Grass",
+		"region_id": 3,
+		"region_name": "Sinnoh",
+		"location": "Route 216 (Night/SEASON0)",
+		"min_level": 32,
+		"max_level": 33,
+		"rarity": "Uncommon"
+	},
+	{
+		"type": "Grass",
+		"region_id": 3,
+		"region_name": "Sinnoh",
+		"location": "Route 216 (Night/SEASON1)",
+		"min_level": 32,
+		"max_level": 33,
+		"rarity": "Uncommon"
+	},
+	{
+		"type": "Grass",
+		"region_id": 3,
+		"region_name": "Sinnoh",
+		"location": "Route 216 (Night/SEASON2)",
+		"min_level": 32,
+		"max_level": 33,
+		"rarity": "Uncommon"
+	},
+	{
+		"type": "Grass",
+		"region_id": 3,
+		"region_name": "Sinnoh",
+		"location": "Route 216 (Night/SEASON3)",
+		"min_level": 32,
+		"max_level": 33,
+		"rarity": "Rare"
+	},
+	{
+		"type": "Grass",
+		"region_id": 3,
+		"region_name": "Sinnoh",
+		"location": "Route 217 (Night/SEASON0)",
+		"min_level": 35,
+		"max_level": 35,
+		"rarity": "Uncommon"
+	},
+	{
+		"type": "Grass",
+		"region_id": 3,
+		"region_name": "Sinnoh",
+		"location": "Route 217 (Night/SEASON1)",
+		"min_level": 35,
+		"max_level": 35,
+		"rarity": "Uncommon"
+	},
+	{
+		"type": "Grass",
+		"region_id": 3,
+		"region_name": "Sinnoh",
+		"location": "Route 217 (Night/SEASON2)",
+		"min_level": 35,
+		"max_level": 35,
+		"rarity": "Uncommon"
+	},
+	{
+		"type": "Grass",
+		"region_id": 3,
+		"region_name": "Sinnoh",
+		"location": "Route 217 (Night/SEASON3)",
+		"min_level": 35,
+		"max_level": 35,
+		"rarity": "Rare"
+	},
+	{
+		"type": "Cave",
+		"region_id": 3,
+		"region_name": "Sinnoh",
+		"location": "Ruin Maniac Cave",
+		"min_level": 21,
+		"max_level": 24,
+		"rarity": "Common"
+	},
+	{
+		"type": "Cave",
+		"region_id": 3,
+		"region_name": "Sinnoh",
+		"location": "Ruin Maniac Cave",
+		"min_level": 21,
+		"max_level": 23,
+		"rarity": "Horde"
+	},
+	{
+		"type": "Cave",
+		"region_id": 3,
+		"region_name": "Sinnoh",
+		"location": "Wayward Cave",
+		"min_level": 17,
+		"max_level": 19,
+		"rarity": "Common"
+	},
+	{
+		"type": "Cave",
+		"region_id": 4,
+		"region_name": "Johto",
+		"location": "Burned Tower",
+		"min_level": 18,
+		"max_level": 20,
+		"rarity": "Rare"
+	},
+	{
+		"type": "Cave",
+		"region_id": 4,
+		"region_name": "Johto",
+		"location": "Cliff Cave",
+		"min_level": 25,
+		"max_level": 28,
+		"rarity": "Rare"
+	},
+	{
+		"type": "Cave",
+		"region_id": 4,
+		"region_name": "Johto",
+		"location": "Dark Cave",
+		"min_level": 4,
+		"max_level": 25,
+		"rarity": "Common"
+	},
+	{
+		"type": "Cave",
+		"region_id": 4,
+		"region_name": "Johto",
+		"location": "Ice Path",
+		"min_level": 31,
+		"max_level": 34,
+		"rarity": "Uncommon"
+	},
+	{
+		"type": "Cave",
+		"region_id": 4,
+		"region_name": "Johto",
+		"location": "Ice Path",
+		"min_level": 31,
+		"max_level": 34,
+		"rarity": "Very Common"
+	},
+	{
+		"type": "Cave",
+		"region_id": 4,
+		"region_name": "Johto",
+		"location": "Ice Path",
+		"min_level": 31,
+		"max_level": 34,
+		"rarity": "Uncommon"
+	},
+	{
+		"type": "Cave",
+		"region_id": 4,
+		"region_name": "Johto",
+		"location": "Ice Path",
+		"min_level": 31,
+		"max_level": 34,
+		"rarity": "Uncommon"
+	},
+	{
+		"type": "Cave",
+		"region_id": 4,
+		"region_name": "Johto",
+		"location": "Ilex Forest",
+		"min_level": 12,
+		"max_level": 14,
+		"rarity": "Uncommon"
+	},
+	{
+		"type": "Cave",
+		"region_id": 4,
+		"region_name": "Johto",
+		"location": "Mt. Mortar",
+		"min_level": 16,
+		"max_level": 17,
+		"rarity": "Horde"
+	},
+	{
+		"type": "Cave",
+		"region_id": 4,
+		"region_name": "Johto",
+		"location": "Mt. Mortar",
+		"min_level": 19,
+		"max_level": 22,
+		"rarity": "Very Common"
+	},
+	{
+		"type": "Grass",
+		"region_id": 4,
+		"region_name": "Johto",
+		"location": "Route 30 (Night)",
+		"min_level": 3,
+		"max_level": 4,
+		"rarity": "Rare"
+	},
+	{
+		"type": "Grass",
+		"region_id": 4,
+		"region_name": "Johto",
+		"location": "Route 31 (Night)",
+		"min_level": 4,
+		"max_level": 7,
+		"rarity": "Rare"
+	},
+	{
+		"type": "Grass",
+		"region_id": 4,
+		"region_name": "Johto",
+		"location": "Route 32 (Night/Morning)",
+		"min_level": 8,
+		"max_level": 9,
+		"rarity": "Rare"
+	},
+	{
+		"type": "Grass",
+		"region_id": 4,
+		"region_name": "Johto",
+		"location": "Route 33 (Night)",
+		"min_level": 11,
+		"max_level": 12,
+		"rarity": "Common"
+	},
+	{
+		"type": "Grass",
+		"region_id": 4,
+		"region_name": "Johto",
+		"location": "Route 42 (Night)",
+		"min_level": 22,
+		"max_level": 24,
+		"rarity": "Uncommon"
+	},
+	{
+		"type": "Cave",
+		"region_id": 4,
+		"region_name": "Johto",
+		"location": "SLOWPOKE Well",
+		"min_level": 12,
+		"max_level": 25,
+		"rarity": "Very Common"
+	},
+	{
+		"type": "Cave",
+		"region_id": 4,
+		"region_name": "Johto",
+		"location": "Safari Zone (Night)",
+		"min_level": 28,
+		"max_level": 31,
+		"rarity": "Rare"
+	},
+	{
+		"type": "Cave",
+		"region_id": 4,
+		"region_name": "Johto",
+		"location": "Tohjo Falls",
+		"min_level": 22,
+		"max_level": 39,
+		"rarity": "Common"
+	},
+	{
+		"type": "Cave",
+		"region_id": 4,
+		"region_name": "Johto",
+		"location": "Union Cave",
+		"min_level": 6,
+		"max_level": 8,
+		"rarity": "Horde"
+	},
+	{
+		"type": "Cave",
+		"region_id": 4,
+		"region_name": "Johto",
+		"location": "Union Cave",
+		"min_level": 9,
+		"max_level": 25,
+		"rarity": "Common"
+	},
+	{
+		"type": "Cave",
+		"region_id": 4,
+		"region_name": "Johto",
+		"location": "Whirl Islands",
+		"min_level": 27,
+		"max_level": 31,
+		"rarity": "Common"
+	}
+]
+}

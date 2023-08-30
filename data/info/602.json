@@ -1,0 +1,127 @@
+{
+"id": 602,
+"name": "Tynamo",
+"exp_type": "SLOW",
+"obtainable": true,
+"gender_ratio": 127,
+"height": 2,
+"weight": 3,
+"egg_groups": [
+	"chaos"
+],
+"abilities": [
+	{
+		"id": 26,
+		"name": "Levitate"
+	},
+	{
+		"id": 0,
+		"name": "--"
+	},
+	{
+		"id": 0,
+		"name": "--"
+	}
+],
+"forms": [
+	{
+		"form_id": 0,
+		"id": 602,
+		"name": "Tynamo"
+	}
+],
+"evolutions": [
+	{
+		"id": 603,
+		"name": "Eelektrik",
+		"type": "LEVEL",
+		"val": 39
+	}
+],
+"moves": [
+	{
+		"id": 33,
+		"name": "Tackle",
+		"type": "level",
+		"level": 1
+	},
+	{
+		"id": 86,
+		"name": "Thunder Wave",
+		"type": "level",
+		"level": 1
+	},
+	{
+		"id": 209,
+		"name": "Spark",
+		"type": "level",
+		"level": 1
+	},
+	{
+		"id": 451,
+		"name": "Charge Beam",
+		"type": "level",
+		"level": 1
+	},
+	{
+		"id": 393,
+		"name": "Magnet Rise",
+		"type": "move_tutor"
+	},
+	{
+		"id": 86,
+		"name": "Thunder Wave",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 451,
+		"name": "Charge Beam",
+		"type": "move_learner_tools"
+	}
+],
+"types": [
+	"ELECTRIC",
+	"ELECTRIC"
+],
+"stats": {
+	"hp": 35,
+	"attack": 55,
+	"defense": 40,
+	"speed": 60,
+	"sp_attack": 45,
+	"sp_defense": 40
+},
+"yields": {
+	"exp": 55,
+	"ev_hp": 0,
+	"ev_attack": 0,
+	"ev_defense": 0,
+	"ev_speed": 1,
+	"ev_sp_attack": 0,
+	"ev_sp_defense": 0
+},
+"tiers": [
+	"Untiered"
+],
+"held_items": [],
+"locations": [
+	{
+		"type": "Cave",
+		"region_id": 2,
+		"region_name": "Unova",
+		"location": "Chargestone Cave",
+		"min_level": 22,
+		"max_level": 24,
+		"rarity": "Horde"
+	},
+	{
+		"type": "Cave",
+		"region_id": 2,
+		"region_name": "Unova",
+		"location": "Chargestone Cave",
+		"min_level": 27,
+		"max_level": 27,
+		"rarity": "Very Rare"
+	}
+]
+}

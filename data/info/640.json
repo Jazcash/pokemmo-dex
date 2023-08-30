@@ -1,0 +1,487 @@
+{
+"id": 640,
+"name": "Virizion",
+"exp_type": "SLOW",
+"obtainable": false,
+"gender_ratio": 255,
+"height": 20,
+"weight": 2000,
+"egg_groups": [
+	"cannot breed"
+],
+"abilities": [
+	{
+		"id": 154,
+		"name": "Justified"
+	},
+	{
+		"id": 0,
+		"name": "--"
+	},
+	{
+		"id": 0,
+		"name": "--"
+	}
+],
+"forms": [
+	{
+		"form_id": 0,
+		"id": 640,
+		"name": "Virizion"
+	}
+],
+"evolutions": [],
+"moves": [
+	{
+		"id": 24,
+		"name": "Double Kick",
+		"type": "level",
+		"level": 1
+	},
+	{
+		"id": 43,
+		"name": "Leer",
+		"type": "level",
+		"level": 1
+	},
+	{
+		"id": 98,
+		"name": "Quick Attack",
+		"type": "level",
+		"level": 1
+	},
+	{
+		"id": 270,
+		"name": "Helping Hand",
+		"type": "level",
+		"level": 1
+	},
+	{
+		"id": 345,
+		"name": "Magical Leaf",
+		"type": "level",
+		"level": 1
+	},
+	{
+		"id": 348,
+		"name": "Leaf Blade",
+		"type": "level",
+		"level": 1
+	},
+	{
+		"id": 370,
+		"name": "Close Combat",
+		"type": "level",
+		"level": 1
+	},
+	{
+		"id": 526,
+		"name": "Work Up",
+		"type": "level",
+		"level": 1
+	},
+	{
+		"id": 345,
+		"name": "Magical Leaf",
+		"type": "level",
+		"level": 7
+	},
+	{
+		"id": 270,
+		"name": "Helping Hand",
+		"type": "level",
+		"level": 13
+	},
+	{
+		"id": 501,
+		"name": "Quick Guard",
+		"type": "level",
+		"level": 14
+	},
+	{
+		"id": 24,
+		"name": "Double Kick",
+		"type": "level",
+		"level": 21
+	},
+	{
+		"id": 514,
+		"name": "Retaliate",
+		"type": "level",
+		"level": 28
+	},
+	{
+		"id": 202,
+		"name": "Giga Drain",
+		"type": "level",
+		"level": 35
+	},
+	{
+		"id": 36,
+		"name": "Take Down",
+		"type": "level",
+		"level": 42
+	},
+	{
+		"id": 526,
+		"name": "Work Up",
+		"type": "level",
+		"level": 49
+	},
+	{
+		"id": 533,
+		"name": "Sacred Sword",
+		"type": "level",
+		"level": 49
+	},
+	{
+		"id": 14,
+		"name": "Swords Dance",
+		"type": "level",
+		"level": 56
+	},
+	{
+		"id": 348,
+		"name": "Leaf Blade",
+		"type": "level",
+		"level": 63
+	},
+	{
+		"id": 370,
+		"name": "Close Combat",
+		"type": "level",
+		"level": 70
+	},
+	{
+		"id": 173,
+		"name": "Snore",
+		"type": "move_tutor"
+	},
+	{
+		"id": 235,
+		"name": "Synthesis",
+		"type": "move_tutor"
+	},
+	{
+		"id": 335,
+		"name": "Block",
+		"type": "move_tutor"
+	},
+	{
+		"id": 340,
+		"name": "Bounce",
+		"type": "move_tutor"
+	},
+	{
+		"id": 388,
+		"name": "Worry Seed",
+		"type": "move_tutor"
+	},
+	{
+		"id": 14,
+		"name": "Swords Dance",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 15,
+		"name": "Cut",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 36,
+		"name": "Take Down",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 46,
+		"name": "Roar",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 63,
+		"name": "Hyper Beam",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 70,
+		"name": "Strength",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 76,
+		"name": "SolarBeam",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 92,
+		"name": "Toxic",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 104,
+		"name": "Double Team",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 113,
+		"name": "Light Screen",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 115,
+		"name": "Reflect",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 129,
+		"name": "Swift",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 148,
+		"name": "Flash",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 156,
+		"name": "Rest",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 164,
+		"name": "Substitute",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 179,
+		"name": "Reversal",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 182,
+		"name": "Protect",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 202,
+		"name": "Giga Drain",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 203,
+		"name": "Endure",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 206,
+		"name": "False Swipe",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 207,
+		"name": "Swagger",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 214,
+		"name": "Sleep Talk",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 216,
+		"name": "Return",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 218,
+		"name": "Frustration",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 219,
+		"name": "Safeguard",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 224,
+		"name": "Megahorn",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 237,
+		"name": "Hidden Power",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 241,
+		"name": "Sunny Day",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 244,
+		"name": "Psych Up",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 249,
+		"name": "Rock Smash",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 263,
+		"name": "Facade",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 267,
+		"name": "Nature Power",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 269,
+		"name": "Taunt",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 270,
+		"name": "Helping Hand",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 276,
+		"name": "Superpower",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 279,
+		"name": "Revenge",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 280,
+		"name": "Brick Break",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 290,
+		"name": "Secret Power",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 332,
+		"name": "Aerial Ace",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 345,
+		"name": "Magical Leaf",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 347,
+		"name": "Calm Mind",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 348,
+		"name": "Leaf Blade",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 370,
+		"name": "Close Combat",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 402,
+		"name": "Seed Bomb",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 403,
+		"name": "Air Slash",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 404,
+		"name": "X-Scissor",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 411,
+		"name": "Focus Blast",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 412,
+		"name": "Energy Ball",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 416,
+		"name": "Giga Impact",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 428,
+		"name": "Zen Headbutt",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 437,
+		"name": "Leaf Storm",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 444,
+		"name": "Stone Edge",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 447,
+		"name": "Grass Knot",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 496,
+		"name": "Round",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 514,
+		"name": "Retaliate",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 526,
+		"name": "Work Up",
+		"type": "move_learner_tools"
+	}
+],
+"types": [
+	"GRASS",
+	"FIGHTING"
+],
+"stats": {
+	"hp": 91,
+	"attack": 90,
+	"defense": 72,
+	"speed": 108,
+	"sp_attack": 90,
+	"sp_defense": 129
+},
+"yields": {
+	"exp": 261,
+	"ev_hp": 0,
+	"ev_attack": 0,
+	"ev_defense": 0,
+	"ev_speed": 0,
+	"ev_sp_attack": 0,
+	"ev_sp_defense": 3
+},
+"tiers": [
+	"Ubers"
+],
+"held_items": [],
+"locations": []
+}

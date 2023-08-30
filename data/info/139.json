@@ -1,0 +1,614 @@
+{
+"id": 139,
+"name": "Omastar",
+"exp_type": "MEDIUM_FAST",
+"obtainable": true,
+"gender_ratio": 31,
+"height": 10,
+"weight": 350,
+"egg_groups": [
+	"water a",
+	"water c"
+],
+"abilities": [
+	{
+		"id": 33,
+		"name": "Swift Swim"
+	},
+	{
+		"id": 75,
+		"name": "Shell Armor"
+	},
+	{
+		"id": 133,
+		"name": "Weak Armor"
+	}
+],
+"forms": [
+	{
+		"form_id": 0,
+		"id": 139,
+		"name": "Omastar"
+	}
+],
+"evolutions": [],
+"moves": [
+	{
+		"id": 20,
+		"name": "Bind",
+		"type": "level",
+		"level": 1
+	},
+	{
+		"id": 28,
+		"name": "Sand-Attack",
+		"type": "level",
+		"level": 1
+	},
+	{
+		"id": 30,
+		"name": "Horn Attack",
+		"type": "level",
+		"level": 1
+	},
+	{
+		"id": 44,
+		"name": "Bite",
+		"type": "level",
+		"level": 1
+	},
+	{
+		"id": 56,
+		"name": "Hydro Pump",
+		"type": "level",
+		"level": 1
+	},
+	{
+		"id": 110,
+		"name": "Withdraw",
+		"type": "level",
+		"level": 1
+	},
+	{
+		"id": 132,
+		"name": "Constrict",
+		"type": "level",
+		"level": 1
+	},
+	{
+		"id": 205,
+		"name": "Rollout",
+		"type": "level",
+		"level": 1
+	},
+	{
+		"id": 242,
+		"name": "Crunch",
+		"type": "level",
+		"level": 1
+	},
+	{
+		"id": 131,
+		"name": "Spike Cannon",
+		"type": "level",
+		"level": 1
+	},
+	{
+		"id": 117,
+		"name": "Bide",
+		"type": "level",
+		"level": 1
+	},
+	{
+		"id": 48,
+		"name": "Supersonic",
+		"type": "level",
+		"level": 1
+	},
+	{
+		"id": 43,
+		"name": "Leer",
+		"type": "level",
+		"level": 1
+	},
+	{
+		"id": 55,
+		"name": "Water Gun",
+		"type": "level",
+		"level": 1
+	},
+	{
+		"id": 44,
+		"name": "Bite",
+		"type": "level",
+		"level": 7
+	},
+	{
+		"id": 43,
+		"name": "Leer",
+		"type": "level",
+		"level": 11
+	},
+	{
+		"id": 55,
+		"name": "Water Gun",
+		"type": "level",
+		"level": 15
+	},
+	{
+		"id": 205,
+		"name": "Rollout",
+		"type": "level",
+		"level": 16
+	},
+	{
+		"id": 341,
+		"name": "Mud Shot",
+		"type": "level",
+		"level": 25
+	},
+	{
+		"id": 88,
+		"name": "Rock Throw",
+		"type": "level",
+		"level": 26
+	},
+	{
+		"id": 246,
+		"name": "AncientPower",
+		"type": "level",
+		"level": 30
+	},
+	{
+		"id": 182,
+		"name": "Protect",
+		"type": "level",
+		"level": 33
+	},
+	{
+		"id": 30,
+		"name": "Horn Attack",
+		"type": "level",
+		"level": 34
+	},
+	{
+		"id": 362,
+		"name": "Brine",
+		"type": "level",
+		"level": 35
+	},
+	{
+		"id": 157,
+		"name": "Rock Slide",
+		"type": "level",
+		"level": 37
+	},
+	{
+		"id": 131,
+		"name": "Spike Cannon",
+		"type": "level",
+		"level": 40
+	},
+	{
+		"id": 321,
+		"name": "Tickle",
+		"type": "level",
+		"level": 48
+	},
+	{
+		"id": 350,
+		"name": "Rock Blast",
+		"type": "level",
+		"level": 49
+	},
+	{
+		"id": 56,
+		"name": "Hydro Pump",
+		"type": "level",
+		"level": 50
+	},
+	{
+		"id": 57,
+		"name": "Surf",
+		"type": "level",
+		"level": 56
+	},
+	{
+		"id": 504,
+		"name": "Shell Smash",
+		"type": "level",
+		"level": 60
+	},
+	{
+		"id": 20,
+		"name": "Bind",
+		"type": "move_tutor"
+	},
+	{
+		"id": 173,
+		"name": "Snore",
+		"type": "move_tutor"
+	},
+	{
+		"id": 246,
+		"name": "AncientPower",
+		"type": "move_tutor"
+	},
+	{
+		"id": 282,
+		"name": "Knock Off",
+		"type": "move_tutor"
+	},
+	{
+		"id": 29,
+		"name": "Headbutt",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 34,
+		"name": "Body Slam",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 36,
+		"name": "Take Down",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 38,
+		"name": "Double-Edge",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 42,
+		"name": "Pin Missile",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 55,
+		"name": "Water Gun",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 56,
+		"name": "Hydro Pump",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 57,
+		"name": "Surf",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 58,
+		"name": "Ice Beam",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 59,
+		"name": "Blizzard",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 61,
+		"name": "BubbleBeam",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 63,
+		"name": "Hyper Beam",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 66,
+		"name": "Submission",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 69,
+		"name": "Seismic Toss",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 92,
+		"name": "Toxic",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 99,
+		"name": "Rage",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 102,
+		"name": "Mimic",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 104,
+		"name": "Double Team",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 115,
+		"name": "Reflect",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 117,
+		"name": "Bide",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 127,
+		"name": "Waterfall",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 130,
+		"name": "Skull Bash",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 156,
+		"name": "Rest",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 157,
+		"name": "Rock Slide",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 164,
+		"name": "Substitute",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 168,
+		"name": "Thief",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 174,
+		"name": "Curse",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 182,
+		"name": "Protect",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 191,
+		"name": "Spikes",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 196,
+		"name": "Icy Wind",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 201,
+		"name": "Sandstorm",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 203,
+		"name": "Endure",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 205,
+		"name": "Rollout",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 207,
+		"name": "Swagger",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 213,
+		"name": "Attract",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 214,
+		"name": "Sleep Talk",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 216,
+		"name": "Return",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 218,
+		"name": "Frustration",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 237,
+		"name": "Hidden Power",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 240,
+		"name": "Rain Dance",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 242,
+		"name": "Crunch",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 249,
+		"name": "Rock Smash",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 250,
+		"name": "Whirlpool",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 258,
+		"name": "Snowscape",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 263,
+		"name": "Facade",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 290,
+		"name": "Secret Power",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 291,
+		"name": "Dive",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 317,
+		"name": "Rock Tomb",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 330,
+		"name": "Muddy Water",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 334,
+		"name": "Iron Defense",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 341,
+		"name": "Mud Shot",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 350,
+		"name": "Rock Blast",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 352,
+		"name": "Water Pulse",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 360,
+		"name": "Gyro Ball",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 362,
+		"name": "Brine",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 363,
+		"name": "Natural Gift",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 390,
+		"name": "Toxic Spikes",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 397,
+		"name": "Rock Polish",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 414,
+		"name": "Earth Power",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 416,
+		"name": "Giga Impact",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 431,
+		"name": "Rock Climb",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 444,
+		"name": "Stone Edge",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 445,
+		"name": "Captivate",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 446,
+		"name": "Stealth Rock",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 479,
+		"name": "Smack Down",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 496,
+		"name": "Round",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 503,
+		"name": "Scald",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 131,
+		"name": "Spike Cannon",
+		"type": "on_evolution"
+	},
+	{
+		"id": 242,
+		"name": "Crunch",
+		"type": "on_evolution"
+	}
+],
+"types": [
+	"ROCK",
+	"WATER"
+],
+"stats": {
+	"hp": 70,
+	"attack": 60,
+	"defense": 125,
+	"speed": 55,
+	"sp_attack": 115,
+	"sp_defense": 70
+},
+"yields": {
+	"exp": 173,
+	"ev_hp": 0,
+	"ev_attack": 0,
+	"ev_defense": 2,
+	"ev_speed": 0,
+	"ev_sp_attack": 0,
+	"ev_sp_defense": 0
+},
+"tiers": [
+	"Untiered"
+],
+"held_items": [],
+"locations": []
+}

@@ -1,0 +1,732 @@
+{
+"id": 446,
+"name": "Munchlax",
+"exp_type": "SLOW",
+"obtainable": true,
+"gender_ratio": 31,
+"height": 6,
+"weight": 1050,
+"egg_groups": [
+	"cannot breed"
+],
+"abilities": [
+	{
+		"id": 53,
+		"name": "Pickup"
+	},
+	{
+		"id": 47,
+		"name": "Thick Fat"
+	},
+	{
+		"id": 82,
+		"name": "Gluttony"
+	}
+],
+"forms": [
+	{
+		"form_id": 0,
+		"id": 446,
+		"name": "Munchlax"
+	}
+],
+"evolutions": [
+	{
+		"id": 143,
+		"name": "Snorlax",
+		"type": "HAPPINESS",
+		"val": 0
+	}
+],
+"moves": [
+	{
+		"id": 33,
+		"name": "Tackle",
+		"type": "level",
+		"level": 1
+	},
+	{
+		"id": 118,
+		"name": "Metronome",
+		"type": "level",
+		"level": 1
+	},
+	{
+		"id": 122,
+		"name": "Lick",
+		"type": "level",
+		"level": 1
+	},
+	{
+		"id": 278,
+		"name": "Recycle",
+		"type": "level",
+		"level": 1
+	},
+	{
+		"id": 316,
+		"name": "Odor Sleuth",
+		"type": "level",
+		"level": 1
+	},
+	{
+		"id": 387,
+		"name": "Last Resort",
+		"type": "level",
+		"level": 1
+	},
+	{
+		"id": 205,
+		"name": "Rollout",
+		"type": "level",
+		"level": 1
+	},
+	{
+		"id": 111,
+		"name": "Defense Curl",
+		"type": "level",
+		"level": 4
+	},
+	{
+		"id": 33,
+		"name": "Tackle",
+		"type": "level",
+		"level": 5
+	},
+	{
+		"id": 278,
+		"name": "Recycle",
+		"type": "level",
+		"level": 8
+	},
+	{
+		"id": 156,
+		"name": "Rest",
+		"type": "level",
+		"level": 9
+	},
+	{
+		"id": 122,
+		"name": "Lick",
+		"type": "level",
+		"level": 12
+	},
+	{
+		"id": 343,
+		"name": "Covet",
+		"type": "level",
+		"level": 12
+	},
+	{
+		"id": 523,
+		"name": "Bulldoze",
+		"type": "level",
+		"level": 15
+	},
+	{
+		"id": 44,
+		"name": "Bite",
+		"type": "level",
+		"level": 16
+	},
+	{
+		"id": 498,
+		"name": "Chip Away",
+		"type": "level",
+		"level": 17
+	},
+	{
+		"id": 254,
+		"name": "Stockpile",
+		"type": "level",
+		"level": 20
+	},
+	{
+		"id": 256,
+		"name": "Swallow",
+		"type": "level",
+		"level": 20
+	},
+	{
+		"id": 103,
+		"name": "Screech",
+		"type": "level",
+		"level": 24
+	},
+	{
+		"id": 34,
+		"name": "Body Slam",
+		"type": "level",
+		"level": 28
+	},
+	{
+		"id": 428,
+		"name": "Zen Headbutt",
+		"type": "level",
+		"level": 29
+	},
+	{
+		"id": 374,
+		"name": "Fling",
+		"type": "level",
+		"level": 32
+	},
+	{
+		"id": 133,
+		"name": "Amnesia",
+		"type": "level",
+		"level": 36
+	},
+	{
+		"id": 205,
+		"name": "Rollout",
+		"type": "level",
+		"level": 36
+	},
+	{
+		"id": 118,
+		"name": "Metronome",
+		"type": "level",
+		"level": 40
+	},
+	{
+		"id": 175,
+		"name": "Flail",
+		"type": "level",
+		"level": 44
+	},
+	{
+		"id": 38,
+		"name": "Double-Edge",
+		"type": "level",
+		"level": 46
+	},
+	{
+		"id": 187,
+		"name": "Belly Drum",
+		"type": "level",
+		"level": 48
+	},
+	{
+		"id": 363,
+		"name": "Natural Gift",
+		"type": "level",
+		"level": 49
+	},
+	{
+		"id": 289,
+		"name": "Snatch",
+		"type": "level",
+		"level": 50
+	},
+	{
+		"id": 387,
+		"name": "Last Resort",
+		"type": "level",
+		"level": 52
+	},
+	{
+		"id": 416,
+		"name": "Giga Impact",
+		"type": "level",
+		"level": 57
+	},
+	{
+		"id": 228,
+		"name": "Pursuit",
+		"type": "egg_moves"
+	},
+	{
+		"id": 111,
+		"name": "Defense Curl",
+		"type": "move_tutor"
+	},
+	{
+		"id": 173,
+		"name": "Snore",
+		"type": "move_tutor"
+	},
+	{
+		"id": 253,
+		"name": "Uproar",
+		"type": "move_tutor"
+	},
+	{
+		"id": 343,
+		"name": "Covet",
+		"type": "move_tutor"
+	},
+	{
+		"id": 387,
+		"name": "Last Resort",
+		"type": "move_tutor"
+	},
+	{
+		"id": 495,
+		"name": "After You",
+		"type": "move_tutor"
+	},
+	{
+		"id": 5,
+		"name": "Mega Punch",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 6,
+		"name": "Pay Day",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 7,
+		"name": "Fire Punch",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 8,
+		"name": "Ice Punch",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 9,
+		"name": "ThunderPunch",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 18,
+		"name": "Whirlwind",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 25,
+		"name": "Mega Kick",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 29,
+		"name": "Headbutt",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 34,
+		"name": "Body Slam",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 38,
+		"name": "Double-Edge",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 53,
+		"name": "Flamethrower",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 56,
+		"name": "Hydro Pump",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 57,
+		"name": "Surf",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 58,
+		"name": "Ice Beam",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 59,
+		"name": "Blizzard",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 68,
+		"name": "Counter",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 70,
+		"name": "Strength",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 76,
+		"name": "SolarBeam",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 85,
+		"name": "Thunderbolt",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 87,
+		"name": "Thunder",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 89,
+		"name": "Earthquake",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 90,
+		"name": "Fissure",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 92,
+		"name": "Toxic",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 94,
+		"name": "Psychic",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 103,
+		"name": "Screech",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 104,
+		"name": "Double Team",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 118,
+		"name": "Metronome",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 120,
+		"name": "Selfdestruct",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 126,
+		"name": "Fire Blast",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 133,
+		"name": "Amnesia",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 156,
+		"name": "Rest",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 157,
+		"name": "Rock Slide",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 164,
+		"name": "Substitute",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 174,
+		"name": "Curse",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 182,
+		"name": "Protect",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 189,
+		"name": "Mud-Slap",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 196,
+		"name": "Icy Wind",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 201,
+		"name": "Sandstorm",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 203,
+		"name": "Endure",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 204,
+		"name": "Charm",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 205,
+		"name": "Rollout",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 207,
+		"name": "Swagger",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 213,
+		"name": "Attract",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 214,
+		"name": "Sleep Talk",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 216,
+		"name": "Return",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 218,
+		"name": "Frustration",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 227,
+		"name": "Encore",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 237,
+		"name": "Hidden Power",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 240,
+		"name": "Rain Dance",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 241,
+		"name": "Sunny Day",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 247,
+		"name": "Shadow Ball",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 249,
+		"name": "Rock Smash",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 250,
+		"name": "Whirlpool",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 263,
+		"name": "Facade",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 264,
+		"name": "Focus Punch",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 276,
+		"name": "Superpower",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 278,
+		"name": "Recycle",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 280,
+		"name": "Brick Break",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 289,
+		"name": "Snatch",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 290,
+		"name": "Secret Power",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 304,
+		"name": "Hyper Voice",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 317,
+		"name": "Rock Tomb",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 351,
+		"name": "Shock Wave",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 352,
+		"name": "Water Pulse",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 363,
+		"name": "Natural Gift",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 374,
+		"name": "Fling",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 402,
+		"name": "Seed Bomb",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 416,
+		"name": "Giga Impact",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 428,
+		"name": "Zen Headbutt",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 431,
+		"name": "Rock Climb",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 441,
+		"name": "Gunk Shot",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 445,
+		"name": "Captivate",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 496,
+		"name": "Round",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 510,
+		"name": "Incinerate",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 514,
+		"name": "Retaliate",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 523,
+		"name": "Bulldoze",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 526,
+		"name": "Work Up",
+		"type": "move_learner_tools"
+	}
+],
+"types": [
+	"NORMAL",
+	"NORMAL"
+],
+"stats": {
+	"hp": 135,
+	"attack": 85,
+	"defense": 40,
+	"speed": 5,
+	"sp_attack": 40,
+	"sp_defense": 85
+},
+"yields": {
+	"exp": 78,
+	"ev_hp": 1,
+	"ev_attack": 0,
+	"ev_defense": 0,
+	"ev_speed": 0,
+	"ev_sp_attack": 0,
+	"ev_sp_defense": 0
+},
+"tiers": [
+	"Untiered"
+],
+"held_items": [
+	{
+		"id": 5234,
+		"name": "Leftovers"
+	}
+],
+"locations": [
+	{
+		"type": "Grass",
+		"region_id": 0,
+		"region_name": "Kanto",
+		"location": "BERRY FOREST",
+		"min_level": 43,
+		"max_level": 43,
+		"rarity": "Lure"
+	},
+	{
+		"type": "Honey Tree",
+		"region_id": 3,
+		"region_name": "Sinnoh",
+		"location": "Honey Tree",
+		"min_level": 15,
+		"max_level": 20,
+		"rarity": "Very Rare"
+	},
+	{
+		"type": "Headbutt",
+		"region_id": 4,
+		"region_name": "Johto",
+		"location": "Pokéathlon Dome",
+		"min_level": 16,
+		"max_level": 18,
+		"rarity": "Rare"
+	},
+	{
+		"type": "Headbutt",
+		"region_id": 4,
+		"region_name": "Johto",
+		"location": "Safari Zone",
+		"min_level": 28,
+		"max_level": 31,
+		"rarity": "Rare"
+	},
+	{
+		"type": "Headbutt",
+		"region_id": 4,
+		"region_name": "Johto",
+		"location": "Safari Zone Gate",
+		"min_level": 27,
+		"max_level": 30,
+		"rarity": "Rare"
+	}
+]
+}

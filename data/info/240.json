@@ -1,0 +1,547 @@
+{
+"id": 240,
+"name": "Magby",
+"exp_type": "MEDIUM_FAST",
+"obtainable": true,
+"gender_ratio": 63,
+"height": 7,
+"weight": 214,
+"egg_groups": [
+	"cannot breed"
+],
+"abilities": [
+	{
+		"id": 49,
+		"name": "Flame Body"
+	},
+	{
+		"id": 0,
+		"name": "--"
+	},
+	{
+		"id": 72,
+		"name": "Vital Spirit"
+	}
+],
+"forms": [
+	{
+		"form_id": 0,
+		"id": 240,
+		"name": "Magby"
+	}
+],
+"evolutions": [
+	{
+		"id": 126,
+		"name": "Magmar",
+		"type": "LEVEL",
+		"val": 30
+	}
+],
+"moves": [
+	{
+		"id": 43,
+		"name": "Leer",
+		"type": "level",
+		"level": 1
+	},
+	{
+		"id": 123,
+		"name": "Smog",
+		"type": "level",
+		"level": 1
+	},
+	{
+		"id": 52,
+		"name": "Ember",
+		"type": "level",
+		"level": 1
+	},
+	{
+		"id": 52,
+		"name": "Ember",
+		"type": "level",
+		"level": 4
+	},
+	{
+		"id": 33,
+		"name": "Tackle",
+		"type": "level",
+		"level": 6
+	},
+	{
+		"id": 108,
+		"name": "SmokeScreen",
+		"type": "level",
+		"level": 8
+	},
+	{
+		"id": 185,
+		"name": "Faint Attack",
+		"type": "level",
+		"level": 12
+	},
+	{
+		"id": 499,
+		"name": "Clear Smog",
+		"type": "level",
+		"level": 12
+	},
+	{
+		"id": 83,
+		"name": "Fire Spin",
+		"type": "level",
+		"level": 15
+	},
+	{
+		"id": 172,
+		"name": "Flame Wheel",
+		"type": "level",
+		"level": 16
+	},
+	{
+		"id": 139,
+		"name": "Poison Gas",
+		"type": "level",
+		"level": 18
+	},
+	{
+		"id": 109,
+		"name": "Confuse Ray",
+		"type": "level",
+		"level": 20
+	},
+	{
+		"id": 481,
+		"name": "Flame Burst",
+		"type": "level",
+		"level": 22
+	},
+	{
+		"id": 184,
+		"name": "Scary Face",
+		"type": "level",
+		"level": 24
+	},
+	{
+		"id": 7,
+		"name": "Fire Punch",
+		"type": "level",
+		"level": 28
+	},
+	{
+		"id": 436,
+		"name": "Lava Plume",
+		"type": "level",
+		"level": 32
+	},
+	{
+		"id": 67,
+		"name": "Low Kick",
+		"type": "level",
+		"level": 36
+	},
+	{
+		"id": 53,
+		"name": "Flamethrower",
+		"type": "level",
+		"level": 40
+	},
+	{
+		"id": 241,
+		"name": "Sunny Day",
+		"type": "level",
+		"level": 44
+	},
+	{
+		"id": 126,
+		"name": "Fire Blast",
+		"type": "level",
+		"level": 48
+	},
+	{
+		"id": 2,
+		"name": "Karate Chop",
+		"type": "egg_moves"
+	},
+	{
+		"id": 112,
+		"name": "Barrier",
+		"type": "egg_moves"
+	},
+	{
+		"id": 183,
+		"name": "Mach Punch",
+		"type": "egg_moves"
+	},
+	{
+		"id": 187,
+		"name": "Belly Drum",
+		"type": "egg_moves"
+	},
+	{
+		"id": 238,
+		"name": "Cross Chop",
+		"type": "egg_moves"
+	},
+	{
+		"id": 173,
+		"name": "Snore",
+		"type": "move_tutor"
+	},
+	{
+		"id": 185,
+		"name": "Faint Attack",
+		"type": "move_tutor"
+	},
+	{
+		"id": 253,
+		"name": "Uproar",
+		"type": "move_tutor"
+	},
+	{
+		"id": 343,
+		"name": "Covet",
+		"type": "move_tutor"
+	},
+	{
+		"id": 530,
+		"name": "Dual Chop",
+		"type": "move_tutor"
+	},
+	{
+		"id": 146,
+		"name": "Dizzy Punch",
+		"type": "special_moves"
+	},
+	{
+		"id": 5,
+		"name": "Mega Punch",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 7,
+		"name": "Fire Punch",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 9,
+		"name": "ThunderPunch",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 25,
+		"name": "Mega Kick",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 29,
+		"name": "Headbutt",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 34,
+		"name": "Body Slam",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 38,
+		"name": "Double-Edge",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 53,
+		"name": "Flamethrower",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 67,
+		"name": "Low Kick",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 68,
+		"name": "Counter",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 69,
+		"name": "Seismic Toss",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 83,
+		"name": "Fire Spin",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 92,
+		"name": "Toxic",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 94,
+		"name": "Psychic",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 102,
+		"name": "Mimic",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 103,
+		"name": "Screech",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 104,
+		"name": "Double Team",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 109,
+		"name": "Confuse Ray",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 116,
+		"name": "Focus Energy",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 126,
+		"name": "Fire Blast",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 156,
+		"name": "Rest",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 164,
+		"name": "Substitute",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 168,
+		"name": "Thief",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 174,
+		"name": "Curse",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 182,
+		"name": "Protect",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 184,
+		"name": "Scary Face",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 189,
+		"name": "Mud-Slap",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 197,
+		"name": "Detect",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 203,
+		"name": "Endure",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 207,
+		"name": "Swagger",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 213,
+		"name": "Attract",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 214,
+		"name": "Sleep Talk",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 216,
+		"name": "Return",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 218,
+		"name": "Frustration",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 223,
+		"name": "DynamicPunch",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 231,
+		"name": "Iron Tail",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 237,
+		"name": "Hidden Power",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 241,
+		"name": "Sunny Day",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 249,
+		"name": "Rock Smash",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 257,
+		"name": "Heat Wave",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 261,
+		"name": "Will-O-Wisp",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 263,
+		"name": "Facade",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 264,
+		"name": "Focus Punch",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 270,
+		"name": "Helping Hand",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 280,
+		"name": "Brick Break",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 290,
+		"name": "Secret Power",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 315,
+		"name": "Overheat",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 363,
+		"name": "Natural Gift",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 374,
+		"name": "Fling",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 384,
+		"name": "Power Swap",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 394,
+		"name": "Flare Blitz",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 445,
+		"name": "Captivate",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 488,
+		"name": "Flame Charge",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 496,
+		"name": "Round",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 510,
+		"name": "Incinerate",
+		"type": "move_learner_tools"
+	}
+],
+"types": [
+	"FIRE",
+	"FIRE"
+],
+"stats": {
+	"hp": 45,
+	"attack": 75,
+	"defense": 37,
+	"speed": 83,
+	"sp_attack": 70,
+	"sp_defense": 55
+},
+"yields": {
+	"exp": 73,
+	"ev_hp": 0,
+	"ev_attack": 0,
+	"ev_defense": 0,
+	"ev_speed": 1,
+	"ev_sp_attack": 0,
+	"ev_sp_defense": 0
+},
+"tiers": [
+	"Untiered"
+],
+"held_items": [
+	{
+		"id": 5152,
+		"name": "Rawst Berry"
+	},
+	{
+		"id": 5323,
+		"name": "Magmarizer"
+	}
+],
+"locations": [
+	{
+		"type": "Inside",
+		"region_id": 0,
+		"region_name": "Kanto",
+		"location": "POKéMON MANSION",
+		"min_level": 36,
+		"max_level": 36,
+		"rarity": "Lure"
+	},
+	{
+		"type": "Cave",
+		"region_id": 4,
+		"region_name": "Johto",
+		"location": "Burned Tower",
+		"min_level": 18,
+		"max_level": 20,
+		"rarity": "Uncommon"
+	}
+]
+}

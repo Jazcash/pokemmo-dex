@@ -1,0 +1,12 @@
+{
+"id": 27,
+"name": "Rolling Kick",
+"skill_damage_type": "PHYSICAL",
+"base_power": 60,
+"base_accuracy": 85,
+"base_pp": 15,
+"priority": 0,
+"type": "FIGHTING",
+"target_type": 0,
+"true_damage": false
+}

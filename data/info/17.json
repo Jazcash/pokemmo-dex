@@ -1,0 +1,1206 @@
+{
+"id": 17,
+"name": "Pidgeotto",
+"exp_type": "MEDIUM_SLOW",
+"obtainable": true,
+"gender_ratio": 127,
+"height": 11,
+"weight": 300,
+"egg_groups": [
+	"flying"
+],
+"abilities": [
+	{
+		"id": 51,
+		"name": "Keen Eye"
+	},
+	{
+		"id": 77,
+		"name": "Tangled Feet"
+	},
+	{
+		"id": 145,
+		"name": "Big Pecks"
+	}
+],
+"forms": [
+	{
+		"form_id": 0,
+		"id": 17,
+		"name": "Pidgeotto"
+	}
+],
+"evolutions": [
+	{
+		"id": 18,
+		"name": "Pidgeot",
+		"type": "LEVEL",
+		"val": 36
+	}
+],
+"moves": [
+	{
+		"id": 16,
+		"name": "Gust",
+		"type": "level",
+		"level": 1
+	},
+	{
+		"id": 28,
+		"name": "Sand-Attack",
+		"type": "level",
+		"level": 1
+	},
+	{
+		"id": 33,
+		"name": "Tackle",
+		"type": "level",
+		"level": 1
+	},
+	{
+		"id": 98,
+		"name": "Quick Attack",
+		"type": "level",
+		"level": 1
+	},
+	{
+		"id": 28,
+		"name": "Sand-Attack",
+		"type": "level",
+		"level": 3
+	},
+	{
+		"id": 16,
+		"name": "Gust",
+		"type": "level",
+		"level": 5
+	},
+	{
+		"id": 98,
+		"name": "Quick Attack",
+		"type": "level",
+		"level": 9
+	},
+	{
+		"id": 119,
+		"name": "Mirror Move",
+		"type": "level",
+		"level": 11
+	},
+	{
+		"id": 17,
+		"name": "Wing Attack",
+		"type": "level",
+		"level": 15
+	},
+	{
+		"id": 18,
+		"name": "Whirlwind",
+		"type": "level",
+		"level": 17
+	},
+	{
+		"id": 355,
+		"name": "Roost",
+		"type": "level",
+		"level": 17
+	},
+	{
+		"id": 239,
+		"name": "Twister",
+		"type": "level",
+		"level": 22
+	},
+	{
+		"id": 297,
+		"name": "FeatherDance",
+		"type": "level",
+		"level": 27
+	},
+	{
+		"id": 97,
+		"name": "Agility",
+		"type": "level",
+		"level": 31
+	},
+	{
+		"id": 403,
+		"name": "Air Slash",
+		"type": "level",
+		"level": 39
+	},
+	{
+		"id": 13,
+		"name": "Razor Wind",
+		"type": "level",
+		"level": 45
+	},
+	{
+		"id": 366,
+		"name": "Tailwind",
+		"type": "level",
+		"level": 47
+	},
+	{
+		"id": 332,
+		"name": "Aerial Ace",
+		"type": "level",
+		"level": 52
+	},
+	{
+		"id": 542,
+		"name": "Hurricane",
+		"type": "level",
+		"level": 62
+	},
+	{
+		"id": 143,
+		"name": "Sky Attack",
+		"type": "move_tutor"
+	},
+	{
+		"id": 173,
+		"name": "Snore",
+		"type": "move_tutor"
+	},
+	{
+		"id": 185,
+		"name": "Faint Attack",
+		"type": "move_tutor"
+	},
+	{
+		"id": 239,
+		"name": "Twister",
+		"type": "move_tutor"
+	},
+	{
+		"id": 253,
+		"name": "Uproar",
+		"type": "move_tutor"
+	},
+	{
+		"id": 466,
+		"name": "Ominous Wind",
+		"type": "move_tutor"
+	},
+	{
+		"id": 287,
+		"name": "Refresh",
+		"type": "special_moves"
+	},
+	{
+		"id": 13,
+		"name": "Razor Wind",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 18,
+		"name": "Whirlwind",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 19,
+		"name": "Fly",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 29,
+		"name": "Headbutt",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 36,
+		"name": "Take Down",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 38,
+		"name": "Double-Edge",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 92,
+		"name": "Toxic",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 97,
+		"name": "Agility",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 99,
+		"name": "Rage",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 102,
+		"name": "Mimic",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 104,
+		"name": "Double Team",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 115,
+		"name": "Reflect",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 117,
+		"name": "Bide",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 129,
+		"name": "Swift",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 156,
+		"name": "Rest",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 164,
+		"name": "Substitute",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 168,
+		"name": "Thief",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 174,
+		"name": "Curse",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 182,
+		"name": "Protect",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 189,
+		"name": "Mud-Slap",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 197,
+		"name": "Detect",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 203,
+		"name": "Endure",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 207,
+		"name": "Swagger",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 211,
+		"name": "Steel Wing",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 213,
+		"name": "Attract",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 214,
+		"name": "Sleep Talk",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 216,
+		"name": "Return",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 218,
+		"name": "Frustration",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 237,
+		"name": "Hidden Power",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 240,
+		"name": "Rain Dance",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 241,
+		"name": "Sunny Day",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 257,
+		"name": "Heat Wave",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 263,
+		"name": "Facade",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 290,
+		"name": "Secret Power",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 314,
+		"name": "Air Cutter",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 332,
+		"name": "Aerial Ace",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 355,
+		"name": "Roost",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 363,
+		"name": "Natural Gift",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 365,
+		"name": "Pluck",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 366,
+		"name": "Tailwind",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 369,
+		"name": "U-turn",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 403,
+		"name": "Air Slash",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 413,
+		"name": "Brave Bird",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 432,
+		"name": "Defog",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 445,
+		"name": "Captivate",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 496,
+		"name": "Round",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 526,
+		"name": "Work Up",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 542,
+		"name": "Hurricane",
+		"type": "move_learner_tools"
+	}
+],
+"types": [
+	"NORMAL",
+	"FLYING"
+],
+"stats": {
+	"hp": 63,
+	"attack": 60,
+	"defense": 55,
+	"speed": 71,
+	"sp_attack": 50,
+	"sp_defense": 50
+},
+"yields": {
+	"exp": 122,
+	"ev_hp": 0,
+	"ev_attack": 0,
+	"ev_defense": 0,
+	"ev_speed": 2,
+	"ev_sp_attack": 0,
+	"ev_sp_defense": 0
+},
+"tiers": [
+	"Untiered"
+],
+"held_items": [],
+"locations": [
+	{
+		"type": "Grass",
+		"region_id": 0,
+		"region_name": "Kanto",
+		"location": "BERRY FOREST",
+		"min_level": 43,
+		"max_level": 45,
+		"rarity": "Uncommon"
+	},
+	{
+		"type": "Grass",
+		"region_id": 0,
+		"region_name": "Kanto",
+		"location": "BERRY FOREST",
+		"min_level": 43,
+		"max_level": 45,
+		"rarity": "Uncommon"
+	},
+	{
+		"type": "Grass",
+		"region_id": 0,
+		"region_name": "Kanto",
+		"location": "BERRY FOREST",
+		"min_level": 43,
+		"max_level": 45,
+		"rarity": "Uncommon"
+	},
+	{
+		"type": "Grass",
+		"region_id": 0,
+		"region_name": "Kanto",
+		"location": "BERRY FOREST",
+		"min_level": 43,
+		"max_level": 45,
+		"rarity": "Uncommon"
+	},
+	{
+		"type": "Grass",
+		"region_id": 0,
+		"region_name": "Kanto",
+		"location": "BOND BRIDGE",
+		"min_level": 42,
+		"max_level": 44,
+		"rarity": "Uncommon"
+	},
+	{
+		"type": "Grass",
+		"region_id": 0,
+		"region_name": "Kanto",
+		"location": "BOND BRIDGE",
+		"min_level": 42,
+		"max_level": 44,
+		"rarity": "Uncommon"
+	},
+	{
+		"type": "Grass",
+		"region_id": 0,
+		"region_name": "Kanto",
+		"location": "BOND BRIDGE",
+		"min_level": 42,
+		"max_level": 44,
+		"rarity": "Uncommon"
+	},
+	{
+		"type": "Grass",
+		"region_id": 0,
+		"region_name": "Kanto",
+		"location": "BOND BRIDGE (Day/Morning/SEASON3)",
+		"min_level": 42,
+		"max_level": 44,
+		"rarity": "Uncommon"
+	},
+	{
+		"type": "Grass",
+		"region_id": 0,
+		"region_name": "Kanto",
+		"location": "FIVE ISLE MEADOW",
+		"min_level": 46,
+		"max_level": 48,
+		"rarity": "Horde"
+	},
+	{
+		"type": "Grass",
+		"region_id": 0,
+		"region_name": "Kanto",
+		"location": "FIVE ISLE MEADOW",
+		"min_level": 48,
+		"max_level": 50,
+		"rarity": "Uncommon"
+	},
+	{
+		"type": "Grass",
+		"region_id": 0,
+		"region_name": "Kanto",
+		"location": "FIVE ISLE MEADOW",
+		"min_level": 48,
+		"max_level": 50,
+		"rarity": "Uncommon"
+	},
+	{
+		"type": "Grass",
+		"region_id": 0,
+		"region_name": "Kanto",
+		"location": "FIVE ISLE MEADOW",
+		"min_level": 48,
+		"max_level": 50,
+		"rarity": "Uncommon"
+	},
+	{
+		"type": "Grass",
+		"region_id": 0,
+		"region_name": "Kanto",
+		"location": "FIVE ISLE MEADOW",
+		"min_level": 48,
+		"max_level": 50,
+		"rarity": "Uncommon"
+	},
+	{
+		"type": "Grass",
+		"region_id": 0,
+		"region_name": "Kanto",
+		"location": "ROUTE 7 (Day/Morning/SEASON0)",
+		"min_level": 18,
+		"max_level": 20,
+		"rarity": "Rare"
+	},
+	{
+		"type": "Grass",
+		"region_id": 0,
+		"region_name": "Kanto",
+		"location": "ROUTE 7 (Day/Morning/SEASON1)",
+		"min_level": 18,
+		"max_level": 20,
+		"rarity": "Rare"
+	},
+	{
+		"type": "Grass",
+		"region_id": 0,
+		"region_name": "Kanto",
+		"location": "ROUTE 7 (Day/Morning/SEASON2)",
+		"min_level": 18,
+		"max_level": 20,
+		"rarity": "Rare"
+	},
+	{
+		"type": "Grass",
+		"region_id": 0,
+		"region_name": "Kanto",
+		"location": "ROUTE 8 (Day/Morning/SEASON0)",
+		"min_level": 18,
+		"max_level": 20,
+		"rarity": "Rare"
+	},
+	{
+		"type": "Grass",
+		"region_id": 0,
+		"region_name": "Kanto",
+		"location": "ROUTE 8 (Day/Morning/SEASON1)",
+		"min_level": 18,
+		"max_level": 20,
+		"rarity": "Rare"
+	},
+	{
+		"type": "Grass",
+		"region_id": 0,
+		"region_name": "Kanto",
+		"location": "ROUTE 8 (Day/Morning/SEASON2)",
+		"min_level": 18,
+		"max_level": 20,
+		"rarity": "Rare"
+	},
+	{
+		"type": "Grass",
+		"region_id": 0,
+		"region_name": "Kanto",
+		"location": "ROUTE 11 (Day/Morning/SEASON0)",
+		"min_level": 18,
+		"max_level": 18,
+		"rarity": "Rare"
+	},
+	{
+		"type": "Grass",
+		"region_id": 0,
+		"region_name": "Kanto",
+		"location": "ROUTE 11 (Day/Morning/SEASON1)",
+		"min_level": 18,
+		"max_level": 18,
+		"rarity": "Rare"
+	},
+	{
+		"type": "Grass",
+		"region_id": 0,
+		"region_name": "Kanto",
+		"location": "ROUTE 11 (Day/Morning/SEASON2)",
+		"min_level": 18,
+		"max_level": 18,
+		"rarity": "Rare"
+	},
+	{
+		"type": "Grass",
+		"region_id": 0,
+		"region_name": "Kanto",
+		"location": "ROUTE 12",
+		"min_level": 26,
+		"max_level": 28,
+		"rarity": "Uncommon"
+	},
+	{
+		"type": "Grass",
+		"region_id": 0,
+		"region_name": "Kanto",
+		"location": "ROUTE 12",
+		"min_level": 26,
+		"max_level": 28,
+		"rarity": "Uncommon"
+	},
+	{
+		"type": "Grass",
+		"region_id": 0,
+		"region_name": "Kanto",
+		"location": "ROUTE 12",
+		"min_level": 26,
+		"max_level": 28,
+		"rarity": "Uncommon"
+	},
+	{
+		"type": "Grass",
+		"region_id": 0,
+		"region_name": "Kanto",
+		"location": "ROUTE 12 (Day/Morning/SEASON3)",
+		"min_level": 26,
+		"max_level": 28,
+		"rarity": "Rare"
+	},
+	{
+		"type": "Grass",
+		"region_id": 0,
+		"region_name": "Kanto",
+		"location": "ROUTE 13",
+		"min_level": 29,
+		"max_level": 29,
+		"rarity": "Uncommon"
+	},
+	{
+		"type": "Grass",
+		"region_id": 0,
+		"region_name": "Kanto",
+		"location": "ROUTE 13",
+		"min_level": 29,
+		"max_level": 29,
+		"rarity": "Uncommon"
+	},
+	{
+		"type": "Grass",
+		"region_id": 0,
+		"region_name": "Kanto",
+		"location": "ROUTE 13",
+		"min_level": 29,
+		"max_level": 29,
+		"rarity": "Uncommon"
+	},
+	{
+		"type": "Grass",
+		"region_id": 0,
+		"region_name": "Kanto",
+		"location": "ROUTE 13 (Day/Morning/SEASON3)",
+		"min_level": 29,
+		"max_level": 29,
+		"rarity": "Rare"
+	},
+	{
+		"type": "Grass",
+		"region_id": 0,
+		"region_name": "Kanto",
+		"location": "ROUTE 14",
+		"min_level": 29,
+		"max_level": 29,
+		"rarity": "Uncommon"
+	},
+	{
+		"type": "Grass",
+		"region_id": 0,
+		"region_name": "Kanto",
+		"location": "ROUTE 14",
+		"min_level": 29,
+		"max_level": 29,
+		"rarity": "Uncommon"
+	},
+	{
+		"type": "Grass",
+		"region_id": 0,
+		"region_name": "Kanto",
+		"location": "ROUTE 14",
+		"min_level": 29,
+		"max_level": 29,
+		"rarity": "Uncommon"
+	},
+	{
+		"type": "Grass",
+		"region_id": 0,
+		"region_name": "Kanto",
+		"location": "ROUTE 14",
+		"min_level": 29,
+		"max_level": 29,
+		"rarity": "Uncommon"
+	},
+	{
+		"type": "Grass",
+		"region_id": 0,
+		"region_name": "Kanto",
+		"location": "ROUTE 15",
+		"min_level": 29,
+		"max_level": 29,
+		"rarity": "Uncommon"
+	},
+	{
+		"type": "Grass",
+		"region_id": 0,
+		"region_name": "Kanto",
+		"location": "ROUTE 15",
+		"min_level": 29,
+		"max_level": 29,
+		"rarity": "Uncommon"
+	},
+	{
+		"type": "Grass",
+		"region_id": 0,
+		"region_name": "Kanto",
+		"location": "ROUTE 15",
+		"min_level": 29,
+		"max_level": 29,
+		"rarity": "Uncommon"
+	},
+	{
+		"type": "Grass",
+		"region_id": 0,
+		"region_name": "Kanto",
+		"location": "ROUTE 15",
+		"min_level": 29,
+		"max_level": 29,
+		"rarity": "Rare"
+	},
+	{
+		"type": "Grass",
+		"region_id": 0,
+		"region_name": "Kanto",
+		"location": "ROUTE 21",
+		"min_level": 30,
+		"max_level": 32,
+		"rarity": "Uncommon"
+	},
+	{
+		"type": "Grass",
+		"region_id": 0,
+		"region_name": "Kanto",
+		"location": "ROUTE 21",
+		"min_level": 30,
+		"max_level": 32,
+		"rarity": "Uncommon"
+	},
+	{
+		"type": "Grass",
+		"region_id": 0,
+		"region_name": "Kanto",
+		"location": "ROUTE 21",
+		"min_level": 30,
+		"max_level": 32,
+		"rarity": "Uncommon"
+	},
+	{
+		"type": "Grass",
+		"region_id": 0,
+		"region_name": "Kanto",
+		"location": "ROUTE 21",
+		"min_level": 30,
+		"max_level": 32,
+		"rarity": "Rare"
+	},
+	{
+		"type": "Grass",
+		"region_id": 4,
+		"region_name": "Johto",
+		"location": "Route 37 (Day/SEASON0)",
+		"min_level": 18,
+		"max_level": 19,
+		"rarity": "Uncommon"
+	},
+	{
+		"type": "Grass",
+		"region_id": 4,
+		"region_name": "Johto",
+		"location": "Route 37 (Day/SEASON1)",
+		"min_level": 18,
+		"max_level": 19,
+		"rarity": "Uncommon"
+	},
+	{
+		"type": "Grass",
+		"region_id": 4,
+		"region_name": "Johto",
+		"location": "Route 37 (Day/SEASON2)",
+		"min_level": 18,
+		"max_level": 19,
+		"rarity": "Uncommon"
+	},
+	{
+		"type": "Grass",
+		"region_id": 4,
+		"region_name": "Johto",
+		"location": "Route 37 (Day/SEASON3)",
+		"min_level": 18,
+		"max_level": 19,
+		"rarity": "Rare"
+	},
+	{
+		"type": "Grass",
+		"region_id": 4,
+		"region_name": "Johto",
+		"location": "Route 38 (Day/Morning/SEASON0)",
+		"min_level": 19,
+		"max_level": 20,
+		"rarity": "Uncommon"
+	},
+	{
+		"type": "Grass",
+		"region_id": 4,
+		"region_name": "Johto",
+		"location": "Route 38 (Day/Morning/SEASON1)",
+		"min_level": 19,
+		"max_level": 20,
+		"rarity": "Uncommon"
+	},
+	{
+		"type": "Grass",
+		"region_id": 4,
+		"region_name": "Johto",
+		"location": "Route 38 (Day/Morning/SEASON2)",
+		"min_level": 19,
+		"max_level": 20,
+		"rarity": "Uncommon"
+	},
+	{
+		"type": "Grass",
+		"region_id": 4,
+		"region_name": "Johto",
+		"location": "Route 38 (Day/Morning/SEASON3)",
+		"min_level": 19,
+		"max_level": 20,
+		"rarity": "Rare"
+	},
+	{
+		"type": "Headbutt",
+		"region_id": 4,
+		"region_name": "Johto",
+		"location": "Route 38",
+		"min_level": 19,
+		"max_level": 20,
+		"rarity": "Very Common"
+	},
+	{
+		"type": "Headbutt",
+		"region_id": 4,
+		"region_name": "Johto",
+		"location": "Route 38",
+		"min_level": 19,
+		"max_level": 20,
+		"rarity": "Very Common"
+	},
+	{
+		"type": "Headbutt",
+		"region_id": 4,
+		"region_name": "Johto",
+		"location": "Route 38",
+		"min_level": 19,
+		"max_level": 20,
+		"rarity": "Very Common"
+	},
+	{
+		"type": "Headbutt",
+		"region_id": 4,
+		"region_name": "Johto",
+		"location": "Route 38",
+		"min_level": 19,
+		"max_level": 20,
+		"rarity": "Very Common"
+	},
+	{
+		"type": "Grass",
+		"region_id": 4,
+		"region_name": "Johto",
+		"location": "Route 39 (Day/Morning)",
+		"min_level": 18,
+		"max_level": 18,
+		"rarity": "Horde"
+	},
+	{
+		"type": "Grass",
+		"region_id": 4,
+		"region_name": "Johto",
+		"location": "Route 39 (Day/Morning/SEASON0)",
+		"min_level": 19,
+		"max_level": 21,
+		"rarity": "Uncommon"
+	},
+	{
+		"type": "Grass",
+		"region_id": 4,
+		"region_name": "Johto",
+		"location": "Route 39 (Day/Morning/SEASON1)",
+		"min_level": 19,
+		"max_level": 21,
+		"rarity": "Uncommon"
+	},
+	{
+		"type": "Grass",
+		"region_id": 4,
+		"region_name": "Johto",
+		"location": "Route 39 (Day/Morning/SEASON2)",
+		"min_level": 19,
+		"max_level": 21,
+		"rarity": "Uncommon"
+	},
+	{
+		"type": "Grass",
+		"region_id": 4,
+		"region_name": "Johto",
+		"location": "Route 39 (Day/Morning/SEASON3)",
+		"min_level": 19,
+		"max_level": 21,
+		"rarity": "Rare"
+	},
+	{
+		"type": "Headbutt",
+		"region_id": 4,
+		"region_name": "Johto",
+		"location": "Route 39",
+		"min_level": 19,
+		"max_level": 21,
+		"rarity": "Very Common"
+	},
+	{
+		"type": "Headbutt",
+		"region_id": 4,
+		"region_name": "Johto",
+		"location": "Route 39",
+		"min_level": 19,
+		"max_level": 21,
+		"rarity": "Very Common"
+	},
+	{
+		"type": "Headbutt",
+		"region_id": 4,
+		"region_name": "Johto",
+		"location": "Route 39",
+		"min_level": 19,
+		"max_level": 21,
+		"rarity": "Very Common"
+	},
+	{
+		"type": "Headbutt",
+		"region_id": 4,
+		"region_name": "Johto",
+		"location": "Route 39",
+		"min_level": 19,
+		"max_level": 21,
+		"rarity": "Very Common"
+	},
+	{
+		"type": "Grass",
+		"region_id": 4,
+		"region_name": "Johto",
+		"location": "Route 43 (Day/Morning/SEASON0)",
+		"min_level": 26,
+		"max_level": 28,
+		"rarity": "Common"
+	},
+	{
+		"type": "Grass",
+		"region_id": 4,
+		"region_name": "Johto",
+		"location": "Route 43 (Day/Morning/SEASON1)",
+		"min_level": 26,
+		"max_level": 28,
+		"rarity": "Common"
+	},
+	{
+		"type": "Grass",
+		"region_id": 4,
+		"region_name": "Johto",
+		"location": "Route 43 (Day/Morning/SEASON2)",
+		"min_level": 26,
+		"max_level": 28,
+		"rarity": "Common"
+	},
+	{
+		"type": "Grass",
+		"region_id": 4,
+		"region_name": "Johto",
+		"location": "Route 43 (Day/Morning/SEASON3)",
+		"min_level": 26,
+		"max_level": 28,
+		"rarity": "Uncommon"
+	},
+	{
+		"type": "Headbutt",
+		"region_id": 4,
+		"region_name": "Johto",
+		"location": "Route 47",
+		"min_level": 27,
+		"max_level": 30,
+		"rarity": "Very Common"
+	},
+	{
+		"type": "Headbutt",
+		"region_id": 4,
+		"region_name": "Johto",
+		"location": "Route 47",
+		"min_level": 27,
+		"max_level": 30,
+		"rarity": "Very Common"
+	},
+	{
+		"type": "Headbutt",
+		"region_id": 4,
+		"region_name": "Johto",
+		"location": "Route 47",
+		"min_level": 27,
+		"max_level": 30,
+		"rarity": "Very Common"
+	},
+	{
+		"type": "Headbutt",
+		"region_id": 4,
+		"region_name": "Johto",
+		"location": "Route 47",
+		"min_level": 27,
+		"max_level": 30,
+		"rarity": "Common"
+	},
+	{
+		"type": "Headbutt",
+		"region_id": 4,
+		"region_name": "Johto",
+		"location": "Route 48",
+		"min_level": 27,
+		"max_level": 30,
+		"rarity": "Very Common"
+	},
+	{
+		"type": "Headbutt",
+		"region_id": 4,
+		"region_name": "Johto",
+		"location": "Route 48",
+		"min_level": 27,
+		"max_level": 30,
+		"rarity": "Very Common"
+	},
+	{
+		"type": "Headbutt",
+		"region_id": 4,
+		"region_name": "Johto",
+		"location": "Route 48",
+		"min_level": 27,
+		"max_level": 30,
+		"rarity": "Very Common"
+	},
+	{
+		"type": "Headbutt",
+		"region_id": 4,
+		"region_name": "Johto",
+		"location": "Route 48",
+		"min_level": 27,
+		"max_level": 30,
+		"rarity": "Common"
+	},
+	{
+		"type": "Headbutt",
+		"region_id": 4,
+		"region_name": "Johto",
+		"location": "Safari Zone",
+		"min_level": 28,
+		"max_level": 31,
+		"rarity": "Very Common"
+	},
+	{
+		"type": "Headbutt",
+		"region_id": 4,
+		"region_name": "Johto",
+		"location": "Safari Zone",
+		"min_level": 28,
+		"max_level": 31,
+		"rarity": "Very Common"
+	},
+	{
+		"type": "Headbutt",
+		"region_id": 4,
+		"region_name": "Johto",
+		"location": "Safari Zone",
+		"min_level": 28,
+		"max_level": 31,
+		"rarity": "Very Common"
+	},
+	{
+		"type": "Headbutt",
+		"region_id": 4,
+		"region_name": "Johto",
+		"location": "Safari Zone",
+		"min_level": 28,
+		"max_level": 31,
+		"rarity": "Very Common"
+	},
+	{
+		"type": "Headbutt",
+		"region_id": 4,
+		"region_name": "Johto",
+		"location": "Safari Zone Gate",
+		"min_level": 27,
+		"max_level": 30,
+		"rarity": "Common"
+	},
+	{
+		"type": "Headbutt",
+		"region_id": 4,
+		"region_name": "Johto",
+		"location": "Safari Zone Gate",
+		"min_level": 27,
+		"max_level": 30,
+		"rarity": "Common"
+	},
+	{
+		"type": "Headbutt",
+		"region_id": 4,
+		"region_name": "Johto",
+		"location": "Safari Zone Gate",
+		"min_level": 27,
+		"max_level": 30,
+		"rarity": "Common"
+	},
+	{
+		"type": "Headbutt",
+		"region_id": 4,
+		"region_name": "Johto",
+		"location": "Safari Zone Gate",
+		"min_level": 27,
+		"max_level": 30,
+		"rarity": "Common"
+	}
+]
+}

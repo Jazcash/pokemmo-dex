@@ -1,0 +1,12 @@
+{
+"id": 97,
+"name": "Agility",
+"skill_damage_type": "STATUS",
+"base_power": 0,
+"base_accuracy": 101,
+"base_pp": 30,
+"priority": 0,
+"type": "PSYCHIC",
+"target_type": 7,
+"true_damage": false
+}

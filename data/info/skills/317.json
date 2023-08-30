@@ -1,0 +1,12 @@
+{
+"id": 317,
+"name": "Rock Tomb",
+"skill_damage_type": "PHYSICAL",
+"base_power": 60,
+"base_accuracy": 95,
+"base_pp": 10,
+"priority": 0,
+"type": "ROCK",
+"target_type": 0,
+"true_damage": false
+}

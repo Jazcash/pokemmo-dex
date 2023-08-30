@@ -1,0 +1,559 @@
+{
+"id": 630,
+"name": "Mandibuzz",
+"exp_type": "SLOW",
+"obtainable": true,
+"gender_ratio": 254,
+"height": 12,
+"weight": 395,
+"egg_groups": [
+	"flying"
+],
+"abilities": [
+	{
+		"id": 145,
+		"name": "Big Pecks"
+	},
+	{
+		"id": 142,
+		"name": "Overcoat"
+	},
+	{
+		"id": 133,
+		"name": "Weak Armor"
+	}
+],
+"forms": [
+	{
+		"form_id": 0,
+		"id": 630,
+		"name": "Mandibuzz"
+	}
+],
+"evolutions": [],
+"moves": [
+	{
+		"id": 16,
+		"name": "Gust",
+		"type": "level",
+		"level": 1
+	},
+	{
+		"id": 18,
+		"name": "Whirlwind",
+		"type": "level",
+		"level": 1
+	},
+	{
+		"id": 31,
+		"name": "Fury Attack",
+		"type": "level",
+		"level": 1
+	},
+	{
+		"id": 43,
+		"name": "Leer",
+		"type": "level",
+		"level": 1
+	},
+	{
+		"id": 92,
+		"name": "Toxic",
+		"type": "level",
+		"level": 1
+	},
+	{
+		"id": 119,
+		"name": "Mirror Move",
+		"type": "level",
+		"level": 1
+	},
+	{
+		"id": 143,
+		"name": "Sky Attack",
+		"type": "level",
+		"level": 1
+	},
+	{
+		"id": 198,
+		"name": "Bone Rush",
+		"type": "level",
+		"level": 1
+	},
+	{
+		"id": 260,
+		"name": "Flatter",
+		"type": "level",
+		"level": 1
+	},
+	{
+		"id": 365,
+		"name": "Pluck",
+		"type": "level",
+		"level": 1
+	},
+	{
+		"id": 413,
+		"name": "Brave Bird",
+		"type": "level",
+		"level": 1
+	},
+	{
+		"id": 31,
+		"name": "Fury Attack",
+		"type": "level",
+		"level": 5
+	},
+	{
+		"id": 365,
+		"name": "Pluck",
+		"type": "level",
+		"level": 10
+	},
+	{
+		"id": 366,
+		"name": "Tailwind",
+		"type": "level",
+		"level": 18
+	},
+	{
+		"id": 260,
+		"name": "Flatter",
+		"type": "level",
+		"level": 19
+	},
+	{
+		"id": 185,
+		"name": "Faint Attack",
+		"type": "level",
+		"level": 23
+	},
+	{
+		"id": 282,
+		"name": "Knock Off",
+		"type": "level",
+		"level": 24
+	},
+	{
+		"id": 386,
+		"name": "Punishment",
+		"type": "level",
+		"level": 28
+	},
+	{
+		"id": 334,
+		"name": "Iron Defense",
+		"type": "level",
+		"level": 30
+	},
+	{
+		"id": 18,
+		"name": "Whirlwind",
+		"type": "level",
+		"level": 36
+	},
+	{
+		"id": 403,
+		"name": "Air Slash",
+		"type": "level",
+		"level": 42
+	},
+	{
+		"id": 399,
+		"name": "Dark Pulse",
+		"type": "level",
+		"level": 48
+	},
+	{
+		"id": 373,
+		"name": "Embargo",
+		"type": "level",
+		"level": 50
+	},
+	{
+		"id": 198,
+		"name": "Bone Rush",
+		"type": "level",
+		"level": 51
+	},
+	{
+		"id": 417,
+		"name": "Nasty Plot",
+		"type": "level",
+		"level": 57
+	},
+	{
+		"id": 432,
+		"name": "Defog",
+		"type": "level",
+		"level": 64
+	},
+	{
+		"id": 119,
+		"name": "Mirror Move",
+		"type": "level",
+		"level": 70
+	},
+	{
+		"id": 213,
+		"name": "Attract",
+		"type": "level",
+		"level": 72
+	},
+	{
+		"id": 413,
+		"name": "Brave Bird",
+		"type": "level",
+		"level": 80
+	},
+	{
+		"id": 143,
+		"name": "Sky Attack",
+		"type": "move_tutor"
+	},
+	{
+		"id": 173,
+		"name": "Snore",
+		"type": "move_tutor"
+	},
+	{
+		"id": 185,
+		"name": "Faint Attack",
+		"type": "move_tutor"
+	},
+	{
+		"id": 282,
+		"name": "Knock Off",
+		"type": "move_tutor"
+	},
+	{
+		"id": 335,
+		"name": "Block",
+		"type": "move_tutor"
+	},
+	{
+		"id": 15,
+		"name": "Cut",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 18,
+		"name": "Whirlwind",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 19,
+		"name": "Fly",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 63,
+		"name": "Hyper Beam",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 92,
+		"name": "Toxic",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 104,
+		"name": "Double Team",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 129,
+		"name": "Swift",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 156,
+		"name": "Rest",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 164,
+		"name": "Substitute",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 168,
+		"name": "Thief",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 182,
+		"name": "Protect",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 184,
+		"name": "Scary Face",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 203,
+		"name": "Endure",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 207,
+		"name": "Swagger",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 211,
+		"name": "Steel Wing",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 213,
+		"name": "Attract",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 214,
+		"name": "Sleep Talk",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 216,
+		"name": "Return",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 218,
+		"name": "Frustration",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 237,
+		"name": "Hidden Power",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 240,
+		"name": "Rain Dance",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 241,
+		"name": "Sunny Day",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 244,
+		"name": "Psych Up",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 247,
+		"name": "Shadow Ball",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 249,
+		"name": "Rock Smash",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 257,
+		"name": "Heat Wave",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 259,
+		"name": "Torment",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 263,
+		"name": "Facade",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 269,
+		"name": "Taunt",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 289,
+		"name": "Snatch",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 290,
+		"name": "Secret Power",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 313,
+		"name": "Fake Tears",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 317,
+		"name": "Rock Tomb",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 332,
+		"name": "Aerial Ace",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 334,
+		"name": "Iron Defense",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 355,
+		"name": "Roost",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 365,
+		"name": "Pluck",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 366,
+		"name": "Tailwind",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 369,
+		"name": "U-turn",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 371,
+		"name": "Payback",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 372,
+		"name": "Assurance",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 373,
+		"name": "Embargo",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 399,
+		"name": "Dark Pulse",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 403,
+		"name": "Air Slash",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 413,
+		"name": "Brave Bird",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 416,
+		"name": "Giga Impact",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 417,
+		"name": "Nasty Plot",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 432,
+		"name": "Defog",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 492,
+		"name": "Foul Play",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 496,
+		"name": "Round",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 510,
+		"name": "Incinerate",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 514,
+		"name": "Retaliate",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 555,
+		"name": "Snarl",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 198,
+		"name": "Bone Rush",
+		"type": "on_evolution"
+	}
+],
+"types": [
+	"DARK",
+	"FLYING"
+],
+"stats": {
+	"hp": 110,
+	"attack": 65,
+	"defense": 105,
+	"speed": 80,
+	"sp_attack": 55,
+	"sp_defense": 95
+},
+"yields": {
+	"exp": 179,
+	"ev_hp": 0,
+	"ev_attack": 0,
+	"ev_defense": 0,
+	"ev_speed": 0,
+	"ev_sp_attack": 2,
+	"ev_sp_defense": 0
+},
+"tiers": [
+	"Under Used"
+],
+"held_items": [],
+"locations": [
+	{
+		"type": "Dark Grass",
+		"region_id": 2,
+		"region_name": "Unova",
+		"location": "Route 11",
+		"min_level": 54,
+		"max_level": 55,
+		"rarity": "Uncommon"
+	},
+	{
+		"type": "Shadow",
+		"region_id": 2,
+		"region_name": "Unova",
+		"location": "Route 12",
+		"min_level": 60,
+		"max_level": 65,
+		"rarity": "Special"
+	},
+	{
+		"type": "Shadow",
+		"region_id": 2,
+		"region_name": "Unova",
+		"location": "Route 15",
+		"min_level": 60,
+		"max_level": 65,
+		"rarity": "Special"
+	}
+]
+}

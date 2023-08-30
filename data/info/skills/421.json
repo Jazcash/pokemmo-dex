@@ -1,0 +1,12 @@
+{
+"id": 421,
+"name": "Shadow Claw",
+"skill_damage_type": "PHYSICAL",
+"base_power": 70,
+"base_accuracy": 100,
+"base_pp": 15,
+"priority": 0,
+"type": "GHOST",
+"target_type": 0,
+"true_damage": false
+}

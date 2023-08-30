@@ -1,0 +1,12 @@
+{
+"id": 25,
+"name": "Mega Kick",
+"skill_damage_type": "PHYSICAL",
+"base_power": 120,
+"base_accuracy": 75,
+"base_pp": 5,
+"priority": 0,
+"type": "NORMAL",
+"target_type": 0,
+"true_damage": false
+}

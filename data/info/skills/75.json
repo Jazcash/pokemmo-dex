@@ -1,0 +1,12 @@
+{
+"id": 75,
+"name": "Razor Leaf",
+"skill_damage_type": "PHYSICAL",
+"base_power": 55,
+"base_accuracy": 95,
+"base_pp": 25,
+"priority": 0,
+"type": "GRASS",
+"target_type": 5,
+"true_damage": false
+}

@@ -1,0 +1,430 @@
+{
+"id": 584,
+"name": "Vanilluxe",
+"exp_type": "SLOW",
+"obtainable": true,
+"gender_ratio": 127,
+"height": 13,
+"weight": 575,
+"egg_groups": [
+	"mineral"
+],
+"abilities": [
+	{
+		"id": 115,
+		"name": "Ice Body"
+	},
+	{
+		"id": 117,
+		"name": "Snow Warning"
+	},
+	{
+		"id": 133,
+		"name": "Weak Armor"
+	}
+],
+"forms": [
+	{
+		"form_id": 0,
+		"id": 584,
+		"name": "Vanilluxe"
+	}
+],
+"evolutions": [],
+"moves": [
+	{
+		"id": 54,
+		"name": "Mist",
+		"type": "level",
+		"level": 1
+	},
+	{
+		"id": 106,
+		"name": "Harden",
+		"type": "level",
+		"level": 1
+	},
+	{
+		"id": 253,
+		"name": "Uproar",
+		"type": "level",
+		"level": 1
+	},
+	{
+		"id": 269,
+		"name": "Taunt",
+		"type": "level",
+		"level": 1
+	},
+	{
+		"id": 310,
+		"name": "Astonish",
+		"type": "level",
+		"level": 1
+	},
+	{
+		"id": 311,
+		"name": "Weather Ball",
+		"type": "level",
+		"level": 1
+	},
+	{
+		"id": 329,
+		"name": "Sheer Cold",
+		"type": "level",
+		"level": 1
+	},
+	{
+		"id": 333,
+		"name": "Icicle Spear",
+		"type": "level",
+		"level": 1
+	},
+	{
+		"id": 556,
+		"name": "Icicle Crash",
+		"type": "level",
+		"level": 1
+	},
+	{
+		"id": 106,
+		"name": "Harden",
+		"type": "level",
+		"level": 4
+	},
+	{
+		"id": 310,
+		"name": "Astonish",
+		"type": "level",
+		"level": 7
+	},
+	{
+		"id": 196,
+		"name": "Icy Wind",
+		"type": "level",
+		"level": 12
+	},
+	{
+		"id": 54,
+		"name": "Mist",
+		"type": "level",
+		"level": 16
+	},
+	{
+		"id": 419,
+		"name": "Avalanche",
+		"type": "level",
+		"level": 16
+	},
+	{
+		"id": 258,
+		"name": "Snowscape",
+		"type": "level",
+		"level": 20
+	},
+	{
+		"id": 269,
+		"name": "Taunt",
+		"type": "level",
+		"level": 22
+	},
+	{
+		"id": 333,
+		"name": "Icicle Spear",
+		"type": "level",
+		"level": 24
+	},
+	{
+		"id": 429,
+		"name": "Mirror Shot",
+		"type": "level",
+		"level": 26
+	},
+	{
+		"id": 253,
+		"name": "Uproar",
+		"type": "level",
+		"level": 28
+	},
+	{
+		"id": 151,
+		"name": "Acid Armor",
+		"type": "level",
+		"level": 32
+	},
+	{
+		"id": 243,
+		"name": "Mirror Coat",
+		"type": "level",
+		"level": 38
+	},
+	{
+		"id": 58,
+		"name": "Ice Beam",
+		"type": "level",
+		"level": 44
+	},
+	{
+		"id": 59,
+		"name": "Blizzard",
+		"type": "level",
+		"level": 52
+	},
+	{
+		"id": 329,
+		"name": "Sheer Cold",
+		"type": "level",
+		"level": 60
+	},
+	{
+		"id": 173,
+		"name": "Snore",
+		"type": "move_tutor"
+	},
+	{
+		"id": 253,
+		"name": "Uproar",
+		"type": "move_tutor"
+	},
+	{
+		"id": 277,
+		"name": "Magic Coat",
+		"type": "move_tutor"
+	},
+	{
+		"id": 324,
+		"name": "Signal Beam",
+		"type": "move_tutor"
+	},
+	{
+		"id": 393,
+		"name": "Magnet Rise",
+		"type": "move_tutor"
+	},
+	{
+		"id": 58,
+		"name": "Ice Beam",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 59,
+		"name": "Blizzard",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 63,
+		"name": "Hyper Beam",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 92,
+		"name": "Toxic",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 104,
+		"name": "Double Team",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 113,
+		"name": "Light Screen",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 120,
+		"name": "Selfdestruct",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 153,
+		"name": "Explosion",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 156,
+		"name": "Rest",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 164,
+		"name": "Substitute",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 182,
+		"name": "Protect",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 196,
+		"name": "Icy Wind",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 203,
+		"name": "Endure",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 207,
+		"name": "Swagger",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 213,
+		"name": "Attract",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 214,
+		"name": "Sleep Talk",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 216,
+		"name": "Return",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 218,
+		"name": "Frustration",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 237,
+		"name": "Hidden Power",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 240,
+		"name": "Rain Dance",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 251,
+		"name": "Beat Up",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 258,
+		"name": "Snowscape",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 263,
+		"name": "Facade",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 269,
+		"name": "Taunt",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 286,
+		"name": "Imprison",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 290,
+		"name": "Secret Power",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 304,
+		"name": "Hyper Voice",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 311,
+		"name": "Weather Ball",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 333,
+		"name": "Icicle Spear",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 334,
+		"name": "Iron Defense",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 352,
+		"name": "Water Pulse",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 363,
+		"name": "Natural Gift",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 416,
+		"name": "Giga Impact",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 419,
+		"name": "Avalanche",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 430,
+		"name": "Flash Cannon",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 496,
+		"name": "Round",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 502,
+		"name": "Ally Switch",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 524,
+		"name": "Frost Breath",
+		"type": "move_learner_tools"
+	}
+],
+"types": [
+	"ICE",
+	"ICE"
+],
+"stats": {
+	"hp": 71,
+	"attack": 95,
+	"defense": 85,
+	"speed": 79,
+	"sp_attack": 110,
+	"sp_defense": 95
+},
+"yields": {
+	"exp": 241,
+	"ev_hp": 0,
+	"ev_attack": 0,
+	"ev_defense": 0,
+	"ev_speed": 0,
+	"ev_sp_attack": 3,
+	"ev_sp_defense": 0
+},
+"tiers": [
+	"Untiered"
+],
+"held_items": [
+	{
+		"id": 5246,
+		"name": "NeverMeltIce"
+	},
+	{
+		"id": 5282,
+		"name": "Icy Rock"
+	}
+],
+"locations": []
+}

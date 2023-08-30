@@ -1,0 +1,12 @@
+{
+"id": 5,
+"name": "Mega Punch",
+"skill_damage_type": "PHYSICAL",
+"base_power": 80,
+"base_accuracy": 85,
+"base_pp": 20,
+"priority": 0,
+"type": "NORMAL",
+"target_type": 0,
+"true_damage": false
+}

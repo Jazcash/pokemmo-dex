@@ -1,0 +1,281 @@
+{
+"id": 201,
+"name": "Unown",
+"exp_type": "MEDIUM_FAST",
+"obtainable": true,
+"gender_ratio": 255,
+"height": 5,
+"weight": 50,
+"egg_groups": [
+	"cannot breed"
+],
+"abilities": [
+	{
+		"id": 26,
+		"name": "Levitate"
+	},
+	{
+		"id": 0,
+		"name": "--"
+	},
+	{
+		"id": 0,
+		"name": "--"
+	}
+],
+"forms": [
+	{
+		"form_id": 0,
+		"id": 201,
+		"name": "Unown"
+	},
+	{
+		"form_id": 1,
+		"id": 201,
+		"name": "Unown"
+	},
+	{
+		"form_id": 2,
+		"id": 201,
+		"name": "Unown"
+	},
+	{
+		"form_id": 3,
+		"id": 201,
+		"name": "Unown"
+	},
+	{
+		"form_id": 4,
+		"id": 201,
+		"name": "Unown"
+	},
+	{
+		"form_id": 5,
+		"id": 201,
+		"name": "Unown"
+	},
+	{
+		"form_id": 6,
+		"id": 201,
+		"name": "Unown"
+	},
+	{
+		"form_id": 7,
+		"id": 201,
+		"name": "Unown"
+	},
+	{
+		"form_id": 8,
+		"id": 201,
+		"name": "Unown"
+	},
+	{
+		"form_id": 9,
+		"id": 201,
+		"name": "Unown"
+	},
+	{
+		"form_id": 10,
+		"id": 201,
+		"name": "Unown"
+	},
+	{
+		"form_id": 11,
+		"id": 201,
+		"name": "Unown"
+	},
+	{
+		"form_id": 12,
+		"id": 201,
+		"name": "Unown"
+	},
+	{
+		"form_id": 13,
+		"id": 201,
+		"name": "Unown"
+	},
+	{
+		"form_id": 14,
+		"id": 201,
+		"name": "Unown"
+	},
+	{
+		"form_id": 15,
+		"id": 201,
+		"name": "Unown"
+	},
+	{
+		"form_id": 16,
+		"id": 201,
+		"name": "Unown"
+	},
+	{
+		"form_id": 17,
+		"id": 201,
+		"name": "Unown"
+	},
+	{
+		"form_id": 18,
+		"id": 201,
+		"name": "Unown"
+	},
+	{
+		"form_id": 19,
+		"id": 201,
+		"name": "Unown"
+	},
+	{
+		"form_id": 20,
+		"id": 201,
+		"name": "Unown"
+	},
+	{
+		"form_id": 21,
+		"id": 201,
+		"name": "Unown"
+	},
+	{
+		"form_id": 22,
+		"id": 201,
+		"name": "Unown"
+	},
+	{
+		"form_id": 23,
+		"id": 201,
+		"name": "Unown"
+	},
+	{
+		"form_id": 24,
+		"id": 201,
+		"name": "Unown"
+	},
+	{
+		"form_id": 25,
+		"id": 201,
+		"name": "Unown"
+	},
+	{
+		"form_id": 26,
+		"id": 201,
+		"name": "Unown"
+	},
+	{
+		"form_id": 27,
+		"id": 201,
+		"name": "Unown"
+	}
+],
+"evolutions": [],
+"moves": [
+	{
+		"id": 237,
+		"name": "Hidden Power",
+		"type": "level",
+		"level": 1
+	},
+	{
+		"id": 237,
+		"name": "Hidden Power",
+		"type": "move_learner_tools"
+	}
+],
+"types": [
+	"PSYCHIC",
+	"PSYCHIC"
+],
+"stats": {
+	"hp": 48,
+	"attack": 72,
+	"defense": 48,
+	"speed": 48,
+	"sp_attack": 72,
+	"sp_defense": 48
+},
+"yields": {
+	"exp": 118,
+	"ev_hp": 0,
+	"ev_attack": 1,
+	"ev_defense": 0,
+	"ev_speed": 0,
+	"ev_sp_attack": 1,
+	"ev_sp_defense": 0
+},
+"tiers": [
+	"Untiered"
+],
+"held_items": [],
+"locations": [
+	{
+		"type": "Cave",
+		"region_id": 0,
+		"region_name": "Kanto",
+		"location": "DILFORD CHAMBER",
+		"min_level": 25,
+		"max_level": 25,
+		"rarity": "Very Common"
+	},
+	{
+		"type": "Cave",
+		"region_id": 0,
+		"region_name": "Kanto",
+		"location": "LIPTOO CHAMBER",
+		"min_level": 25,
+		"max_level": 25,
+		"rarity": "Very Common"
+	},
+	{
+		"type": "Cave",
+		"region_id": 0,
+		"region_name": "Kanto",
+		"location": "MONEAN CHAMBER",
+		"min_level": 25,
+		"max_level": 25,
+		"rarity": "Very Common"
+	},
+	{
+		"type": "Cave",
+		"region_id": 0,
+		"region_name": "Kanto",
+		"location": "RIXY CHAMBER",
+		"min_level": 25,
+		"max_level": 25,
+		"rarity": "Very Common"
+	},
+	{
+		"type": "Cave",
+		"region_id": 0,
+		"region_name": "Kanto",
+		"location": "SCUFIB CHAMBER",
+		"min_level": 25,
+		"max_level": 25,
+		"rarity": "Very Common"
+	},
+	{
+		"type": "Cave",
+		"region_id": 0,
+		"region_name": "Kanto",
+		"location": "VIAPOIS CHAMBER",
+		"min_level": 25,
+		"max_level": 25,
+		"rarity": "Very Common"
+	},
+	{
+		"type": "Cave",
+		"region_id": 0,
+		"region_name": "Kanto",
+		"location": "WEEPTH CHAMBER",
+		"min_level": 25,
+		"max_level": 25,
+		"rarity": "Very Common"
+	},
+	{
+		"type": "Cave",
+		"region_id": 3,
+		"region_name": "Sinnoh",
+		"location": "Solaceon Ruins",
+		"min_level": 20,
+		"max_level": 30,
+		"rarity": "Uncommon"
+	}
+]
+}

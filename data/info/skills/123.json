@@ -1,0 +1,12 @@
+{
+"id": 123,
+"name": "Smog",
+"skill_damage_type": "SPECIAL",
+"base_power": 20,
+"base_accuracy": 70,
+"base_pp": 20,
+"priority": 0,
+"type": "POISON",
+"target_type": 0,
+"true_damage": false
+}

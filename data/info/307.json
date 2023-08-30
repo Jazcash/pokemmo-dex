@@ -1,0 +1,877 @@
+{
+"id": 307,
+"name": "Meditite",
+"exp_type": "MEDIUM_FAST",
+"obtainable": true,
+"gender_ratio": 127,
+"height": 6,
+"weight": 112,
+"egg_groups": [
+	"humanoid"
+],
+"abilities": [
+	{
+		"id": 74,
+		"name": "Pure Power"
+	},
+	{
+		"id": 0,
+		"name": "--"
+	},
+	{
+		"id": 140,
+		"name": "Telepathy"
+	}
+],
+"forms": [
+	{
+		"form_id": 0,
+		"id": 307,
+		"name": "Meditite"
+	}
+],
+"evolutions": [
+	{
+		"id": 308,
+		"name": "Medicham",
+		"type": "LEVEL",
+		"val": 37
+	}
+],
+"moves": [
+	{
+		"id": 117,
+		"name": "Bide",
+		"type": "level",
+		"level": 1
+	},
+	{
+		"id": 1,
+		"name": "Pound",
+		"type": "level",
+		"level": 1
+	},
+	{
+		"id": 93,
+		"name": "Confusion",
+		"type": "level",
+		"level": 1
+	},
+	{
+		"id": 526,
+		"name": "Work Up",
+		"type": "level",
+		"level": 1
+	},
+	{
+		"id": 96,
+		"name": "Meditate",
+		"type": "level",
+		"level": 4
+	},
+	{
+		"id": 67,
+		"name": "Low Kick",
+		"type": "level",
+		"level": 4
+	},
+	{
+		"id": 93,
+		"name": "Confusion",
+		"type": "level",
+		"level": 7
+	},
+	{
+		"id": 197,
+		"name": "Detect",
+		"type": "level",
+		"level": 9
+	},
+	{
+		"id": 203,
+		"name": "Endure",
+		"type": "level",
+		"level": 12
+	},
+	{
+		"id": 364,
+		"name": "Feint",
+		"type": "level",
+		"level": 15
+	},
+	{
+		"id": 395,
+		"name": "Force Palm",
+		"type": "level",
+		"level": 17
+	},
+	{
+		"id": 207,
+		"name": "Swagger",
+		"type": "level",
+		"level": 20
+	},
+	{
+		"id": 237,
+		"name": "Hidden Power",
+		"type": "level",
+		"level": 20
+	},
+	{
+		"id": 60,
+		"name": "Psybeam",
+		"type": "level",
+		"level": 20
+	},
+	{
+		"id": 347,
+		"name": "Calm Mind",
+		"type": "level",
+		"level": 23
+	},
+	{
+		"id": 170,
+		"name": "Mind Reader",
+		"type": "level",
+		"level": 25
+	},
+	{
+		"id": 428,
+		"name": "Zen Headbutt",
+		"type": "level",
+		"level": 25
+	},
+	{
+		"id": 136,
+		"name": "Hi Jump Kick",
+		"type": "level",
+		"level": 28
+	},
+	{
+		"id": 244,
+		"name": "Psych Up",
+		"type": "level",
+		"level": 31
+	},
+	{
+		"id": 367,
+		"name": "Acupressure",
+		"type": "level",
+		"level": 33
+	},
+	{
+		"id": 379,
+		"name": "Power Trick",
+		"type": "level",
+		"level": 36
+	},
+	{
+		"id": 179,
+		"name": "Reversal",
+		"type": "level",
+		"level": 39
+	},
+	{
+		"id": 105,
+		"name": "Recover",
+		"type": "level",
+		"level": 41
+	},
+	{
+		"id": 68,
+		"name": "Counter",
+		"type": "level",
+		"level": 44
+	},
+	{
+		"id": 193,
+		"name": "Foresight",
+		"type": "egg_moves"
+	},
+	{
+		"id": 418,
+		"name": "Bullet Punch",
+		"type": "egg_moves"
+	},
+	{
+		"id": 501,
+		"name": "Quick Guard",
+		"type": "egg_moves"
+	},
+	{
+		"id": 173,
+		"name": "Snore",
+		"type": "move_tutor"
+	},
+	{
+		"id": 220,
+		"name": "Pain Split",
+		"type": "move_tutor"
+	},
+	{
+		"id": 252,
+		"name": "Fake Out",
+		"type": "move_tutor"
+	},
+	{
+		"id": 272,
+		"name": "Role Play",
+		"type": "move_tutor"
+	},
+	{
+		"id": 277,
+		"name": "Magic Coat",
+		"type": "move_tutor"
+	},
+	{
+		"id": 324,
+		"name": "Signal Beam",
+		"type": "move_tutor"
+	},
+	{
+		"id": 356,
+		"name": "Gravity",
+		"type": "move_tutor"
+	},
+	{
+		"id": 410,
+		"name": "Vacuum Wave",
+		"type": "move_tutor"
+	},
+	{
+		"id": 5,
+		"name": "Mega Punch",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 7,
+		"name": "Fire Punch",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 8,
+		"name": "Ice Punch",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 9,
+		"name": "ThunderPunch",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 25,
+		"name": "Mega Kick",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 29,
+		"name": "Headbutt",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 34,
+		"name": "Body Slam",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 36,
+		"name": "Take Down",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 38,
+		"name": "Double-Edge",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 60,
+		"name": "Psybeam",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 67,
+		"name": "Low Kick",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 68,
+		"name": "Counter",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 69,
+		"name": "Seismic Toss",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 70,
+		"name": "Strength",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 92,
+		"name": "Toxic",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 94,
+		"name": "Psychic",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 101,
+		"name": "Night Shade",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 102,
+		"name": "Mimic",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 104,
+		"name": "Double Team",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 113,
+		"name": "Light Screen",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 115,
+		"name": "Reflect",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 117,
+		"name": "Bide",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 118,
+		"name": "Metronome",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 129,
+		"name": "Swift",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 138,
+		"name": "Dream Eater",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 148,
+		"name": "Flash",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 156,
+		"name": "Rest",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 157,
+		"name": "Rock Slide",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 164,
+		"name": "Substitute",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 168,
+		"name": "Thief",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 179,
+		"name": "Reversal",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 182,
+		"name": "Protect",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 189,
+		"name": "Mud-Slap",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 197,
+		"name": "Detect",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 203,
+		"name": "Endure",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 207,
+		"name": "Swagger",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 213,
+		"name": "Attract",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 214,
+		"name": "Sleep Talk",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 216,
+		"name": "Return",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 218,
+		"name": "Frustration",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 223,
+		"name": "DynamicPunch",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 226,
+		"name": "Baton Pass",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 237,
+		"name": "Hidden Power",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 240,
+		"name": "Rain Dance",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 241,
+		"name": "Sunny Day",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 244,
+		"name": "Psych Up",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 247,
+		"name": "Shadow Ball",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 249,
+		"name": "Rock Smash",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 263,
+		"name": "Facade",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 264,
+		"name": "Focus Punch",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 269,
+		"name": "Taunt",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 270,
+		"name": "Helping Hand",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 271,
+		"name": "Trick",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 278,
+		"name": "Recycle",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 280,
+		"name": "Brick Break",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 285,
+		"name": "Skill Swap",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 286,
+		"name": "Imprison",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 290,
+		"name": "Secret Power",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 317,
+		"name": "Rock Tomb",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 332,
+		"name": "Aerial Ace",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 339,
+		"name": "Bulk Up",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 347,
+		"name": "Calm Mind",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 363,
+		"name": "Natural Gift",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 370,
+		"name": "Close Combat",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 374,
+		"name": "Fling",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 384,
+		"name": "Power Swap",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 385,
+		"name": "Guard Swap",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 398,
+		"name": "Poison Jab",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 409,
+		"name": "Drain Punch",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 411,
+		"name": "Focus Blast",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 427,
+		"name": "Psycho Cut",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 428,
+		"name": "Zen Headbutt",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 433,
+		"name": "Trick Room",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 445,
+		"name": "Captivate",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 447,
+		"name": "Grass Knot",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 473,
+		"name": "Psyshock",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 477,
+		"name": "Telekinesis",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 490,
+		"name": "Low Sweep",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 496,
+		"name": "Round",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 500,
+		"name": "Stored Power",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 514,
+		"name": "Retaliate",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 526,
+		"name": "Work Up",
+		"type": "move_learner_tools"
+	}
+],
+"types": [
+	"FIGHTING",
+	"PSYCHIC"
+],
+"stats": {
+	"hp": 30,
+	"attack": 40,
+	"defense": 55,
+	"speed": 60,
+	"sp_attack": 40,
+	"sp_defense": 55
+},
+"yields": {
+	"exp": 56,
+	"ev_hp": 0,
+	"ev_attack": 0,
+	"ev_defense": 0,
+	"ev_speed": 1,
+	"ev_sp_attack": 0,
+	"ev_sp_defense": 0
+},
+"tiers": [
+	"Untiered"
+],
+"held_items": [],
+"locations": [
+	{
+		"type": "Grass",
+		"region_id": 1,
+		"region_name": "Hoenn",
+		"location": "MT. PYRE",
+		"min_level": 28,
+		"max_level": 31,
+		"rarity": "Very Common"
+	},
+	{
+		"type": "Grass",
+		"region_id": 1,
+		"region_name": "Hoenn",
+		"location": "MT. PYRE (Day/Morning)",
+		"min_level": 27,
+		"max_level": 29,
+		"rarity": "Horde"
+	},
+	{
+		"type": "Cave",
+		"region_id": 1,
+		"region_name": "Hoenn",
+		"location": "VICTORY ROAD",
+		"min_level": 38,
+		"max_level": 38,
+		"rarity": "Very Rare"
+	},
+	{
+		"type": "Grass",
+		"region_id": 3,
+		"region_name": "Sinnoh",
+		"location": "Acuity Lakefront",
+		"min_level": 35,
+		"max_level": 35,
+		"rarity": "Uncommon"
+	},
+	{
+		"type": "Grass",
+		"region_id": 3,
+		"region_name": "Sinnoh",
+		"location": "Acuity Lakefront",
+		"min_level": 35,
+		"max_level": 35,
+		"rarity": "Common"
+	},
+	{
+		"type": "Grass",
+		"region_id": 3,
+		"region_name": "Sinnoh",
+		"location": "Acuity Lakefront",
+		"min_level": 35,
+		"max_level": 35,
+		"rarity": "Uncommon"
+	},
+	{
+		"type": "Grass",
+		"region_id": 3,
+		"region_name": "Sinnoh",
+		"location": "Acuity Lakefront",
+		"min_level": 35,
+		"max_level": 35,
+		"rarity": "Uncommon"
+	},
+	{
+		"type": "Cave",
+		"region_id": 3,
+		"region_name": "Sinnoh",
+		"location": "Mt. Coronet",
+		"min_level": 14,
+		"max_level": 35,
+		"rarity": "Common"
+	},
+	{
+		"type": "Cave",
+		"region_id": 3,
+		"region_name": "Sinnoh",
+		"location": "Mt. Coronet",
+		"min_level": 31,
+		"max_level": 32,
+		"rarity": "Horde"
+	},
+	{
+		"type": "Grass",
+		"region_id": 3,
+		"region_name": "Sinnoh",
+		"location": "Route 208",
+		"min_level": 18,
+		"max_level": 19,
+		"rarity": "Uncommon"
+	},
+	{
+		"type": "Grass",
+		"region_id": 3,
+		"region_name": "Sinnoh",
+		"location": "Route 210",
+		"min_level": 27,
+		"max_level": 29,
+		"rarity": "Rare"
+	},
+	{
+		"type": "Grass",
+		"region_id": 3,
+		"region_name": "Sinnoh",
+		"location": "Route 211",
+		"min_level": 12,
+		"max_level": 14,
+		"rarity": "Horde"
+	},
+	{
+		"type": "Grass",
+		"region_id": 3,
+		"region_name": "Sinnoh",
+		"location": "Route 211",
+		"min_level": 13,
+		"max_level": 29,
+		"rarity": "Common"
+	},
+	{
+		"type": "Grass",
+		"region_id": 3,
+		"region_name": "Sinnoh",
+		"location": "Route 216",
+		"min_level": 32,
+		"max_level": 34,
+		"rarity": "Common"
+	},
+	{
+		"type": "Grass",
+		"region_id": 3,
+		"region_name": "Sinnoh",
+		"location": "Route 216",
+		"min_level": 32,
+		"max_level": 34,
+		"rarity": "Common"
+	},
+	{
+		"type": "Grass",
+		"region_id": 3,
+		"region_name": "Sinnoh",
+		"location": "Route 216",
+		"min_level": 32,
+		"max_level": 34,
+		"rarity": "Common"
+	},
+	{
+		"type": "Grass",
+		"region_id": 3,
+		"region_name": "Sinnoh",
+		"location": "Route 216",
+		"min_level": 32,
+		"max_level": 34,
+		"rarity": "Uncommon"
+	},
+	{
+		"type": "Grass",
+		"region_id": 3,
+		"region_name": "Sinnoh",
+		"location": "Route 217",
+		"min_level": 32,
+		"max_level": 33,
+		"rarity": "Horde"
+	},
+	{
+		"type": "Grass",
+		"region_id": 3,
+		"region_name": "Sinnoh",
+		"location": "Route 217",
+		"min_level": 35,
+		"max_level": 35,
+		"rarity": "Uncommon"
+	},
+	{
+		"type": "Grass",
+		"region_id": 3,
+		"region_name": "Sinnoh",
+		"location": "Route 217",
+		"min_level": 35,
+		"max_level": 35,
+		"rarity": "Common"
+	},
+	{
+		"type": "Grass",
+		"region_id": 3,
+		"region_name": "Sinnoh",
+		"location": "Route 217",
+		"min_level": 35,
+		"max_level": 35,
+		"rarity": "Uncommon"
+	},
+	{
+		"type": "Grass",
+		"region_id": 3,
+		"region_name": "Sinnoh",
+		"location": "Route 217",
+		"min_level": 35,
+		"max_level": 35,
+		"rarity": "Uncommon"
+	}
+]
+}

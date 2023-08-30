@@ -1,0 +1,12 @@
+{
+"id": 89,
+"name": "Earthquake",
+"skill_damage_type": "PHYSICAL",
+"base_power": 100,
+"base_accuracy": 100,
+"base_pp": 10,
+"priority": 0,
+"type": "GROUND",
+"target_type": 4,
+"true_damage": false
+}

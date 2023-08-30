@@ -1,0 +1,671 @@
+{
+"id": 38,
+"name": "Ninetales",
+"exp_type": "MEDIUM_FAST",
+"obtainable": true,
+"gender_ratio": 191,
+"height": 11,
+"weight": 199,
+"egg_groups": [
+	"field"
+],
+"abilities": [
+	{
+		"id": 18,
+		"name": "Flash Fire"
+	},
+	{
+		"id": 0,
+		"name": "--"
+	},
+	{
+		"id": 70,
+		"name": "Drought"
+	}
+],
+"forms": [
+	{
+		"form_id": 0,
+		"id": 38,
+		"name": "Ninetales"
+	}
+],
+"evolutions": [],
+"moves": [
+	{
+		"id": 33,
+		"name": "Tackle",
+		"type": "level",
+		"level": 1
+	},
+	{
+		"id": 39,
+		"name": "Tail Whip",
+		"type": "level",
+		"level": 1
+	},
+	{
+		"id": 46,
+		"name": "Roar",
+		"type": "level",
+		"level": 1
+	},
+	{
+		"id": 50,
+		"name": "Disable",
+		"type": "level",
+		"level": 1
+	},
+	{
+		"id": 52,
+		"name": "Ember",
+		"type": "level",
+		"level": 1
+	},
+	{
+		"id": 53,
+		"name": "Flamethrower",
+		"type": "level",
+		"level": 1
+	},
+	{
+		"id": 83,
+		"name": "Fire Spin",
+		"type": "level",
+		"level": 1
+	},
+	{
+		"id": 98,
+		"name": "Quick Attack",
+		"type": "level",
+		"level": 1
+	},
+	{
+		"id": 109,
+		"name": "Confuse Ray",
+		"type": "level",
+		"level": 1
+	},
+	{
+		"id": 126,
+		"name": "Fire Blast",
+		"type": "level",
+		"level": 1
+	},
+	{
+		"id": 180,
+		"name": "Spite",
+		"type": "level",
+		"level": 1
+	},
+	{
+		"id": 219,
+		"name": "Safeguard",
+		"type": "level",
+		"level": 1
+	},
+	{
+		"id": 261,
+		"name": "Will-O-Wisp",
+		"type": "level",
+		"level": 1
+	},
+	{
+		"id": 286,
+		"name": "Imprison",
+		"type": "level",
+		"level": 1
+	},
+	{
+		"id": 288,
+		"name": "Grudge",
+		"type": "level",
+		"level": 1
+	},
+	{
+		"id": 326,
+		"name": "Extrasensory",
+		"type": "level",
+		"level": 1
+	},
+	{
+		"id": 417,
+		"name": "Nasty Plot",
+		"type": "level",
+		"level": 1
+	},
+	{
+		"id": 510,
+		"name": "Incinerate",
+		"type": "level",
+		"level": 1
+	},
+	{
+		"id": 517,
+		"name": "Inferno",
+		"type": "level",
+		"level": 1
+	},
+	{
+		"id": 95,
+		"name": "Hypnosis",
+		"type": "level",
+		"level": 1
+	},
+	{
+		"id": 98,
+		"name": "Quick Attack",
+		"type": "level",
+		"level": 5
+	},
+	{
+		"id": 417,
+		"name": "Nasty Plot",
+		"type": "level",
+		"level": 9
+	},
+	{
+		"id": 172,
+		"name": "Flame Wheel",
+		"type": "level",
+		"level": 15
+	},
+	{
+		"id": 506,
+		"name": "Hex",
+		"type": "level",
+		"level": 21
+	},
+	{
+		"id": 326,
+		"name": "Extrasensory",
+		"type": "level",
+		"level": 29
+	},
+	{
+		"id": 53,
+		"name": "Flamethrower",
+		"type": "level",
+		"level": 37
+	},
+	{
+		"id": 83,
+		"name": "Fire Spin",
+		"type": "level",
+		"level": 45
+	},
+	{
+		"id": 126,
+		"name": "Fire Blast",
+		"type": "level",
+		"level": 47
+	},
+	{
+		"id": 95,
+		"name": "Hypnosis",
+		"type": "move_tutor"
+	},
+	{
+		"id": 173,
+		"name": "Snore",
+		"type": "move_tutor"
+	},
+	{
+		"id": 180,
+		"name": "Spite",
+		"type": "move_tutor"
+	},
+	{
+		"id": 185,
+		"name": "Faint Attack",
+		"type": "move_tutor"
+	},
+	{
+		"id": 220,
+		"name": "Pain Split",
+		"type": "move_tutor"
+	},
+	{
+		"id": 272,
+		"name": "Role Play",
+		"type": "move_tutor"
+	},
+	{
+		"id": 343,
+		"name": "Covet",
+		"type": "move_tutor"
+	},
+	{
+		"id": 466,
+		"name": "Ominous Wind",
+		"type": "move_tutor"
+	},
+	{
+		"id": 185,
+		"name": "Faint Attack",
+		"type": "prevo_moves"
+	},
+	{
+		"id": 371,
+		"name": "Payback",
+		"type": "prevo_moves"
+	},
+	{
+		"id": 445,
+		"name": "Captivate",
+		"type": "prevo_moves"
+	},
+	{
+		"id": 481,
+		"name": "Flame Burst",
+		"type": "prevo_moves"
+	},
+	{
+		"id": 29,
+		"name": "Headbutt",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 34,
+		"name": "Body Slam",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 36,
+		"name": "Take Down",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 38,
+		"name": "Double-Edge",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 46,
+		"name": "Roar",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 53,
+		"name": "Flamethrower",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 63,
+		"name": "Hyper Beam",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 76,
+		"name": "SolarBeam",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 83,
+		"name": "Fire Spin",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 91,
+		"name": "Dig",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 92,
+		"name": "Toxic",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 97,
+		"name": "Agility",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 99,
+		"name": "Rage",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 102,
+		"name": "Mimic",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 104,
+		"name": "Double Team",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 109,
+		"name": "Confuse Ray",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 115,
+		"name": "Reflect",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 117,
+		"name": "Bide",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 126,
+		"name": "Fire Blast",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 129,
+		"name": "Swift",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 130,
+		"name": "Skull Bash",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 138,
+		"name": "Dream Eater",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 156,
+		"name": "Rest",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 164,
+		"name": "Substitute",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 174,
+		"name": "Curse",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 182,
+		"name": "Protect",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 203,
+		"name": "Endure",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 204,
+		"name": "Charm",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 207,
+		"name": "Swagger",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 213,
+		"name": "Attract",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 214,
+		"name": "Sleep Talk",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 216,
+		"name": "Return",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 218,
+		"name": "Frustration",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 219,
+		"name": "Safeguard",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 227,
+		"name": "Encore",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 231,
+		"name": "Iron Tail",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 237,
+		"name": "Hidden Power",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 241,
+		"name": "Sunny Day",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 244,
+		"name": "Psych Up",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 247,
+		"name": "Shadow Ball",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 257,
+		"name": "Heat Wave",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 261,
+		"name": "Will-O-Wisp",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 263,
+		"name": "Facade",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 286,
+		"name": "Imprison",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 290,
+		"name": "Secret Power",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 311,
+		"name": "Weather Ball",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 313,
+		"name": "Fake Tears",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 315,
+		"name": "Overheat",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 347,
+		"name": "Calm Mind",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 363,
+		"name": "Natural Gift",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 371,
+		"name": "Payback",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 384,
+		"name": "Power Swap",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 394,
+		"name": "Flare Blitz",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 399,
+		"name": "Dark Pulse",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 412,
+		"name": "Energy Ball",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 416,
+		"name": "Giga Impact",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 417,
+		"name": "Nasty Plot",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 428,
+		"name": "Zen Headbutt",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 445,
+		"name": "Captivate",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 473,
+		"name": "Psyshock",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 488,
+		"name": "Flame Charge",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 492,
+		"name": "Foul Play",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 496,
+		"name": "Round",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 500,
+		"name": "Stored Power",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 506,
+		"name": "Hex",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 510,
+		"name": "Incinerate",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 541,
+		"name": "Tail Slap",
+		"type": "move_learner_tools"
+	}
+],
+"types": [
+	"FIRE",
+	"FIRE"
+],
+"stats": {
+	"hp": 73,
+	"attack": 76,
+	"defense": 75,
+	"speed": 100,
+	"sp_attack": 81,
+	"sp_defense": 100
+},
+"yields": {
+	"exp": 177,
+	"ev_hp": 0,
+	"ev_attack": 0,
+	"ev_defense": 0,
+	"ev_speed": 1,
+	"ev_sp_attack": 0,
+	"ev_sp_defense": 1
+},
+"tiers": [
+	"Over Used"
+],
+"held_items": [
+	{
+		"id": 5249,
+		"name": "Charcoal"
+	},
+	{
+		"id": 5152,
+		"name": "Rawst Berry"
+	}
+],
+"locations": [
+	{
+		"type": "Grass",
+		"region_id": 0,
+		"region_name": "Kanto",
+		"location": "ROUTE 7",
+		"min_level": 25,
+		"max_level": 25,
+		"rarity": "Lure"
+	},
+	{
+		"type": "Cave",
+		"region_id": 1,
+		"region_name": "Hoenn",
+		"location": "SCORCHED SLAB",
+		"min_level": 32,
+		"max_level": 32,
+		"rarity": "Lure"
+	},
+	{
+		"type": "Dark Grass",
+		"region_id": 2,
+		"region_name": "Unova",
+		"location": "Abundant Shrine",
+		"min_level": 58,
+		"max_level": 58,
+		"rarity": "Lure"
+	},
+	{
+		"type": "Grass",
+		"region_id": 2,
+		"region_name": "Unova",
+		"location": "Abundant Shrine",
+		"min_level": 60,
+		"max_level": 65,
+		"rarity": "Special"
+	}
+]
+}

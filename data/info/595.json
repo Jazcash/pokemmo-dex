@@ -1,0 +1,477 @@
+{
+"id": 595,
+"name": "Joltik",
+"exp_type": "MEDIUM_FAST",
+"obtainable": true,
+"gender_ratio": 127,
+"height": 1,
+"weight": 6,
+"egg_groups": [
+	"bug"
+],
+"abilities": [
+	{
+		"id": 14,
+		"name": "Compoundeyes"
+	},
+	{
+		"id": 127,
+		"name": "Unnerve"
+	},
+	{
+		"id": 68,
+		"name": "Swarm"
+	}
+],
+"forms": [
+	{
+		"form_id": 0,
+		"id": 595,
+		"name": "Joltik"
+	}
+],
+"evolutions": [
+	{
+		"id": 596,
+		"name": "Galvantula",
+		"type": "LEVEL",
+		"val": 36
+	}
+],
+"moves": [
+	{
+		"id": 71,
+		"name": "Absorb",
+		"type": "level",
+		"level": 1
+	},
+	{
+		"id": 81,
+		"name": "String Shot",
+		"type": "level",
+		"level": 1
+	},
+	{
+		"id": 141,
+		"name": "Leech Life",
+		"type": "level",
+		"level": 1
+	},
+	{
+		"id": 169,
+		"name": "Spider Web",
+		"type": "level",
+		"level": 1
+	},
+	{
+		"id": 210,
+		"name": "Fury Cutter",
+		"type": "level",
+		"level": 1
+	},
+	{
+		"id": 527,
+		"name": "Electroweb",
+		"type": "level",
+		"level": 4
+	},
+	{
+		"id": 450,
+		"name": "Bug Bite",
+		"type": "level",
+		"level": 8
+	},
+	{
+		"id": 81,
+		"name": "String Shot",
+		"type": "level",
+		"level": 12
+	},
+	{
+		"id": 210,
+		"name": "Fury Cutter",
+		"type": "level",
+		"level": 12
+	},
+	{
+		"id": 86,
+		"name": "Thunder Wave",
+		"type": "level",
+		"level": 16
+	},
+	{
+		"id": 486,
+		"name": "Electro Ball",
+		"type": "level",
+		"level": 20
+	},
+	{
+		"id": 97,
+		"name": "Agility",
+		"type": "level",
+		"level": 24
+	},
+	{
+		"id": 389,
+		"name": "Sucker Punch",
+		"type": "level",
+		"level": 28
+	},
+	{
+		"id": 163,
+		"name": "Slash",
+		"type": "level",
+		"level": 32
+	},
+	{
+		"id": 324,
+		"name": "Signal Beam",
+		"type": "level",
+		"level": 34
+	},
+	{
+		"id": 435,
+		"name": "Discharge",
+		"type": "level",
+		"level": 37
+	},
+	{
+		"id": 103,
+		"name": "Screech",
+		"type": "level",
+		"level": 40
+	},
+	{
+		"id": 380,
+		"name": "Gastro Acid",
+		"type": "level",
+		"level": 44
+	},
+	{
+		"id": 405,
+		"name": "Bug Buzz",
+		"type": "level",
+		"level": 48
+	},
+	{
+		"id": 40,
+		"name": "Poison Sting",
+		"type": "egg_moves"
+	},
+	{
+		"id": 50,
+		"name": "Disable",
+		"type": "egg_moves"
+	},
+	{
+		"id": 228,
+		"name": "Pursuit",
+		"type": "egg_moves"
+	},
+	{
+		"id": 293,
+		"name": "Camouflage",
+		"type": "egg_moves"
+	},
+	{
+		"id": 81,
+		"name": "String Shot",
+		"type": "move_tutor"
+	},
+	{
+		"id": 173,
+		"name": "Snore",
+		"type": "move_tutor"
+	},
+	{
+		"id": 185,
+		"name": "Faint Attack",
+		"type": "move_tutor"
+	},
+	{
+		"id": 324,
+		"name": "Signal Beam",
+		"type": "move_tutor"
+	},
+	{
+		"id": 340,
+		"name": "Bounce",
+		"type": "move_tutor"
+	},
+	{
+		"id": 380,
+		"name": "Gastro Acid",
+		"type": "move_tutor"
+	},
+	{
+		"id": 389,
+		"name": "Sucker Punch",
+		"type": "move_tutor"
+	},
+	{
+		"id": 393,
+		"name": "Magnet Rise",
+		"type": "move_tutor"
+	},
+	{
+		"id": 450,
+		"name": "Bug Bite",
+		"type": "move_tutor"
+	},
+	{
+		"id": 527,
+		"name": "Electroweb",
+		"type": "move_tutor"
+	},
+	{
+		"id": 15,
+		"name": "Cut",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 42,
+		"name": "Pin Missile",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 85,
+		"name": "Thunderbolt",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 86,
+		"name": "Thunder Wave",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 92,
+		"name": "Toxic",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 97,
+		"name": "Agility",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 103,
+		"name": "Screech",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 104,
+		"name": "Double Team",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 113,
+		"name": "Light Screen",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 129,
+		"name": "Swift",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 141,
+		"name": "Leech Life",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 148,
+		"name": "Flash",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 156,
+		"name": "Rest",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 164,
+		"name": "Substitute",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 168,
+		"name": "Thief",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 182,
+		"name": "Protect",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 202,
+		"name": "Giga Drain",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 203,
+		"name": "Endure",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 207,
+		"name": "Swagger",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 210,
+		"name": "Fury Cutter",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 213,
+		"name": "Attract",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 214,
+		"name": "Sleep Talk",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 216,
+		"name": "Return",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 218,
+		"name": "Frustration",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 237,
+		"name": "Hidden Power",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 240,
+		"name": "Rain Dance",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 263,
+		"name": "Facade",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 290,
+		"name": "Secret Power",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 351,
+		"name": "Shock Wave",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 398,
+		"name": "Poison Jab",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 404,
+		"name": "X-Scissor",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 405,
+		"name": "Bug Buzz",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 412,
+		"name": "Energy Ball",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 431,
+		"name": "Rock Climb",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 440,
+		"name": "Cross Poison",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 451,
+		"name": "Charge Beam",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 486,
+		"name": "Electro Ball",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 496,
+		"name": "Round",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 521,
+		"name": "Volt Switch",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 522,
+		"name": "Struggle Bug",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 528,
+		"name": "Wild Charge",
+		"type": "move_learner_tools"
+	}
+],
+"types": [
+	"BUG",
+	"ELECTRIC"
+],
+"stats": {
+	"hp": 50,
+	"attack": 47,
+	"defense": 50,
+	"speed": 65,
+	"sp_attack": 57,
+	"sp_defense": 50
+},
+"yields": {
+	"exp": 64,
+	"ev_hp": 0,
+	"ev_attack": 0,
+	"ev_defense": 0,
+	"ev_speed": 1,
+	"ev_sp_attack": 0,
+	"ev_sp_defense": 0
+},
+"tiers": [
+	"Untiered"
+],
+"held_items": [],
+"locations": [
+	{
+		"type": "Cave",
+		"region_id": 2,
+		"region_name": "Unova",
+		"location": "Chargestone Cave",
+		"min_level": 22,
+		"max_level": 24,
+		"rarity": "Horde"
+	},
+	{
+		"type": "Cave",
+		"region_id": 2,
+		"region_name": "Unova",
+		"location": "Chargestone Cave",
+		"min_level": 24,
+		"max_level": 27,
+		"rarity": "Very Common"
+	}
+]
+}

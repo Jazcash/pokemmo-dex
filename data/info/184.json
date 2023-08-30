@@ -1,0 +1,769 @@
+{
+"id": 184,
+"name": "Azumarill",
+"exp_type": "FAST",
+"obtainable": true,
+"gender_ratio": 127,
+"height": 8,
+"weight": 285,
+"egg_groups": [
+	"water a",
+	"fairy"
+],
+"abilities": [
+	{
+		"id": 47,
+		"name": "Thick Fat"
+	},
+	{
+		"id": 37,
+		"name": "Huge Power"
+	},
+	{
+		"id": 157,
+		"name": "Sap Sipper"
+	}
+],
+"forms": [
+	{
+		"form_id": 0,
+		"id": 184,
+		"name": "Azumarill"
+	}
+],
+"evolutions": [],
+"moves": [
+	{
+		"id": 33,
+		"name": "Tackle",
+		"type": "level",
+		"level": 1
+	},
+	{
+		"id": 39,
+		"name": "Tail Whip",
+		"type": "level",
+		"level": 1
+	},
+	{
+		"id": 55,
+		"name": "Water Gun",
+		"type": "level",
+		"level": 1
+	},
+	{
+		"id": 111,
+		"name": "Defense Curl",
+		"type": "level",
+		"level": 1
+	},
+	{
+		"id": 205,
+		"name": "Rollout",
+		"type": "level",
+		"level": 1
+	},
+	{
+		"id": 270,
+		"name": "Helping Hand",
+		"type": "level",
+		"level": 1
+	},
+	{
+		"id": 346,
+		"name": "Water Sport",
+		"type": "level",
+		"level": 1
+	},
+	{
+		"id": 39,
+		"name": "Tail Whip",
+		"type": "level",
+		"level": 2
+	},
+	{
+		"id": 346,
+		"name": "Water Sport",
+		"type": "level",
+		"level": 5
+	},
+	{
+		"id": 61,
+		"name": "BubbleBeam",
+		"type": "level",
+		"level": 6
+	},
+	{
+		"id": 145,
+		"name": "Bubble",
+		"type": "level",
+		"level": 7
+	},
+	{
+		"id": 204,
+		"name": "Charm",
+		"type": "level",
+		"level": 9
+	},
+	{
+		"id": 111,
+		"name": "Defense Curl",
+		"type": "level",
+		"level": 10
+	},
+	{
+		"id": 205,
+		"name": "Rollout",
+		"type": "level",
+		"level": 10
+	},
+	{
+		"id": 21,
+		"name": "Slam",
+		"type": "level",
+		"level": 12
+	},
+	{
+		"id": 340,
+		"name": "Bounce",
+		"type": "level",
+		"level": 15
+	},
+	{
+		"id": 270,
+		"name": "Helping Hand",
+		"type": "level",
+		"level": 16
+	},
+	{
+		"id": 401,
+		"name": "Aqua Tail",
+		"type": "level",
+		"level": 21
+	},
+	{
+		"id": 392,
+		"name": "Aqua Ring",
+		"type": "level",
+		"level": 30
+	},
+	{
+		"id": 240,
+		"name": "Rain Dance",
+		"type": "level",
+		"level": 35
+	},
+	{
+		"id": 56,
+		"name": "Hydro Pump",
+		"type": "level",
+		"level": 40
+	},
+	{
+		"id": 38,
+		"name": "Double-Edge",
+		"type": "level",
+		"level": 45
+	},
+	{
+		"id": 276,
+		"name": "Superpower",
+		"type": "level",
+		"level": 50
+	},
+	{
+		"id": 193,
+		"name": "Foresight",
+		"type": "egg_moves"
+	},
+	{
+		"id": 111,
+		"name": "Defense Curl",
+		"type": "move_tutor"
+	},
+	{
+		"id": 173,
+		"name": "Snore",
+		"type": "move_tutor"
+	},
+	{
+		"id": 253,
+		"name": "Uproar",
+		"type": "move_tutor"
+	},
+	{
+		"id": 282,
+		"name": "Knock Off",
+		"type": "move_tutor"
+	},
+	{
+		"id": 340,
+		"name": "Bounce",
+		"type": "move_tutor"
+	},
+	{
+		"id": 343,
+		"name": "Covet",
+		"type": "move_tutor"
+	},
+	{
+		"id": 401,
+		"name": "Aqua Tail",
+		"type": "move_tutor"
+	},
+	{
+		"id": 146,
+		"name": "Dizzy Punch",
+		"type": "special_moves"
+	},
+	{
+		"id": 150,
+		"name": "Splash",
+		"type": "prevo_moves"
+	},
+	{
+		"id": 5,
+		"name": "Mega Punch",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 8,
+		"name": "Ice Punch",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 25,
+		"name": "Mega Kick",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 29,
+		"name": "Headbutt",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 34,
+		"name": "Body Slam",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 36,
+		"name": "Take Down",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 38,
+		"name": "Double-Edge",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 55,
+		"name": "Water Gun",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 56,
+		"name": "Hydro Pump",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 57,
+		"name": "Surf",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 58,
+		"name": "Ice Beam",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 59,
+		"name": "Blizzard",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 61,
+		"name": "BubbleBeam",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 63,
+		"name": "Hyper Beam",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 69,
+		"name": "Seismic Toss",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 70,
+		"name": "Strength",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 91,
+		"name": "Dig",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 92,
+		"name": "Toxic",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 102,
+		"name": "Mimic",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 104,
+		"name": "Double Team",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 113,
+		"name": "Light Screen",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 118,
+		"name": "Metronome",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 127,
+		"name": "Waterfall",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 129,
+		"name": "Swift",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 133,
+		"name": "Amnesia",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 156,
+		"name": "Rest",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 164,
+		"name": "Substitute",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 174,
+		"name": "Curse",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 182,
+		"name": "Protect",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 184,
+		"name": "Scary Face",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 189,
+		"name": "Mud-Slap",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 196,
+		"name": "Icy Wind",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 203,
+		"name": "Endure",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 204,
+		"name": "Charm",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 205,
+		"name": "Rollout",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 207,
+		"name": "Swagger",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 213,
+		"name": "Attract",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 214,
+		"name": "Sleep Talk",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 216,
+		"name": "Return",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 218,
+		"name": "Frustration",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 223,
+		"name": "DynamicPunch",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 227,
+		"name": "Encore",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 231,
+		"name": "Iron Tail",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 237,
+		"name": "Hidden Power",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 240,
+		"name": "Rain Dance",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 248,
+		"name": "Future Sight",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 249,
+		"name": "Rock Smash",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 250,
+		"name": "Whirlpool",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 258,
+		"name": "Snowscape",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 263,
+		"name": "Facade",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 264,
+		"name": "Focus Punch",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 270,
+		"name": "Helping Hand",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 276,
+		"name": "Superpower",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 280,
+		"name": "Brick Break",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 290,
+		"name": "Secret Power",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 291,
+		"name": "Dive",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 304,
+		"name": "Hyper Voice",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 313,
+		"name": "Fake Tears",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 330,
+		"name": "Muddy Water",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 341,
+		"name": "Mud Shot",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 352,
+		"name": "Water Pulse",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 363,
+		"name": "Natural Gift",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 374,
+		"name": "Fling",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 411,
+		"name": "Focus Blast",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 416,
+		"name": "Giga Impact",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 445,
+		"name": "Captivate",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 447,
+		"name": "Grass Knot",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 496,
+		"name": "Round",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 503,
+		"name": "Scald",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 523,
+		"name": "Bulldoze",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 526,
+		"name": "Work Up",
+		"type": "move_learner_tools"
+	}
+],
+"types": [
+	"WATER",
+	"WATER"
+],
+"stats": {
+	"hp": 100,
+	"attack": 50,
+	"defense": 80,
+	"speed": 50,
+	"sp_attack": 60,
+	"sp_defense": 80
+},
+"yields": {
+	"exp": 185,
+	"ev_hp": 3,
+	"ev_attack": 0,
+	"ev_defense": 0,
+	"ev_speed": 0,
+	"ev_sp_attack": 0,
+	"ev_sp_defense": 0
+},
+"tiers": [
+	"Never Used"
+],
+"held_items": [],
+"locations": [
+	{
+		"type": "Water",
+		"region_id": 0,
+		"region_name": "Kanto",
+		"location": "BERRY FOREST",
+		"min_level": 43,
+		"max_level": 43,
+		"rarity": "Lure"
+	},
+	{
+		"type": "Water",
+		"region_id": 0,
+		"region_name": "Kanto",
+		"location": "FOUR ISLAND",
+		"min_level": 40,
+		"max_level": 50,
+		"rarity": "Rare"
+	},
+	{
+		"type": "Water",
+		"region_id": 0,
+		"region_name": "Kanto",
+		"location": "ROUTE 22",
+		"min_level": 38,
+		"max_level": 38,
+		"rarity": "Lure"
+	},
+	{
+		"type": "Water",
+		"region_id": 0,
+		"region_name": "Kanto",
+		"location": "ROUTE 25",
+		"min_level": 38,
+		"max_level": 38,
+		"rarity": "Lure"
+	},
+	{
+		"type": "Water",
+		"region_id": 0,
+		"region_name": "Kanto",
+		"location": "SAFARI ZONE",
+		"min_level": 38,
+		"max_level": 38,
+		"rarity": "Lure"
+	},
+	{
+		"type": "Water",
+		"region_id": 1,
+		"region_name": "Hoenn",
+		"location": "PETALBURG CITY",
+		"min_level": 20,
+		"max_level": 30,
+		"rarity": "Very Common"
+	},
+	{
+		"type": "Water",
+		"region_id": 1,
+		"region_name": "Hoenn",
+		"location": "ROUTE 102",
+		"min_level": 20,
+		"max_level": 30,
+		"rarity": "Common"
+	},
+	{
+		"type": "Water",
+		"region_id": 1,
+		"region_name": "Hoenn",
+		"location": "ROUTE 111",
+		"min_level": 20,
+		"max_level": 30,
+		"rarity": "Very Common"
+	},
+	{
+		"type": "Water",
+		"region_id": 1,
+		"region_name": "Hoenn",
+		"location": "ROUTE 114",
+		"min_level": 20,
+		"max_level": 30,
+		"rarity": "Common"
+	},
+	{
+		"type": "Water",
+		"region_id": 1,
+		"region_name": "Hoenn",
+		"location": "ROUTE 117",
+		"min_level": 20,
+		"max_level": 30,
+		"rarity": "Common"
+	},
+	{
+		"type": "Water",
+		"region_id": 1,
+		"region_name": "Hoenn",
+		"location": "ROUTE 120",
+		"min_level": 25,
+		"max_level": 30,
+		"rarity": "Common"
+	},
+	{
+		"type": "Water",
+		"region_id": 1,
+		"region_name": "Hoenn",
+		"location": "ROUTE 123",
+		"min_level": 25,
+		"max_level": 30,
+		"rarity": "Very Common"
+	},
+	{
+		"type": "Water",
+		"region_id": 1,
+		"region_name": "Hoenn",
+		"location": "SAFARI ZONE",
+		"min_level": 35,
+		"max_level": 40,
+		"rarity": "Uncommon"
+	},
+	{
+		"type": "Grass",
+		"region_id": 2,
+		"region_name": "Unova",
+		"location": "Abundant Shrine",
+		"min_level": 60,
+		"max_level": 65,
+		"rarity": "Special"
+	},
+	{
+		"type": "Cave",
+		"region_id": 3,
+		"region_name": "Sinnoh",
+		"location": "Victory Road",
+		"min_level": 41,
+		"max_level": 43,
+		"rarity": "Horde"
+	},
+	{
+		"type": "Cave",
+		"region_id": 3,
+		"region_name": "Sinnoh",
+		"location": "Victory Road",
+		"min_level": 42,
+		"max_level": 51,
+		"rarity": "Rare"
+	},
+	{
+		"type": "Water",
+		"region_id": 4,
+		"region_name": "Johto",
+		"location": "Mt. Mortar",
+		"min_level": 28,
+		"max_level": 40,
+		"rarity": "Lure"
+	},
+	{
+		"type": "Water",
+		"region_id": 4,
+		"region_name": "Johto",
+		"location": "Route 32",
+		"min_level": 28,
+		"max_level": 28,
+		"rarity": "Lure"
+	}
+]
+}

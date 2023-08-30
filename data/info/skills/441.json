@@ -1,0 +1,12 @@
+{
+"id": 441,
+"name": "Gunk Shot",
+"skill_damage_type": "PHYSICAL",
+"base_power": 120,
+"base_accuracy": 80,
+"base_pp": 5,
+"priority": 0,
+"type": "POISON",
+"target_type": 0,
+"true_damage": false
+}

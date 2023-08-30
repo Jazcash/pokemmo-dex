@@ -1,0 +1,12 @@
+{
+"id": 459,
+"name": "Roar of Time",
+"skill_damage_type": "SPECIAL",
+"base_power": 150,
+"base_accuracy": 90,
+"base_pp": 5,
+"priority": 0,
+"type": "DRAGON",
+"target_type": 0,
+"true_damage": false
+}

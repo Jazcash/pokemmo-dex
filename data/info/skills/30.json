@@ -1,0 +1,12 @@
+{
+"id": 30,
+"name": "Horn Attack",
+"skill_damage_type": "PHYSICAL",
+"base_power": 65,
+"base_accuracy": 100,
+"base_pp": 25,
+"priority": 0,
+"type": "NORMAL",
+"target_type": 0,
+"true_damage": false
+}

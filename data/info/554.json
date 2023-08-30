@@ -1,0 +1,524 @@
+{
+"id": 554,
+"name": "Darumaka",
+"exp_type": "MEDIUM_SLOW",
+"obtainable": true,
+"gender_ratio": 127,
+"height": 6,
+"weight": 375,
+"egg_groups": [
+	"field"
+],
+"abilities": [
+	{
+		"id": 55,
+		"name": "Hustle"
+	},
+	{
+		"id": 0,
+		"name": "--"
+	},
+	{
+		"id": 39,
+		"name": "Inner Focus"
+	}
+],
+"forms": [
+	{
+		"form_id": 0,
+		"id": 554,
+		"name": "Darumaka"
+	}
+],
+"evolutions": [
+	{
+		"id": 555,
+		"name": "Darmanitan",
+		"type": "LEVEL",
+		"val": 35
+	}
+],
+"moves": [
+	{
+		"id": 33,
+		"name": "Tackle",
+		"type": "level",
+		"level": 1
+	},
+	{
+		"id": 52,
+		"name": "Ember",
+		"type": "level",
+		"level": 1
+	},
+	{
+		"id": 205,
+		"name": "Rollout",
+		"type": "level",
+		"level": 3
+	},
+	{
+		"id": 269,
+		"name": "Taunt",
+		"type": "level",
+		"level": 4
+	},
+	{
+		"id": 44,
+		"name": "Bite",
+		"type": "level",
+		"level": 8
+	},
+	{
+		"id": 99,
+		"name": "Rage",
+		"type": "level",
+		"level": 9
+	},
+	{
+		"id": 510,
+		"name": "Incinerate",
+		"type": "level",
+		"level": 12
+	},
+	{
+		"id": 526,
+		"name": "Work Up",
+		"type": "level",
+		"level": 16
+	},
+	{
+		"id": 263,
+		"name": "Facade",
+		"type": "level",
+		"level": 19
+	},
+	{
+		"id": 424,
+		"name": "Fire Fang",
+		"type": "level",
+		"level": 20
+	},
+	{
+		"id": 29,
+		"name": "Headbutt",
+		"type": "level",
+		"level": 24
+	},
+	{
+		"id": 7,
+		"name": "Fire Punch",
+		"type": "level",
+		"level": 28
+	},
+	{
+		"id": 253,
+		"name": "Uproar",
+		"type": "level",
+		"level": 32
+	},
+	{
+		"id": 187,
+		"name": "Belly Drum",
+		"type": "level",
+		"level": 36
+	},
+	{
+		"id": 394,
+		"name": "Flare Blitz",
+		"type": "level",
+		"level": 40
+	},
+	{
+		"id": 315,
+		"name": "Overheat",
+		"type": "level",
+		"level": 42
+	},
+	{
+		"id": 37,
+		"name": "Thrash",
+		"type": "level",
+		"level": 44
+	},
+	{
+		"id": 276,
+		"name": "Superpower",
+		"type": "level",
+		"level": 48
+	},
+	{
+		"id": 172,
+		"name": "Flame Wheel",
+		"type": "egg_moves"
+	},
+	{
+		"id": 281,
+		"name": "Yawn",
+		"type": "egg_moves"
+	},
+	{
+		"id": 326,
+		"name": "Extrasensory",
+		"type": "egg_moves"
+	},
+	{
+		"id": 359,
+		"name": "Hammer Arm",
+		"type": "egg_moves"
+	},
+	{
+		"id": 173,
+		"name": "Snore",
+		"type": "move_tutor"
+	},
+	{
+		"id": 253,
+		"name": "Uproar",
+		"type": "move_tutor"
+	},
+	{
+		"id": 283,
+		"name": "Endeavor",
+		"type": "move_tutor"
+	},
+	{
+		"id": 5,
+		"name": "Mega Punch",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 7,
+		"name": "Fire Punch",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 25,
+		"name": "Mega Kick",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 29,
+		"name": "Headbutt",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 36,
+		"name": "Take Down",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 46,
+		"name": "Roar",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 53,
+		"name": "Flamethrower",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 70,
+		"name": "Strength",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 76,
+		"name": "SolarBeam",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 83,
+		"name": "Fire Spin",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 91,
+		"name": "Dig",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 92,
+		"name": "Toxic",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 99,
+		"name": "Rage",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 104,
+		"name": "Double Team",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 116,
+		"name": "Focus Energy",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 126,
+		"name": "Fire Blast",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 156,
+		"name": "Rest",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 157,
+		"name": "Rock Slide",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 164,
+		"name": "Substitute",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 168,
+		"name": "Thief",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 182,
+		"name": "Protect",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 203,
+		"name": "Endure",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 205,
+		"name": "Rollout",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 207,
+		"name": "Swagger",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 213,
+		"name": "Attract",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 214,
+		"name": "Sleep Talk",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 216,
+		"name": "Return",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 218,
+		"name": "Frustration",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 227,
+		"name": "Encore",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 237,
+		"name": "Hidden Power",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 241,
+		"name": "Sunny Day",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 249,
+		"name": "Rock Smash",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 257,
+		"name": "Heat Wave",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 261,
+		"name": "Will-O-Wisp",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 263,
+		"name": "Facade",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 264,
+		"name": "Focus Punch",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 269,
+		"name": "Taunt",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 276,
+		"name": "Superpower",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 280,
+		"name": "Brick Break",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 289,
+		"name": "Snatch",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 290,
+		"name": "Secret Power",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 315,
+		"name": "Overheat",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 317,
+		"name": "Rock Tomb",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 360,
+		"name": "Gyro Ball",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 369,
+		"name": "U-turn",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 374,
+		"name": "Fling",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 394,
+		"name": "Flare Blitz",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 424,
+		"name": "Fire Fang",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 428,
+		"name": "Zen Headbutt",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 447,
+		"name": "Grass Knot",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 488,
+		"name": "Flame Charge",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 496,
+		"name": "Round",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 510,
+		"name": "Incinerate",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 526,
+		"name": "Work Up",
+		"type": "move_learner_tools"
+	}
+],
+"types": [
+	"FIRE",
+	"FIRE"
+],
+"stats": {
+	"hp": 70,
+	"attack": 90,
+	"defense": 45,
+	"speed": 50,
+	"sp_attack": 15,
+	"sp_defense": 45
+},
+"yields": {
+	"exp": 63,
+	"ev_hp": 0,
+	"ev_attack": 1,
+	"ev_defense": 0,
+	"ev_speed": 0,
+	"ev_sp_attack": 0,
+	"ev_sp_defense": 0
+},
+"tiers": [
+	"Untiered"
+],
+"held_items": [
+	{
+		"id": 5152,
+		"name": "Rawst Berry"
+	}
+],
+"locations": [
+	{
+		"type": "Grass",
+		"region_id": 2,
+		"region_name": "Unova",
+		"location": "Desert Resort",
+		"min_level": 17,
+		"max_level": 19,
+		"rarity": "Horde"
+	},
+	{
+		"type": "Grass",
+		"region_id": 2,
+		"region_name": "Unova",
+		"location": "Desert Resort",
+		"min_level": 19,
+		"max_level": 20,
+		"rarity": "Very Common"
+	},
+	{
+		"type": "Grass",
+		"region_id": 2,
+		"region_name": "Unova",
+		"location": "Route 4",
+		"min_level": 14,
+		"max_level": 15,
+		"rarity": "Horde"
+	},
+	{
+		"type": "Grass",
+		"region_id": 2,
+		"region_name": "Unova",
+		"location": "Route 4",
+		"min_level": 15,
+		"max_level": 18,
+		"rarity": "Very Common"
+	}
+]
+}

@@ -1,0 +1,12 @@
+{
+"id": 110,
+"name": "Withdraw",
+"skill_damage_type": "STATUS",
+"base_power": 0,
+"base_accuracy": 101,
+"base_pp": 40,
+"priority": 0,
+"type": "WATER",
+"target_type": 7,
+"true_damage": false
+}

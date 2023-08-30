@@ -1,0 +1,484 @@
+{
+"id": 632,
+"name": "Durant",
+"exp_type": "MEDIUM_FAST",
+"obtainable": true,
+"gender_ratio": 127,
+"height": 3,
+"weight": 330,
+"egg_groups": [
+	"bug"
+],
+"abilities": [
+	{
+		"id": 68,
+		"name": "Swarm"
+	},
+	{
+		"id": 55,
+		"name": "Hustle"
+	},
+	{
+		"id": 54,
+		"name": "Truant"
+	}
+],
+"forms": [
+	{
+		"form_id": 0,
+		"id": 632,
+		"name": "Durant"
+	}
+],
+"evolutions": [],
+"moves": [
+	{
+		"id": 11,
+		"name": "ViceGrip",
+		"type": "level",
+		"level": 1
+	},
+	{
+		"id": 12,
+		"name": "Guillotine",
+		"type": "level",
+		"level": 1
+	},
+	{
+		"id": 28,
+		"name": "Sand-Attack",
+		"type": "level",
+		"level": 1
+	},
+	{
+		"id": 44,
+		"name": "Bite",
+		"type": "level",
+		"level": 1
+	},
+	{
+		"id": 210,
+		"name": "Fury Cutter",
+		"type": "level",
+		"level": 1
+	},
+	{
+		"id": 319,
+		"name": "Metal Sound",
+		"type": "level",
+		"level": 1
+	},
+	{
+		"id": 11,
+		"name": "ViceGrip",
+		"type": "level",
+		"level": 4
+	},
+	{
+		"id": 232,
+		"name": "Metal Claw",
+		"type": "level",
+		"level": 8
+	},
+	{
+		"id": 251,
+		"name": "Beat Up",
+		"type": "level",
+		"level": 12
+	},
+	{
+		"id": 450,
+		"name": "Bug Bite",
+		"type": "level",
+		"level": 16
+	},
+	{
+		"id": 44,
+		"name": "Bite",
+		"type": "level",
+		"level": 20
+	},
+	{
+		"id": 97,
+		"name": "Agility",
+		"type": "level",
+		"level": 24
+	},
+	{
+		"id": 91,
+		"name": "Dig",
+		"type": "level",
+		"level": 28
+	},
+	{
+		"id": 404,
+		"name": "X-Scissor",
+		"type": "level",
+		"level": 32
+	},
+	{
+		"id": 242,
+		"name": "Crunch",
+		"type": "level",
+		"level": 36
+	},
+	{
+		"id": 319,
+		"name": "Metal Sound",
+		"type": "level",
+		"level": 40
+	},
+	{
+		"id": 442,
+		"name": "Iron Head",
+		"type": "level",
+		"level": 44
+	},
+	{
+		"id": 494,
+		"name": "Entrainment",
+		"type": "level",
+		"level": 48
+	},
+	{
+		"id": 334,
+		"name": "Iron Defense",
+		"type": "level",
+		"level": 52
+	},
+	{
+		"id": 12,
+		"name": "Guillotine",
+		"type": "level",
+		"level": 56
+	},
+	{
+		"id": 175,
+		"name": "Flail",
+		"type": "egg_moves"
+	},
+	{
+		"id": 368,
+		"name": "Metal Burst",
+		"type": "egg_moves"
+	},
+	{
+		"id": 173,
+		"name": "Snore",
+		"type": "move_tutor"
+	},
+	{
+		"id": 185,
+		"name": "Faint Attack",
+		"type": "move_tutor"
+	},
+	{
+		"id": 283,
+		"name": "Endeavor",
+		"type": "move_tutor"
+	},
+	{
+		"id": 450,
+		"name": "Bug Bite",
+		"type": "move_tutor"
+	},
+	{
+		"id": 15,
+		"name": "Cut",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 70,
+		"name": "Strength",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 86,
+		"name": "Thunder Wave",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 91,
+		"name": "Dig",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 92,
+		"name": "Toxic",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 97,
+		"name": "Agility",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 103,
+		"name": "Screech",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 104,
+		"name": "Double Team",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 156,
+		"name": "Rest",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 157,
+		"name": "Rock Slide",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 164,
+		"name": "Substitute",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 182,
+		"name": "Protect",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 201,
+		"name": "Sandstorm",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 203,
+		"name": "Endure",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 207,
+		"name": "Swagger",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 210,
+		"name": "Fury Cutter",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 213,
+		"name": "Attract",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 214,
+		"name": "Sleep Talk",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 216,
+		"name": "Return",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 218,
+		"name": "Frustration",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 226,
+		"name": "Baton Pass",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 232,
+		"name": "Metal Claw",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 237,
+		"name": "Hidden Power",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 242,
+		"name": "Crunch",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 249,
+		"name": "Rock Smash",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 251,
+		"name": "Beat Up",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 263,
+		"name": "Facade",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 270,
+		"name": "Helping Hand",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 276,
+		"name": "Superpower",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 290,
+		"name": "Secret Power",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 317,
+		"name": "Rock Tomb",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 332,
+		"name": "Aerial Ace",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 334,
+		"name": "Iron Defense",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 397,
+		"name": "Rock Polish",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 404,
+		"name": "X-Scissor",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 412,
+		"name": "Energy Ball",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 416,
+		"name": "Giga Impact",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 421,
+		"name": "Shadow Claw",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 422,
+		"name": "Thunder Fang",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 430,
+		"name": "Flash Cannon",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 431,
+		"name": "Rock Climb",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 442,
+		"name": "Iron Head",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 444,
+		"name": "Stone Edge",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 468,
+		"name": "Hone Claws",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 496,
+		"name": "Round",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 514,
+		"name": "Retaliate",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 522,
+		"name": "Struggle Bug",
+		"type": "move_learner_tools"
+	}
+],
+"types": [
+	"BUG",
+	"STEEL"
+],
+"stats": {
+	"hp": 58,
+	"attack": 109,
+	"defense": 112,
+	"speed": 109,
+	"sp_attack": 48,
+	"sp_defense": 48
+},
+"yields": {
+	"exp": 169,
+	"ev_hp": 0,
+	"ev_attack": 0,
+	"ev_defense": 2,
+	"ev_speed": 0,
+	"ev_sp_attack": 0,
+	"ev_sp_defense": 0
+},
+"tiers": [
+	"Under Used"
+],
+"held_items": [],
+"locations": [
+	{
+		"type": "Cave",
+		"region_id": 2,
+		"region_name": "Unova",
+		"location": "Trial Chamber",
+		"min_level": 37,
+		"max_level": 39,
+		"rarity": "Horde"
+	},
+	{
+		"type": "Cave",
+		"region_id": 2,
+		"region_name": "Unova",
+		"location": "Trial Chamber",
+		"min_level": 39,
+		"max_level": 42,
+		"rarity": "Very Common"
+	},
+	{
+		"type": "Cave",
+		"region_id": 2,
+		"region_name": "Unova",
+		"location": "Victory Road",
+		"min_level": 36,
+		"max_level": 39,
+		"rarity": "Horde"
+	},
+	{
+		"type": "Cave",
+		"region_id": 2,
+		"region_name": "Unova",
+		"location": "Victory Road",
+		"min_level": 37,
+		"max_level": 42,
+		"rarity": "Very Common"
+	}
+]
+}

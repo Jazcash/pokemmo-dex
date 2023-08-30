@@ -1,0 +1,12 @@
+{
+"id": 460,
+"name": "Spacial Rend",
+"skill_damage_type": "SPECIAL",
+"base_power": 100,
+"base_accuracy": 95,
+"base_pp": 5,
+"priority": 0,
+"type": "DRAGON",
+"target_type": 0,
+"true_damage": false
+}

@@ -1,0 +1,195 @@
+{
+"id": 235,
+"name": "Smeargle",
+"exp_type": "FAST",
+"obtainable": true,
+"gender_ratio": 127,
+"height": 12,
+"weight": 580,
+"egg_groups": [
+	"field"
+],
+"abilities": [
+	{
+		"id": 20,
+		"name": "Own Tempo"
+	},
+	{
+		"id": 101,
+		"name": "Technician"
+	},
+	{
+		"id": 141,
+		"name": "Moody"
+	}
+],
+"forms": [
+	{
+		"form_id": 0,
+		"id": 235,
+		"name": "Smeargle"
+	}
+],
+"evolutions": [],
+"moves": [
+	{
+		"id": 166,
+		"name": "Sketch",
+		"type": "level",
+		"level": 1
+	},
+	{
+		"id": 166,
+		"name": "Sketch",
+		"type": "level",
+		"level": 11
+	},
+	{
+		"id": 166,
+		"name": "Sketch",
+		"type": "level",
+		"level": 21
+	},
+	{
+		"id": 166,
+		"name": "Sketch",
+		"type": "level",
+		"level": 31
+	},
+	{
+		"id": 166,
+		"name": "Sketch",
+		"type": "level",
+		"level": 41
+	},
+	{
+		"id": 166,
+		"name": "Sketch",
+		"type": "level",
+		"level": 51
+	},
+	{
+		"id": 166,
+		"name": "Sketch",
+		"type": "level",
+		"level": 61
+	},
+	{
+		"id": 166,
+		"name": "Sketch",
+		"type": "level",
+		"level": 71
+	},
+	{
+		"id": 166,
+		"name": "Sketch",
+		"type": "level",
+		"level": 81
+	},
+	{
+		"id": 166,
+		"name": "Sketch",
+		"type": "level",
+		"level": 91
+	}
+],
+"types": [
+	"NORMAL",
+	"NORMAL"
+],
+"stats": {
+	"hp": 55,
+	"attack": 20,
+	"defense": 35,
+	"speed": 75,
+	"sp_attack": 20,
+	"sp_defense": 45
+},
+"yields": {
+	"exp": 88,
+	"ev_hp": 0,
+	"ev_attack": 0,
+	"ev_defense": 0,
+	"ev_speed": 1,
+	"ev_sp_attack": 0,
+	"ev_sp_defense": 0
+},
+"tiers": [
+	"Untiered"
+],
+"held_items": [],
+"locations": [
+	{
+		"type": "Cave",
+		"region_id": 0,
+		"region_name": "Kanto",
+		"location": "ALTERING CAVE",
+		"min_level": 18,
+		"max_level": 29,
+		"rarity": "Very Rare"
+	},
+	{
+		"type": "Cave",
+		"region_id": 1,
+		"region_name": "Hoenn",
+		"location": "ALTERING CAVE",
+		"min_level": 18,
+		"max_level": 29,
+		"rarity": "Very Rare"
+	},
+	{
+		"type": "Cave",
+		"region_id": 1,
+		"region_name": "Hoenn",
+		"location": "ARTISAN CAVE",
+		"min_level": 40,
+		"max_level": 50,
+		"rarity": "Very Common"
+	},
+	{
+		"type": "Cave",
+		"region_id": 1,
+		"region_name": "Hoenn",
+		"location": "ARTISAN CAVE",
+		"min_level": 40,
+		"max_level": 50,
+		"rarity": "Horde"
+	},
+	{
+		"type": "Cave",
+		"region_id": 1,
+		"region_name": "Hoenn",
+		"location": "CAVE OF ORIGIN",
+		"min_level": 39,
+		"max_level": 39,
+		"rarity": "Lure"
+	},
+	{
+		"type": "Grass",
+		"region_id": 4,
+		"region_name": "Johto",
+		"location": "Ruins of Alph",
+		"min_level": 19,
+		"max_level": 22,
+		"rarity": "Horde"
+	},
+	{
+		"type": "Grass",
+		"region_id": 4,
+		"region_name": "Johto",
+		"location": "Ruins of Alph",
+		"min_level": 22,
+		"max_level": 25,
+		"rarity": "Uncommon"
+	},
+	{
+		"type": "Cave",
+		"region_id": 4,
+		"region_name": "Johto",
+		"location": "Safari Zone",
+		"min_level": 28,
+		"max_level": 31,
+		"rarity": "Uncommon"
+	}
+]
+}

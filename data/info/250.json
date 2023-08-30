@@ -1,0 +1,606 @@
+{
+"id": 250,
+"name": "Ho-Oh",
+"exp_type": "SLOW",
+"obtainable": false,
+"gender_ratio": 255,
+"height": 38,
+"weight": 1990,
+"egg_groups": [
+	"cannot breed"
+],
+"abilities": [
+	{
+		"id": 46,
+		"name": "Pressure"
+	},
+	{
+		"id": 0,
+		"name": "--"
+	},
+	{
+		"id": 144,
+		"name": "Regenerator"
+	}
+],
+"forms": [
+	{
+		"form_id": 0,
+		"id": 250,
+		"name": "Ho-Oh"
+	}
+],
+"evolutions": [],
+"moves": [
+	{
+		"id": 16,
+		"name": "Gust",
+		"type": "level",
+		"level": 1
+	},
+	{
+		"id": 18,
+		"name": "Whirlwind",
+		"type": "level",
+		"level": 1
+	},
+	{
+		"id": 246,
+		"name": "AncientPower",
+		"type": "level",
+		"level": 1
+	},
+	{
+		"id": 311,
+		"name": "Weather Ball",
+		"type": "level",
+		"level": 1
+	},
+	{
+		"id": 16,
+		"name": "Gust",
+		"type": "level",
+		"level": 9
+	},
+	{
+		"id": 413,
+		"name": "Brave Bird",
+		"type": "level",
+		"level": 15
+	},
+	{
+		"id": 219,
+		"name": "Safeguard",
+		"type": "level",
+		"level": 18
+	},
+	{
+		"id": 347,
+		"name": "Calm Mind",
+		"type": "level",
+		"level": 27
+	},
+	{
+		"id": 326,
+		"name": "Extrasensory",
+		"type": "level",
+		"level": 36
+	},
+	{
+		"id": 105,
+		"name": "Recover",
+		"type": "level",
+		"level": 45
+	},
+	{
+		"id": 386,
+		"name": "Punishment",
+		"type": "level",
+		"level": 50
+	},
+	{
+		"id": 221,
+		"name": "Sacred Fire",
+		"type": "level",
+		"level": 54
+	},
+	{
+		"id": 246,
+		"name": "AncientPower",
+		"type": "level",
+		"level": 57
+	},
+	{
+		"id": 241,
+		"name": "Sunny Day",
+		"type": "level",
+		"level": 63
+	},
+	{
+		"id": 129,
+		"name": "Swift",
+		"type": "level",
+		"level": 66
+	},
+	{
+		"id": 126,
+		"name": "Fire Blast",
+		"type": "level",
+		"level": 72
+	},
+	{
+		"id": 248,
+		"name": "Future Sight",
+		"type": "level",
+		"level": 81
+	},
+	{
+		"id": 363,
+		"name": "Natural Gift",
+		"type": "level",
+		"level": 85
+	},
+	{
+		"id": 143,
+		"name": "Sky Attack",
+		"type": "level",
+		"level": 90
+	},
+	{
+		"id": 143,
+		"name": "Sky Attack",
+		"type": "move_tutor"
+	},
+	{
+		"id": 171,
+		"name": "Nightmare",
+		"type": "move_tutor"
+	},
+	{
+		"id": 173,
+		"name": "Snore",
+		"type": "move_tutor"
+	},
+	{
+		"id": 239,
+		"name": "Twister",
+		"type": "move_tutor"
+	},
+	{
+		"id": 246,
+		"name": "AncientPower",
+		"type": "move_tutor"
+	},
+	{
+		"id": 324,
+		"name": "Signal Beam",
+		"type": "move_tutor"
+	},
+	{
+		"id": 466,
+		"name": "Ominous Wind",
+		"type": "move_tutor"
+	},
+	{
+		"id": 18,
+		"name": "Whirlwind",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 19,
+		"name": "Fly",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 38,
+		"name": "Double-Edge",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 46,
+		"name": "Roar",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 53,
+		"name": "Flamethrower",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 63,
+		"name": "Hyper Beam",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 70,
+		"name": "Strength",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 76,
+		"name": "SolarBeam",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 83,
+		"name": "Fire Spin",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 85,
+		"name": "Thunderbolt",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 86,
+		"name": "Thunder Wave",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 87,
+		"name": "Thunder",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 89,
+		"name": "Earthquake",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 92,
+		"name": "Toxic",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 94,
+		"name": "Psychic",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 102,
+		"name": "Mimic",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 104,
+		"name": "Double Team",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 113,
+		"name": "Light Screen",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 115,
+		"name": "Reflect",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 126,
+		"name": "Fire Blast",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 129,
+		"name": "Swift",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 138,
+		"name": "Dream Eater",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 148,
+		"name": "Flash",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 156,
+		"name": "Rest",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 164,
+		"name": "Substitute",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 174,
+		"name": "Curse",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 182,
+		"name": "Protect",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 189,
+		"name": "Mud-Slap",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 197,
+		"name": "Detect",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 201,
+		"name": "Sandstorm",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 202,
+		"name": "Giga Drain",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 203,
+		"name": "Endure",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 207,
+		"name": "Swagger",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 211,
+		"name": "Steel Wing",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 214,
+		"name": "Sleep Talk",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 216,
+		"name": "Return",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 218,
+		"name": "Frustration",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 219,
+		"name": "Safeguard",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 225,
+		"name": "DragonBreath",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 237,
+		"name": "Hidden Power",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 240,
+		"name": "Rain Dance",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 241,
+		"name": "Sunny Day",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 244,
+		"name": "Psych Up",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 247,
+		"name": "Shadow Ball",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 248,
+		"name": "Future Sight",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 249,
+		"name": "Rock Smash",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 257,
+		"name": "Heat Wave",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 261,
+		"name": "Will-O-Wisp",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 263,
+		"name": "Facade",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 270,
+		"name": "Helping Hand",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 286,
+		"name": "Imprison",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 290,
+		"name": "Secret Power",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 304,
+		"name": "Hyper Voice",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 311,
+		"name": "Weather Ball",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 314,
+		"name": "Air Cutter",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 315,
+		"name": "Overheat",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 332,
+		"name": "Aerial Ace",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 347,
+		"name": "Calm Mind",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 351,
+		"name": "Shock Wave",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 355,
+		"name": "Roost",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 363,
+		"name": "Natural Gift",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 365,
+		"name": "Pluck",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 366,
+		"name": "Tailwind",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 394,
+		"name": "Flare Blitz",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 403,
+		"name": "Air Slash",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 413,
+		"name": "Brave Bird",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 414,
+		"name": "Earth Power",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 416,
+		"name": "Giga Impact",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 428,
+		"name": "Zen Headbutt",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 432,
+		"name": "Defog",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 442,
+		"name": "Iron Head",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 451,
+		"name": "Charge Beam",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 488,
+		"name": "Flame Charge",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 496,
+		"name": "Round",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 497,
+		"name": "Echoed Voice",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 507,
+		"name": "Sky Drop",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 510,
+		"name": "Incinerate",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 523,
+		"name": "Bulldoze",
+		"type": "move_learner_tools"
+	}
+],
+"types": [
+	"FIRE",
+	"FLYING"
+],
+"stats": {
+	"hp": 106,
+	"attack": 130,
+	"defense": 90,
+	"speed": 90,
+	"sp_attack": 110,
+	"sp_defense": 154
+},
+"yields": {
+	"exp": 306,
+	"ev_hp": 0,
+	"ev_attack": 0,
+	"ev_defense": 0,
+	"ev_speed": 0,
+	"ev_sp_attack": 0,
+	"ev_sp_defense": 3
+},
+"tiers": [
+	"Ubers"
+],
+"held_items": [
+	{
+		"id": 5044,
+		"name": "Sacred Ash"
+	}
+],
+"locations": []
+}

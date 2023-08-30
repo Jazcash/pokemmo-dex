@@ -1,0 +1,12 @@
+{
+"id": 16,
+"name": "Gust",
+"skill_damage_type": "SPECIAL",
+"base_power": 40,
+"base_accuracy": 100,
+"base_pp": 35,
+"priority": 0,
+"type": "FLYING",
+"target_type": 0,
+"true_damage": false
+}

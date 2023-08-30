@@ -1,0 +1,559 @@
+{
+"id": 213,
+"name": "Shuckle",
+"exp_type": "MEDIUM_SLOW",
+"obtainable": true,
+"gender_ratio": 127,
+"height": 6,
+"weight": 205,
+"egg_groups": [
+	"bug"
+],
+"abilities": [
+	{
+		"id": 5,
+		"name": "Sturdy"
+	},
+	{
+		"id": 82,
+		"name": "Gluttony"
+	},
+	{
+		"id": 126,
+		"name": "Contrary"
+	}
+],
+"forms": [
+	{
+		"form_id": 0,
+		"id": 213,
+		"name": "Shuckle"
+	}
+],
+"evolutions": [],
+"moves": [
+	{
+		"id": 35,
+		"name": "Wrap",
+		"type": "level",
+		"level": 1
+	},
+	{
+		"id": 110,
+		"name": "Withdraw",
+		"type": "level",
+		"level": 1
+	},
+	{
+		"id": 117,
+		"name": "Bide",
+		"type": "level",
+		"level": 1
+	},
+	{
+		"id": 132,
+		"name": "Constrict",
+		"type": "level",
+		"level": 1
+	},
+	{
+		"id": 205,
+		"name": "Rollout",
+		"type": "level",
+		"level": 1
+	},
+	{
+		"id": 205,
+		"name": "Rollout",
+		"type": "level",
+		"level": 5
+	},
+	{
+		"id": 227,
+		"name": "Encore",
+		"type": "level",
+		"level": 5
+	},
+	{
+		"id": 35,
+		"name": "Wrap",
+		"type": "level",
+		"level": 9
+	},
+	{
+		"id": 522,
+		"name": "Struggle Bug",
+		"type": "level",
+		"level": 10
+	},
+	{
+		"id": 88,
+		"name": "Rock Throw",
+		"type": "level",
+		"level": 15
+	},
+	{
+		"id": 219,
+		"name": "Safeguard",
+		"type": "level",
+		"level": 20
+	},
+	{
+		"id": 156,
+		"name": "Rest",
+		"type": "level",
+		"level": 25
+	},
+	{
+		"id": 450,
+		"name": "Bug Bite",
+		"type": "level",
+		"level": 30
+	},
+	{
+		"id": 470,
+		"name": "Guard Split",
+		"type": "level",
+		"level": 35
+	},
+	{
+		"id": 471,
+		"name": "Power Split",
+		"type": "level",
+		"level": 35
+	},
+	{
+		"id": 157,
+		"name": "Rock Slide",
+		"type": "level",
+		"level": 40
+	},
+	{
+		"id": 380,
+		"name": "Gastro Acid",
+		"type": "level",
+		"level": 45
+	},
+	{
+		"id": 379,
+		"name": "Power Trick",
+		"type": "level",
+		"level": 55
+	},
+	{
+		"id": 444,
+		"name": "Stone Edge",
+		"type": "level",
+		"level": 60
+	},
+	{
+		"id": 504,
+		"name": "Shell Smash",
+		"type": "level",
+		"level": 65
+	},
+	{
+		"id": 51,
+		"name": "Acid",
+		"type": "egg_moves"
+	},
+	{
+		"id": 367,
+		"name": "Acupressure",
+		"type": "egg_moves"
+	},
+	{
+		"id": 515,
+		"name": "Final Gambit",
+		"type": "egg_moves"
+	},
+	{
+		"id": 20,
+		"name": "Bind",
+		"type": "move_tutor"
+	},
+	{
+		"id": 81,
+		"name": "String Shot",
+		"type": "move_tutor"
+	},
+	{
+		"id": 111,
+		"name": "Defense Curl",
+		"type": "move_tutor"
+	},
+	{
+		"id": 173,
+		"name": "Snore",
+		"type": "move_tutor"
+	},
+	{
+		"id": 246,
+		"name": "AncientPower",
+		"type": "move_tutor"
+	},
+	{
+		"id": 282,
+		"name": "Knock Off",
+		"type": "move_tutor"
+	},
+	{
+		"id": 343,
+		"name": "Covet",
+		"type": "move_tutor"
+	},
+	{
+		"id": 380,
+		"name": "Gastro Acid",
+		"type": "move_tutor"
+	},
+	{
+		"id": 450,
+		"name": "Bug Bite",
+		"type": "move_tutor"
+	},
+	{
+		"id": 495,
+		"name": "After You",
+		"type": "move_tutor"
+	},
+	{
+		"id": 29,
+		"name": "Headbutt",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 34,
+		"name": "Body Slam",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 38,
+		"name": "Double-Edge",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 70,
+		"name": "Strength",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 89,
+		"name": "Earthquake",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 91,
+		"name": "Dig",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 92,
+		"name": "Toxic",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 102,
+		"name": "Mimic",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 104,
+		"name": "Double Team",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 117,
+		"name": "Bide",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 148,
+		"name": "Flash",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 156,
+		"name": "Rest",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 157,
+		"name": "Rock Slide",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 164,
+		"name": "Substitute",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 174,
+		"name": "Curse",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 179,
+		"name": "Reversal",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 182,
+		"name": "Protect",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 188,
+		"name": "Sludge Bomb",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 189,
+		"name": "Mud-Slap",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 201,
+		"name": "Sandstorm",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 203,
+		"name": "Endure",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 205,
+		"name": "Rollout",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 207,
+		"name": "Swagger",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 213,
+		"name": "Attract",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 214,
+		"name": "Sleep Talk",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 216,
+		"name": "Return",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 218,
+		"name": "Frustration",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 219,
+		"name": "Safeguard",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 227,
+		"name": "Encore",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 230,
+		"name": "Sweet Scent",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 237,
+		"name": "Hidden Power",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 241,
+		"name": "Sunny Day",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 249,
+		"name": "Rock Smash",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 263,
+		"name": "Facade",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 270,
+		"name": "Helping Hand",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 289,
+		"name": "Snatch",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 290,
+		"name": "Secret Power",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 317,
+		"name": "Rock Tomb",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 328,
+		"name": "Sand Tomb",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 334,
+		"name": "Iron Defense",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 341,
+		"name": "Mud Shot",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 350,
+		"name": "Rock Blast",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 360,
+		"name": "Gyro Ball",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 363,
+		"name": "Natural Gift",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 397,
+		"name": "Rock Polish",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 414,
+		"name": "Earth Power",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 444,
+		"name": "Stone Edge",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 445,
+		"name": "Captivate",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 446,
+		"name": "Stealth Rock",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 474,
+		"name": "Venoshock",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 479,
+		"name": "Smack Down",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 482,
+		"name": "Sludge Wave",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 496,
+		"name": "Round",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 522,
+		"name": "Struggle Bug",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 523,
+		"name": "Bulldoze",
+		"type": "move_learner_tools"
+	}
+],
+"types": [
+	"BUG",
+	"ROCK"
+],
+"stats": {
+	"hp": 20,
+	"attack": 10,
+	"defense": 230,
+	"speed": 5,
+	"sp_attack": 10,
+	"sp_defense": 230
+},
+"yields": {
+	"exp": 177,
+	"ev_hp": 0,
+	"ev_attack": 0,
+	"ev_defense": 1,
+	"ev_speed": 0,
+	"ev_sp_attack": 0,
+	"ev_sp_defense": 1
+},
+"tiers": [
+	"Untiered"
+],
+"held_items": [
+	{
+		"id": 5043,
+		"name": "Berry Juice"
+	},
+	{
+		"id": 5155,
+		"name": "Oran Berry"
+	}
+],
+"locations": [
+	{
+		"type": "Rocks",
+		"region_id": 1,
+		"region_name": "Hoenn",
+		"location": "SAFARI ZONE",
+		"min_level": 35,
+		"max_level": 40,
+		"rarity": "Very Common"
+	},
+	{
+		"type": "Rocks",
+		"region_id": 4,
+		"region_name": "Johto",
+		"location": "Cianwood City",
+		"min_level": 23,
+		"max_level": 26,
+		"rarity": "Very Common"
+	},
+	{
+		"type": "Rocks",
+		"region_id": 4,
+		"region_name": "Johto",
+		"location": "Route 40",
+		"min_level": 23,
+		"max_level": 26,
+		"rarity": "Very Common"
+	}
+]
+}

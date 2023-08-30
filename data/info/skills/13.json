@@ -1,0 +1,12 @@
+{
+"id": 13,
+"name": "Razor Wind",
+"skill_damage_type": "SPECIAL",
+"base_power": 80,
+"base_accuracy": 100,
+"base_pp": 10,
+"priority": 0,
+"type": "NORMAL",
+"target_type": 5,
+"true_damage": false
+}

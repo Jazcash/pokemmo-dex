@@ -1,0 +1,597 @@
+{
+"id": 238,
+"name": "Smoochum",
+"exp_type": "MEDIUM_FAST",
+"obtainable": true,
+"gender_ratio": 254,
+"height": 4,
+"weight": 60,
+"egg_groups": [
+	"cannot breed"
+],
+"abilities": [
+	{
+		"id": 12,
+		"name": "Oblivious"
+	},
+	{
+		"id": 108,
+		"name": "Forewarn"
+	},
+	{
+		"id": 93,
+		"name": "Hydration"
+	}
+],
+"forms": [
+	{
+		"form_id": 0,
+		"id": 238,
+		"name": "Smoochum"
+	}
+],
+"evolutions": [
+	{
+		"id": 124,
+		"name": "Jynx",
+		"type": "LEVEL",
+		"val": 30
+	}
+],
+"moves": [
+	{
+		"id": 1,
+		"name": "Pound",
+		"type": "level",
+		"level": 1
+	},
+	{
+		"id": 122,
+		"name": "Lick",
+		"type": "level",
+		"level": 1
+	},
+	{
+		"id": 181,
+		"name": "Powder Snow",
+		"type": "level",
+		"level": 4
+	},
+	{
+		"id": 122,
+		"name": "Lick",
+		"type": "level",
+		"level": 5
+	},
+	{
+		"id": 383,
+		"name": "Copycat",
+		"type": "level",
+		"level": 8
+	},
+	{
+		"id": 93,
+		"name": "Confusion",
+		"type": "level",
+		"level": 12
+	},
+	{
+		"id": 343,
+		"name": "Covet",
+		"type": "level",
+		"level": 16
+	},
+	{
+		"id": 47,
+		"name": "Sing",
+		"type": "level",
+		"level": 20
+	},
+	{
+		"id": 531,
+		"name": "Heart Stamp",
+		"type": "level",
+		"level": 21
+	},
+	{
+		"id": 313,
+		"name": "Fake Tears",
+		"type": "level",
+		"level": 24
+	},
+	{
+		"id": 8,
+		"name": "Ice Punch",
+		"type": "level",
+		"level": 28
+	},
+	{
+		"id": 381,
+		"name": "Lucky Chant",
+		"type": "level",
+		"level": 31
+	},
+	{
+		"id": 94,
+		"name": "Psychic",
+		"type": "level",
+		"level": 32
+	},
+	{
+		"id": 419,
+		"name": "Avalanche",
+		"type": "level",
+		"level": 35
+	},
+	{
+		"id": 186,
+		"name": "Sweet Kiss",
+		"type": "level",
+		"level": 36
+	},
+	{
+		"id": 212,
+		"name": "Mean Look",
+		"type": "level",
+		"level": 40
+	},
+	{
+		"id": 195,
+		"name": "Perish Song",
+		"type": "level",
+		"level": 44
+	},
+	{
+		"id": 59,
+		"name": "Blizzard",
+		"type": "level",
+		"level": 48
+	},
+	{
+		"id": 96,
+		"name": "Meditate",
+		"type": "egg_moves"
+	},
+	{
+		"id": 142,
+		"name": "Lovely Kiss",
+		"type": "egg_moves"
+	},
+	{
+		"id": 273,
+		"name": "Wish",
+		"type": "egg_moves"
+	},
+	{
+		"id": 357,
+		"name": "Miracle Eye",
+		"type": "egg_moves"
+	},
+	{
+		"id": 358,
+		"name": "Wake-Up Slap",
+		"type": "egg_moves"
+	},
+	{
+		"id": 171,
+		"name": "Nightmare",
+		"type": "move_tutor"
+	},
+	{
+		"id": 173,
+		"name": "Snore",
+		"type": "move_tutor"
+	},
+	{
+		"id": 215,
+		"name": "Heal Bell",
+		"type": "move_tutor"
+	},
+	{
+		"id": 252,
+		"name": "Fake Out",
+		"type": "move_tutor"
+	},
+	{
+		"id": 253,
+		"name": "Uproar",
+		"type": "move_tutor"
+	},
+	{
+		"id": 272,
+		"name": "Role Play",
+		"type": "move_tutor"
+	},
+	{
+		"id": 277,
+		"name": "Magic Coat",
+		"type": "move_tutor"
+	},
+	{
+		"id": 324,
+		"name": "Signal Beam",
+		"type": "move_tutor"
+	},
+	{
+		"id": 343,
+		"name": "Covet",
+		"type": "move_tutor"
+	},
+	{
+		"id": 472,
+		"name": "Wonder Room",
+		"type": "move_tutor"
+	},
+	{
+		"id": 478,
+		"name": "Magic Room",
+		"type": "move_tutor"
+	},
+	{
+		"id": 80,
+		"name": "Petal Dance",
+		"type": "special_moves"
+	},
+	{
+		"id": 146,
+		"name": "Dizzy Punch",
+		"type": "special_moves"
+	},
+	{
+		"id": 5,
+		"name": "Mega Punch",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 8,
+		"name": "Ice Punch",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 25,
+		"name": "Mega Kick",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 34,
+		"name": "Body Slam",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 38,
+		"name": "Double-Edge",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 58,
+		"name": "Ice Beam",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 59,
+		"name": "Blizzard",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 68,
+		"name": "Counter",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 69,
+		"name": "Seismic Toss",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 92,
+		"name": "Toxic",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 94,
+		"name": "Psychic",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 102,
+		"name": "Mimic",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 104,
+		"name": "Double Team",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 113,
+		"name": "Light Screen",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 115,
+		"name": "Reflect",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 118,
+		"name": "Metronome",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 138,
+		"name": "Dream Eater",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 148,
+		"name": "Flash",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 156,
+		"name": "Rest",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 164,
+		"name": "Substitute",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 168,
+		"name": "Thief",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 174,
+		"name": "Curse",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 182,
+		"name": "Protect",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 189,
+		"name": "Mud-Slap",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 196,
+		"name": "Icy Wind",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 203,
+		"name": "Endure",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 204,
+		"name": "Charm",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 207,
+		"name": "Swagger",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 213,
+		"name": "Attract",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 214,
+		"name": "Sleep Talk",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 216,
+		"name": "Return",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 218,
+		"name": "Frustration",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 223,
+		"name": "DynamicPunch",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 227,
+		"name": "Encore",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 230,
+		"name": "Sweet Scent",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 237,
+		"name": "Hidden Power",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 240,
+		"name": "Rain Dance",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 244,
+		"name": "Psych Up",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 247,
+		"name": "Shadow Ball",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 258,
+		"name": "Snowscape",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 263,
+		"name": "Facade",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 270,
+		"name": "Helping Hand",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 271,
+		"name": "Trick",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 278,
+		"name": "Recycle",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 285,
+		"name": "Skill Swap",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 290,
+		"name": "Secret Power",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 313,
+		"name": "Fake Tears",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 347,
+		"name": "Calm Mind",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 352,
+		"name": "Water Pulse",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 363,
+		"name": "Natural Gift",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 371,
+		"name": "Payback",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 374,
+		"name": "Fling",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 417,
+		"name": "Nasty Plot",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 419,
+		"name": "Avalanche",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 428,
+		"name": "Zen Headbutt",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 433,
+		"name": "Trick Room",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 445,
+		"name": "Captivate",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 447,
+		"name": "Grass Knot",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 473,
+		"name": "Psyshock",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 496,
+		"name": "Round",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 497,
+		"name": "Echoed Voice",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 500,
+		"name": "Stored Power",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 524,
+		"name": "Frost Breath",
+		"type": "move_learner_tools"
+	}
+],
+"types": [
+	"ICE",
+	"PSYCHIC"
+],
+"stats": {
+	"hp": 45,
+	"attack": 30,
+	"defense": 15,
+	"speed": 65,
+	"sp_attack": 85,
+	"sp_defense": 65
+},
+"yields": {
+	"exp": 61,
+	"ev_hp": 0,
+	"ev_attack": 0,
+	"ev_defense": 0,
+	"ev_speed": 0,
+	"ev_sp_attack": 1,
+	"ev_sp_defense": 0
+},
+"tiers": [
+	"Untiered"
+],
+"held_items": [
+	{
+		"id": 5153,
+		"name": "Aspear Berry"
+	}
+],
+"locations": [
+	{
+		"type": "Cave",
+		"region_id": 4,
+		"region_name": "Johto",
+		"location": "Ice Path",
+		"min_level": 36,
+		"max_level": 37,
+		"rarity": "Lure"
+	}
+]
+}

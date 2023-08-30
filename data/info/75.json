@@ -1,0 +1,1285 @@
+{
+"id": 75,
+"name": "Graveler",
+"exp_type": "MEDIUM_SLOW",
+"obtainable": true,
+"gender_ratio": 127,
+"height": 10,
+"weight": 1050,
+"egg_groups": [
+	"mineral"
+],
+"abilities": [
+	{
+		"id": 69,
+		"name": "Rock Head"
+	},
+	{
+		"id": 5,
+		"name": "Sturdy"
+	},
+	{
+		"id": 8,
+		"name": "Sand Veil"
+	}
+],
+"forms": [
+	{
+		"form_id": 0,
+		"id": 75,
+		"name": "Graveler"
+	}
+],
+"evolutions": [
+	{
+		"id": 76,
+		"name": "Golem",
+		"type": "TRADE",
+		"val": 0
+	}
+],
+"moves": [
+	{
+		"id": 28,
+		"name": "Sand-Attack",
+		"type": "level",
+		"level": 1
+	},
+	{
+		"id": 33,
+		"name": "Tackle",
+		"type": "level",
+		"level": 1
+	},
+	{
+		"id": 111,
+		"name": "Defense Curl",
+		"type": "level",
+		"level": 1
+	},
+	{
+		"id": 117,
+		"name": "Bide",
+		"type": "level",
+		"level": 1
+	},
+	{
+		"id": 300,
+		"name": "Mud Sport",
+		"type": "level",
+		"level": 1
+	},
+	{
+		"id": 397,
+		"name": "Rock Polish",
+		"type": "level",
+		"level": 1
+	},
+	{
+		"id": 205,
+		"name": "Rollout",
+		"type": "level",
+		"level": 1
+	},
+	{
+		"id": 28,
+		"name": "Sand-Attack",
+		"type": "level",
+		"level": 3
+	},
+	{
+		"id": 300,
+		"name": "Mud Sport",
+		"type": "level",
+		"level": 4
+	},
+	{
+		"id": 201,
+		"name": "Sandstorm",
+		"type": "level",
+		"level": 4
+	},
+	{
+		"id": 33,
+		"name": "Tackle",
+		"type": "level",
+		"level": 5
+	},
+	{
+		"id": 117,
+		"name": "Bide",
+		"type": "level",
+		"level": 6
+	},
+	{
+		"id": 397,
+		"name": "Rock Polish",
+		"type": "level",
+		"level": 6
+	},
+	{
+		"id": 189,
+		"name": "Mud-Slap",
+		"type": "level",
+		"level": 9
+	},
+	{
+		"id": 88,
+		"name": "Rock Throw",
+		"type": "level",
+		"level": 9
+	},
+	{
+		"id": 205,
+		"name": "Rollout",
+		"type": "level",
+		"level": 10
+	},
+	{
+		"id": 222,
+		"name": "Magnitude",
+		"type": "level",
+		"level": 12
+	},
+	{
+		"id": 106,
+		"name": "Harden",
+		"type": "level",
+		"level": 12
+	},
+	{
+		"id": 446,
+		"name": "Stealth Rock",
+		"type": "level",
+		"level": 12
+	},
+	{
+		"id": 36,
+		"name": "Take Down",
+		"type": "level",
+		"level": 15
+	},
+	{
+		"id": 334,
+		"name": "Iron Defense",
+		"type": "level",
+		"level": 15
+	},
+	{
+		"id": 479,
+		"name": "Smack Down",
+		"type": "level",
+		"level": 18
+	},
+	{
+		"id": 120,
+		"name": "Selfdestruct",
+		"type": "level",
+		"level": 19
+	},
+	{
+		"id": 157,
+		"name": "Rock Slide",
+		"type": "level",
+		"level": 21
+	},
+	{
+		"id": 523,
+		"name": "Bulldoze",
+		"type": "level",
+		"level": 22
+	},
+	{
+		"id": 89,
+		"name": "Earthquake",
+		"type": "level",
+		"level": 31
+	},
+	{
+		"id": 350,
+		"name": "Rock Blast",
+		"type": "level",
+		"level": 34
+	},
+	{
+		"id": 38,
+		"name": "Double-Edge",
+		"type": "level",
+		"level": 39
+	},
+	{
+		"id": 153,
+		"name": "Explosion",
+		"type": "level",
+		"level": 44
+	},
+	{
+		"id": 444,
+		"name": "Stone Edge",
+		"type": "level",
+		"level": 54
+	},
+	{
+		"id": 111,
+		"name": "Defense Curl",
+		"type": "move_tutor"
+	},
+	{
+		"id": 173,
+		"name": "Snore",
+		"type": "move_tutor"
+	},
+	{
+		"id": 246,
+		"name": "AncientPower",
+		"type": "move_tutor"
+	},
+	{
+		"id": 335,
+		"name": "Block",
+		"type": "move_tutor"
+	},
+	{
+		"id": 389,
+		"name": "Sucker Punch",
+		"type": "move_tutor"
+	},
+	{
+		"id": 229,
+		"name": "Rapid Spin",
+		"type": "special_moves"
+	},
+	{
+		"id": 5,
+		"name": "Mega Punch",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 7,
+		"name": "Fire Punch",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 9,
+		"name": "ThunderPunch",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 25,
+		"name": "Mega Kick",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 29,
+		"name": "Headbutt",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 34,
+		"name": "Body Slam",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 36,
+		"name": "Take Down",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 38,
+		"name": "Double-Edge",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 53,
+		"name": "Flamethrower",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 66,
+		"name": "Submission",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 68,
+		"name": "Counter",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 69,
+		"name": "Seismic Toss",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 70,
+		"name": "Strength",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 89,
+		"name": "Earthquake",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 90,
+		"name": "Fissure",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 91,
+		"name": "Dig",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 92,
+		"name": "Toxic",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 99,
+		"name": "Rage",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 102,
+		"name": "Mimic",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 104,
+		"name": "Double Team",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 117,
+		"name": "Bide",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 118,
+		"name": "Metronome",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 120,
+		"name": "Selfdestruct",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 126,
+		"name": "Fire Blast",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 153,
+		"name": "Explosion",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 156,
+		"name": "Rest",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 157,
+		"name": "Rock Slide",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 164,
+		"name": "Substitute",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 174,
+		"name": "Curse",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 182,
+		"name": "Protect",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 189,
+		"name": "Mud-Slap",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 201,
+		"name": "Sandstorm",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 203,
+		"name": "Endure",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 205,
+		"name": "Rollout",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 207,
+		"name": "Swagger",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 213,
+		"name": "Attract",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 214,
+		"name": "Sleep Talk",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 216,
+		"name": "Return",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 218,
+		"name": "Frustration",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 223,
+		"name": "DynamicPunch",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 237,
+		"name": "Hidden Power",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 241,
+		"name": "Sunny Day",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 249,
+		"name": "Rock Smash",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 263,
+		"name": "Facade",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 264,
+		"name": "Focus Punch",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 267,
+		"name": "Nature Power",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 276,
+		"name": "Superpower",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 280,
+		"name": "Brick Break",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 290,
+		"name": "Secret Power",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 317,
+		"name": "Rock Tomb",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 334,
+		"name": "Iron Defense",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 341,
+		"name": "Mud Shot",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 350,
+		"name": "Rock Blast",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 360,
+		"name": "Gyro Ball",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 363,
+		"name": "Natural Gift",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 374,
+		"name": "Fling",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 397,
+		"name": "Rock Polish",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 414,
+		"name": "Earth Power",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 431,
+		"name": "Rock Climb",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 444,
+		"name": "Stone Edge",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 445,
+		"name": "Captivate",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 446,
+		"name": "Stealth Rock",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 479,
+		"name": "Smack Down",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 496,
+		"name": "Round",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 510,
+		"name": "Incinerate",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 523,
+		"name": "Bulldoze",
+		"type": "move_learner_tools"
+	}
+],
+"types": [
+	"ROCK",
+	"GROUND"
+],
+"stats": {
+	"hp": 55,
+	"attack": 95,
+	"defense": 115,
+	"speed": 35,
+	"sp_attack": 45,
+	"sp_defense": 45
+},
+"yields": {
+	"exp": 137,
+	"ev_hp": 0,
+	"ev_attack": 0,
+	"ev_defense": 2,
+	"ev_speed": 0,
+	"ev_sp_attack": 0,
+	"ev_sp_defense": 0
+},
+"tiers": [
+	"Untiered"
+],
+"held_items": [
+	{
+		"id": 5229,
+		"name": "Everstone"
+	},
+	{
+		"id": 5238,
+		"name": "Hard Stone"
+	}
+],
+"locations": [
+	{
+		"type": "Cave",
+		"region_id": 0,
+		"region_name": "Kanto",
+		"location": "CERULEAN CAVE",
+		"min_level": 54,
+		"max_level": 60,
+		"rarity": "Rare"
+	},
+	{
+		"type": "Rocks",
+		"region_id": 0,
+		"region_name": "Kanto",
+		"location": "CERULEAN CAVE",
+		"min_level": 50,
+		"max_level": 65,
+		"rarity": "Very Common"
+	},
+	{
+		"type": "Rocks",
+		"region_id": 0,
+		"region_name": "Kanto",
+		"location": "KINDLE ROAD",
+		"min_level": 38,
+		"max_level": 42,
+		"rarity": "Very Common"
+	},
+	{
+		"type": "Cave",
+		"region_id": 0,
+		"region_name": "Kanto",
+		"location": "MT. EMBER",
+		"min_level": 46,
+		"max_level": 48,
+		"rarity": "Rare"
+	},
+	{
+		"type": "Rocks",
+		"region_id": 0,
+		"region_name": "Kanto",
+		"location": "MT. EMBER",
+		"min_level": 40,
+		"max_level": 50,
+		"rarity": "Very Common"
+	},
+	{
+		"type": "Rocks",
+		"region_id": 0,
+		"region_name": "Kanto",
+		"location": "ROCK TUNNEL",
+		"min_level": 38,
+		"max_level": 42,
+		"rarity": "Uncommon"
+	},
+	{
+		"type": "Rocks",
+		"region_id": 0,
+		"region_name": "Kanto",
+		"location": "SEVAULT CANYON",
+		"min_level": 50,
+		"max_level": 55,
+		"rarity": "Very Common"
+	},
+	{
+		"type": "Cave",
+		"region_id": 0,
+		"region_name": "Kanto",
+		"location": "VICTORY ROAD",
+		"min_level": 44,
+		"max_level": 48,
+		"rarity": "Uncommon"
+	},
+	{
+		"type": "Cave",
+		"region_id": 1,
+		"region_name": "Hoenn",
+		"location": "MAGMA HIDEOUT",
+		"min_level": 26,
+		"max_level": 28,
+		"rarity": "Horde"
+	},
+	{
+		"type": "Cave",
+		"region_id": 1,
+		"region_name": "Hoenn",
+		"location": "MAGMA HIDEOUT",
+		"min_level": 30,
+		"max_level": 33,
+		"rarity": "Uncommon"
+	},
+	{
+		"type": "Rocks",
+		"region_id": 1,
+		"region_name": "Hoenn",
+		"location": "SEAFLOOR CAVERN",
+		"min_level": 33,
+		"max_level": 36,
+		"rarity": "Very Common"
+	},
+	{
+		"type": "Rocks",
+		"region_id": 1,
+		"region_name": "Hoenn",
+		"location": "VICTORY ROAD",
+		"min_level": 40,
+		"max_level": 45,
+		"rarity": "Very Common"
+	},
+	{
+		"type": "Cave",
+		"region_id": 2,
+		"region_name": "Unova",
+		"location": "Challenger's Cave",
+		"min_level": 46,
+		"max_level": 47,
+		"rarity": "Horde"
+	},
+	{
+		"type": "Cave",
+		"region_id": 2,
+		"region_name": "Unova",
+		"location": "Challenger's Cave",
+		"min_level": 47,
+		"max_level": 49,
+		"rarity": "Uncommon"
+	},
+	{
+		"type": "Rocks",
+		"region_id": 2,
+		"region_name": "Unova",
+		"location": "Challenger's Cave",
+		"min_level": 55,
+		"max_level": 60,
+		"rarity": "Very Common"
+	},
+	{
+		"type": "Cave",
+		"region_id": 3,
+		"region_name": "Sinnoh",
+		"location": "Iron Island",
+		"min_level": 29,
+		"max_level": 33,
+		"rarity": "Horde"
+	},
+	{
+		"type": "Cave",
+		"region_id": 3,
+		"region_name": "Sinnoh",
+		"location": "Iron Island",
+		"min_level": 31,
+		"max_level": 34,
+		"rarity": "Very Common"
+	},
+	{
+		"type": "Cave",
+		"region_id": 3,
+		"region_name": "Sinnoh",
+		"location": "Mt. Coronet",
+		"min_level": 32,
+		"max_level": 40,
+		"rarity": "Rare"
+	},
+	{
+		"type": "Cave",
+		"region_id": 3,
+		"region_name": "Sinnoh",
+		"location": "Mt. Coronet",
+		"min_level": 37,
+		"max_level": 37,
+		"rarity": "Horde"
+	},
+	{
+		"type": "Rocks",
+		"region_id": 3,
+		"region_name": "Sinnoh",
+		"location": "Mt. Coronet",
+		"min_level": 35,
+		"max_level": 42,
+		"rarity": "Very Common"
+	},
+	{
+		"type": "Rocks",
+		"region_id": 3,
+		"region_name": "Sinnoh",
+		"location": "Route 210",
+		"min_level": 29,
+		"max_level": 30,
+		"rarity": "Very Common"
+	},
+	{
+		"type": "Grass",
+		"region_id": 3,
+		"region_name": "Sinnoh",
+		"location": "Route 211",
+		"min_level": 28,
+		"max_level": 28,
+		"rarity": "Uncommon"
+	},
+	{
+		"type": "Rocks",
+		"region_id": 3,
+		"region_name": "Sinnoh",
+		"location": "Route 211",
+		"min_level": 29,
+		"max_level": 30,
+		"rarity": "Very Common"
+	},
+	{
+		"type": "Rocks",
+		"region_id": 3,
+		"region_name": "Sinnoh",
+		"location": "Route 213",
+		"min_level": 25,
+		"max_level": 26,
+		"rarity": "Common"
+	},
+	{
+		"type": "Grass",
+		"region_id": 3,
+		"region_name": "Sinnoh",
+		"location": "Route 214",
+		"min_level": 25,
+		"max_level": 25,
+		"rarity": "Uncommon"
+	},
+	{
+		"type": "Rocks",
+		"region_id": 3,
+		"region_name": "Sinnoh",
+		"location": "Route 214",
+		"min_level": 25,
+		"max_level": 25,
+		"rarity": "Uncommon"
+	},
+	{
+		"type": "Grass",
+		"region_id": 3,
+		"region_name": "Sinnoh",
+		"location": "Route 216",
+		"min_level": 35,
+		"max_level": 35,
+		"rarity": "Uncommon"
+	},
+	{
+		"type": "Grass",
+		"region_id": 3,
+		"region_name": "Sinnoh",
+		"location": "Route 216",
+		"min_level": 35,
+		"max_level": 35,
+		"rarity": "Common"
+	},
+	{
+		"type": "Grass",
+		"region_id": 3,
+		"region_name": "Sinnoh",
+		"location": "Route 216",
+		"min_level": 35,
+		"max_level": 35,
+		"rarity": "Uncommon"
+	},
+	{
+		"type": "Grass",
+		"region_id": 3,
+		"region_name": "Sinnoh",
+		"location": "Route 216",
+		"min_level": 35,
+		"max_level": 35,
+		"rarity": "Rare"
+	},
+	{
+		"type": "Rocks",
+		"region_id": 3,
+		"region_name": "Sinnoh",
+		"location": "Route 222",
+		"min_level": 41,
+		"max_level": 42,
+		"rarity": "Very Common"
+	},
+	{
+		"type": "Grass",
+		"region_id": 3,
+		"region_name": "Sinnoh",
+		"location": "Route 225",
+		"min_level": 49,
+		"max_level": 49,
+		"rarity": "Uncommon"
+	},
+	{
+		"type": "Grass",
+		"region_id": 3,
+		"region_name": "Sinnoh",
+		"location": "Route 225",
+		"min_level": 49,
+		"max_level": 49,
+		"rarity": "Uncommon"
+	},
+	{
+		"type": "Grass",
+		"region_id": 3,
+		"region_name": "Sinnoh",
+		"location": "Route 225",
+		"min_level": 49,
+		"max_level": 49,
+		"rarity": "Uncommon"
+	},
+	{
+		"type": "Grass",
+		"region_id": 3,
+		"region_name": "Sinnoh",
+		"location": "Route 225",
+		"min_level": 49,
+		"max_level": 49,
+		"rarity": "Uncommon"
+	},
+	{
+		"type": "Grass",
+		"region_id": 3,
+		"region_name": "Sinnoh",
+		"location": "Route 226",
+		"min_level": 49,
+		"max_level": 49,
+		"rarity": "Common"
+	},
+	{
+		"type": "Grass",
+		"region_id": 3,
+		"region_name": "Sinnoh",
+		"location": "Route 227",
+		"min_level": 51,
+		"max_level": 53,
+		"rarity": "Uncommon"
+	},
+	{
+		"type": "Rocks",
+		"region_id": 3,
+		"region_name": "Sinnoh",
+		"location": "Route 230",
+		"min_level": 51,
+		"max_level": 52,
+		"rarity": "Very Common"
+	},
+	{
+		"type": "Grass",
+		"region_id": 3,
+		"region_name": "Sinnoh",
+		"location": "Sendoff Spring",
+		"min_level": 37,
+		"max_level": 39,
+		"rarity": "Very Common"
+	},
+	{
+		"type": "Cave",
+		"region_id": 3,
+		"region_name": "Sinnoh",
+		"location": "Snowpoint Temple",
+		"min_level": 52,
+		"max_level": 56,
+		"rarity": "Uncommon"
+	},
+	{
+		"type": "Cave",
+		"region_id": 3,
+		"region_name": "Sinnoh",
+		"location": "Snowpoint Temple",
+		"min_level": 52,
+		"max_level": 56,
+		"rarity": "Uncommon"
+	},
+	{
+		"type": "Cave",
+		"region_id": 3,
+		"region_name": "Sinnoh",
+		"location": "Snowpoint Temple",
+		"min_level": 52,
+		"max_level": 56,
+		"rarity": "Uncommon"
+	},
+	{
+		"type": "Cave",
+		"region_id": 3,
+		"region_name": "Sinnoh",
+		"location": "Snowpoint Temple",
+		"min_level": 52,
+		"max_level": 56,
+		"rarity": "Uncommon"
+	},
+	{
+		"type": "Rocks",
+		"region_id": 3,
+		"region_name": "Sinnoh",
+		"location": "Snowpoint Temple",
+		"min_level": 54,
+		"max_level": 55,
+		"rarity": "Very Common"
+	},
+	{
+		"type": "Grass",
+		"region_id": 3,
+		"region_name": "Sinnoh",
+		"location": "Stark Mountain",
+		"min_level": 51,
+		"max_level": 56,
+		"rarity": "Uncommon"
+	},
+	{
+		"type": "Cave",
+		"region_id": 3,
+		"region_name": "Sinnoh",
+		"location": "Stark Mountain",
+		"min_level": 55,
+		"max_level": 57,
+		"rarity": "Uncommon"
+	},
+	{
+		"type": "Rocks",
+		"region_id": 3,
+		"region_name": "Sinnoh",
+		"location": "Stark Mountain",
+		"min_level": 55,
+		"max_level": 59,
+		"rarity": "Very Common"
+	},
+	{
+		"type": "Rocks",
+		"region_id": 3,
+		"region_name": "Sinnoh",
+		"location": "Turnback Cave",
+		"min_level": 50,
+		"max_level": 60,
+		"rarity": "Very Common"
+	},
+	{
+		"type": "Grass",
+		"region_id": 3,
+		"region_name": "Sinnoh",
+		"location": "Valor Lakefront",
+		"min_level": 26,
+		"max_level": 28,
+		"rarity": "Rare"
+	},
+	{
+		"type": "Grass",
+		"region_id": 3,
+		"region_name": "Sinnoh",
+		"location": "Valor Lakefront",
+		"min_level": 26,
+		"max_level": 28,
+		"rarity": "Rare"
+	},
+	{
+		"type": "Grass",
+		"region_id": 3,
+		"region_name": "Sinnoh",
+		"location": "Valor Lakefront",
+		"min_level": 26,
+		"max_level": 28,
+		"rarity": "Rare"
+	},
+	{
+		"type": "Grass",
+		"region_id": 3,
+		"region_name": "Sinnoh",
+		"location": "Valor Lakefront",
+		"min_level": 26,
+		"max_level": 28,
+		"rarity": "Uncommon"
+	},
+	{
+		"type": "Cave",
+		"region_id": 3,
+		"region_name": "Sinnoh",
+		"location": "Victory Road",
+		"min_level": 40,
+		"max_level": 51,
+		"rarity": "Common"
+	},
+	{
+		"type": "Cave",
+		"region_id": 3,
+		"region_name": "Sinnoh",
+		"location": "Victory Road",
+		"min_level": 47,
+		"max_level": 49,
+		"rarity": "Horde"
+	},
+	{
+		"type": "Rocks",
+		"region_id": 3,
+		"region_name": "Sinnoh",
+		"location": "Victory Road",
+		"min_level": 47,
+		"max_level": 48,
+		"rarity": "Very Common"
+	},
+	{
+		"type": "Cave",
+		"region_id": 4,
+		"region_name": "Johto",
+		"location": "Cliff Cave",
+		"min_level": 26,
+		"max_level": 29,
+		"rarity": "Rare"
+	},
+	{
+		"type": "Cave",
+		"region_id": 4,
+		"region_name": "Johto",
+		"location": "Dark Cave",
+		"min_level": 25,
+		"max_level": 25,
+		"rarity": "Common"
+	},
+	{
+		"type": "Cave",
+		"region_id": 4,
+		"region_name": "Johto",
+		"location": "Dark Cave",
+		"min_level": 25,
+		"max_level": 25,
+		"rarity": "Common"
+	},
+	{
+		"type": "Cave",
+		"region_id": 4,
+		"region_name": "Johto",
+		"location": "Dark Cave",
+		"min_level": 25,
+		"max_level": 25,
+		"rarity": "Common"
+	},
+	{
+		"type": "Cave",
+		"region_id": 4,
+		"region_name": "Johto",
+		"location": "Dark Cave",
+		"min_level": 25,
+		"max_level": 25,
+		"rarity": "Common"
+	},
+	{
+		"type": "Rocks",
+		"region_id": 4,
+		"region_name": "Johto",
+		"location": "Ice Path",
+		"min_level": 35,
+		"max_level": 36,
+		"rarity": "Very Common"
+	},
+	{
+		"type": "Cave",
+		"region_id": 4,
+		"region_name": "Johto",
+		"location": "Mt. Mortar",
+		"min_level": 33,
+		"max_level": 36,
+		"rarity": "Uncommon"
+	},
+	{
+		"type": "Cave",
+		"region_id": 4,
+		"region_name": "Johto",
+		"location": "Mt. Silver Cave",
+		"min_level": 59,
+		"max_level": 63,
+		"rarity": "Horde"
+	},
+	{
+		"type": "Cave",
+		"region_id": 4,
+		"region_name": "Johto",
+		"location": "Mt. Silver Cave",
+		"min_level": 64,
+		"max_level": 70,
+		"rarity": "Uncommon"
+	},
+	{
+		"type": "Cave",
+		"region_id": 4,
+		"region_name": "Johto",
+		"location": "Mt. Silver Cave",
+		"min_level": 64,
+		"max_level": 70,
+		"rarity": "Uncommon"
+	},
+	{
+		"type": "Cave",
+		"region_id": 4,
+		"region_name": "Johto",
+		"location": "Mt. Silver Cave",
+		"min_level": 64,
+		"max_level": 70,
+		"rarity": "Uncommon"
+	},
+	{
+		"type": "Cave",
+		"region_id": 4,
+		"region_name": "Johto",
+		"location": "Mt. Silver Cave",
+		"min_level": 64,
+		"max_level": 70,
+		"rarity": "Uncommon"
+	},
+	{
+		"type": "Rocks",
+		"region_id": 4,
+		"region_name": "Johto",
+		"location": "Mt. Silver Cave",
+		"min_level": 69,
+		"max_level": 70,
+		"rarity": "Very Common"
+	},
+	{
+		"type": "Grass",
+		"region_id": 4,
+		"region_name": "Johto",
+		"location": "Route 45",
+		"min_level": 31,
+		"max_level": 33,
+		"rarity": "Horde"
+	},
+	{
+		"type": "Grass",
+		"region_id": 4,
+		"region_name": "Johto",
+		"location": "Route 45",
+		"min_level": 35,
+		"max_level": 37,
+		"rarity": "Very Common"
+	},
+	{
+		"type": "Cave",
+		"region_id": 4,
+		"region_name": "Johto",
+		"location": "Safari Zone (Day/Morning)",
+		"min_level": 28,
+		"max_level": 31,
+		"rarity": "Rare"
+	},
+	{
+		"type": "Rocks",
+		"region_id": 4,
+		"region_name": "Johto",
+		"location": "Tohjo Falls",
+		"min_level": 38,
+		"max_level": 40,
+		"rarity": "Very Common"
+	},
+	{
+		"type": "Cave",
+		"region_id": 4,
+		"region_name": "Johto",
+		"location": "Victory Road",
+		"min_level": 39,
+		"max_level": 43,
+		"rarity": "Common"
+	},
+	{
+		"type": "Rocks",
+		"region_id": 4,
+		"region_name": "Johto",
+		"location": "Victory Road",
+		"min_level": 42,
+		"max_level": 44,
+		"rarity": "Very Common"
+	}
+]
+}

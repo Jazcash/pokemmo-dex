@@ -1,0 +1,610 @@
+{
+"id": 637,
+"name": "Volcarona",
+"exp_type": "SLOW",
+"obtainable": true,
+"gender_ratio": 127,
+"height": 16,
+"weight": 460,
+"egg_groups": [
+	"bug"
+],
+"abilities": [
+	{
+		"id": 49,
+		"name": "Flame Body"
+	},
+	{
+		"id": 0,
+		"name": "--"
+	},
+	{
+		"id": 68,
+		"name": "Swarm"
+	}
+],
+"forms": [
+	{
+		"form_id": 0,
+		"id": 637,
+		"name": "Volcarona"
+	}
+],
+"evolutions": [],
+"moves": [
+	{
+		"id": 16,
+		"name": "Gust",
+		"type": "level",
+		"level": 1
+	},
+	{
+		"id": 18,
+		"name": "Whirlwind",
+		"type": "level",
+		"level": 1
+	},
+	{
+		"id": 36,
+		"name": "Take Down",
+		"type": "level",
+		"level": 1
+	},
+	{
+		"id": 37,
+		"name": "Thrash",
+		"type": "level",
+		"level": 1
+	},
+	{
+		"id": 38,
+		"name": "Double-Edge",
+		"type": "level",
+		"level": 1
+	},
+	{
+		"id": 52,
+		"name": "Ember",
+		"type": "level",
+		"level": 1
+	},
+	{
+		"id": 71,
+		"name": "Absorb",
+		"type": "level",
+		"level": 1
+	},
+	{
+		"id": 81,
+		"name": "String Shot",
+		"type": "level",
+		"level": 1
+	},
+	{
+		"id": 83,
+		"name": "Fire Spin",
+		"type": "level",
+		"level": 1
+	},
+	{
+		"id": 133,
+		"name": "Amnesia",
+		"type": "level",
+		"level": 1
+	},
+	{
+		"id": 141,
+		"name": "Leech Life",
+		"type": "level",
+		"level": 1
+	},
+	{
+		"id": 172,
+		"name": "Flame Wheel",
+		"type": "level",
+		"level": 1
+	},
+	{
+		"id": 257,
+		"name": "Heat Wave",
+		"type": "level",
+		"level": 1
+	},
+	{
+		"id": 394,
+		"name": "Flare Blitz",
+		"type": "level",
+		"level": 1
+	},
+	{
+		"id": 405,
+		"name": "Bug Buzz",
+		"type": "level",
+		"level": 1
+	},
+	{
+		"id": 476,
+		"name": "Rage Powder",
+		"type": "level",
+		"level": 1
+	},
+	{
+		"id": 483,
+		"name": "Quiver Dance",
+		"type": "level",
+		"level": 1
+	},
+	{
+		"id": 488,
+		"name": "Flame Charge",
+		"type": "level",
+		"level": 1
+	},
+	{
+		"id": 522,
+		"name": "Struggle Bug",
+		"type": "level",
+		"level": 1
+	},
+	{
+		"id": 542,
+		"name": "Hurricane",
+		"type": "level",
+		"level": 1
+	},
+	{
+		"id": 552,
+		"name": "Fiery Dance",
+		"type": "level",
+		"level": 1
+	},
+	{
+		"id": 71,
+		"name": "Absorb",
+		"type": "level",
+		"level": 10
+	},
+	{
+		"id": 172,
+		"name": "Flame Wheel",
+		"type": "level",
+		"level": 18
+	},
+	{
+		"id": 16,
+		"name": "Gust",
+		"type": "level",
+		"level": 20
+	},
+	{
+		"id": 450,
+		"name": "Bug Bite",
+		"type": "level",
+		"level": 24
+	},
+	{
+		"id": 83,
+		"name": "Fire Spin",
+		"type": "level",
+		"level": 30
+	},
+	{
+		"id": 103,
+		"name": "Screech",
+		"type": "level",
+		"level": 30
+	},
+	{
+		"id": 141,
+		"name": "Leech Life",
+		"type": "level",
+		"level": 36
+	},
+	{
+		"id": 18,
+		"name": "Whirlwind",
+		"type": "level",
+		"level": 40
+	},
+	{
+		"id": 405,
+		"name": "Bug Buzz",
+		"type": "level",
+		"level": 42
+	},
+	{
+		"id": 257,
+		"name": "Heat Wave",
+		"type": "level",
+		"level": 48
+	},
+	{
+		"id": 318,
+		"name": "Silver Wind",
+		"type": "level",
+		"level": 50
+	},
+	{
+		"id": 133,
+		"name": "Amnesia",
+		"type": "level",
+		"level": 54
+	},
+	{
+		"id": 483,
+		"name": "Quiver Dance",
+		"type": "level",
+		"level": 59
+	},
+	{
+		"id": 542,
+		"name": "Hurricane",
+		"type": "level",
+		"level": 62
+	},
+	{
+		"id": 126,
+		"name": "Fire Blast",
+		"type": "level",
+		"level": 70
+	},
+	{
+		"id": 476,
+		"name": "Rage Powder",
+		"type": "level",
+		"level": 78
+	},
+	{
+		"id": 552,
+		"name": "Fiery Dance",
+		"type": "level",
+		"level": 100
+	},
+	{
+		"id": 81,
+		"name": "String Shot",
+		"type": "move_tutor"
+	},
+	{
+		"id": 173,
+		"name": "Snore",
+		"type": "move_tutor"
+	},
+	{
+		"id": 324,
+		"name": "Signal Beam",
+		"type": "move_tutor"
+	},
+	{
+		"id": 393,
+		"name": "Magnet Rise",
+		"type": "move_tutor"
+	},
+	{
+		"id": 450,
+		"name": "Bug Bite",
+		"type": "move_tutor"
+	},
+	{
+		"id": 18,
+		"name": "Whirlwind",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 19,
+		"name": "Fly",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 34,
+		"name": "Body Slam",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 36,
+		"name": "Take Down",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 38,
+		"name": "Double-Edge",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 53,
+		"name": "Flamethrower",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 63,
+		"name": "Hyper Beam",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 76,
+		"name": "SolarBeam",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 83,
+		"name": "Fire Spin",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 92,
+		"name": "Toxic",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 94,
+		"name": "Psychic",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 103,
+		"name": "Screech",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 104,
+		"name": "Double Team",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 113,
+		"name": "Light Screen",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 126,
+		"name": "Fire Blast",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 133,
+		"name": "Amnesia",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 141,
+		"name": "Leech Life",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 156,
+		"name": "Rest",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 164,
+		"name": "Substitute",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 182,
+		"name": "Protect",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 202,
+		"name": "Giga Drain",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 203,
+		"name": "Endure",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 207,
+		"name": "Swagger",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 213,
+		"name": "Attract",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 214,
+		"name": "Sleep Talk",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 216,
+		"name": "Return",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 218,
+		"name": "Frustration",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 219,
+		"name": "Safeguard",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 237,
+		"name": "Hidden Power",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 240,
+		"name": "Rain Dance",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 241,
+		"name": "Sunny Day",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 257,
+		"name": "Heat Wave",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 261,
+		"name": "Will-O-Wisp",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 263,
+		"name": "Facade",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 290,
+		"name": "Secret Power",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 314,
+		"name": "Air Cutter",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 315,
+		"name": "Overheat",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 318,
+		"name": "Silver Wind",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 332,
+		"name": "Aerial Ace",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 347,
+		"name": "Calm Mind",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 355,
+		"name": "Roost",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 366,
+		"name": "Tailwind",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 369,
+		"name": "U-turn",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 394,
+		"name": "Flare Blitz",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 398,
+		"name": "Poison Jab",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 403,
+		"name": "Air Slash",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 405,
+		"name": "Bug Buzz",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 416,
+		"name": "Giga Impact",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 428,
+		"name": "Zen Headbutt",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 432,
+		"name": "Defog",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 488,
+		"name": "Flame Charge",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 496,
+		"name": "Round",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 510,
+		"name": "Incinerate",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 512,
+		"name": "Acrobatics",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 522,
+		"name": "Struggle Bug",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 528,
+		"name": "Wild Charge",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 542,
+		"name": "Hurricane",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 483,
+		"name": "Quiver Dance",
+		"type": "on_evolution"
+	}
+],
+"types": [
+	"BUG",
+	"FIRE"
+],
+"stats": {
+	"hp": 85,
+	"attack": 60,
+	"defense": 65,
+	"speed": 100,
+	"sp_attack": 135,
+	"sp_defense": 105
+},
+"yields": {
+	"exp": 248,
+	"ev_hp": 0,
+	"ev_attack": 0,
+	"ev_defense": 0,
+	"ev_speed": 0,
+	"ev_sp_attack": 3,
+	"ev_sp_defense": 0
+},
+"tiers": [
+	"Over Used"
+],
+"held_items": [
+	{
+		"id": 5222,
+		"name": "SilverPowder"
+	}
+],
+"locations": []
+}

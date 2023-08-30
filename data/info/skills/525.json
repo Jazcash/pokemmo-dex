@@ -1,0 +1,12 @@
+{
+"id": 525,
+"name": "Dragon Tail",
+"skill_damage_type": "PHYSICAL",
+"base_power": 60,
+"base_accuracy": 90,
+"base_pp": 10,
+"priority": -6,
+"type": "DRAGON",
+"target_type": 0,
+"true_damage": false
+}

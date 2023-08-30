@@ -1,0 +1,12 @@
+{
+"id": 257,
+"name": "Heat Wave",
+"skill_damage_type": "SPECIAL",
+"base_power": 95,
+"base_accuracy": 90,
+"base_pp": 10,
+"priority": 0,
+"type": "FIRE",
+"target_type": 5,
+"true_damage": false
+}

@@ -1,0 +1,12 @@
+{
+"id": 376,
+"name": "Trump Card",
+"skill_damage_type": "SPECIAL",
+"base_power": 1,
+"base_accuracy": 101,
+"base_pp": 5,
+"priority": 0,
+"type": "NORMAL",
+"target_type": 0,
+"true_damage": false
+}

@@ -1,0 +1,750 @@
+{
+"id": 531,
+"name": "Audino",
+"exp_type": "FAST",
+"obtainable": true,
+"gender_ratio": 127,
+"height": 11,
+"weight": 310,
+"egg_groups": [
+	"fairy"
+],
+"abilities": [
+	{
+		"id": 131,
+		"name": "Healer"
+	},
+	{
+		"id": 144,
+		"name": "Regenerator"
+	},
+	{
+		"id": 103,
+		"name": "Klutz"
+	}
+],
+"forms": [
+	{
+		"form_id": 0,
+		"id": 531,
+		"name": "Audino"
+	}
+],
+"evolutions": [],
+"moves": [
+	{
+		"id": 1,
+		"name": "Pound",
+		"type": "level",
+		"level": 1
+	},
+	{
+		"id": 45,
+		"name": "Growl",
+		"type": "level",
+		"level": 1
+	},
+	{
+		"id": 270,
+		"name": "Helping Hand",
+		"type": "level",
+		"level": 1
+	},
+	{
+		"id": 304,
+		"name": "Hyper Voice",
+		"type": "level",
+		"level": 1
+	},
+	{
+		"id": 387,
+		"name": "Last Resort",
+		"type": "level",
+		"level": 1
+	},
+	{
+		"id": 287,
+		"name": "Refresh",
+		"type": "level",
+		"level": 9
+	},
+	{
+		"id": 270,
+		"name": "Helping Hand",
+		"type": "level",
+		"level": 12
+	},
+	{
+		"id": 45,
+		"name": "Growl",
+		"type": "level",
+		"level": 16
+	},
+	{
+		"id": 3,
+		"name": "DoubleSlap",
+		"type": "level",
+		"level": 17
+	},
+	{
+		"id": 428,
+		"name": "Zen Headbutt",
+		"type": "level",
+		"level": 20
+	},
+	{
+		"id": 213,
+		"name": "Attract",
+		"type": "level",
+		"level": 21
+	},
+	{
+		"id": 290,
+		"name": "Secret Power",
+		"type": "level",
+		"level": 25
+	},
+	{
+		"id": 495,
+		"name": "After You",
+		"type": "level",
+		"level": 28
+	},
+	{
+		"id": 36,
+		"name": "Take Down",
+		"type": "level",
+		"level": 32
+	},
+	{
+		"id": 493,
+		"name": "Simple Beam",
+		"type": "level",
+		"level": 36
+	},
+	{
+		"id": 304,
+		"name": "Hyper Voice",
+		"type": "level",
+		"level": 40
+	},
+	{
+		"id": 505,
+		"name": "Heal Pulse",
+		"type": "level",
+		"level": 44
+	},
+	{
+		"id": 38,
+		"name": "Double-Edge",
+		"type": "level",
+		"level": 48
+	},
+	{
+		"id": 494,
+		"name": "Entrainment",
+		"type": "level",
+		"level": 52
+	},
+	{
+		"id": 387,
+		"name": "Last Resort",
+		"type": "level",
+		"level": 60
+	},
+	{
+		"id": 186,
+		"name": "Sweet Kiss",
+		"type": "egg_moves"
+	},
+	{
+		"id": 273,
+		"name": "Wish",
+		"type": "egg_moves"
+	},
+	{
+		"id": 281,
+		"name": "Yawn",
+		"type": "egg_moves"
+	},
+	{
+		"id": 361,
+		"name": "Healing Wish",
+		"type": "egg_moves"
+	},
+	{
+		"id": 381,
+		"name": "Lucky Chant",
+		"type": "egg_moves"
+	},
+	{
+		"id": 516,
+		"name": "Bestow",
+		"type": "egg_moves"
+	},
+	{
+		"id": 173,
+		"name": "Snore",
+		"type": "move_tutor"
+	},
+	{
+		"id": 215,
+		"name": "Heal Bell",
+		"type": "move_tutor"
+	},
+	{
+		"id": 220,
+		"name": "Pain Split",
+		"type": "move_tutor"
+	},
+	{
+		"id": 253,
+		"name": "Uproar",
+		"type": "move_tutor"
+	},
+	{
+		"id": 272,
+		"name": "Role Play",
+		"type": "move_tutor"
+	},
+	{
+		"id": 277,
+		"name": "Magic Coat",
+		"type": "move_tutor"
+	},
+	{
+		"id": 282,
+		"name": "Knock Off",
+		"type": "move_tutor"
+	},
+	{
+		"id": 324,
+		"name": "Signal Beam",
+		"type": "move_tutor"
+	},
+	{
+		"id": 343,
+		"name": "Covet",
+		"type": "move_tutor"
+	},
+	{
+		"id": 356,
+		"name": "Gravity",
+		"type": "move_tutor"
+	},
+	{
+		"id": 387,
+		"name": "Last Resort",
+		"type": "move_tutor"
+	},
+	{
+		"id": 495,
+		"name": "After You",
+		"type": "move_tutor"
+	},
+	{
+		"id": 217,
+		"name": "Present",
+		"type": "special_moves"
+	},
+	{
+		"id": 5,
+		"name": "Mega Punch",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 7,
+		"name": "Fire Punch",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 8,
+		"name": "Ice Punch",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 9,
+		"name": "ThunderPunch",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 25,
+		"name": "Mega Kick",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 34,
+		"name": "Body Slam",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 36,
+		"name": "Take Down",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 38,
+		"name": "Double-Edge",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 53,
+		"name": "Flamethrower",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 57,
+		"name": "Surf",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 58,
+		"name": "Ice Beam",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 59,
+		"name": "Blizzard",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 63,
+		"name": "Hyper Beam",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 67,
+		"name": "Low Kick",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 76,
+		"name": "SolarBeam",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 85,
+		"name": "Thunderbolt",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 86,
+		"name": "Thunder Wave",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 87,
+		"name": "Thunder",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 91,
+		"name": "Dig",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 92,
+		"name": "Toxic",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 94,
+		"name": "Psychic",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 104,
+		"name": "Double Team",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 113,
+		"name": "Light Screen",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 115,
+		"name": "Reflect",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 126,
+		"name": "Fire Blast",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 133,
+		"name": "Amnesia",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 138,
+		"name": "Dream Eater",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 148,
+		"name": "Flash",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 156,
+		"name": "Rest",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 164,
+		"name": "Substitute",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 182,
+		"name": "Protect",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 196,
+		"name": "Icy Wind",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 203,
+		"name": "Endure",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 207,
+		"name": "Swagger",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 213,
+		"name": "Attract",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 214,
+		"name": "Sleep Talk",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 216,
+		"name": "Return",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 218,
+		"name": "Frustration",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 219,
+		"name": "Safeguard",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 227,
+		"name": "Encore",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 231,
+		"name": "Iron Tail",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 237,
+		"name": "Hidden Power",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 240,
+		"name": "Rain Dance",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 241,
+		"name": "Sunny Day",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 244,
+		"name": "Psych Up",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 247,
+		"name": "Shadow Ball",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 263,
+		"name": "Facade",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 264,
+		"name": "Focus Punch",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 270,
+		"name": "Helping Hand",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 285,
+		"name": "Skill Swap",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 289,
+		"name": "Snatch",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 290,
+		"name": "Secret Power",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 304,
+		"name": "Hyper Voice",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 347,
+		"name": "Calm Mind",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 374,
+		"name": "Fling",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 409,
+		"name": "Drain Punch",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 416,
+		"name": "Giga Impact",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 428,
+		"name": "Zen Headbutt",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 433,
+		"name": "Trick Room",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 447,
+		"name": "Grass Knot",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 451,
+		"name": "Charge Beam",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 473,
+		"name": "Psyshock",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 477,
+		"name": "Telekinesis",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 496,
+		"name": "Round",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 497,
+		"name": "Echoed Voice",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 502,
+		"name": "Ally Switch",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 510,
+		"name": "Incinerate",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 514,
+		"name": "Retaliate",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 526,
+		"name": "Work Up",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 528,
+		"name": "Wild Charge",
+		"type": "move_learner_tools"
+	}
+],
+"types": [
+	"NORMAL",
+	"NORMAL"
+],
+"stats": {
+	"hp": 103,
+	"attack": 60,
+	"defense": 86,
+	"speed": 50,
+	"sp_attack": 60,
+	"sp_defense": 86
+},
+"yields": {
+	"exp": 390,
+	"ev_hp": 2,
+	"ev_attack": 0,
+	"ev_defense": 0,
+	"ev_speed": 0,
+	"ev_sp_attack": 0,
+	"ev_sp_defense": 0
+},
+"tiers": [
+	"Untiered"
+],
+"held_items": [
+	{
+		"id": 5155,
+		"name": "Oran Berry"
+	}
+],
+"locations": [
+	{
+		"type": "Grass",
+		"region_id": 2,
+		"region_name": "Unova",
+		"location": "Cold Storage",
+		"min_level": 28,
+		"max_level": 29,
+		"rarity": "Special"
+	},
+	{
+		"type": "Grass",
+		"region_id": 2,
+		"region_name": "Unova",
+		"location": "Dreamyard",
+		"min_level": 10,
+		"max_level": 12,
+		"rarity": "Special"
+	},
+	{
+		"type": "Grass",
+		"region_id": 2,
+		"region_name": "Unova",
+		"location": "P2 Laboratory",
+		"min_level": 36,
+		"max_level": 38,
+		"rarity": "Special"
+	},
+	{
+		"type": "Grass",
+		"region_id": 2,
+		"region_name": "Unova",
+		"location": "Pinwheel Forest",
+		"min_level": 13,
+		"max_level": 15,
+		"rarity": "Special"
+	},
+	{
+		"type": "Grass",
+		"region_id": 2,
+		"region_name": "Unova",
+		"location": "Route 1",
+		"min_level": 3,
+		"max_level": 4,
+		"rarity": "Special"
+	},
+	{
+		"type": "Grass",
+		"region_id": 2,
+		"region_name": "Unova",
+		"location": "Route 2",
+		"min_level": 6,
+		"max_level": 7,
+		"rarity": "Special"
+	},
+	{
+		"type": "Grass",
+		"region_id": 2,
+		"region_name": "Unova",
+		"location": "Route 3",
+		"min_level": 12,
+		"max_level": 14,
+		"rarity": "Special"
+	},
+	{
+		"type": "Grass",
+		"region_id": 2,
+		"region_name": "Unova",
+		"location": "Route 5",
+		"min_level": 23,
+		"max_level": 25,
+		"rarity": "Special"
+	},
+	{
+		"type": "Grass",
+		"region_id": 2,
+		"region_name": "Unova",
+		"location": "Route 6",
+		"min_level": 29,
+		"max_level": 30,
+		"rarity": "Special"
+	},
+	{
+		"type": "Grass",
+		"region_id": 2,
+		"region_name": "Unova",
+		"location": "Route 7",
+		"min_level": 31,
+		"max_level": 32,
+		"rarity": "Special"
+	},
+	{
+		"type": "Grass",
+		"region_id": 2,
+		"region_name": "Unova",
+		"location": "Route 10",
+		"min_level": 33,
+		"max_level": 36,
+		"rarity": "Special"
+	},
+	{
+		"type": "Grass",
+		"region_id": 2,
+		"region_name": "Unova",
+		"location": "Route 16",
+		"min_level": 23,
+		"max_level": 25,
+		"rarity": "Special"
+	},
+	{
+		"type": "Grass",
+		"region_id": 2,
+		"region_name": "Unova",
+		"location": "Route 18",
+		"min_level": 38,
+		"max_level": 40,
+		"rarity": "Special"
+	}
+]
+}

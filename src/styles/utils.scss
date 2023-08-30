@@ -1,0 +1,40 @@
+.fullsize {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    content: "";
+}
+.fullwidth {
+    width: 100%;
+}
+.fullheight {
+    height: 100%;
+}
+.gridform {
+    display: grid;
+    grid-template-columns: auto auto;
+    row-gap: 10px;
+    column-gap: 20px;
+}
+.hide-overflow {
+    overflow: hidden;
+}
+.relative {
+    position: relative;
+}
+.scroll-container {
+    // all ancestor elements need to fill their height for this to work (flex-col flex-grow fullheight)
+    display: flex;
+    flex-direction: column;
+    height: 0px;
+    overflow-y: auto;
+    flex-grow: 1;
+    flex-shrink: 1;
+    flex-basis: auto;
+    will-change: scroll-position;
+}
+.pixelart {
+    image-rendering: pixelated;
+}

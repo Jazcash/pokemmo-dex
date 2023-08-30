@@ -1,0 +1,12 @@
+{
+"id": 222,
+"name": "Magnitude",
+"skill_damage_type": "PHYSICAL",
+"base_power": 1,
+"base_accuracy": 100,
+"base_pp": 30,
+"priority": 0,
+"type": "GROUND",
+"target_type": 4,
+"true_damage": false
+}

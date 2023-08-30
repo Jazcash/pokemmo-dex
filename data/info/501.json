@@ -1,0 +1,507 @@
+{
+"id": 501,
+"name": "Oshawott",
+"exp_type": "MEDIUM_SLOW",
+"obtainable": true,
+"gender_ratio": 31,
+"height": 5,
+"weight": 59,
+"egg_groups": [
+	"field"
+],
+"abilities": [
+	{
+		"id": 67,
+		"name": "Torrent"
+	},
+	{
+		"id": 67,
+		"name": "Torrent"
+	},
+	{
+		"id": 75,
+		"name": "Shell Armor"
+	}
+],
+"forms": [
+	{
+		"form_id": 0,
+		"id": 501,
+		"name": "Oshawott"
+	}
+],
+"evolutions": [
+	{
+		"id": 502,
+		"name": "Dewott",
+		"type": "LEVEL",
+		"val": 17
+	}
+],
+"moves": [
+	{
+		"id": 33,
+		"name": "Tackle",
+		"type": "level",
+		"level": 1
+	},
+	{
+		"id": 39,
+		"name": "Tail Whip",
+		"type": "level",
+		"level": 5
+	},
+	{
+		"id": 55,
+		"name": "Water Gun",
+		"type": "level",
+		"level": 7
+	},
+	{
+		"id": 346,
+		"name": "Water Sport",
+		"type": "level",
+		"level": 11
+	},
+	{
+		"id": 487,
+		"name": "Soak",
+		"type": "level",
+		"level": 11
+	},
+	{
+		"id": 116,
+		"name": "Focus Energy",
+		"type": "level",
+		"level": 13
+	},
+	{
+		"id": 534,
+		"name": "Razor Shell",
+		"type": "level",
+		"level": 17
+	},
+	{
+		"id": 210,
+		"name": "Fury Cutter",
+		"type": "level",
+		"level": 19
+	},
+	{
+		"id": 352,
+		"name": "Water Pulse",
+		"type": "level",
+		"level": 23
+	},
+	{
+		"id": 279,
+		"name": "Revenge",
+		"type": "level",
+		"level": 25
+	},
+	{
+		"id": 163,
+		"name": "Slash",
+		"type": "level",
+		"level": 25
+	},
+	{
+		"id": 332,
+		"name": "Aerial Ace",
+		"type": "level",
+		"level": 25
+	},
+	{
+		"id": 453,
+		"name": "Aqua Jet",
+		"type": "level",
+		"level": 29
+	},
+	{
+		"id": 227,
+		"name": "Encore",
+		"type": "level",
+		"level": 31
+	},
+	{
+		"id": 401,
+		"name": "Aqua Tail",
+		"type": "level",
+		"level": 35
+	},
+	{
+		"id": 514,
+		"name": "Retaliate",
+		"type": "level",
+		"level": 37
+	},
+	{
+		"id": 14,
+		"name": "Swords Dance",
+		"type": "level",
+		"level": 41
+	},
+	{
+		"id": 56,
+		"name": "Hydro Pump",
+		"type": "level",
+		"level": 43
+	},
+	{
+		"id": 376,
+		"name": "Trump Card",
+		"type": "egg_moves"
+	},
+	{
+		"id": 383,
+		"name": "Copycat",
+		"type": "egg_moves"
+	},
+	{
+		"id": 400,
+		"name": "Night Slash",
+		"type": "egg_moves"
+	},
+	{
+		"id": 533,
+		"name": "Sacred Sword",
+		"type": "egg_moves"
+	},
+	{
+		"id": 173,
+		"name": "Snore",
+		"type": "move_tutor"
+	},
+	{
+		"id": 282,
+		"name": "Knock Off",
+		"type": "move_tutor"
+	},
+	{
+		"id": 343,
+		"name": "Covet",
+		"type": "move_tutor"
+	},
+	{
+		"id": 401,
+		"name": "Aqua Tail",
+		"type": "move_tutor"
+	},
+	{
+		"id": 518,
+		"name": "Water Pledge",
+		"type": "move_tutor"
+	},
+	{
+		"id": 14,
+		"name": "Swords Dance",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 15,
+		"name": "Cut",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 36,
+		"name": "Take Down",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 55,
+		"name": "Water Gun",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 56,
+		"name": "Hydro Pump",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 57,
+		"name": "Surf",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 58,
+		"name": "Ice Beam",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 59,
+		"name": "Blizzard",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 91,
+		"name": "Dig",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 92,
+		"name": "Toxic",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 103,
+		"name": "Screech",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 104,
+		"name": "Double Team",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 116,
+		"name": "Focus Energy",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 127,
+		"name": "Waterfall",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 129,
+		"name": "Swift",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 156,
+		"name": "Rest",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 164,
+		"name": "Substitute",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 168,
+		"name": "Thief",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 182,
+		"name": "Protect",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 196,
+		"name": "Icy Wind",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 197,
+		"name": "Detect",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 203,
+		"name": "Endure",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 206,
+		"name": "False Swipe",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 207,
+		"name": "Swagger",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 210,
+		"name": "Fury Cutter",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 213,
+		"name": "Attract",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 214,
+		"name": "Sleep Talk",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 216,
+		"name": "Return",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 218,
+		"name": "Frustration",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 227,
+		"name": "Encore",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 231,
+		"name": "Iron Tail",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 237,
+		"name": "Hidden Power",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 240,
+		"name": "Rain Dance",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 249,
+		"name": "Rock Smash",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 258,
+		"name": "Snowscape",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 263,
+		"name": "Facade",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 269,
+		"name": "Taunt",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 270,
+		"name": "Helping Hand",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 279,
+		"name": "Revenge",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 290,
+		"name": "Secret Power",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 291,
+		"name": "Dive",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 332,
+		"name": "Aerial Ace",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 352,
+		"name": "Water Pulse",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 362,
+		"name": "Brine",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 372,
+		"name": "Assurance",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 374,
+		"name": "Fling",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 403,
+		"name": "Air Slash",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 404,
+		"name": "X-Scissor",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 419,
+		"name": "Avalanche",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 447,
+		"name": "Grass Knot",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 496,
+		"name": "Round",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 503,
+		"name": "Scald",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 514,
+		"name": "Retaliate",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 526,
+		"name": "Work Up",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 534,
+		"name": "Razor Shell",
+		"type": "move_learner_tools"
+	}
+],
+"types": [
+	"WATER",
+	"WATER"
+],
+"stats": {
+	"hp": 55,
+	"attack": 55,
+	"defense": 45,
+	"speed": 45,
+	"sp_attack": 63,
+	"sp_defense": 45
+},
+"yields": {
+	"exp": 28,
+	"ev_hp": 0,
+	"ev_attack": 0,
+	"ev_defense": 0,
+	"ev_speed": 0,
+	"ev_sp_attack": 1,
+	"ev_sp_defense": 0
+},
+"tiers": [
+	"Untiered"
+],
+"held_items": [],
+"locations": [
+	{
+		"type": "Grass",
+		"region_id": 2,
+		"region_name": "Unova",
+		"location": "Cold Storage",
+		"min_level": 26,
+		"max_level": 26,
+		"rarity": "Lure"
+	}
+]
+}

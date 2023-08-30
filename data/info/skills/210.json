@@ -1,0 +1,12 @@
+{
+"id": 210,
+"name": "Fury Cutter",
+"skill_damage_type": "PHYSICAL",
+"base_power": 40,
+"base_accuracy": 95,
+"base_pp": 20,
+"priority": 0,
+"type": "BUG",
+"target_type": 0,
+"true_damage": false
+}

@@ -1,0 +1,12 @@
+{
+"id": 117,
+"name": "Bide",
+"skill_damage_type": "PHYSICAL",
+"base_power": 1,
+"base_accuracy": 101,
+"base_pp": 10,
+"priority": 1,
+"type": "NORMAL",
+"target_type": 7,
+"true_damage": false
+}

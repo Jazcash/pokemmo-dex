@@ -1,0 +1,12 @@
+{
+"id": 499,
+"name": "Clear Smog",
+"skill_damage_type": "SPECIAL",
+"base_power": 50,
+"base_accuracy": 101,
+"base_pp": 15,
+"priority": 0,
+"type": "POISON",
+"target_type": 0,
+"true_damage": false
+}

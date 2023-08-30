@@ -1,0 +1,956 @@
+{
+"id": 52,
+"name": "Meowth",
+"exp_type": "MEDIUM_FAST",
+"obtainable": true,
+"gender_ratio": 127,
+"height": 4,
+"weight": 42,
+"egg_groups": [
+	"field"
+],
+"abilities": [
+	{
+		"id": 53,
+		"name": "Pickup"
+	},
+	{
+		"id": 101,
+		"name": "Technician"
+	},
+	{
+		"id": 127,
+		"name": "Unnerve"
+	}
+],
+"forms": [
+	{
+		"form_id": 0,
+		"id": 52,
+		"name": "Meowth"
+	}
+],
+"evolutions": [
+	{
+		"id": 53,
+		"name": "Persian",
+		"type": "LEVEL",
+		"val": 28
+	}
+],
+"moves": [
+	{
+		"id": 10,
+		"name": "Scratch",
+		"type": "level",
+		"level": 1
+	},
+	{
+		"id": 45,
+		"name": "Growl",
+		"type": "level",
+		"level": 1
+	},
+	{
+		"id": 252,
+		"name": "Fake Out",
+		"type": "level",
+		"level": 1
+	},
+	{
+		"id": 44,
+		"name": "Bite",
+		"type": "level",
+		"level": 1
+	},
+	{
+		"id": 44,
+		"name": "Bite",
+		"type": "level",
+		"level": 3
+	},
+	{
+		"id": 364,
+		"name": "Feint",
+		"type": "level",
+		"level": 4
+	},
+	{
+		"id": 252,
+		"name": "Fake Out",
+		"type": "level",
+		"level": 6
+	},
+	{
+		"id": 10,
+		"name": "Scratch",
+		"type": "level",
+		"level": 8
+	},
+	{
+		"id": 269,
+		"name": "Taunt",
+		"type": "level",
+		"level": 9
+	},
+	{
+		"id": 6,
+		"name": "Pay Day",
+		"type": "level",
+		"level": 12
+	},
+	{
+		"id": 154,
+		"name": "Fury Swipes",
+		"type": "level",
+		"level": 19
+	},
+	{
+		"id": 185,
+		"name": "Faint Attack",
+		"type": "level",
+		"level": 22
+	},
+	{
+		"id": 103,
+		"name": "Screech",
+		"type": "level",
+		"level": 23
+	},
+	{
+		"id": 372,
+		"name": "Assurance",
+		"type": "level",
+		"level": 24
+	},
+	{
+		"id": 163,
+		"name": "Slash",
+		"type": "level",
+		"level": 27
+	},
+	{
+		"id": 417,
+		"name": "Nasty Plot",
+		"type": "level",
+		"level": 31
+	},
+	{
+		"id": 207,
+		"name": "Swagger",
+		"type": "level",
+		"level": 45
+	},
+	{
+		"id": 445,
+		"name": "Captivate",
+		"type": "level",
+		"level": 46
+	},
+	{
+		"id": 400,
+		"name": "Night Slash",
+		"type": "level",
+		"level": 49
+	},
+	{
+		"id": 39,
+		"name": "Tail Whip",
+		"type": "egg_moves"
+	},
+	{
+		"id": 175,
+		"name": "Flail",
+		"type": "egg_moves"
+	},
+	{
+		"id": 274,
+		"name": "Assist",
+		"type": "egg_moves"
+	},
+	{
+		"id": 316,
+		"name": "Odor Sleuth",
+		"type": "egg_moves"
+	},
+	{
+		"id": 386,
+		"name": "Punishment",
+		"type": "egg_moves"
+	},
+	{
+		"id": 95,
+		"name": "Hypnosis",
+		"type": "move_tutor"
+	},
+	{
+		"id": 111,
+		"name": "Defense Curl",
+		"type": "move_tutor"
+	},
+	{
+		"id": 171,
+		"name": "Nightmare",
+		"type": "move_tutor"
+	},
+	{
+		"id": 173,
+		"name": "Snore",
+		"type": "move_tutor"
+	},
+	{
+		"id": 180,
+		"name": "Spite",
+		"type": "move_tutor"
+	},
+	{
+		"id": 185,
+		"name": "Faint Attack",
+		"type": "move_tutor"
+	},
+	{
+		"id": 252,
+		"name": "Fake Out",
+		"type": "move_tutor"
+	},
+	{
+		"id": 253,
+		"name": "Uproar",
+		"type": "move_tutor"
+	},
+	{
+		"id": 282,
+		"name": "Knock Off",
+		"type": "move_tutor"
+	},
+	{
+		"id": 343,
+		"name": "Covet",
+		"type": "move_tutor"
+	},
+	{
+		"id": 387,
+		"name": "Last Resort",
+		"type": "move_tutor"
+	},
+	{
+		"id": 47,
+		"name": "Sing",
+		"type": "special_moves"
+	},
+	{
+		"id": 80,
+		"name": "Petal Dance",
+		"type": "special_moves"
+	},
+	{
+		"id": 6,
+		"name": "Pay Day",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 15,
+		"name": "Cut",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 29,
+		"name": "Headbutt",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 34,
+		"name": "Body Slam",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 36,
+		"name": "Take Down",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 38,
+		"name": "Double-Edge",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 55,
+		"name": "Water Gun",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 61,
+		"name": "BubbleBeam",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 85,
+		"name": "Thunderbolt",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 86,
+		"name": "Thunder Wave",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 87,
+		"name": "Thunder",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 91,
+		"name": "Dig",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 92,
+		"name": "Toxic",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 97,
+		"name": "Agility",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 99,
+		"name": "Rage",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 102,
+		"name": "Mimic",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 103,
+		"name": "Screech",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 104,
+		"name": "Double Team",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 117,
+		"name": "Bide",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 129,
+		"name": "Swift",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 130,
+		"name": "Skull Bash",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 133,
+		"name": "Amnesia",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 138,
+		"name": "Dream Eater",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 148,
+		"name": "Flash",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 156,
+		"name": "Rest",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 164,
+		"name": "Substitute",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 168,
+		"name": "Thief",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 174,
+		"name": "Curse",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 182,
+		"name": "Protect",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 189,
+		"name": "Mud-Slap",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 192,
+		"name": "Zap Cannon",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 196,
+		"name": "Icy Wind",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 197,
+		"name": "Detect",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 203,
+		"name": "Endure",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 204,
+		"name": "Charm",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 206,
+		"name": "False Swipe",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 207,
+		"name": "Swagger",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 213,
+		"name": "Attract",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 214,
+		"name": "Sleep Talk",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 216,
+		"name": "Return",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 218,
+		"name": "Frustration",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 231,
+		"name": "Iron Tail",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 232,
+		"name": "Metal Claw",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 237,
+		"name": "Hidden Power",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 240,
+		"name": "Rain Dance",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 241,
+		"name": "Sunny Day",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 244,
+		"name": "Psych Up",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 247,
+		"name": "Shadow Ball",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 259,
+		"name": "Torment",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 263,
+		"name": "Facade",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 269,
+		"name": "Taunt",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 270,
+		"name": "Helping Hand",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 289,
+		"name": "Snatch",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 290,
+		"name": "Secret Power",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 304,
+		"name": "Hyper Voice",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 313,
+		"name": "Fake Tears",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 332,
+		"name": "Aerial Ace",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 351,
+		"name": "Shock Wave",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 352,
+		"name": "Water Pulse",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 363,
+		"name": "Natural Gift",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 369,
+		"name": "U-turn",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 371,
+		"name": "Payback",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 372,
+		"name": "Assurance",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 399,
+		"name": "Dark Pulse",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 402,
+		"name": "Seed Bomb",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 408,
+		"name": "Power Gem",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 417,
+		"name": "Nasty Plot",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 421,
+		"name": "Shadow Claw",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 441,
+		"name": "Gunk Shot",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 445,
+		"name": "Captivate",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 468,
+		"name": "Hone Claws",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 492,
+		"name": "Foul Play",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 496,
+		"name": "Round",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 497,
+		"name": "Echoed Voice",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 514,
+		"name": "Retaliate",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 526,
+		"name": "Work Up",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 555,
+		"name": "Snarl",
+		"type": "move_learner_tools"
+	}
+],
+"types": [
+	"NORMAL",
+	"NORMAL"
+],
+"stats": {
+	"hp": 40,
+	"attack": 45,
+	"defense": 35,
+	"speed": 90,
+	"sp_attack": 40,
+	"sp_defense": 40
+},
+"yields": {
+	"exp": 58,
+	"ev_hp": 0,
+	"ev_attack": 0,
+	"ev_defense": 0,
+	"ev_speed": 1,
+	"ev_sp_attack": 0,
+	"ev_sp_defense": 0
+},
+"tiers": [
+	"Untiered"
+],
+"held_items": [
+	{
+		"id": 5217,
+		"name": "Quick Claw"
+	},
+	{
+		"id": 5223,
+		"name": "Amulet Coin"
+	}
+],
+"locations": [
+	{
+		"type": "Grass",
+		"region_id": 0,
+		"region_name": "Kanto",
+		"location": "BOND BRIDGE",
+		"min_level": 40,
+		"max_level": 42,
+		"rarity": "Rare"
+	},
+	{
+		"type": "Grass",
+		"region_id": 0,
+		"region_name": "Kanto",
+		"location": "BOND BRIDGE",
+		"min_level": 40,
+		"max_level": 42,
+		"rarity": "Rare"
+	},
+	{
+		"type": "Grass",
+		"region_id": 0,
+		"region_name": "Kanto",
+		"location": "BOND BRIDGE",
+		"min_level": 40,
+		"max_level": 42,
+		"rarity": "Rare"
+	},
+	{
+		"type": "Grass",
+		"region_id": 0,
+		"region_name": "Kanto",
+		"location": "BOND BRIDGE",
+		"min_level": 40,
+		"max_level": 42,
+		"rarity": "Uncommon"
+	},
+	{
+		"type": "Grass",
+		"region_id": 0,
+		"region_name": "Kanto",
+		"location": "CANYON ENTRANCE",
+		"min_level": 48,
+		"max_level": 50,
+		"rarity": "Common"
+	},
+	{
+		"type": "Grass",
+		"region_id": 0,
+		"region_name": "Kanto",
+		"location": "CANYON ENTRANCE",
+		"min_level": 48,
+		"max_level": 50,
+		"rarity": "Common"
+	},
+	{
+		"type": "Grass",
+		"region_id": 0,
+		"region_name": "Kanto",
+		"location": "CANYON ENTRANCE",
+		"min_level": 48,
+		"max_level": 50,
+		"rarity": "Common"
+	},
+	{
+		"type": "Grass",
+		"region_id": 0,
+		"region_name": "Kanto",
+		"location": "CANYON ENTRANCE",
+		"min_level": 48,
+		"max_level": 50,
+		"rarity": "Common"
+	},
+	{
+		"type": "Grass",
+		"region_id": 0,
+		"region_name": "Kanto",
+		"location": "CAPE BRINK",
+		"min_level": 39,
+		"max_level": 41,
+		"rarity": "Uncommon"
+	},
+	{
+		"type": "Grass",
+		"region_id": 0,
+		"region_name": "Kanto",
+		"location": "CAPE BRINK",
+		"min_level": 39,
+		"max_level": 41,
+		"rarity": "Uncommon"
+	},
+	{
+		"type": "Grass",
+		"region_id": 0,
+		"region_name": "Kanto",
+		"location": "CAPE BRINK",
+		"min_level": 39,
+		"max_level": 41,
+		"rarity": "Uncommon"
+	},
+	{
+		"type": "Grass",
+		"region_id": 0,
+		"region_name": "Kanto",
+		"location": "CAPE BRINK",
+		"min_level": 39,
+		"max_level": 41,
+		"rarity": "Uncommon"
+	},
+	{
+		"type": "Grass",
+		"region_id": 0,
+		"region_name": "Kanto",
+		"location": "FIVE ISLE MEADOW",
+		"min_level": 48,
+		"max_level": 50,
+		"rarity": "Common"
+	},
+	{
+		"type": "Grass",
+		"region_id": 0,
+		"region_name": "Kanto",
+		"location": "KINDLE ROAD",
+		"min_level": 34,
+		"max_level": 36,
+		"rarity": "Horde"
+	},
+	{
+		"type": "Grass",
+		"region_id": 0,
+		"region_name": "Kanto",
+		"location": "KINDLE ROAD",
+		"min_level": 36,
+		"max_level": 38,
+		"rarity": "Uncommon"
+	},
+	{
+		"type": "Grass",
+		"region_id": 0,
+		"region_name": "Kanto",
+		"location": "ROUTE 5",
+		"min_level": 10,
+		"max_level": 11,
+		"rarity": "Horde"
+	},
+	{
+		"type": "Grass",
+		"region_id": 0,
+		"region_name": "Kanto",
+		"location": "ROUTE 5",
+		"min_level": 12,
+		"max_level": 16,
+		"rarity": "Common"
+	},
+	{
+		"type": "Grass",
+		"region_id": 0,
+		"region_name": "Kanto",
+		"location": "ROUTE 6",
+		"min_level": 12,
+		"max_level": 16,
+		"rarity": "Uncommon"
+	},
+	{
+		"type": "Grass",
+		"region_id": 0,
+		"region_name": "Kanto",
+		"location": "ROUTE 7",
+		"min_level": 18,
+		"max_level": 20,
+		"rarity": "Uncommon"
+	},
+	{
+		"type": "Grass",
+		"region_id": 0,
+		"region_name": "Kanto",
+		"location": "ROUTE 8",
+		"min_level": 18,
+		"max_level": 20,
+		"rarity": "Rare"
+	},
+	{
+		"type": "Grass",
+		"region_id": 0,
+		"region_name": "Kanto",
+		"location": "ROUTE 11",
+		"min_level": 12,
+		"max_level": 16,
+		"rarity": "Uncommon"
+	},
+	{
+		"type": "Grass",
+		"region_id": 0,
+		"region_name": "Kanto",
+		"location": "ROUTE 24",
+		"min_level": 12,
+		"max_level": 12,
+		"rarity": "Rare"
+	},
+	{
+		"type": "Grass",
+		"region_id": 0,
+		"region_name": "Kanto",
+		"location": "ROUTE 25",
+		"min_level": 12,
+		"max_level": 12,
+		"rarity": "Rare"
+	},
+	{
+		"type": "Grass",
+		"region_id": 0,
+		"region_name": "Kanto",
+		"location": "RUIN VALLEY",
+		"min_level": 50,
+		"max_level": 52,
+		"rarity": "Uncommon"
+	},
+	{
+		"type": "Grass",
+		"region_id": 0,
+		"region_name": "Kanto",
+		"location": "RUIN VALLEY",
+		"min_level": 50,
+		"max_level": 52,
+		"rarity": "Uncommon"
+	},
+	{
+		"type": "Grass",
+		"region_id": 0,
+		"region_name": "Kanto",
+		"location": "RUIN VALLEY",
+		"min_level": 50,
+		"max_level": 52,
+		"rarity": "Uncommon"
+	},
+	{
+		"type": "Grass",
+		"region_id": 0,
+		"region_name": "Kanto",
+		"location": "RUIN VALLEY",
+		"min_level": 50,
+		"max_level": 52,
+		"rarity": "Uncommon"
+	},
+	{
+		"type": "Grass",
+		"region_id": 0,
+		"region_name": "Kanto",
+		"location": "SEVAULT CANYON",
+		"min_level": 50,
+		"max_level": 52,
+		"rarity": "Uncommon"
+	},
+	{
+		"type": "Grass",
+		"region_id": 0,
+		"region_name": "Kanto",
+		"location": "TREASURE BEACH",
+		"min_level": 36,
+		"max_level": 38,
+		"rarity": "Uncommon"
+	},
+	{
+		"type": "Grass",
+		"region_id": 0,
+		"region_name": "Kanto",
+		"location": "WATER PATH",
+		"min_level": 48,
+		"max_level": 50,
+		"rarity": "Uncommon"
+	},
+	{
+		"type": "Grass",
+		"region_id": 4,
+		"region_name": "Johto",
+		"location": "Route 38",
+		"min_level": 19,
+		"max_level": 20,
+		"rarity": "Very Common"
+	},
+	{
+		"type": "Grass",
+		"region_id": 4,
+		"region_name": "Johto",
+		"location": "Route 39",
+		"min_level": 19,
+		"max_level": 21,
+		"rarity": "Very Common"
+	}
+]
+}

@@ -1,0 +1,12 @@
+{
+"id": 537,
+"name": "Steamroller",
+"skill_damage_type": "PHYSICAL",
+"base_power": 65,
+"base_accuracy": 100,
+"base_pp": 20,
+"priority": 0,
+"type": "BUG",
+"target_type": 0,
+"true_damage": false
+}

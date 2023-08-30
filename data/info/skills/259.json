@@ -1,0 +1,12 @@
+{
+"id": 259,
+"name": "Torment",
+"skill_damage_type": "STATUS",
+"base_power": 0,
+"base_accuracy": 100,
+"base_pp": 15,
+"priority": 0,
+"type": "DARK",
+"target_type": 0,
+"true_damage": false
+}

@@ -1,0 +1,12 @@
+{
+"id": 428,
+"name": "Zen Headbutt",
+"skill_damage_type": "PHYSICAL",
+"base_power": 80,
+"base_accuracy": 90,
+"base_pp": 15,
+"priority": 0,
+"type": "PSYCHIC",
+"target_type": 0,
+"true_damage": false
+}

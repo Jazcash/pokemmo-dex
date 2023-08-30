@@ -1,0 +1,12 @@
+{
+"id": 333,
+"name": "Icicle Spear",
+"skill_damage_type": "PHYSICAL",
+"base_power": 25,
+"base_accuracy": 100,
+"base_pp": 30,
+"priority": 0,
+"type": "ICE",
+"target_type": 0,
+"true_damage": false
+}

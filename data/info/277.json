@@ -1,0 +1,639 @@
+{
+"id": 277,
+"name": "Swellow",
+"exp_type": "MEDIUM_SLOW",
+"obtainable": true,
+"gender_ratio": 127,
+"height": 7,
+"weight": 198,
+"egg_groups": [
+	"flying"
+],
+"abilities": [
+	{
+		"id": 62,
+		"name": "Guts"
+	},
+	{
+		"id": 0,
+		"name": "--"
+	},
+	{
+		"id": 113,
+		"name": "Scrappy"
+	}
+],
+"forms": [
+	{
+		"form_id": 0,
+		"id": 277,
+		"name": "Swellow"
+	}
+],
+"evolutions": [],
+"moves": [
+	{
+		"id": 45,
+		"name": "Growl",
+		"type": "level",
+		"level": 1
+	},
+	{
+		"id": 64,
+		"name": "Peck",
+		"type": "level",
+		"level": 1
+	},
+	{
+		"id": 98,
+		"name": "Quick Attack",
+		"type": "level",
+		"level": 1
+	},
+	{
+		"id": 116,
+		"name": "Focus Energy",
+		"type": "level",
+		"level": 1
+	},
+	{
+		"id": 365,
+		"name": "Pluck",
+		"type": "level",
+		"level": 1
+	},
+	{
+		"id": 403,
+		"name": "Air Slash",
+		"type": "level",
+		"level": 1
+	},
+	{
+		"id": 413,
+		"name": "Brave Bird",
+		"type": "level",
+		"level": 1
+	},
+	{
+		"id": 116,
+		"name": "Focus Energy",
+		"type": "level",
+		"level": 5
+	},
+	{
+		"id": 98,
+		"name": "Quick Attack",
+		"type": "level",
+		"level": 9
+	},
+	{
+		"id": 17,
+		"name": "Wing Attack",
+		"type": "level",
+		"level": 13
+	},
+	{
+		"id": 104,
+		"name": "Double Team",
+		"type": "level",
+		"level": 17
+	},
+	{
+		"id": 332,
+		"name": "Aerial Ace",
+		"type": "level",
+		"level": 21
+	},
+	{
+		"id": 501,
+		"name": "Quick Guard",
+		"type": "level",
+		"level": 27
+	},
+	{
+		"id": 97,
+		"name": "Agility",
+		"type": "level",
+		"level": 33
+	},
+	{
+		"id": 403,
+		"name": "Air Slash",
+		"type": "level",
+		"level": 39
+	},
+	{
+		"id": 283,
+		"name": "Endeavor",
+		"type": "level",
+		"level": 45
+	},
+	{
+		"id": 413,
+		"name": "Brave Bird",
+		"type": "level",
+		"level": 51
+	},
+	{
+		"id": 179,
+		"name": "Reversal",
+		"type": "level",
+		"level": 57
+	},
+	{
+		"id": 143,
+		"name": "Sky Attack",
+		"type": "move_tutor"
+	},
+	{
+		"id": 173,
+		"name": "Snore",
+		"type": "move_tutor"
+	},
+	{
+		"id": 239,
+		"name": "Twister",
+		"type": "move_tutor"
+	},
+	{
+		"id": 283,
+		"name": "Endeavor",
+		"type": "move_tutor"
+	},
+	{
+		"id": 466,
+		"name": "Ominous Wind",
+		"type": "move_tutor"
+	},
+	{
+		"id": 297,
+		"name": "FeatherDance",
+		"type": "special_moves"
+	},
+	{
+		"id": 18,
+		"name": "Whirlwind",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 19,
+		"name": "Fly",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 38,
+		"name": "Double-Edge",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 63,
+		"name": "Hyper Beam",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 68,
+		"name": "Counter",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 92,
+		"name": "Toxic",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 97,
+		"name": "Agility",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 99,
+		"name": "Rage",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 102,
+		"name": "Mimic",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 104,
+		"name": "Double Team",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 116,
+		"name": "Focus Energy",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 129,
+		"name": "Swift",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 156,
+		"name": "Rest",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 164,
+		"name": "Substitute",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 168,
+		"name": "Thief",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 179,
+		"name": "Reversal",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 182,
+		"name": "Protect",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 189,
+		"name": "Mud-Slap",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 203,
+		"name": "Endure",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 207,
+		"name": "Swagger",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 211,
+		"name": "Steel Wing",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 213,
+		"name": "Attract",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 214,
+		"name": "Sleep Talk",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 216,
+		"name": "Return",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 218,
+		"name": "Frustration",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 237,
+		"name": "Hidden Power",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 240,
+		"name": "Rain Dance",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 241,
+		"name": "Sunny Day",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 257,
+		"name": "Heat Wave",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 263,
+		"name": "Facade",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 290,
+		"name": "Secret Power",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 314,
+		"name": "Air Cutter",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 332,
+		"name": "Aerial Ace",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 355,
+		"name": "Roost",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 363,
+		"name": "Natural Gift",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 365,
+		"name": "Pluck",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 366,
+		"name": "Tailwind",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 369,
+		"name": "U-turn",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 403,
+		"name": "Air Slash",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 413,
+		"name": "Brave Bird",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 416,
+		"name": "Giga Impact",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 432,
+		"name": "Defog",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 445,
+		"name": "Captivate",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 496,
+		"name": "Round",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 497,
+		"name": "Echoed Voice",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 526,
+		"name": "Work Up",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 542,
+		"name": "Hurricane",
+		"type": "move_learner_tools"
+	}
+],
+"types": [
+	"NORMAL",
+	"FLYING"
+],
+"stats": {
+	"hp": 60,
+	"attack": 85,
+	"defense": 60,
+	"speed": 125,
+	"sp_attack": 75,
+	"sp_defense": 50
+},
+"yields": {
+	"exp": 151,
+	"ev_hp": 0,
+	"ev_attack": 0,
+	"ev_defense": 0,
+	"ev_speed": 2,
+	"ev_sp_attack": 0,
+	"ev_sp_defense": 0
+},
+"tiers": [
+	"Untiered"
+],
+"held_items": [
+	{
+		"id": 5195,
+		"name": "Charti Berry"
+	}
+],
+"locations": [
+	{
+		"type": "Grass",
+		"region_id": 1,
+		"region_name": "Hoenn",
+		"location": "ROUTE 115",
+		"min_level": 22,
+		"max_level": 23,
+		"rarity": "Horde"
+	},
+	{
+		"type": "Grass",
+		"region_id": 1,
+		"region_name": "Hoenn",
+		"location": "ROUTE 115",
+		"min_level": 22,
+		"max_level": 23,
+		"rarity": "Horde"
+	},
+	{
+		"type": "Grass",
+		"region_id": 1,
+		"region_name": "Hoenn",
+		"location": "ROUTE 115",
+		"min_level": 22,
+		"max_level": 23,
+		"rarity": "Horde"
+	},
+	{
+		"type": "Grass",
+		"region_id": 1,
+		"region_name": "Hoenn",
+		"location": "ROUTE 115",
+		"min_level": 25,
+		"max_level": 25,
+		"rarity": "Uncommon"
+	},
+	{
+		"type": "Grass",
+		"region_id": 2,
+		"region_name": "Unova",
+		"location": "Giant Chasm",
+		"min_level": 47,
+		"max_level": 47,
+		"rarity": "Common"
+	},
+	{
+		"type": "Grass",
+		"region_id": 2,
+		"region_name": "Unova",
+		"location": "Giant Chasm",
+		"min_level": 47,
+		"max_level": 47,
+		"rarity": "Common"
+	},
+	{
+		"type": "Grass",
+		"region_id": 2,
+		"region_name": "Unova",
+		"location": "Giant Chasm",
+		"min_level": 47,
+		"max_level": 47,
+		"rarity": "Common"
+	},
+	{
+		"type": "Grass",
+		"region_id": 2,
+		"region_name": "Unova",
+		"location": "Giant Chasm",
+		"min_level": 47,
+		"max_level": 47,
+		"rarity": "Uncommon"
+	},
+	{
+		"type": "Dark Grass",
+		"region_id": 2,
+		"region_name": "Unova",
+		"location": "Giant Chasm",
+		"min_level": 52,
+		"max_level": 52,
+		"rarity": "Common"
+	},
+	{
+		"type": "Dark Grass",
+		"region_id": 2,
+		"region_name": "Unova",
+		"location": "Giant Chasm",
+		"min_level": 52,
+		"max_level": 52,
+		"rarity": "Common"
+	},
+	{
+		"type": "Dark Grass",
+		"region_id": 2,
+		"region_name": "Unova",
+		"location": "Giant Chasm",
+		"min_level": 52,
+		"max_level": 52,
+		"rarity": "Common"
+	},
+	{
+		"type": "Dark Grass",
+		"region_id": 2,
+		"region_name": "Unova",
+		"location": "Giant Chasm",
+		"min_level": 52,
+		"max_level": 52,
+		"rarity": "Uncommon"
+	},
+	{
+		"type": "Shadow",
+		"region_id": 2,
+		"region_name": "Unova",
+		"location": "Lostlorn Forest",
+		"min_level": 32,
+		"max_level": 42,
+		"rarity": "Special"
+	},
+	{
+		"type": "Grass",
+		"region_id": 2,
+		"region_name": "Unova",
+		"location": "Route 13",
+		"min_level": 47,
+		"max_level": 47,
+		"rarity": "Common"
+	},
+	{
+		"type": "Grass",
+		"region_id": 2,
+		"region_name": "Unova",
+		"location": "Route 13",
+		"min_level": 47,
+		"max_level": 47,
+		"rarity": "Common"
+	},
+	{
+		"type": "Grass",
+		"region_id": 2,
+		"region_name": "Unova",
+		"location": "Route 13",
+		"min_level": 47,
+		"max_level": 47,
+		"rarity": "Common"
+	},
+	{
+		"type": "Grass",
+		"region_id": 2,
+		"region_name": "Unova",
+		"location": "Route 13",
+		"min_level": 47,
+		"max_level": 47,
+		"rarity": "Uncommon"
+	},
+	{
+		"type": "Grass",
+		"region_id": 2,
+		"region_name": "Unova",
+		"location": "Route 13 (Day/Morning)",
+		"min_level": 46,
+		"max_level": 47,
+		"rarity": "Horde"
+	},
+	{
+		"type": "Dark Grass",
+		"region_id": 2,
+		"region_name": "Unova",
+		"location": "Route 13",
+		"min_level": 52,
+		"max_level": 52,
+		"rarity": "Common"
+	},
+	{
+		"type": "Dark Grass",
+		"region_id": 2,
+		"region_name": "Unova",
+		"location": "Route 13",
+		"min_level": 52,
+		"max_level": 52,
+		"rarity": "Common"
+	},
+	{
+		"type": "Dark Grass",
+		"region_id": 2,
+		"region_name": "Unova",
+		"location": "Route 13",
+		"min_level": 52,
+		"max_level": 52,
+		"rarity": "Common"
+	},
+	{
+		"type": "Dark Grass",
+		"region_id": 2,
+		"region_name": "Unova",
+		"location": "Route 13",
+		"min_level": 52,
+		"max_level": 52,
+		"rarity": "Uncommon"
+	}
+]
+}

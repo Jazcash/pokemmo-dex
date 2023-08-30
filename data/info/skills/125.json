@@ -1,0 +1,12 @@
+{
+"id": 125,
+"name": "Bone Club",
+"skill_damage_type": "PHYSICAL",
+"base_power": 65,
+"base_accuracy": 85,
+"base_pp": 20,
+"priority": 0,
+"type": "GROUND",
+"target_type": 0,
+"true_damage": false
+}

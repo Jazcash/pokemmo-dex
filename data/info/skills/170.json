@@ -1,0 +1,12 @@
+{
+"id": 170,
+"name": "Mind Reader",
+"skill_damage_type": "STATUS",
+"base_power": 0,
+"base_accuracy": 101,
+"base_pp": 5,
+"priority": 0,
+"type": "NORMAL",
+"target_type": 0,
+"true_damage": false
+}

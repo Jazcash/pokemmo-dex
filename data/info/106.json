@@ -1,0 +1,676 @@
+{
+"id": 106,
+"name": "Hitmonlee",
+"exp_type": "MEDIUM_FAST",
+"obtainable": true,
+"gender_ratio": 0,
+"height": 15,
+"weight": 498,
+"egg_groups": [
+	"humanoid"
+],
+"abilities": [
+	{
+		"id": 7,
+		"name": "Limber"
+	},
+	{
+		"id": 120,
+		"name": "Reckless"
+	},
+	{
+		"id": 84,
+		"name": "Unburden"
+	}
+],
+"forms": [
+	{
+		"form_id": 0,
+		"id": 106,
+		"name": "Hitmonlee"
+	}
+],
+"evolutions": [],
+"moves": [
+	{
+		"id": 24,
+		"name": "Double Kick",
+		"type": "level",
+		"level": 1
+	},
+	{
+		"id": 25,
+		"name": "Mega Kick",
+		"type": "level",
+		"level": 1
+	},
+	{
+		"id": 26,
+		"name": "Jump Kick",
+		"type": "level",
+		"level": 1
+	},
+	{
+		"id": 27,
+		"name": "Rolling Kick",
+		"type": "level",
+		"level": 1
+	},
+	{
+		"id": 33,
+		"name": "Tackle",
+		"type": "level",
+		"level": 1
+	},
+	{
+		"id": 96,
+		"name": "Meditate",
+		"type": "level",
+		"level": 1
+	},
+	{
+		"id": 116,
+		"name": "Focus Energy",
+		"type": "level",
+		"level": 1
+	},
+	{
+		"id": 179,
+		"name": "Reversal",
+		"type": "level",
+		"level": 1
+	},
+	{
+		"id": 252,
+		"name": "Fake Out",
+		"type": "level",
+		"level": 1
+	},
+	{
+		"id": 270,
+		"name": "Helping Hand",
+		"type": "level",
+		"level": 1
+	},
+	{
+		"id": 279,
+		"name": "Revenge",
+		"type": "level",
+		"level": 1
+	},
+	{
+		"id": 280,
+		"name": "Brick Break",
+		"type": "level",
+		"level": 1
+	},
+	{
+		"id": 364,
+		"name": "Feint",
+		"type": "level",
+		"level": 1
+	},
+	{
+		"id": 370,
+		"name": "Close Combat",
+		"type": "level",
+		"level": 1
+	},
+	{
+		"id": 490,
+		"name": "Low Sweep",
+		"type": "level",
+		"level": 1
+	},
+	{
+		"id": 24,
+		"name": "Double Kick",
+		"type": "level",
+		"level": 4
+	},
+	{
+		"id": 96,
+		"name": "Meditate",
+		"type": "level",
+		"level": 5
+	},
+	{
+		"id": 67,
+		"name": "Low Kick",
+		"type": "level",
+		"level": 8
+	},
+	{
+		"id": 27,
+		"name": "Rolling Kick",
+		"type": "level",
+		"level": 9
+	},
+	{
+		"id": 203,
+		"name": "Endure",
+		"type": "level",
+		"level": 12
+	},
+	{
+		"id": 26,
+		"name": "Jump Kick",
+		"type": "level",
+		"level": 13
+	},
+	{
+		"id": 364,
+		"name": "Feint",
+		"type": "level",
+		"level": 15
+	},
+	{
+		"id": 279,
+		"name": "Revenge",
+		"type": "level",
+		"level": 16
+	},
+	{
+		"id": 280,
+		"name": "Brick Break",
+		"type": "level",
+		"level": 17
+	},
+	{
+		"id": 116,
+		"name": "Focus Energy",
+		"type": "level",
+		"level": 21
+	},
+	{
+		"id": 469,
+		"name": "Wide Guard",
+		"type": "level",
+		"level": 21
+	},
+	{
+		"id": 299,
+		"name": "Blaze Kick",
+		"type": "level",
+		"level": 24
+	},
+	{
+		"id": 263,
+		"name": "Facade",
+		"type": "level",
+		"level": 25
+	},
+	{
+		"id": 170,
+		"name": "Mind Reader",
+		"type": "level",
+		"level": 28
+	},
+	{
+		"id": 25,
+		"name": "Mega Kick",
+		"type": "level",
+		"level": 32
+	},
+	{
+		"id": 370,
+		"name": "Close Combat",
+		"type": "level",
+		"level": 36
+	},
+	{
+		"id": 193,
+		"name": "Foresight",
+		"type": "level",
+		"level": 37
+	},
+	{
+		"id": 179,
+		"name": "Reversal",
+		"type": "level",
+		"level": 40
+	},
+	{
+		"id": 136,
+		"name": "Hi Jump Kick",
+		"type": "level",
+		"level": 44
+	},
+	{
+		"id": 173,
+		"name": "Snore",
+		"type": "move_tutor"
+	},
+	{
+		"id": 252,
+		"name": "Fake Out",
+		"type": "move_tutor"
+	},
+	{
+		"id": 253,
+		"name": "Uproar",
+		"type": "move_tutor"
+	},
+	{
+		"id": 272,
+		"name": "Role Play",
+		"type": "move_tutor"
+	},
+	{
+		"id": 282,
+		"name": "Knock Off",
+		"type": "move_tutor"
+	},
+	{
+		"id": 340,
+		"name": "Bounce",
+		"type": "move_tutor"
+	},
+	{
+		"id": 343,
+		"name": "Covet",
+		"type": "move_tutor"
+	},
+	{
+		"id": 389,
+		"name": "Sucker Punch",
+		"type": "move_tutor"
+	},
+	{
+		"id": 410,
+		"name": "Vacuum Wave",
+		"type": "move_tutor"
+	},
+	{
+		"id": 23,
+		"name": "Stomp",
+		"type": "special_moves"
+	},
+	{
+		"id": 146,
+		"name": "Dizzy Punch",
+		"type": "special_moves"
+	},
+	{
+		"id": 287,
+		"name": "Refresh",
+		"type": "special_moves"
+	},
+	{
+		"id": 5,
+		"name": "Mega Punch",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 25,
+		"name": "Mega Kick",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 29,
+		"name": "Headbutt",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 34,
+		"name": "Body Slam",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 36,
+		"name": "Take Down",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 38,
+		"name": "Double-Edge",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 66,
+		"name": "Submission",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 67,
+		"name": "Low Kick",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 68,
+		"name": "Counter",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 69,
+		"name": "Seismic Toss",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 70,
+		"name": "Strength",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 89,
+		"name": "Earthquake",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 92,
+		"name": "Toxic",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 99,
+		"name": "Rage",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 102,
+		"name": "Mimic",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 104,
+		"name": "Double Team",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 116,
+		"name": "Focus Energy",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 117,
+		"name": "Bide",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 118,
+		"name": "Metronome",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 129,
+		"name": "Swift",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 130,
+		"name": "Skull Bash",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 156,
+		"name": "Rest",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 157,
+		"name": "Rock Slide",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 164,
+		"name": "Substitute",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 168,
+		"name": "Thief",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 174,
+		"name": "Curse",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 179,
+		"name": "Reversal",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 182,
+		"name": "Protect",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 189,
+		"name": "Mud-Slap",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 197,
+		"name": "Detect",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 203,
+		"name": "Endure",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 207,
+		"name": "Swagger",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 213,
+		"name": "Attract",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 214,
+		"name": "Sleep Talk",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 216,
+		"name": "Return",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 218,
+		"name": "Frustration",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 223,
+		"name": "DynamicPunch",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 237,
+		"name": "Hidden Power",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 240,
+		"name": "Rain Dance",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 241,
+		"name": "Sunny Day",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 249,
+		"name": "Rock Smash",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 263,
+		"name": "Facade",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 264,
+		"name": "Focus Punch",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 270,
+		"name": "Helping Hand",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 276,
+		"name": "Superpower",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 279,
+		"name": "Revenge",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 280,
+		"name": "Brick Break",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 290,
+		"name": "Secret Power",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 299,
+		"name": "Blaze Kick",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 317,
+		"name": "Rock Tomb",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 339,
+		"name": "Bulk Up",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 363,
+		"name": "Natural Gift",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 370,
+		"name": "Close Combat",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 374,
+		"name": "Fling",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 396,
+		"name": "Aura Sphere",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 398,
+		"name": "Poison Jab",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 411,
+		"name": "Focus Blast",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 431,
+		"name": "Rock Climb",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 444,
+		"name": "Stone Edge",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 445,
+		"name": "Captivate",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 490,
+		"name": "Low Sweep",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 496,
+		"name": "Round",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 502,
+		"name": "Ally Switch",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 514,
+		"name": "Retaliate",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 523,
+		"name": "Bulldoze",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 526,
+		"name": "Work Up",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 24,
+		"name": "Double Kick",
+		"type": "on_evolution"
+	},
+	{
+		"id": 280,
+		"name": "Brick Break",
+		"type": "on_evolution"
+	}
+],
+"types": [
+	"FIGHTING",
+	"FIGHTING"
+],
+"stats": {
+	"hp": 50,
+	"attack": 120,
+	"defense": 53,
+	"speed": 87,
+	"sp_attack": 35,
+	"sp_defense": 110
+},
+"yields": {
+	"exp": 159,
+	"ev_hp": 0,
+	"ev_attack": 2,
+	"ev_defense": 0,
+	"ev_speed": 0,
+	"ev_sp_attack": 0,
+	"ev_sp_defense": 0
+},
+"tiers": [
+	"Untiered"
+],
+"held_items": [],
+"locations": [
+	{
+		"type": "Cave",
+		"region_id": 0,
+		"region_name": "Kanto",
+		"location": "VICTORY ROAD",
+		"min_level": 44,
+		"max_level": 44,
+		"rarity": "Very Rare"
+	}
+]
+}

@@ -1,0 +1,12 @@
+{
+"id": 557,
+"name": "V-create",
+"skill_damage_type": "PHYSICAL",
+"base_power": 180,
+"base_accuracy": 95,
+"base_pp": 5,
+"priority": 0,
+"type": "FIRE",
+"target_type": 0,
+"true_damage": false
+}

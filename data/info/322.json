@@ -1,0 +1,596 @@
+{
+"id": 322,
+"name": "Numel",
+"exp_type": "MEDIUM_FAST",
+"obtainable": true,
+"gender_ratio": 127,
+"height": 7,
+"weight": 240,
+"egg_groups": [
+	"field"
+],
+"abilities": [
+	{
+		"id": 12,
+		"name": "Oblivious"
+	},
+	{
+		"id": 86,
+		"name": "Simple"
+	},
+	{
+		"id": 20,
+		"name": "Own Tempo"
+	}
+],
+"forms": [
+	{
+		"form_id": 0,
+		"id": 322,
+		"name": "Numel"
+	}
+],
+"evolutions": [
+	{
+		"id": 323,
+		"name": "Camerupt",
+		"type": "LEVEL",
+		"val": 33
+	}
+],
+"moves": [
+	{
+		"id": 33,
+		"name": "Tackle",
+		"type": "level",
+		"level": 1
+	},
+	{
+		"id": 45,
+		"name": "Growl",
+		"type": "level",
+		"level": 1
+	},
+	{
+		"id": 52,
+		"name": "Ember",
+		"type": "level",
+		"level": 5
+	},
+	{
+		"id": 116,
+		"name": "Focus Energy",
+		"type": "level",
+		"level": 8
+	},
+	{
+		"id": 222,
+		"name": "Magnitude",
+		"type": "level",
+		"level": 12
+	},
+	{
+		"id": 523,
+		"name": "Bulldoze",
+		"type": "level",
+		"level": 12
+	},
+	{
+		"id": 481,
+		"name": "Flame Burst",
+		"type": "level",
+		"level": 15
+	},
+	{
+		"id": 172,
+		"name": "Flame Wheel",
+		"type": "level",
+		"level": 15
+	},
+	{
+		"id": 510,
+		"name": "Incinerate",
+		"type": "level",
+		"level": 15
+	},
+	{
+		"id": 133,
+		"name": "Amnesia",
+		"type": "level",
+		"level": 19
+	},
+	{
+		"id": 436,
+		"name": "Lava Plume",
+		"type": "level",
+		"level": 22
+	},
+	{
+		"id": 414,
+		"name": "Earth Power",
+		"type": "level",
+		"level": 26
+	},
+	{
+		"id": 174,
+		"name": "Curse",
+		"type": "level",
+		"level": 29
+	},
+	{
+		"id": 36,
+		"name": "Take Down",
+		"type": "level",
+		"level": 31
+	},
+	{
+		"id": 281,
+		"name": "Yawn",
+		"type": "level",
+		"level": 36
+	},
+	{
+		"id": 89,
+		"name": "Earthquake",
+		"type": "level",
+		"level": 40
+	},
+	{
+		"id": 53,
+		"name": "Flamethrower",
+		"type": "level",
+		"level": 43
+	},
+	{
+		"id": 38,
+		"name": "Double-Edge",
+		"type": "level",
+		"level": 47
+	},
+	{
+		"id": 23,
+		"name": "Stomp",
+		"type": "egg_moves"
+	},
+	{
+		"id": 74,
+		"name": "Growth",
+		"type": "egg_moves"
+	},
+	{
+		"id": 254,
+		"name": "Stockpile",
+		"type": "egg_moves"
+	},
+	{
+		"id": 255,
+		"name": "Spit Up",
+		"type": "egg_moves"
+	},
+	{
+		"id": 256,
+		"name": "Swallow",
+		"type": "egg_moves"
+	},
+	{
+		"id": 336,
+		"name": "Howl",
+		"type": "egg_moves"
+	},
+	{
+		"id": 426,
+		"name": "Mud Bomb",
+		"type": "egg_moves"
+	},
+	{
+		"id": 111,
+		"name": "Defense Curl",
+		"type": "move_tutor"
+	},
+	{
+		"id": 173,
+		"name": "Snore",
+		"type": "move_tutor"
+	},
+	{
+		"id": 246,
+		"name": "AncientPower",
+		"type": "move_tutor"
+	},
+	{
+		"id": 495,
+		"name": "After You",
+		"type": "move_tutor"
+	},
+	{
+		"id": 29,
+		"name": "Headbutt",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 34,
+		"name": "Body Slam",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 36,
+		"name": "Take Down",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 38,
+		"name": "Double-Edge",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 53,
+		"name": "Flamethrower",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 70,
+		"name": "Strength",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 83,
+		"name": "Fire Spin",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 89,
+		"name": "Earthquake",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 91,
+		"name": "Dig",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 92,
+		"name": "Toxic",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 102,
+		"name": "Mimic",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 104,
+		"name": "Double Team",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 116,
+		"name": "Focus Energy",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 126,
+		"name": "Fire Blast",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 133,
+		"name": "Amnesia",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 156,
+		"name": "Rest",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 157,
+		"name": "Rock Slide",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 164,
+		"name": "Substitute",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 174,
+		"name": "Curse",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 182,
+		"name": "Protect",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 184,
+		"name": "Scary Face",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 189,
+		"name": "Mud-Slap",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 201,
+		"name": "Sandstorm",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 203,
+		"name": "Endure",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 204,
+		"name": "Charm",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 205,
+		"name": "Rollout",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 207,
+		"name": "Swagger",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 213,
+		"name": "Attract",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 214,
+		"name": "Sleep Talk",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 216,
+		"name": "Return",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 218,
+		"name": "Frustration",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 237,
+		"name": "Hidden Power",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 240,
+		"name": "Rain Dance",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 241,
+		"name": "Sunny Day",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 249,
+		"name": "Rock Smash",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 257,
+		"name": "Heat Wave",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 261,
+		"name": "Will-O-Wisp",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 263,
+		"name": "Facade",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 267,
+		"name": "Nature Power",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 270,
+		"name": "Helping Hand",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 290,
+		"name": "Secret Power",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 315,
+		"name": "Overheat",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 317,
+		"name": "Rock Tomb",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 341,
+		"name": "Mud Shot",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 363,
+		"name": "Natural Gift",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 394,
+		"name": "Flare Blitz",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 414,
+		"name": "Earth Power",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 428,
+		"name": "Zen Headbutt",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 430,
+		"name": "Flash Cannon",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 442,
+		"name": "Iron Head",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 444,
+		"name": "Stone Edge",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 445,
+		"name": "Captivate",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 446,
+		"name": "Stealth Rock",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 484,
+		"name": "Heavy Slam",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 488,
+		"name": "Flame Charge",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 496,
+		"name": "Round",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 497,
+		"name": "Echoed Voice",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 510,
+		"name": "Incinerate",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 523,
+		"name": "Bulldoze",
+		"type": "move_learner_tools"
+	}
+],
+"types": [
+	"FIRE",
+	"GROUND"
+],
+"stats": {
+	"hp": 60,
+	"attack": 60,
+	"defense": 40,
+	"speed": 35,
+	"sp_attack": 65,
+	"sp_defense": 45
+},
+"yields": {
+	"exp": 61,
+	"ev_hp": 0,
+	"ev_attack": 0,
+	"ev_defense": 0,
+	"ev_speed": 0,
+	"ev_sp_attack": 1,
+	"ev_sp_defense": 0
+},
+"tiers": [
+	"Untiered"
+],
+"held_items": [
+	{
+		"id": 5152,
+		"name": "Rawst Berry"
+	}
+],
+"locations": [
+	{
+		"type": "Cave",
+		"region_id": 1,
+		"region_name": "Hoenn",
+		"location": "FIERY PATH",
+		"min_level": 13,
+		"max_level": 14,
+		"rarity": "Horde"
+	},
+	{
+		"type": "Cave",
+		"region_id": 1,
+		"region_name": "Hoenn",
+		"location": "FIERY PATH",
+		"min_level": 15,
+		"max_level": 16,
+		"rarity": "Very Common"
+	},
+	{
+		"type": "Grass",
+		"region_id": 1,
+		"region_name": "Hoenn",
+		"location": "JAGGED PASS",
+		"min_level": 20,
+		"max_level": 22,
+		"rarity": "Very Common"
+	},
+	{
+		"type": "Grass",
+		"region_id": 1,
+		"region_name": "Hoenn",
+		"location": "ROUTE 112",
+		"min_level": 12,
+		"max_level": 14,
+		"rarity": "Horde"
+	},
+	{
+		"type": "Grass",
+		"region_id": 1,
+		"region_name": "Hoenn",
+		"location": "ROUTE 112",
+		"min_level": 14,
+		"max_level": 16,
+		"rarity": "Very Common"
+	},
+	{
+		"type": "Grass",
+		"region_id": 3,
+		"region_name": "Sinnoh",
+		"location": "Route 227",
+		"min_level": 51,
+		"max_level": 51,
+		"rarity": "Rare"
+	},
+	{
+		"type": "Grass",
+		"region_id": 3,
+		"region_name": "Sinnoh",
+		"location": "Stark Mountain",
+		"min_level": 51,
+		"max_level": 51,
+		"rarity": "Rare"
+	}
+]
+}

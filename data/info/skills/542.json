@@ -1,0 +1,12 @@
+{
+"id": 542,
+"name": "Hurricane",
+"skill_damage_type": "SPECIAL",
+"base_power": 110,
+"base_accuracy": 70,
+"base_pp": 10,
+"priority": 0,
+"type": "FLYING",
+"target_type": 0,
+"true_damage": false
+}

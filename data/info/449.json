@@ -1,0 +1,487 @@
+{
+"id": 449,
+"name": "Hippopotas",
+"exp_type": "SLOW",
+"obtainable": true,
+"gender_ratio": 127,
+"height": 8,
+"weight": 495,
+"egg_groups": [
+	"field"
+],
+"abilities": [
+	{
+		"id": 45,
+		"name": "Sand Stream"
+	},
+	{
+		"id": 0,
+		"name": "--"
+	},
+	{
+		"id": 159,
+		"name": "Sand Force"
+	}
+],
+"forms": [
+	{
+		"form_id": 0,
+		"id": 449,
+		"name": "Hippopotas"
+	}
+],
+"evolutions": [
+	{
+		"id": 450,
+		"name": "Hippowdon",
+		"type": "LEVEL",
+		"val": 34
+	}
+],
+"moves": [
+	{
+		"id": 28,
+		"name": "Sand-Attack",
+		"type": "level",
+		"level": 1
+	},
+	{
+		"id": 33,
+		"name": "Tackle",
+		"type": "level",
+		"level": 1
+	},
+	{
+		"id": 44,
+		"name": "Bite",
+		"type": "level",
+		"level": 4
+	},
+	{
+		"id": 281,
+		"name": "Yawn",
+		"type": "level",
+		"level": 8
+	},
+	{
+		"id": 328,
+		"name": "Sand Tomb",
+		"type": "level",
+		"level": 12
+	},
+	{
+		"id": 91,
+		"name": "Dig",
+		"type": "level",
+		"level": 16
+	},
+	{
+		"id": 426,
+		"name": "Mud Bomb",
+		"type": "level",
+		"level": 18
+	},
+	{
+		"id": 242,
+		"name": "Crunch",
+		"type": "level",
+		"level": 20
+	},
+	{
+		"id": 201,
+		"name": "Sandstorm",
+		"type": "level",
+		"level": 24
+	},
+	{
+		"id": 36,
+		"name": "Take Down",
+		"type": "level",
+		"level": 28
+	},
+	{
+		"id": 46,
+		"name": "Roar",
+		"type": "level",
+		"level": 32
+	},
+	{
+		"id": 156,
+		"name": "Rest",
+		"type": "level",
+		"level": 36
+	},
+	{
+		"id": 89,
+		"name": "Earthquake",
+		"type": "level",
+		"level": 40
+	},
+	{
+		"id": 38,
+		"name": "Double-Edge",
+		"type": "level",
+		"level": 44
+	},
+	{
+		"id": 90,
+		"name": "Fissure",
+		"type": "level",
+		"level": 48
+	},
+	{
+		"id": 303,
+		"name": "Slack Off",
+		"type": "level",
+		"level": 52
+	},
+	{
+		"id": 254,
+		"name": "Stockpile",
+		"type": "egg_moves"
+	},
+	{
+		"id": 255,
+		"name": "Spit Up",
+		"type": "egg_moves"
+	},
+	{
+		"id": 256,
+		"name": "Swallow",
+		"type": "egg_moves"
+	},
+	{
+		"id": 173,
+		"name": "Snore",
+		"type": "move_tutor"
+	},
+	{
+		"id": 18,
+		"name": "Whirlwind",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 29,
+		"name": "Headbutt",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 34,
+		"name": "Body Slam",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 36,
+		"name": "Take Down",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 38,
+		"name": "Double-Edge",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 46,
+		"name": "Roar",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 70,
+		"name": "Strength",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 89,
+		"name": "Earthquake",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 90,
+		"name": "Fissure",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 91,
+		"name": "Dig",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 92,
+		"name": "Toxic",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 104,
+		"name": "Double Team",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 133,
+		"name": "Amnesia",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 156,
+		"name": "Rest",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 157,
+		"name": "Rock Slide",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 164,
+		"name": "Substitute",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 174,
+		"name": "Curse",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 182,
+		"name": "Protect",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 189,
+		"name": "Mud-Slap",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 201,
+		"name": "Sandstorm",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 203,
+		"name": "Endure",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 207,
+		"name": "Swagger",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 213,
+		"name": "Attract",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 214,
+		"name": "Sleep Talk",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 216,
+		"name": "Return",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 218,
+		"name": "Frustration",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 231,
+		"name": "Iron Tail",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 237,
+		"name": "Hidden Power",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 241,
+		"name": "Sunny Day",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 242,
+		"name": "Crunch",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 249,
+		"name": "Rock Smash",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 263,
+		"name": "Facade",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 270,
+		"name": "Helping Hand",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 276,
+		"name": "Superpower",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 279,
+		"name": "Revenge",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 290,
+		"name": "Secret Power",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 311,
+		"name": "Weather Ball",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 317,
+		"name": "Rock Tomb",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 328,
+		"name": "Sand Tomb",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 330,
+		"name": "Muddy Water",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 341,
+		"name": "Mud Shot",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 352,
+		"name": "Water Pulse",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 363,
+		"name": "Natural Gift",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 414,
+		"name": "Earth Power",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 422,
+		"name": "Thunder Fang",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 423,
+		"name": "Ice Fang",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 424,
+		"name": "Fire Fang",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 444,
+		"name": "Stone Edge",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 445,
+		"name": "Captivate",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 446,
+		"name": "Stealth Rock",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 496,
+		"name": "Round",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 523,
+		"name": "Bulldoze",
+		"type": "move_learner_tools"
+	}
+],
+"types": [
+	"GROUND",
+	"GROUND"
+],
+"stats": {
+	"hp": 68,
+	"attack": 72,
+	"defense": 78,
+	"speed": 32,
+	"sp_attack": 38,
+	"sp_defense": 42
+},
+"yields": {
+	"exp": 66,
+	"ev_hp": 0,
+	"ev_attack": 0,
+	"ev_defense": 1,
+	"ev_speed": 0,
+	"ev_sp_attack": 0,
+	"ev_sp_defense": 0
+},
+"tiers": [
+	"Untiered"
+],
+"held_items": [
+	{
+		"id": 5283,
+		"name": "Smooth Rock"
+	}
+],
+"locations": [
+	{
+		"type": "Cave",
+		"region_id": 3,
+		"region_name": "Sinnoh",
+		"location": "Maniac Tunnel",
+		"min_level": 22,
+		"max_level": 26,
+		"rarity": "Common"
+	},
+	{
+		"type": "Cave",
+		"region_id": 3,
+		"region_name": "Sinnoh",
+		"location": "Maniac Tunnel",
+		"min_level": 22,
+		"max_level": 25,
+		"rarity": "Horde"
+	},
+	{
+		"type": "Grass",
+		"region_id": 3,
+		"region_name": "Sinnoh",
+		"location": "Route 207",
+		"min_level": 11,
+		"max_level": 11,
+		"rarity": "Lure"
+	},
+	{
+		"type": "Cave",
+		"region_id": 3,
+		"region_name": "Sinnoh",
+		"location": "Ruin Maniac Cave",
+		"min_level": 22,
+		"max_level": 25,
+		"rarity": "Rare"
+	}
+]
+}

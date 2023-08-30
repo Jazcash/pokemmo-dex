@@ -1,0 +1,12 @@
+{
+"id": 211,
+"name": "Steel Wing",
+"skill_damage_type": "PHYSICAL",
+"base_power": 70,
+"base_accuracy": 90,
+"base_pp": 25,
+"priority": 0,
+"type": "STEEL",
+"target_type": 0,
+"true_damage": false
+}

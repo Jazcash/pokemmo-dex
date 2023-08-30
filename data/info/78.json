@@ -1,0 +1,611 @@
+{
+"id": 78,
+"name": "Rapidash",
+"exp_type": "MEDIUM_FAST",
+"obtainable": true,
+"gender_ratio": 127,
+"height": 17,
+"weight": 950,
+"egg_groups": [
+	"field"
+],
+"abilities": [
+	{
+		"id": 50,
+		"name": "Run Away"
+	},
+	{
+		"id": 18,
+		"name": "Flash Fire"
+	},
+	{
+		"id": 49,
+		"name": "Flame Body"
+	}
+],
+"forms": [
+	{
+		"form_id": 0,
+		"id": 78,
+		"name": "Rapidash"
+	}
+],
+"evolutions": [],
+"moves": [
+	{
+		"id": 33,
+		"name": "Tackle",
+		"type": "level",
+		"level": 1
+	},
+	{
+		"id": 39,
+		"name": "Tail Whip",
+		"type": "level",
+		"level": 1
+	},
+	{
+		"id": 45,
+		"name": "Growl",
+		"type": "level",
+		"level": 1
+	},
+	{
+		"id": 52,
+		"name": "Ember",
+		"type": "level",
+		"level": 1
+	},
+	{
+		"id": 98,
+		"name": "Quick Attack",
+		"type": "level",
+		"level": 1
+	},
+	{
+		"id": 224,
+		"name": "Megahorn",
+		"type": "level",
+		"level": 1
+	},
+	{
+		"id": 398,
+		"name": "Poison Jab",
+		"type": "level",
+		"level": 1
+	},
+	{
+		"id": 31,
+		"name": "Fury Attack",
+		"type": "level",
+		"level": 1
+	},
+	{
+		"id": 32,
+		"name": "Horn Drill",
+		"type": "level",
+		"level": 1
+	},
+	{
+		"id": 95,
+		"name": "Hypnosis",
+		"type": "level",
+		"level": 1
+	},
+	{
+		"id": 39,
+		"name": "Tail Whip",
+		"type": "level",
+		"level": 4
+	},
+	{
+		"id": 52,
+		"name": "Ember",
+		"type": "level",
+		"level": 5
+	},
+	{
+		"id": 458,
+		"name": "Double Hit",
+		"type": "level",
+		"level": 9
+	},
+	{
+		"id": 488,
+		"name": "Flame Charge",
+		"type": "level",
+		"level": 15
+	},
+	{
+		"id": 24,
+		"name": "Double Kick",
+		"type": "level",
+		"level": 15
+	},
+	{
+		"id": 97,
+		"name": "Agility",
+		"type": "level",
+		"level": 20
+	},
+	{
+		"id": 23,
+		"name": "Stomp",
+		"type": "level",
+		"level": 20
+	},
+	{
+		"id": 95,
+		"name": "Hypnosis",
+		"type": "level",
+		"level": 21
+	},
+	{
+		"id": 172,
+		"name": "Flame Wheel",
+		"type": "level",
+		"level": 25
+	},
+	{
+		"id": 83,
+		"name": "Fire Spin",
+		"type": "level",
+		"level": 26
+	},
+	{
+		"id": 38,
+		"name": "Double-Edge",
+		"type": "level",
+		"level": 37
+	},
+	{
+		"id": 126,
+		"name": "Fire Blast",
+		"type": "level",
+		"level": 38
+	},
+	{
+		"id": 31,
+		"name": "Fury Attack",
+		"type": "level",
+		"level": 40
+	},
+	{
+		"id": 36,
+		"name": "Take Down",
+		"type": "level",
+		"level": 43
+	},
+	{
+		"id": 340,
+		"name": "Bounce",
+		"type": "level",
+		"level": 45
+	},
+	{
+		"id": 517,
+		"name": "Inferno",
+		"type": "level",
+		"level": 49
+	},
+	{
+		"id": 394,
+		"name": "Flare Blitz",
+		"type": "level",
+		"level": 63
+	},
+	{
+		"id": 95,
+		"name": "Hypnosis",
+		"type": "move_tutor"
+	},
+	{
+		"id": 173,
+		"name": "Snore",
+		"type": "move_tutor"
+	},
+	{
+		"id": 340,
+		"name": "Bounce",
+		"type": "move_tutor"
+	},
+	{
+		"id": 6,
+		"name": "Pay Day",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 14,
+		"name": "Swords Dance",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 29,
+		"name": "Headbutt",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 32,
+		"name": "Horn Drill",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 34,
+		"name": "Body Slam",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 36,
+		"name": "Take Down",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 38,
+		"name": "Double-Edge",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 53,
+		"name": "Flamethrower",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 63,
+		"name": "Hyper Beam",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 67,
+		"name": "Low Kick",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 70,
+		"name": "Strength",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 76,
+		"name": "SolarBeam",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 83,
+		"name": "Fire Spin",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 92,
+		"name": "Toxic",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 97,
+		"name": "Agility",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 99,
+		"name": "Rage",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 102,
+		"name": "Mimic",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 104,
+		"name": "Double Team",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 115,
+		"name": "Reflect",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 117,
+		"name": "Bide",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 126,
+		"name": "Fire Blast",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 129,
+		"name": "Swift",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 130,
+		"name": "Skull Bash",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 156,
+		"name": "Rest",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 164,
+		"name": "Substitute",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 174,
+		"name": "Curse",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 182,
+		"name": "Protect",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 203,
+		"name": "Endure",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 204,
+		"name": "Charm",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 207,
+		"name": "Swagger",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 213,
+		"name": "Attract",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 214,
+		"name": "Sleep Talk",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 216,
+		"name": "Return",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 218,
+		"name": "Frustration",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 224,
+		"name": "Megahorn",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 226,
+		"name": "Baton Pass",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 231,
+		"name": "Iron Tail",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 237,
+		"name": "Hidden Power",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 241,
+		"name": "Sunny Day",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 257,
+		"name": "Heat Wave",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 261,
+		"name": "Will-O-Wisp",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 263,
+		"name": "Facade",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 290,
+		"name": "Secret Power",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 315,
+		"name": "Overheat",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 363,
+		"name": "Natural Gift",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 394,
+		"name": "Flare Blitz",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 398,
+		"name": "Poison Jab",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 416,
+		"name": "Giga Impact",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 445,
+		"name": "Captivate",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 488,
+		"name": "Flame Charge",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 496,
+		"name": "Round",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 497,
+		"name": "Echoed Voice",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 502,
+		"name": "Ally Switch",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 510,
+		"name": "Incinerate",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 528,
+		"name": "Wild Charge",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 529,
+		"name": "Drill Run",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 31,
+		"name": "Fury Attack",
+		"type": "on_evolution"
+	}
+],
+"types": [
+	"FIRE",
+	"FIRE"
+],
+"stats": {
+	"hp": 65,
+	"attack": 100,
+	"defense": 70,
+	"speed": 105,
+	"sp_attack": 80,
+	"sp_defense": 80
+},
+"yields": {
+	"exp": 175,
+	"ev_hp": 0,
+	"ev_attack": 0,
+	"ev_defense": 0,
+	"ev_speed": 2,
+	"ev_sp_attack": 0,
+	"ev_sp_defense": 0
+},
+"tiers": [
+	"Untiered"
+],
+"held_items": [
+	{
+		"id": 5191,
+		"name": "Shuca Berry"
+	}
+],
+"locations": [
+	{
+		"type": "Grass",
+		"region_id": 0,
+		"region_name": "Kanto",
+		"location": "KINDLE ROAD",
+		"min_level": 40,
+		"max_level": 40,
+		"rarity": "Rare"
+	},
+	{
+		"type": "Grass",
+		"region_id": 0,
+		"region_name": "Kanto",
+		"location": "MT. EMBER",
+		"min_level": 40,
+		"max_level": 42,
+		"rarity": "Uncommon"
+	},
+	{
+		"type": "Grass",
+		"region_id": 0,
+		"region_name": "Kanto",
+		"location": "MT. EMBER",
+		"min_level": 40,
+		"max_level": 40,
+		"rarity": "Horde"
+	},
+	{
+		"type": "Grass",
+		"region_id": 2,
+		"region_name": "Unova",
+		"location": "Route 12",
+		"min_level": 46,
+		"max_level": 47,
+		"rarity": "Horde"
+	},
+	{
+		"type": "Grass",
+		"region_id": 2,
+		"region_name": "Unova",
+		"location": "Route 12",
+		"min_level": 49,
+		"max_level": 49,
+		"rarity": "Very Common"
+	},
+	{
+		"type": "Dark Grass",
+		"region_id": 2,
+		"region_name": "Unova",
+		"location": "Route 12",
+		"min_level": 54,
+		"max_level": 54,
+		"rarity": "Very Common"
+	},
+	{
+		"type": "Grass",
+		"region_id": 4,
+		"region_name": "Johto",
+		"location": "Mt. Silver",
+		"min_level": 63,
+		"max_level": 65,
+		"rarity": "Very Common"
+	},
+	{
+		"type": "Grass",
+		"region_id": 4,
+		"region_name": "Johto",
+		"location": "Route 28",
+		"min_level": 58,
+		"max_level": 62,
+		"rarity": "Horde"
+	},
+	{
+		"type": "Grass",
+		"region_id": 4,
+		"region_name": "Johto",
+		"location": "Route 28",
+		"min_level": 63,
+		"max_level": 65,
+		"rarity": "Common"
+	}
+]
+}

@@ -1,0 +1,12 @@
+{
+"id": 411,
+"name": "Focus Blast",
+"skill_damage_type": "SPECIAL",
+"base_power": 120,
+"base_accuracy": 70,
+"base_pp": 5,
+"priority": 0,
+"type": "FIGHTING",
+"target_type": 0,
+"true_damage": false
+}

@@ -1,0 +1,572 @@
+{
+"id": 586,
+"name": "Sawsbuck",
+"exp_type": "MEDIUM_FAST",
+"obtainable": true,
+"gender_ratio": 127,
+"height": 19,
+"weight": 925,
+"egg_groups": [
+	"field"
+],
+"abilities": [
+	{
+		"id": 34,
+		"name": "Chlorophyll"
+	},
+	{
+		"id": 157,
+		"name": "Sap Sipper"
+	},
+	{
+		"id": 32,
+		"name": "Serene Grace"
+	}
+],
+"forms": [
+	{
+		"form_id": 0,
+		"id": 586,
+		"name": "Sawsbuck"
+	},
+	{
+		"form_id": 1,
+		"id": 586,
+		"name": "Sawsbuck"
+	},
+	{
+		"form_id": 2,
+		"id": 586,
+		"name": "Sawsbuck"
+	},
+	{
+		"form_id": 3,
+		"id": 586,
+		"name": "Sawsbuck"
+	}
+],
+"evolutions": [],
+"moves": [
+	{
+		"id": 28,
+		"name": "Sand-Attack",
+		"type": "level",
+		"level": 1
+	},
+	{
+		"id": 33,
+		"name": "Tackle",
+		"type": "level",
+		"level": 1
+	},
+	{
+		"id": 45,
+		"name": "Growl",
+		"type": "level",
+		"level": 1
+	},
+	{
+		"id": 224,
+		"name": "Megahorn",
+		"type": "level",
+		"level": 1
+	},
+	{
+		"id": 293,
+		"name": "Camouflage",
+		"type": "level",
+		"level": 1
+	},
+	{
+		"id": 45,
+		"name": "Growl",
+		"type": "level",
+		"level": 4
+	},
+	{
+		"id": 28,
+		"name": "Sand-Attack",
+		"type": "level",
+		"level": 7
+	},
+	{
+		"id": 24,
+		"name": "Double Kick",
+		"type": "level",
+		"level": 10
+	},
+	{
+		"id": 73,
+		"name": "Leech Seed",
+		"type": "level",
+		"level": 13
+	},
+	{
+		"id": 185,
+		"name": "Faint Attack",
+		"type": "level",
+		"level": 16
+	},
+	{
+		"id": 331,
+		"name": "Bullet Seed",
+		"type": "level",
+		"level": 16
+	},
+	{
+		"id": 36,
+		"name": "Take Down",
+		"type": "level",
+		"level": 20
+	},
+	{
+		"id": 26,
+		"name": "Jump Kick",
+		"type": "level",
+		"level": 24
+	},
+	{
+		"id": 428,
+		"name": "Zen Headbutt",
+		"type": "level",
+		"level": 24
+	},
+	{
+		"id": 312,
+		"name": "Aromatherapy",
+		"type": "level",
+		"level": 28
+	},
+	{
+		"id": 412,
+		"name": "Energy Ball",
+		"type": "level",
+		"level": 28
+	},
+	{
+		"id": 204,
+		"name": "Charm",
+		"type": "level",
+		"level": 36
+	},
+	{
+		"id": 267,
+		"name": "Nature Power",
+		"type": "level",
+		"level": 44
+	},
+	{
+		"id": 38,
+		"name": "Double-Edge",
+		"type": "level",
+		"level": 44
+	},
+	{
+		"id": 532,
+		"name": "Horn Leech",
+		"type": "level",
+		"level": 47
+	},
+	{
+		"id": 76,
+		"name": "SolarBeam",
+		"type": "level",
+		"level": 52
+	},
+	{
+		"id": 173,
+		"name": "Snore",
+		"type": "move_tutor"
+	},
+	{
+		"id": 185,
+		"name": "Faint Attack",
+		"type": "move_tutor"
+	},
+	{
+		"id": 235,
+		"name": "Synthesis",
+		"type": "move_tutor"
+	},
+	{
+		"id": 340,
+		"name": "Bounce",
+		"type": "move_tutor"
+	},
+	{
+		"id": 387,
+		"name": "Last Resort",
+		"type": "move_tutor"
+	},
+	{
+		"id": 388,
+		"name": "Worry Seed",
+		"type": "move_tutor"
+	},
+	{
+		"id": 14,
+		"name": "Swords Dance",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 15,
+		"name": "Cut",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 29,
+		"name": "Headbutt",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 34,
+		"name": "Body Slam",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 36,
+		"name": "Take Down",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 38,
+		"name": "Double-Edge",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 63,
+		"name": "Hyper Beam",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 76,
+		"name": "SolarBeam",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 86,
+		"name": "Thunder Wave",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 91,
+		"name": "Dig",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 92,
+		"name": "Toxic",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 97,
+		"name": "Agility",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 104,
+		"name": "Double Team",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 113,
+		"name": "Light Screen",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 148,
+		"name": "Flash",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 156,
+		"name": "Rest",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 164,
+		"name": "Substitute",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 182,
+		"name": "Protect",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 202,
+		"name": "Giga Drain",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 203,
+		"name": "Endure",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 204,
+		"name": "Charm",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 207,
+		"name": "Swagger",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 213,
+		"name": "Attract",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 214,
+		"name": "Sleep Talk",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 216,
+		"name": "Return",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 218,
+		"name": "Frustration",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 219,
+		"name": "Safeguard",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 224,
+		"name": "Megahorn",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 226,
+		"name": "Baton Pass",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 237,
+		"name": "Hidden Power",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 240,
+		"name": "Rain Dance",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 241,
+		"name": "Sunny Day",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 247,
+		"name": "Shadow Ball",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 249,
+		"name": "Rock Smash",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 263,
+		"name": "Facade",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 267,
+		"name": "Nature Power",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 270,
+		"name": "Helping Hand",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 290,
+		"name": "Secret Power",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 313,
+		"name": "Fake Tears",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 331,
+		"name": "Bullet Seed",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 345,
+		"name": "Magical Leaf",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 363,
+		"name": "Natural Gift",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 402,
+		"name": "Seed Bomb",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 412,
+		"name": "Energy Ball",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 416,
+		"name": "Giga Impact",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 428,
+		"name": "Zen Headbutt",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 437,
+		"name": "Leaf Storm",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 447,
+		"name": "Grass Knot",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 496,
+		"name": "Round",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 497,
+		"name": "Echoed Voice",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 514,
+		"name": "Retaliate",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 523,
+		"name": "Bulldoze",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 526,
+		"name": "Work Up",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 528,
+		"name": "Wild Charge",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 532,
+		"name": "Horn Leech",
+		"type": "on_evolution"
+	}
+],
+"types": [
+	"NORMAL",
+	"GRASS"
+],
+"stats": {
+	"hp": 80,
+	"attack": 100,
+	"defense": 70,
+	"speed": 95,
+	"sp_attack": 60,
+	"sp_defense": 70
+},
+"yields": {
+	"exp": 166,
+	"ev_hp": 0,
+	"ev_attack": 2,
+	"ev_defense": 0,
+	"ev_speed": 0,
+	"ev_sp_attack": 0,
+	"ev_sp_defense": 0
+},
+"tiers": [
+	"Untiered"
+],
+"held_items": [],
+"locations": [
+	{
+		"type": "Dark Grass",
+		"region_id": 2,
+		"region_name": "Unova",
+		"location": "Dragonspiral Tower",
+		"min_level": 34,
+		"max_level": 36,
+		"rarity": "Very Common"
+	},
+	{
+		"type": "Dark Grass",
+		"region_id": 2,
+		"region_name": "Unova",
+		"location": "Dragonspiral Tower",
+		"min_level": 34,
+		"max_level": 36,
+		"rarity": "Very Common"
+	},
+	{
+		"type": "Dark Grass",
+		"region_id": 2,
+		"region_name": "Unova",
+		"location": "Dragonspiral Tower",
+		"min_level": 34,
+		"max_level": 34,
+		"rarity": "Horde"
+	},
+	{
+		"type": "Dark Grass",
+		"region_id": 2,
+		"region_name": "Unova",
+		"location": "Dragonspiral Tower",
+		"min_level": 34,
+		"max_level": 36,
+		"rarity": "Very Common"
+	},
+	{
+		"type": "Dark Grass",
+		"region_id": 2,
+		"region_name": "Unova",
+		"location": "Dragonspiral Tower",
+		"min_level": 34,
+		"max_level": 34,
+		"rarity": "Horde"
+	},
+	{
+		"type": "Dark Grass",
+		"region_id": 2,
+		"region_name": "Unova",
+		"location": "Dragonspiral Tower",
+		"min_level": 34,
+		"max_level": 36,
+		"rarity": "Very Common"
+	},
+	{
+		"type": "Dark Grass",
+		"region_id": 2,
+		"region_name": "Unova",
+		"location": "Dragonspiral Tower",
+		"min_level": 34,
+		"max_level": 34,
+		"rarity": "Horde"
+	}
+]
+}

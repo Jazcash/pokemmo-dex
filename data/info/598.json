@@ -1,0 +1,545 @@
+{
+"id": 598,
+"name": "Ferrothorn",
+"exp_type": "MEDIUM_FAST",
+"obtainable": true,
+"gender_ratio": 127,
+"height": 10,
+"weight": 1100,
+"egg_groups": [
+	"plant",
+	"mineral"
+],
+"abilities": [
+	{
+		"id": 160,
+		"name": "Iron Barbs"
+	},
+	{
+		"id": 0,
+		"name": "--"
+	},
+	{
+		"id": 107,
+		"name": "Anticipation"
+	}
+],
+"forms": [
+	{
+		"form_id": 0,
+		"id": 598,
+		"name": "Ferrothorn"
+	}
+],
+"evolutions": [],
+"moves": [
+	{
+		"id": 33,
+		"name": "Tackle",
+		"type": "level",
+		"level": 1
+	},
+	{
+		"id": 42,
+		"name": "Pin Missile",
+		"type": "level",
+		"level": 1
+	},
+	{
+		"id": 106,
+		"name": "Harden",
+		"type": "level",
+		"level": 1
+	},
+	{
+		"id": 174,
+		"name": "Curse",
+		"type": "level",
+		"level": 1
+	},
+	{
+		"id": 205,
+		"name": "Rollout",
+		"type": "level",
+		"level": 1
+	},
+	{
+		"id": 232,
+		"name": "Metal Claw",
+		"type": "level",
+		"level": 1
+	},
+	{
+		"id": 431,
+		"name": "Rock Climb",
+		"type": "level",
+		"level": 1
+	},
+	{
+		"id": 438,
+		"name": "Power Whip",
+		"type": "level",
+		"level": 1
+	},
+	{
+		"id": 205,
+		"name": "Rollout",
+		"type": "level",
+		"level": 6
+	},
+	{
+		"id": 232,
+		"name": "Metal Claw",
+		"type": "level",
+		"level": 14
+	},
+	{
+		"id": 275,
+		"name": "Ingrain",
+		"type": "level",
+		"level": 15
+	},
+	{
+		"id": 42,
+		"name": "Pin Missile",
+		"type": "level",
+		"level": 18
+	},
+	{
+		"id": 430,
+		"name": "Flash Cannon",
+		"type": "level",
+		"level": 20
+	},
+	{
+		"id": 442,
+		"name": "Iron Head",
+		"type": "level",
+		"level": 25
+	},
+	{
+		"id": 120,
+		"name": "Selfdestruct",
+		"type": "level",
+		"level": 30
+	},
+	{
+		"id": 429,
+		"name": "Mirror Shot",
+		"type": "level",
+		"level": 30
+	},
+	{
+		"id": 334,
+		"name": "Iron Defense",
+		"type": "level",
+		"level": 35
+	},
+	{
+		"id": 438,
+		"name": "Power Whip",
+		"type": "level",
+		"level": 40
+	},
+	{
+		"id": 174,
+		"name": "Curse",
+		"type": "level",
+		"level": 43
+	},
+	{
+		"id": 360,
+		"name": "Gyro Ball",
+		"type": "level",
+		"level": 49
+	},
+	{
+		"id": 371,
+		"name": "Payback",
+		"type": "level",
+		"level": 53
+	},
+	{
+		"id": 153,
+		"name": "Explosion",
+		"type": "level",
+		"level": 56
+	},
+	{
+		"id": 173,
+		"name": "Snore",
+		"type": "move_tutor"
+	},
+	{
+		"id": 282,
+		"name": "Knock Off",
+		"type": "move_tutor"
+	},
+	{
+		"id": 283,
+		"name": "Endeavor",
+		"type": "move_tutor"
+	},
+	{
+		"id": 335,
+		"name": "Block",
+		"type": "move_tutor"
+	},
+	{
+		"id": 356,
+		"name": "Gravity",
+		"type": "move_tutor"
+	},
+	{
+		"id": 388,
+		"name": "Worry Seed",
+		"type": "move_tutor"
+	},
+	{
+		"id": 393,
+		"name": "Magnet Rise",
+		"type": "move_tutor"
+	},
+	{
+		"id": 14,
+		"name": "Swords Dance",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 15,
+		"name": "Cut",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 42,
+		"name": "Pin Missile",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 63,
+		"name": "Hyper Beam",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 70,
+		"name": "Strength",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 76,
+		"name": "SolarBeam",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 85,
+		"name": "Thunderbolt",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 86,
+		"name": "Thunder Wave",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 87,
+		"name": "Thunder",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 92,
+		"name": "Toxic",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 104,
+		"name": "Double Team",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 120,
+		"name": "Selfdestruct",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 148,
+		"name": "Flash",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 153,
+		"name": "Explosion",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 156,
+		"name": "Rest",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 164,
+		"name": "Substitute",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 174,
+		"name": "Curse",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 182,
+		"name": "Protect",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 191,
+		"name": "Spikes",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 201,
+		"name": "Sandstorm",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 202,
+		"name": "Giga Drain",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 203,
+		"name": "Endure",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 205,
+		"name": "Rollout",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 207,
+		"name": "Swagger",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 213,
+		"name": "Attract",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 214,
+		"name": "Sleep Talk",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 216,
+		"name": "Return",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 218,
+		"name": "Frustration",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 232,
+		"name": "Metal Claw",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 237,
+		"name": "Hidden Power",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 241,
+		"name": "Sunny Day",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 249,
+		"name": "Rock Smash",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 263,
+		"name": "Facade",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 267,
+		"name": "Nature Power",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 279,
+		"name": "Revenge",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 290,
+		"name": "Secret Power",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 331,
+		"name": "Bullet Seed",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 332,
+		"name": "Aerial Ace",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 334,
+		"name": "Iron Defense",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 360,
+		"name": "Gyro Ball",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 371,
+		"name": "Payback",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 372,
+		"name": "Assurance",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 397,
+		"name": "Rock Polish",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 398,
+		"name": "Poison Jab",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 402,
+		"name": "Seed Bomb",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 412,
+		"name": "Energy Ball",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 416,
+		"name": "Giga Impact",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 421,
+		"name": "Shadow Claw",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 430,
+		"name": "Flash Cannon",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 431,
+		"name": "Rock Climb",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 438,
+		"name": "Power Whip",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 442,
+		"name": "Iron Head",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 446,
+		"name": "Stealth Rock",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 447,
+		"name": "Grass Knot",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 468,
+		"name": "Hone Claws",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 484,
+		"name": "Heavy Slam",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 491,
+		"name": "Acid Spray",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 496,
+		"name": "Round",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 523,
+		"name": "Bulldoze",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 438,
+		"name": "Power Whip",
+		"type": "on_evolution"
+	}
+],
+"types": [
+	"GRASS",
+	"STEEL"
+],
+"stats": {
+	"hp": 74,
+	"attack": 94,
+	"defense": 131,
+	"speed": 20,
+	"sp_attack": 54,
+	"sp_defense": 116
+},
+"yields": {
+	"exp": 171,
+	"ev_hp": 0,
+	"ev_attack": 0,
+	"ev_defense": 2,
+	"ev_speed": 0,
+	"ev_sp_attack": 0,
+	"ev_sp_defense": 0
+},
+"tiers": [
+	"Over Used"
+],
+"held_items": [
+	{
+		"id": 5288,
+		"name": "Sticky Barb"
+	}
+],
+"locations": [
+	{
+		"type": "Cave",
+		"region_id": 2,
+		"region_name": "Unova",
+		"location": "Challenger's Cave",
+		"min_level": 53,
+		"max_level": 53,
+		"rarity": "Lure"
+	}
+]
+}

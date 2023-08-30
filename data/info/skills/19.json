@@ -1,0 +1,12 @@
+{
+"id": 19,
+"name": "Fly",
+"skill_damage_type": "PHYSICAL",
+"base_power": 90,
+"base_accuracy": 95,
+"base_pp": 15,
+"priority": 0,
+"type": "FLYING",
+"target_type": 0,
+"true_damage": false
+}

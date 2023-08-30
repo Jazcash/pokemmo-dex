@@ -1,0 +1,279 @@
+{
+"id": 662,
+"name": "Castform",
+"exp_type": "MEDIUM_FAST",
+"obtainable": false,
+"gender_ratio": 127,
+"height": 3,
+"weight": 8,
+"egg_groups": [
+	"fairy",
+	"chaos"
+],
+"abilities": [
+	{
+		"id": 59,
+		"name": "Forecast"
+	},
+	{
+		"id": 0,
+		"name": "--"
+	},
+	{
+		"id": 0,
+		"name": "--"
+	}
+],
+"evolutions": [],
+"moves": [
+	{
+		"id": 33,
+		"name": "Tackle",
+		"type": "level",
+		"level": 1
+	},
+	{
+		"id": 52,
+		"name": "Ember",
+		"type": "level",
+		"level": 10
+	},
+	{
+		"id": 55,
+		"name": "Water Gun",
+		"type": "level",
+		"level": 10
+	},
+	{
+		"id": 181,
+		"name": "Powder Snow",
+		"type": "level",
+		"level": 10
+	},
+	{
+		"id": 29,
+		"name": "Headbutt",
+		"type": "level",
+		"level": 15
+	},
+	{
+		"id": 240,
+		"name": "Rain Dance",
+		"type": "level",
+		"level": 20
+	},
+	{
+		"id": 241,
+		"name": "Sunny Day",
+		"type": "level",
+		"level": 20
+	},
+	{
+		"id": 258,
+		"name": "Snowscape",
+		"type": "level",
+		"level": 20
+	},
+	{
+		"id": 311,
+		"name": "Weather Ball",
+		"type": "level",
+		"level": 25
+	},
+	{
+		"id": 56,
+		"name": "Hydro Pump",
+		"type": "level",
+		"level": 35
+	},
+	{
+		"id": 59,
+		"name": "Blizzard",
+		"type": "level",
+		"level": 35
+	},
+	{
+		"id": 126,
+		"name": "Fire Blast",
+		"type": "level",
+		"level": 35
+	},
+	{
+		"id": 542,
+		"name": "Hurricane",
+		"type": "level",
+		"level": 45
+	},
+	{
+		"id": 50,
+		"name": "Disable",
+		"type": "egg_moves"
+	},
+	{
+		"id": 381,
+		"name": "Lucky Chant",
+		"type": "egg_moves"
+	},
+	{
+		"id": 499,
+		"name": "Clear Smog",
+		"type": "egg_moves"
+	},
+	{
+		"id": 513,
+		"name": "Reflect Type",
+		"type": "egg_moves"
+	},
+	{
+		"id": 173,
+		"name": "Snore",
+		"type": "move_tutor"
+	},
+	{
+		"id": 387,
+		"name": "Last Resort",
+		"type": "move_tutor"
+	},
+	{
+		"id": 466,
+		"name": "Ominous Wind",
+		"type": "move_tutor"
+	},
+	{
+		"id": 29,
+		"name": "Headbutt",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 55,
+		"name": "Water Gun",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 56,
+		"name": "Hydro Pump",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 59,
+		"name": "Blizzard",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 126,
+		"name": "Fire Blast",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 129,
+		"name": "Swift",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 133,
+		"name": "Amnesia",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 196,
+		"name": "Icy Wind",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 240,
+		"name": "Rain Dance",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 241,
+		"name": "Sunny Day",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 248,
+		"name": "Future Sight",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 258,
+		"name": "Snowscape",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 311,
+		"name": "Weather Ball",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 322,
+		"name": "Cosmic Power",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 351,
+		"name": "Shock Wave",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 352,
+		"name": "Water Pulse",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 366,
+		"name": "Tailwind",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 385,
+		"name": "Guard Swap",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 432,
+		"name": "Defog",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 506,
+		"name": "Hex",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 542,
+		"name": "Hurricane",
+		"type": "move_learner_tools"
+	}
+],
+"types": [
+	"FIRE",
+	"FIRE"
+],
+"stats": {
+	"hp": 70,
+	"attack": 70,
+	"defense": 70,
+	"speed": 70,
+	"sp_attack": 70,
+	"sp_defense": 70
+},
+"yields": {
+	"exp": 147,
+	"ev_hp": 1,
+	"ev_attack": 0,
+	"ev_defense": 0,
+	"ev_speed": 0,
+	"ev_sp_attack": 0,
+	"ev_sp_defense": 0
+},
+"tiers": [
+	"Untiered"
+],
+"held_items": [
+	{
+		"id": 5243,
+		"name": "Mystic Water"
+	}
+],
+"locations": []
+}

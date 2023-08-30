@@ -1,0 +1,601 @@
+{
+"id": 246,
+"name": "Larvitar",
+"exp_type": "SLOW",
+"obtainable": true,
+"gender_ratio": 127,
+"height": 6,
+"weight": 720,
+"egg_groups": [
+	"monster"
+],
+"abilities": [
+	{
+		"id": 62,
+		"name": "Guts"
+	},
+	{
+		"id": 0,
+		"name": "--"
+	},
+	{
+		"id": 8,
+		"name": "Sand Veil"
+	}
+],
+"forms": [
+	{
+		"form_id": 0,
+		"id": 246,
+		"name": "Larvitar"
+	}
+],
+"evolutions": [
+	{
+		"id": 247,
+		"name": "Pupitar",
+		"type": "LEVEL",
+		"val": 30
+	}
+],
+"moves": [
+	{
+		"id": 33,
+		"name": "Tackle",
+		"type": "level",
+		"level": 1
+	},
+	{
+		"id": 43,
+		"name": "Leer",
+		"type": "level",
+		"level": 1
+	},
+	{
+		"id": 44,
+		"name": "Bite",
+		"type": "level",
+		"level": 1
+	},
+	{
+		"id": 88,
+		"name": "Rock Throw",
+		"type": "level",
+		"level": 3
+	},
+	{
+		"id": 371,
+		"name": "Payback",
+		"type": "level",
+		"level": 6
+	},
+	{
+		"id": 44,
+		"name": "Bite",
+		"type": "level",
+		"level": 9
+	},
+	{
+		"id": 184,
+		"name": "Scary Face",
+		"type": "level",
+		"level": 12
+	},
+	{
+		"id": 498,
+		"name": "Chip Away",
+		"type": "level",
+		"level": 14
+	},
+	{
+		"id": 157,
+		"name": "Rock Slide",
+		"type": "level",
+		"level": 15
+	},
+	{
+		"id": 103,
+		"name": "Screech",
+		"type": "level",
+		"level": 21
+	},
+	{
+		"id": 399,
+		"name": "Dark Pulse",
+		"type": "level",
+		"level": 24
+	},
+	{
+		"id": 479,
+		"name": "Smack Down",
+		"type": "level",
+		"level": 24
+	},
+	{
+		"id": 242,
+		"name": "Crunch",
+		"type": "level",
+		"level": 27
+	},
+	{
+		"id": 89,
+		"name": "Earthquake",
+		"type": "level",
+		"level": 31
+	},
+	{
+		"id": 444,
+		"name": "Stone Edge",
+		"type": "level",
+		"level": 33
+	},
+	{
+		"id": 37,
+		"name": "Thrash",
+		"type": "level",
+		"level": 36
+	},
+	{
+		"id": 201,
+		"name": "Sandstorm",
+		"type": "level",
+		"level": 39
+	},
+	{
+		"id": 63,
+		"name": "Hyper Beam",
+		"type": "level",
+		"level": 42
+	},
+	{
+		"id": 23,
+		"name": "Stomp",
+		"type": "egg_moves"
+	},
+	{
+		"id": 228,
+		"name": "Pursuit",
+		"type": "egg_moves"
+	},
+	{
+		"id": 173,
+		"name": "Snore",
+		"type": "move_tutor"
+	},
+	{
+		"id": 180,
+		"name": "Spite",
+		"type": "move_tutor"
+	},
+	{
+		"id": 246,
+		"name": "AncientPower",
+		"type": "move_tutor"
+	},
+	{
+		"id": 253,
+		"name": "Uproar",
+		"type": "move_tutor"
+	},
+	{
+		"id": 29,
+		"name": "Headbutt",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 34,
+		"name": "Body Slam",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 36,
+		"name": "Take Down",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 38,
+		"name": "Double-Edge",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 63,
+		"name": "Hyper Beam",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 89,
+		"name": "Earthquake",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 91,
+		"name": "Dig",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 92,
+		"name": "Toxic",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 99,
+		"name": "Rage",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 102,
+		"name": "Mimic",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 103,
+		"name": "Screech",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 104,
+		"name": "Double Team",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 116,
+		"name": "Focus Energy",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 156,
+		"name": "Rest",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 157,
+		"name": "Rock Slide",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 164,
+		"name": "Substitute",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 174,
+		"name": "Curse",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 182,
+		"name": "Protect",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 184,
+		"name": "Scary Face",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 189,
+		"name": "Mud-Slap",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 197,
+		"name": "Detect",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 200,
+		"name": "Outrage",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 201,
+		"name": "Sandstorm",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 203,
+		"name": "Endure",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 207,
+		"name": "Swagger",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 213,
+		"name": "Attract",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 214,
+		"name": "Sleep Talk",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 216,
+		"name": "Return",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 218,
+		"name": "Frustration",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 231,
+		"name": "Iron Tail",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 237,
+		"name": "Hidden Power",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 240,
+		"name": "Rain Dance",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 241,
+		"name": "Sunny Day",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 242,
+		"name": "Crunch",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 249,
+		"name": "Rock Smash",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 259,
+		"name": "Torment",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 263,
+		"name": "Facade",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 269,
+		"name": "Taunt",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 270,
+		"name": "Helping Hand",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 276,
+		"name": "Superpower",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 280,
+		"name": "Brick Break",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 290,
+		"name": "Secret Power",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 317,
+		"name": "Rock Tomb",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 328,
+		"name": "Sand Tomb",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 330,
+		"name": "Muddy Water",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 334,
+		"name": "Iron Defense",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 341,
+		"name": "Mud Shot",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 349,
+		"name": "Dragon Dance",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 350,
+		"name": "Rock Blast",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 363,
+		"name": "Natural Gift",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 371,
+		"name": "Payback",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 372,
+		"name": "Assurance",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 397,
+		"name": "Rock Polish",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 399,
+		"name": "Dark Pulse",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 414,
+		"name": "Earth Power",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 416,
+		"name": "Giga Impact",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 442,
+		"name": "Iron Head",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 444,
+		"name": "Stone Edge",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 445,
+		"name": "Captivate",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 446,
+		"name": "Stealth Rock",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 479,
+		"name": "Smack Down",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 496,
+		"name": "Round",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 514,
+		"name": "Retaliate",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 523,
+		"name": "Bulldoze",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 555,
+		"name": "Snarl",
+		"type": "move_learner_tools"
+	}
+],
+"types": [
+	"ROCK",
+	"GROUND"
+],
+"stats": {
+	"hp": 50,
+	"attack": 64,
+	"defense": 50,
+	"speed": 41,
+	"sp_attack": 45,
+	"sp_defense": 50
+},
+"yields": {
+	"exp": 60,
+	"ev_hp": 0,
+	"ev_attack": 1,
+	"ev_defense": 0,
+	"ev_speed": 0,
+	"ev_sp_attack": 0,
+	"ev_sp_defense": 0
+},
+"tiers": [
+	"Untiered"
+],
+"held_items": [
+	{
+		"id": 5283,
+		"name": "Smooth Rock"
+	}
+],
+"locations": [
+	{
+		"type": "Grass",
+		"region_id": 0,
+		"region_name": "Kanto",
+		"location": "SEVAULT CANYON",
+		"min_level": 50,
+		"max_level": 52,
+		"rarity": "Rare"
+	},
+	{
+		"type": "Grass",
+		"region_id": 2,
+		"region_name": "Unova",
+		"location": "Desert Resort",
+		"min_level": 25,
+		"max_level": 25,
+		"rarity": "Lure"
+	},
+	{
+		"type": "Dust Cloud",
+		"region_id": 2,
+		"region_name": "Unova",
+		"location": "Twist Mountain",
+		"min_level": 33,
+		"max_level": 34,
+		"rarity": "Special"
+	},
+	{
+		"type": "Cave",
+		"region_id": 4,
+		"region_name": "Johto",
+		"location": "Mt. Silver Cave",
+		"min_level": 63,
+		"max_level": 67,
+		"rarity": "Horde"
+	},
+	{
+		"type": "Cave",
+		"region_id": 4,
+		"region_name": "Johto",
+		"location": "Mt. Silver Cave",
+		"min_level": 64,
+		"max_level": 70,
+		"rarity": "Rare"
+	},
+	{
+		"type": "Grass",
+		"region_id": 4,
+		"region_name": "Johto",
+		"location": "Mt. Silver Cave",
+		"min_level": 65,
+		"max_level": 69,
+		"rarity": "Uncommon"
+	},
+	{
+		"type": "Cave",
+		"region_id": 4,
+		"region_name": "Johto",
+		"location": "Safari Zone",
+		"min_level": 28,
+		"max_level": 31,
+		"rarity": "Very Rare"
+	}
+]
+}

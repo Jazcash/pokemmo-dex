@@ -1,0 +1,12 @@
+{
+"id": 219,
+"name": "Safeguard",
+"skill_damage_type": "STATUS",
+"base_power": 0,
+"base_accuracy": 101,
+"base_pp": 25,
+"priority": 0,
+"type": "NORMAL",
+"target_type": 12,
+"true_damage": false
+}

@@ -1,0 +1,12 @@
+{
+"id": 390,
+"name": "Toxic Spikes",
+"skill_damage_type": "STATUS",
+"base_power": 0,
+"base_accuracy": 101,
+"base_pp": 20,
+"priority": 0,
+"type": "POISON",
+"target_type": 11,
+"true_damage": false
+}

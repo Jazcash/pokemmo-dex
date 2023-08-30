@@ -1,0 +1,29 @@
+$spacing: (
+    "xxs": 1px,
+    "xs": 2px,
+    "sm": 5px,
+    "md": 10px,
+    "lg": 15px,
+    "xl": 20px,
+    "xxl": 25px,
+);
+
+@each $key, $value in $spacing {
+    .gap-#{$key} {
+        gap: $value;
+    }
+    .padding-#{$key} {
+        padding: $value;
+    }
+    .margin-#{$key} {
+        padding: $value;
+    }
+    @each $dir in top, left, bottom, right {
+        .padding-#{$dir}-#{$key} {
+            padding-#{$dir}: $value;
+        }
+        .margin-#{$dir}-#{$key} {
+            margin-#{$dir}: $value;
+        }
+    }
+}

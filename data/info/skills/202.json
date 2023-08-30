@@ -1,0 +1,12 @@
+{
+"id": 202,
+"name": "Giga Drain",
+"skill_damage_type": "SPECIAL",
+"base_power": 75,
+"base_accuracy": 100,
+"base_pp": 10,
+"priority": 0,
+"type": "GRASS",
+"target_type": 0,
+"true_damage": false
+}

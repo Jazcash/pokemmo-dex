@@ -1,0 +1,12 @@
+{
+"id": 296,
+"name": "Mist Ball",
+"skill_damage_type": "SPECIAL",
+"base_power": 70,
+"base_accuracy": 100,
+"base_pp": 5,
+"priority": 0,
+"type": "PSYCHIC",
+"target_type": 0,
+"true_damage": false
+}

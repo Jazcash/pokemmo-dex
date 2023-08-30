@@ -1,0 +1,12 @@
+{
+"id": 196,
+"name": "Icy Wind",
+"skill_damage_type": "SPECIAL",
+"base_power": 55,
+"base_accuracy": 95,
+"base_pp": 15,
+"priority": 0,
+"type": "ICE",
+"target_type": 5,
+"true_damage": false
+}

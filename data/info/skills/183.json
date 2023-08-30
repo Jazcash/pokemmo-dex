@@ -1,0 +1,12 @@
+{
+"id": 183,
+"name": "Mach Punch",
+"skill_damage_type": "PHYSICAL",
+"base_power": 40,
+"base_accuracy": 100,
+"base_pp": 30,
+"priority": 1,
+"type": "FIGHTING",
+"target_type": 0,
+"true_damage": false
+}

@@ -1,0 +1,12 @@
+{
+"id": 507,
+"name": "Sky Drop",
+"skill_damage_type": "PHYSICAL",
+"base_power": 60,
+"base_accuracy": 100,
+"base_pp": 10,
+"priority": 0,
+"type": "FLYING",
+"target_type": 14,
+"true_damage": false
+}

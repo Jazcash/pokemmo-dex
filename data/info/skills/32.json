@@ -1,0 +1,12 @@
+{
+"id": 32,
+"name": "Horn Drill",
+"skill_damage_type": "PHYSICAL",
+"base_power": 1,
+"base_accuracy": 30,
+"base_pp": 5,
+"priority": 0,
+"type": "NORMAL",
+"target_type": 0,
+"true_damage": true
+}

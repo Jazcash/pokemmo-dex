@@ -1,0 +1,12 @@
+{
+"id": 396,
+"name": "Aura Sphere",
+"skill_damage_type": "SPECIAL",
+"base_power": 80,
+"base_accuracy": 101,
+"base_pp": 20,
+"priority": 0,
+"type": "FIGHTING",
+"target_type": 0,
+"true_damage": false
+}

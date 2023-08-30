@@ -1,0 +1,1041 @@
+{
+"id": 67,
+"name": "Machoke",
+"exp_type": "MEDIUM_SLOW",
+"obtainable": true,
+"gender_ratio": 63,
+"height": 15,
+"weight": 705,
+"egg_groups": [
+	"humanoid"
+],
+"abilities": [
+	{
+		"id": 62,
+		"name": "Guts"
+	},
+	{
+		"id": 99,
+		"name": "No Guard"
+	},
+	{
+		"id": 80,
+		"name": "Steadfast"
+	}
+],
+"forms": [
+	{
+		"form_id": 0,
+		"id": 67,
+		"name": "Machoke"
+	}
+],
+"evolutions": [
+	{
+		"id": 68,
+		"name": "Machamp",
+		"type": "TRADE",
+		"val": 0
+	}
+],
+"moves": [
+	{
+		"id": 2,
+		"name": "Karate Chop",
+		"type": "level",
+		"level": 1
+	},
+	{
+		"id": 43,
+		"name": "Leer",
+		"type": "level",
+		"level": 1
+	},
+	{
+		"id": 67,
+		"name": "Low Kick",
+		"type": "level",
+		"level": 1
+	},
+	{
+		"id": 116,
+		"name": "Focus Energy",
+		"type": "level",
+		"level": 1
+	},
+	{
+		"id": 117,
+		"name": "Bide",
+		"type": "level",
+		"level": 1
+	},
+	{
+		"id": 279,
+		"name": "Revenge",
+		"type": "level",
+		"level": 1
+	},
+	{
+		"id": 33,
+		"name": "Tackle",
+		"type": "level",
+		"level": 1
+	},
+	{
+		"id": 116,
+		"name": "Focus Energy",
+		"type": "level",
+		"level": 3
+	},
+	{
+		"id": 249,
+		"name": "Rock Smash",
+		"type": "level",
+		"level": 6
+	},
+	{
+		"id": 2,
+		"name": "Karate Chop",
+		"type": "level",
+		"level": 7
+	},
+	{
+		"id": 117,
+		"name": "Bide",
+		"type": "level",
+		"level": 8
+	},
+	{
+		"id": 193,
+		"name": "Foresight",
+		"type": "level",
+		"level": 9
+	},
+	{
+		"id": 418,
+		"name": "Bullet Punch",
+		"type": "level",
+		"level": 11
+	},
+	{
+		"id": 490,
+		"name": "Low Sweep",
+		"type": "level",
+		"level": 12
+	},
+	{
+		"id": 69,
+		"name": "Seismic Toss",
+		"type": "level",
+		"level": 12
+	},
+	{
+		"id": 282,
+		"name": "Knock Off",
+		"type": "level",
+		"level": 16
+	},
+	{
+		"id": 458,
+		"name": "Double Hit",
+		"type": "level",
+		"level": 18
+	},
+	{
+		"id": 279,
+		"name": "Revenge",
+		"type": "level",
+		"level": 19
+	},
+	{
+		"id": 184,
+		"name": "Scary Face",
+		"type": "level",
+		"level": 20
+	},
+	{
+		"id": 280,
+		"name": "Brick Break",
+		"type": "level",
+		"level": 21
+	},
+	{
+		"id": 183,
+		"name": "Mach Punch",
+		"type": "level",
+		"level": 22
+	},
+	{
+		"id": 233,
+		"name": "Vital Throw",
+		"type": "level",
+		"level": 24
+	},
+	{
+		"id": 66,
+		"name": "Submission",
+		"type": "level",
+		"level": 26
+	},
+	{
+		"id": 358,
+		"name": "Wake-Up Slap",
+		"type": "level",
+		"level": 27
+	},
+	{
+		"id": 70,
+		"name": "Strength",
+		"type": "level",
+		"level": 31
+	},
+	{
+		"id": 530,
+		"name": "Dual Chop",
+		"type": "level",
+		"level": 36
+	},
+	{
+		"id": 339,
+		"name": "Bulk Up",
+		"type": "level",
+		"level": 37
+	},
+	{
+		"id": 370,
+		"name": "Close Combat",
+		"type": "level",
+		"level": 43
+	},
+	{
+		"id": 276,
+		"name": "Superpower",
+		"type": "level",
+		"level": 48
+	},
+	{
+		"id": 223,
+		"name": "DynamicPunch",
+		"type": "level",
+		"level": 54
+	},
+	{
+		"id": 238,
+		"name": "Cross Chop",
+		"type": "level",
+		"level": 60
+	},
+	{
+		"id": 38,
+		"name": "Double-Edge",
+		"type": "level",
+		"level": 66
+	},
+	{
+		"id": 173,
+		"name": "Snore",
+		"type": "move_tutor"
+	},
+	{
+		"id": 272,
+		"name": "Role Play",
+		"type": "move_tutor"
+	},
+	{
+		"id": 282,
+		"name": "Knock Off",
+		"type": "move_tutor"
+	},
+	{
+		"id": 410,
+		"name": "Vacuum Wave",
+		"type": "move_tutor"
+	},
+	{
+		"id": 530,
+		"name": "Dual Chop",
+		"type": "move_tutor"
+	},
+	{
+		"id": 37,
+		"name": "Thrash",
+		"type": "special_moves"
+	},
+	{
+		"id": 5,
+		"name": "Mega Punch",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 7,
+		"name": "Fire Punch",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 8,
+		"name": "Ice Punch",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 9,
+		"name": "ThunderPunch",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 25,
+		"name": "Mega Kick",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 29,
+		"name": "Headbutt",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 34,
+		"name": "Body Slam",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 36,
+		"name": "Take Down",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 38,
+		"name": "Double-Edge",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 53,
+		"name": "Flamethrower",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 66,
+		"name": "Submission",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 67,
+		"name": "Low Kick",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 68,
+		"name": "Counter",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 69,
+		"name": "Seismic Toss",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 70,
+		"name": "Strength",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 89,
+		"name": "Earthquake",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 91,
+		"name": "Dig",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 92,
+		"name": "Toxic",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 99,
+		"name": "Rage",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 102,
+		"name": "Mimic",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 104,
+		"name": "Double Team",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 113,
+		"name": "Light Screen",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 116,
+		"name": "Focus Energy",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 117,
+		"name": "Bide",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 118,
+		"name": "Metronome",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 126,
+		"name": "Fire Blast",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 130,
+		"name": "Skull Bash",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 156,
+		"name": "Rest",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 157,
+		"name": "Rock Slide",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 164,
+		"name": "Substitute",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 168,
+		"name": "Thief",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 174,
+		"name": "Curse",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 179,
+		"name": "Reversal",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 182,
+		"name": "Protect",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 184,
+		"name": "Scary Face",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 189,
+		"name": "Mud-Slap",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 197,
+		"name": "Detect",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 203,
+		"name": "Endure",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 206,
+		"name": "False Swipe",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 207,
+		"name": "Swagger",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 213,
+		"name": "Attract",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 214,
+		"name": "Sleep Talk",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 216,
+		"name": "Return",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 218,
+		"name": "Frustration",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 223,
+		"name": "DynamicPunch",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 227,
+		"name": "Encore",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 237,
+		"name": "Hidden Power",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 240,
+		"name": "Rain Dance",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 241,
+		"name": "Sunny Day",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 249,
+		"name": "Rock Smash",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 263,
+		"name": "Facade",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 264,
+		"name": "Focus Punch",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 270,
+		"name": "Helping Hand",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 276,
+		"name": "Superpower",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 279,
+		"name": "Revenge",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 280,
+		"name": "Brick Break",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 290,
+		"name": "Secret Power",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 317,
+		"name": "Rock Tomb",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 339,
+		"name": "Bulk Up",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 363,
+		"name": "Natural Gift",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 370,
+		"name": "Close Combat",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 371,
+		"name": "Payback",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 374,
+		"name": "Fling",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 398,
+		"name": "Poison Jab",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 411,
+		"name": "Focus Blast",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 431,
+		"name": "Rock Climb",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 445,
+		"name": "Captivate",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 479,
+		"name": "Smack Down",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 484,
+		"name": "Heavy Slam",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 490,
+		"name": "Low Sweep",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 496,
+		"name": "Round",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 510,
+		"name": "Incinerate",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 514,
+		"name": "Retaliate",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 523,
+		"name": "Bulldoze",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 526,
+		"name": "Work Up",
+		"type": "move_learner_tools"
+	}
+],
+"types": [
+	"FIGHTING",
+	"FIGHTING"
+],
+"stats": {
+	"hp": 80,
+	"attack": 100,
+	"defense": 70,
+	"speed": 45,
+	"sp_attack": 50,
+	"sp_defense": 60
+},
+"yields": {
+	"exp": 142,
+	"ev_hp": 0,
+	"ev_attack": 2,
+	"ev_defense": 0,
+	"ev_speed": 0,
+	"ev_sp_attack": 0,
+	"ev_sp_defense": 0
+},
+"tiers": [
+	"Untiered"
+],
+"held_items": [
+	{
+		"id": 5230,
+		"name": "Focus Band"
+	}
+],
+"locations": [
+	{
+		"type": "Cave",
+		"region_id": 0,
+		"region_name": "Kanto",
+		"location": "CERULEAN CAVE",
+		"min_level": 54,
+		"max_level": 60,
+		"rarity": "Uncommon"
+	},
+	{
+		"type": "Cave",
+		"region_id": 0,
+		"region_name": "Kanto",
+		"location": "MT. EMBER",
+		"min_level": 38,
+		"max_level": 46,
+		"rarity": "Horde"
+	},
+	{
+		"type": "Cave",
+		"region_id": 0,
+		"region_name": "Kanto",
+		"location": "MT. EMBER",
+		"min_level": 40,
+		"max_level": 48,
+		"rarity": "Uncommon"
+	},
+	{
+		"type": "Cave",
+		"region_id": 0,
+		"region_name": "Kanto",
+		"location": "VICTORY ROAD",
+		"min_level": 42,
+		"max_level": 44,
+		"rarity": "Horde"
+	},
+	{
+		"type": "Cave",
+		"region_id": 0,
+		"region_name": "Kanto",
+		"location": "VICTORY ROAD",
+		"min_level": 44,
+		"max_level": 48,
+		"rarity": "Uncommon"
+	},
+	{
+		"type": "Grass",
+		"region_id": 3,
+		"region_name": "Sinnoh",
+		"location": "Acuity Lakefront",
+		"min_level": 35,
+		"max_level": 36,
+		"rarity": "Common"
+	},
+	{
+		"type": "Grass",
+		"region_id": 3,
+		"region_name": "Sinnoh",
+		"location": "Acuity Lakefront (Day/Morning/SEASON0)",
+		"min_level": 35,
+		"max_level": 36,
+		"rarity": "Uncommon"
+	},
+	{
+		"type": "Grass",
+		"region_id": 3,
+		"region_name": "Sinnoh",
+		"location": "Acuity Lakefront (Day/Morning/SEASON2)",
+		"min_level": 35,
+		"max_level": 36,
+		"rarity": "Uncommon"
+	},
+	{
+		"type": "Grass",
+		"region_id": 3,
+		"region_name": "Sinnoh",
+		"location": "Acuity Lakefront (Day/Morning/SEASON3)",
+		"min_level": 35,
+		"max_level": 36,
+		"rarity": "Uncommon"
+	},
+	{
+		"type": "Cave",
+		"region_id": 3,
+		"region_name": "Sinnoh",
+		"location": "Mt. Coronet",
+		"min_level": 35,
+		"max_level": 41,
+		"rarity": "Rare"
+	},
+	{
+		"type": "Cave",
+		"region_id": 3,
+		"region_name": "Sinnoh",
+		"location": "Mt. Coronet",
+		"min_level": 37,
+		"max_level": 37,
+		"rarity": "Horde"
+	},
+	{
+		"type": "Grass",
+		"region_id": 3,
+		"region_name": "Sinnoh",
+		"location": "Mt. Coronet",
+		"min_level": 39,
+		"max_level": 40,
+		"rarity": "Uncommon"
+	},
+	{
+		"type": "Grass",
+		"region_id": 3,
+		"region_name": "Sinnoh",
+		"location": "Mt. Coronet",
+		"min_level": 39,
+		"max_level": 40,
+		"rarity": "Common"
+	},
+	{
+		"type": "Grass",
+		"region_id": 3,
+		"region_name": "Sinnoh",
+		"location": "Mt. Coronet",
+		"min_level": 39,
+		"max_level": 40,
+		"rarity": "Uncommon"
+	},
+	{
+		"type": "Grass",
+		"region_id": 3,
+		"region_name": "Sinnoh",
+		"location": "Mt. Coronet",
+		"min_level": 39,
+		"max_level": 40,
+		"rarity": "Rare"
+	},
+	{
+		"type": "Grass",
+		"region_id": 3,
+		"region_name": "Sinnoh",
+		"location": "Route 210",
+		"min_level": 29,
+		"max_level": 30,
+		"rarity": "Rare"
+	},
+	{
+		"type": "Grass",
+		"region_id": 3,
+		"region_name": "Sinnoh",
+		"location": "Route 211",
+		"min_level": 28,
+		"max_level": 28,
+		"rarity": "Horde"
+	},
+	{
+		"type": "Grass",
+		"region_id": 3,
+		"region_name": "Sinnoh",
+		"location": "Route 211",
+		"min_level": 29,
+		"max_level": 30,
+		"rarity": "Rare"
+	},
+	{
+		"type": "Grass",
+		"region_id": 3,
+		"region_name": "Sinnoh",
+		"location": "Route 216",
+		"min_level": 32,
+		"max_level": 33,
+		"rarity": "Horde"
+	},
+	{
+		"type": "Grass",
+		"region_id": 3,
+		"region_name": "Sinnoh",
+		"location": "Route 216",
+		"min_level": 33,
+		"max_level": 34,
+		"rarity": "Uncommon"
+	},
+	{
+		"type": "Grass",
+		"region_id": 3,
+		"region_name": "Sinnoh",
+		"location": "Route 216",
+		"min_level": 33,
+		"max_level": 34,
+		"rarity": "Common"
+	},
+	{
+		"type": "Grass",
+		"region_id": 3,
+		"region_name": "Sinnoh",
+		"location": "Route 216",
+		"min_level": 33,
+		"max_level": 34,
+		"rarity": "Uncommon"
+	},
+	{
+		"type": "Grass",
+		"region_id": 3,
+		"region_name": "Sinnoh",
+		"location": "Route 216",
+		"min_level": 33,
+		"max_level": 34,
+		"rarity": "Rare"
+	},
+	{
+		"type": "Grass",
+		"region_id": 3,
+		"region_name": "Sinnoh",
+		"location": "Route 217",
+		"min_level": 35,
+		"max_level": 36,
+		"rarity": "Common"
+	},
+	{
+		"type": "Grass",
+		"region_id": 3,
+		"region_name": "Sinnoh",
+		"location": "Route 217 (Day/Morning/SEASON0)",
+		"min_level": 35,
+		"max_level": 36,
+		"rarity": "Uncommon"
+	},
+	{
+		"type": "Grass",
+		"region_id": 3,
+		"region_name": "Sinnoh",
+		"location": "Route 217 (Day/Morning/SEASON2)",
+		"min_level": 35,
+		"max_level": 36,
+		"rarity": "Uncommon"
+	},
+	{
+		"type": "Grass",
+		"region_id": 3,
+		"region_name": "Sinnoh",
+		"location": "Route 217 (Day/Morning/SEASON3)",
+		"min_level": 35,
+		"max_level": 36,
+		"rarity": "Rare"
+	},
+	{
+		"type": "Grass",
+		"region_id": 3,
+		"region_name": "Sinnoh",
+		"location": "Route 225",
+		"min_level": 51,
+		"max_level": 51,
+		"rarity": "Rare"
+	},
+	{
+		"type": "Grass",
+		"region_id": 3,
+		"region_name": "Sinnoh",
+		"location": "Route 225",
+		"min_level": 51,
+		"max_level": 51,
+		"rarity": "Rare"
+	},
+	{
+		"type": "Grass",
+		"region_id": 3,
+		"region_name": "Sinnoh",
+		"location": "Route 225",
+		"min_level": 51,
+		"max_level": 51,
+		"rarity": "Rare"
+	},
+	{
+		"type": "Grass",
+		"region_id": 3,
+		"region_name": "Sinnoh",
+		"location": "Route 225",
+		"min_level": 51,
+		"max_level": 51,
+		"rarity": "Uncommon"
+	},
+	{
+		"type": "Grass",
+		"region_id": 3,
+		"region_name": "Sinnoh",
+		"location": "Route 226",
+		"min_level": 53,
+		"max_level": 53,
+		"rarity": "Uncommon"
+	},
+	{
+		"type": "Cave",
+		"region_id": 3,
+		"region_name": "Sinnoh",
+		"location": "Stark Mountain",
+		"min_level": 56,
+		"max_level": 58,
+		"rarity": "Rare"
+	},
+	{
+		"type": "Cave",
+		"region_id": 3,
+		"region_name": "Sinnoh",
+		"location": "Victory Road",
+		"min_level": 44,
+		"max_level": 52,
+		"rarity": "Common"
+	},
+	{
+		"type": "Cave",
+		"region_id": 4,
+		"region_name": "Johto",
+		"location": "Cliff Cave",
+		"min_level": 28,
+		"max_level": 29,
+		"rarity": "Rare"
+	},
+	{
+		"type": "Cave",
+		"region_id": 4,
+		"region_name": "Johto",
+		"location": "Cliff Cave",
+		"min_level": 28,
+		"max_level": 28,
+		"rarity": "Horde"
+	},
+	{
+		"type": "Cave",
+		"region_id": 4,
+		"region_name": "Johto",
+		"location": "Mt. Mortar",
+		"min_level": 31,
+		"max_level": 32,
+		"rarity": "Horde"
+	},
+	{
+		"type": "Cave",
+		"region_id": 4,
+		"region_name": "Johto",
+		"location": "Mt. Mortar",
+		"min_level": 33,
+		"max_level": 36,
+		"rarity": "Rare"
+	},
+	{
+		"type": "Cave",
+		"region_id": 4,
+		"region_name": "Johto",
+		"location": "Mt. Silver Cave",
+		"min_level": 59,
+		"max_level": 63,
+		"rarity": "Horde"
+	},
+	{
+		"type": "Cave",
+		"region_id": 4,
+		"region_name": "Johto",
+		"location": "Mt. Silver Cave (Day/Morning)",
+		"min_level": 64,
+		"max_level": 66,
+		"rarity": "Uncommon"
+	},
+	{
+		"type": "Cave",
+		"region_id": 4,
+		"region_name": "Johto",
+		"location": "Safari Zone",
+		"min_level": 28,
+		"max_level": 31,
+		"rarity": "Very Rare"
+	}
+]
+}

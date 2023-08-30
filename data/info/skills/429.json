@@ -1,0 +1,12 @@
+{
+"id": 429,
+"name": "Mirror Shot",
+"skill_damage_type": "SPECIAL",
+"base_power": 65,
+"base_accuracy": 85,
+"base_pp": 10,
+"priority": 0,
+"type": "STEEL",
+"target_type": 0,
+"true_damage": false
+}

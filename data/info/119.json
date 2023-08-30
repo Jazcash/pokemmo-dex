@@ -1,0 +1,945 @@
+{
+"id": 119,
+"name": "Seaking",
+"exp_type": "MEDIUM_FAST",
+"obtainable": true,
+"gender_ratio": 127,
+"height": 13,
+"weight": 390,
+"egg_groups": [
+	"water b"
+],
+"abilities": [
+	{
+		"id": 33,
+		"name": "Swift Swim"
+	},
+	{
+		"id": 41,
+		"name": "Water Veil"
+	},
+	{
+		"id": 31,
+		"name": "Lightningrod"
+	}
+],
+"forms": [
+	{
+		"form_id": 0,
+		"id": 119,
+		"name": "Seaking"
+	}
+],
+"evolutions": [],
+"moves": [
+	{
+		"id": 39,
+		"name": "Tail Whip",
+		"type": "level",
+		"level": 1
+	},
+	{
+		"id": 48,
+		"name": "Supersonic",
+		"type": "level",
+		"level": 1
+	},
+	{
+		"id": 64,
+		"name": "Peck",
+		"type": "level",
+		"level": 1
+	},
+	{
+		"id": 98,
+		"name": "Quick Attack",
+		"type": "level",
+		"level": 1
+	},
+	{
+		"id": 224,
+		"name": "Megahorn",
+		"type": "level",
+		"level": 1
+	},
+	{
+		"id": 346,
+		"name": "Water Sport",
+		"type": "level",
+		"level": 1
+	},
+	{
+		"id": 352,
+		"name": "Water Pulse",
+		"type": "level",
+		"level": 1
+	},
+	{
+		"id": 398,
+		"name": "Poison Jab",
+		"type": "level",
+		"level": 1
+	},
+	{
+		"id": 130,
+		"name": "Skull Bash",
+		"type": "level",
+		"level": 1
+	},
+	{
+		"id": 60,
+		"name": "Psybeam",
+		"type": "level",
+		"level": 1
+	},
+	{
+		"id": 48,
+		"name": "Supersonic",
+		"type": "level",
+		"level": 4
+	},
+	{
+		"id": 98,
+		"name": "Quick Attack",
+		"type": "level",
+		"level": 10
+	},
+	{
+		"id": 30,
+		"name": "Horn Attack",
+		"type": "level",
+		"level": 14
+	},
+	{
+		"id": 352,
+		"name": "Water Pulse",
+		"type": "level",
+		"level": 16
+	},
+	{
+		"id": 97,
+		"name": "Agility",
+		"type": "level",
+		"level": 20
+	},
+	{
+		"id": 31,
+		"name": "Fury Attack",
+		"type": "level",
+		"level": 20
+	},
+	{
+		"id": 127,
+		"name": "Waterfall",
+		"type": "level",
+		"level": 24
+	},
+	{
+		"id": 392,
+		"name": "Aqua Ring",
+		"type": "level",
+		"level": 25
+	},
+	{
+		"id": 175,
+		"name": "Flail",
+		"type": "level",
+		"level": 30
+	},
+	{
+		"id": 32,
+		"name": "Horn Drill",
+		"type": "level",
+		"level": 39
+	},
+	{
+		"id": 487,
+		"name": "Soak",
+		"type": "level",
+		"level": 44
+	},
+	{
+		"id": 224,
+		"name": "Megahorn",
+		"type": "level",
+		"level": 50
+	},
+	{
+		"id": 173,
+		"name": "Snore",
+		"type": "move_tutor"
+	},
+	{
+		"id": 282,
+		"name": "Knock Off",
+		"type": "move_tutor"
+	},
+	{
+		"id": 324,
+		"name": "Signal Beam",
+		"type": "move_tutor"
+	},
+	{
+		"id": 340,
+		"name": "Bounce",
+		"type": "move_tutor"
+	},
+	{
+		"id": 401,
+		"name": "Aqua Tail",
+		"type": "move_tutor"
+	},
+	{
+		"id": 14,
+		"name": "Swords Dance",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 29,
+		"name": "Headbutt",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 32,
+		"name": "Horn Drill",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 34,
+		"name": "Body Slam",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 36,
+		"name": "Take Down",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 38,
+		"name": "Double-Edge",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 55,
+		"name": "Water Gun",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 56,
+		"name": "Hydro Pump",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 57,
+		"name": "Surf",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 58,
+		"name": "Ice Beam",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 59,
+		"name": "Blizzard",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 60,
+		"name": "Psybeam",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 61,
+		"name": "BubbleBeam",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 63,
+		"name": "Hyper Beam",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 92,
+		"name": "Toxic",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 97,
+		"name": "Agility",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 99,
+		"name": "Rage",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 102,
+		"name": "Mimic",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 104,
+		"name": "Double Team",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 117,
+		"name": "Bide",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 127,
+		"name": "Waterfall",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 129,
+		"name": "Swift",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 130,
+		"name": "Skull Bash",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 156,
+		"name": "Rest",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 164,
+		"name": "Substitute",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 174,
+		"name": "Curse",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 182,
+		"name": "Protect",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 189,
+		"name": "Mud-Slap",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 196,
+		"name": "Icy Wind",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 203,
+		"name": "Endure",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 207,
+		"name": "Swagger",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 210,
+		"name": "Fury Cutter",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 213,
+		"name": "Attract",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 214,
+		"name": "Sleep Talk",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 216,
+		"name": "Return",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 218,
+		"name": "Frustration",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 224,
+		"name": "Megahorn",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 237,
+		"name": "Hidden Power",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 240,
+		"name": "Rain Dance",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 250,
+		"name": "Whirlpool",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 258,
+		"name": "Snowscape",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 263,
+		"name": "Facade",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 290,
+		"name": "Secret Power",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 291,
+		"name": "Dive",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 330,
+		"name": "Muddy Water",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 341,
+		"name": "Mud Shot",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 352,
+		"name": "Water Pulse",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 363,
+		"name": "Natural Gift",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 398,
+		"name": "Poison Jab",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 416,
+		"name": "Giga Impact",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 445,
+		"name": "Captivate",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 496,
+		"name": "Round",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 503,
+		"name": "Scald",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 529,
+		"name": "Drill Run",
+		"type": "move_learner_tools"
+	}
+],
+"types": [
+	"WATER",
+	"WATER"
+],
+"stats": {
+	"hp": 80,
+	"attack": 92,
+	"defense": 65,
+	"speed": 68,
+	"sp_attack": 65,
+	"sp_defense": 80
+},
+"yields": {
+	"exp": 158,
+	"ev_hp": 0,
+	"ev_attack": 2,
+	"ev_defense": 0,
+	"ev_speed": 0,
+	"ev_sp_attack": 0,
+	"ev_sp_defense": 0
+},
+"tiers": [
+	"Untiered"
+],
+"held_items": [
+	{
+		"id": 5243,
+		"name": "Mystic Water"
+	}
+],
+"locations": [
+	{
+		"type": "Super Rod",
+		"region_id": 0,
+		"region_name": "Kanto",
+		"location": "BERRY FOREST",
+		"min_level": 33,
+		"max_level": 40,
+		"rarity": "Very Common"
+	},
+	{
+		"type": "Super Rod",
+		"region_id": 0,
+		"region_name": "Kanto",
+		"location": "CERULEAN CAVE",
+		"min_level": 33,
+		"max_level": 40,
+		"rarity": "Uncommon"
+	},
+	{
+		"type": "Water",
+		"region_id": 0,
+		"region_name": "Kanto",
+		"location": "CERULEAN CITY",
+		"min_level": 33,
+		"max_level": 35,
+		"rarity": "Uncommon"
+	},
+	{
+		"type": "Super Rod",
+		"region_id": 0,
+		"region_name": "Kanto",
+		"location": "CERULEAN CITY",
+		"min_level": 33,
+		"max_level": 40,
+		"rarity": "Uncommon"
+	},
+	{
+		"type": "Super Rod",
+		"region_id": 0,
+		"region_name": "Kanto",
+		"location": "FUCHSIA CITY",
+		"min_level": 33,
+		"max_level": 40,
+		"rarity": "Very Common"
+	},
+	{
+		"type": "Water",
+		"region_id": 0,
+		"region_name": "Kanto",
+		"location": "ROUTE 4",
+		"min_level": 33,
+		"max_level": 35,
+		"rarity": "Rare"
+	},
+	{
+		"type": "Super Rod",
+		"region_id": 0,
+		"region_name": "Kanto",
+		"location": "ROUTE 4",
+		"min_level": 33,
+		"max_level": 40,
+		"rarity": "Uncommon"
+	},
+	{
+		"type": "Water",
+		"region_id": 0,
+		"region_name": "Kanto",
+		"location": "ROUTE 10",
+		"min_level": 33,
+		"max_level": 35,
+		"rarity": "Uncommon"
+	},
+	{
+		"type": "Super Rod",
+		"region_id": 0,
+		"region_name": "Kanto",
+		"location": "ROUTE 10",
+		"min_level": 33,
+		"max_level": 40,
+		"rarity": "Rare"
+	},
+	{
+		"type": "Super Rod",
+		"region_id": 0,
+		"region_name": "Kanto",
+		"location": "ROUTE 23",
+		"min_level": 33,
+		"max_level": 40,
+		"rarity": "Rare"
+	},
+	{
+		"type": "Water",
+		"region_id": 0,
+		"region_name": "Kanto",
+		"location": "ROUTE 24",
+		"min_level": 33,
+		"max_level": 35,
+		"rarity": "Rare"
+	},
+	{
+		"type": "Super Rod",
+		"region_id": 0,
+		"region_name": "Kanto",
+		"location": "ROUTE 24",
+		"min_level": 33,
+		"max_level": 40,
+		"rarity": "Uncommon"
+	},
+	{
+		"type": "Water",
+		"region_id": 0,
+		"region_name": "Kanto",
+		"location": "ROUTE 25",
+		"min_level": 33,
+		"max_level": 35,
+		"rarity": "Uncommon"
+	},
+	{
+		"type": "Water",
+		"region_id": 0,
+		"region_name": "Kanto",
+		"location": "ROUTE 25",
+		"min_level": 33,
+		"max_level": 35,
+		"rarity": "Horde"
+	},
+	{
+		"type": "Super Rod",
+		"region_id": 0,
+		"region_name": "Kanto",
+		"location": "ROUTE 25",
+		"min_level": 33,
+		"max_level": 40,
+		"rarity": "Rare"
+	},
+	{
+		"type": "Super Rod",
+		"region_id": 0,
+		"region_name": "Kanto",
+		"location": "SAFARI ZONE",
+		"min_level": 33,
+		"max_level": 40,
+		"rarity": "Common"
+	},
+	{
+		"type": "Super Rod",
+		"region_id": 1,
+		"region_name": "Hoenn",
+		"location": "SAFARI ZONE",
+		"min_level": 33,
+		"max_level": 40,
+		"rarity": "Common"
+	},
+	{
+		"type": "Fishing",
+		"region_id": 2,
+		"region_name": "Unova",
+		"location": "Abundant Shrine",
+		"min_level": 60,
+		"max_level": 65,
+		"rarity": "Special"
+	},
+	{
+		"type": "Fishing",
+		"region_id": 2,
+		"region_name": "Unova",
+		"location": "Route 3",
+		"min_level": 55,
+		"max_level": 60,
+		"rarity": "Special"
+	},
+	{
+		"type": "Fishing",
+		"region_id": 2,
+		"region_name": "Unova",
+		"location": "Route 11",
+		"min_level": 55,
+		"max_level": 60,
+		"rarity": "Special"
+	},
+	{
+		"type": "Fishing",
+		"region_id": 2,
+		"region_name": "Unova",
+		"location": "Route 14",
+		"min_level": 55,
+		"max_level": 60,
+		"rarity": "Special"
+	},
+	{
+		"type": "Water",
+		"region_id": 2,
+		"region_name": "Unova",
+		"location": "Striaton City",
+		"min_level": 38,
+		"max_level": 38,
+		"rarity": "Lure"
+	},
+	{
+		"type": "Fishing",
+		"region_id": 2,
+		"region_name": "Unova",
+		"location": "Striaton City",
+		"min_level": 55,
+		"max_level": 60,
+		"rarity": "Special"
+	},
+	{
+		"type": "Super Rod",
+		"region_id": 3,
+		"region_name": "Sinnoh",
+		"location": "Celestic Town",
+		"min_level": 40,
+		"max_level": 55,
+		"rarity": "Rare"
+	},
+	{
+		"type": "Super Rod",
+		"region_id": 3,
+		"region_name": "Sinnoh",
+		"location": "Lake Acuity",
+		"min_level": 33,
+		"max_level": 55,
+		"rarity": "Very Common"
+	},
+	{
+		"type": "Super Rod",
+		"region_id": 3,
+		"region_name": "Sinnoh",
+		"location": "Lake Valor",
+		"min_level": 33,
+		"max_level": 55,
+		"rarity": "Very Common"
+	},
+	{
+		"type": "Good Rod",
+		"region_id": 3,
+		"region_name": "Sinnoh",
+		"location": "Lake Verity",
+		"min_level": 33,
+		"max_level": 35,
+		"rarity": "Rare"
+	},
+	{
+		"type": "Super Rod",
+		"region_id": 3,
+		"region_name": "Sinnoh",
+		"location": "Lake Verity",
+		"min_level": 33,
+		"max_level": 55,
+		"rarity": "Very Common"
+	},
+	{
+		"type": "Super Rod",
+		"region_id": 3,
+		"region_name": "Sinnoh",
+		"location": "Route 203",
+		"min_level": 33,
+		"max_level": 55,
+		"rarity": "Very Common"
+	},
+	{
+		"type": "Super Rod",
+		"region_id": 3,
+		"region_name": "Sinnoh",
+		"location": "Route 204",
+		"min_level": 33,
+		"max_level": 55,
+		"rarity": "Very Common"
+	},
+	{
+		"type": "Super Rod",
+		"region_id": 3,
+		"region_name": "Sinnoh",
+		"location": "Route 208",
+		"min_level": 33,
+		"max_level": 55,
+		"rarity": "Common"
+	},
+	{
+		"type": "Super Rod",
+		"region_id": 3,
+		"region_name": "Sinnoh",
+		"location": "Route 209",
+		"min_level": 33,
+		"max_level": 55,
+		"rarity": "Very Common"
+	},
+	{
+		"type": "Super Rod",
+		"region_id": 3,
+		"region_name": "Sinnoh",
+		"location": "Route 212",
+		"min_level": 33,
+		"max_level": 55,
+		"rarity": "Very Common"
+	},
+	{
+		"type": "Super Rod",
+		"region_id": 3,
+		"region_name": "Sinnoh",
+		"location": "Route 214",
+		"min_level": 33,
+		"max_level": 55,
+		"rarity": "Very Common"
+	},
+	{
+		"type": "Super Rod",
+		"region_id": 3,
+		"region_name": "Sinnoh",
+		"location": "Route 229",
+		"min_level": 33,
+		"max_level": 55,
+		"rarity": "Very Common"
+	},
+	{
+		"type": "Super Rod",
+		"region_id": 3,
+		"region_name": "Sinnoh",
+		"location": "Sendoff Spring",
+		"min_level": 33,
+		"max_level": 55,
+		"rarity": "Very Common"
+	},
+	{
+		"type": "Super Rod",
+		"region_id": 3,
+		"region_name": "Sinnoh",
+		"location": "Twinleaf Town",
+		"min_level": 33,
+		"max_level": 55,
+		"rarity": "Very Common"
+	},
+	{
+		"type": "Super Rod",
+		"region_id": 4,
+		"region_name": "Johto",
+		"location": "Dark Cave",
+		"min_level": 40,
+		"max_level": 40,
+		"rarity": "Uncommon"
+	},
+	{
+		"type": "Water",
+		"region_id": 4,
+		"region_name": "Johto",
+		"location": "Mt. Mortar",
+		"min_level": 34,
+		"max_level": 37,
+		"rarity": "Rare"
+	},
+	{
+		"type": "Super Rod",
+		"region_id": 4,
+		"region_name": "Johto",
+		"location": "Mt. Mortar",
+		"min_level": 40,
+		"max_level": 40,
+		"rarity": "Uncommon"
+	},
+	{
+		"type": "Water",
+		"region_id": 4,
+		"region_name": "Johto",
+		"location": "Mt. Silver Cave",
+		"min_level": 59,
+		"max_level": 63,
+		"rarity": "Horde"
+	},
+	{
+		"type": "Water",
+		"region_id": 4,
+		"region_name": "Johto",
+		"location": "Mt. Silver Cave",
+		"min_level": 63,
+		"max_level": 66,
+		"rarity": "Very Common"
+	},
+	{
+		"type": "Good Rod",
+		"region_id": 4,
+		"region_name": "Johto",
+		"location": "Mt. Silver Cave",
+		"min_level": 33,
+		"max_level": 33,
+		"rarity": "Common"
+	},
+	{
+		"type": "Super Rod",
+		"region_id": 4,
+		"region_name": "Johto",
+		"location": "Mt. Silver Cave",
+		"min_level": 40,
+		"max_level": 40,
+		"rarity": "Very Common"
+	},
+	{
+		"type": "Super Rod",
+		"region_id": 4,
+		"region_name": "Johto",
+		"location": "Route 42",
+		"min_level": 40,
+		"max_level": 40,
+		"rarity": "Uncommon"
+	},
+	{
+		"type": "Super Rod",
+		"region_id": 4,
+		"region_name": "Johto",
+		"location": "SLOWPOKE Well",
+		"min_level": 40,
+		"max_level": 40,
+		"rarity": "Uncommon"
+	},
+	{
+		"type": "Good Rod",
+		"region_id": 4,
+		"region_name": "Johto",
+		"location": "Safari Zone",
+		"min_level": 20,
+		"max_level": 20,
+		"rarity": "Rare"
+	},
+	{
+		"type": "Super Rod",
+		"region_id": 4,
+		"region_name": "Johto",
+		"location": "Safari Zone",
+		"min_level": 40,
+		"max_level": 40,
+		"rarity": "Common"
+	},
+	{
+		"type": "Super Rod",
+		"region_id": 4,
+		"region_name": "Johto",
+		"location": "Tohjo Falls",
+		"min_level": 40,
+		"max_level": 40,
+		"rarity": "Rare"
+	},
+	{
+		"type": "Super Rod",
+		"region_id": 4,
+		"region_name": "Johto",
+		"location": "Union Cave",
+		"min_level": 40,
+		"max_level": 40,
+		"rarity": "Uncommon"
+	}
+]
+}

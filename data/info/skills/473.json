@@ -1,0 +1,12 @@
+{
+"id": 473,
+"name": "Psyshock",
+"skill_damage_type": "SPECIAL",
+"base_power": 80,
+"base_accuracy": 100,
+"base_pp": 10,
+"priority": 0,
+"type": "PSYCHIC",
+"target_type": 0,
+"true_damage": false
+}

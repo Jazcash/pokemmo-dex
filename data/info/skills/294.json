@@ -1,0 +1,12 @@
+{
+"id": 294,
+"name": "Tail Glow",
+"skill_damage_type": "STATUS",
+"base_power": 0,
+"base_accuracy": 101,
+"base_pp": 20,
+"priority": 0,
+"type": "BUG",
+"target_type": 7,
+"true_damage": false
+}

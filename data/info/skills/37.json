@@ -1,0 +1,12 @@
+{
+"id": 37,
+"name": "Thrash",
+"skill_damage_type": "PHYSICAL",
+"base_power": 120,
+"base_accuracy": 100,
+"base_pp": 10,
+"priority": 0,
+"type": "NORMAL",
+"target_type": 9,
+"true_damage": false
+}

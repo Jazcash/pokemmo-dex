@@ -1,0 +1,12 @@
+{
+"id": 39,
+"name": "Tail Whip",
+"skill_damage_type": "STATUS",
+"base_power": 0,
+"base_accuracy": 100,
+"base_pp": 30,
+"priority": 0,
+"type": "NORMAL",
+"target_type": 5,
+"true_damage": false
+}

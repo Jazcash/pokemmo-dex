@@ -1,0 +1,12 @@
+{
+"id": 190,
+"name": "Octazooka",
+"skill_damage_type": "SPECIAL",
+"base_power": 65,
+"base_accuracy": 85,
+"base_pp": 10,
+"priority": 0,
+"type": "WATER",
+"target_type": 0,
+"true_damage": false
+}

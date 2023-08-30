@@ -1,0 +1,625 @@
+{
+"id": 471,
+"name": "Glaceon",
+"exp_type": "MEDIUM_FAST",
+"obtainable": true,
+"gender_ratio": 31,
+"height": 8,
+"weight": 259,
+"egg_groups": [
+	"field"
+],
+"abilities": [
+	{
+		"id": 81,
+		"name": "Snow Cloak"
+	},
+	{
+		"id": 81,
+		"name": "Snow Cloak"
+	},
+	{
+		"id": 115,
+		"name": "Ice Body"
+	}
+],
+"forms": [
+	{
+		"form_id": 0,
+		"id": 471,
+		"name": "Glaceon"
+	}
+],
+"evolutions": [],
+"moves": [
+	{
+		"id": 33,
+		"name": "Tackle",
+		"type": "level",
+		"level": 1
+	},
+	{
+		"id": 36,
+		"name": "Take Down",
+		"type": "level",
+		"level": 1
+	},
+	{
+		"id": 38,
+		"name": "Double-Edge",
+		"type": "level",
+		"level": 1
+	},
+	{
+		"id": 39,
+		"name": "Tail Whip",
+		"type": "level",
+		"level": 1
+	},
+	{
+		"id": 45,
+		"name": "Growl",
+		"type": "level",
+		"level": 1
+	},
+	{
+		"id": 129,
+		"name": "Swift",
+		"type": "level",
+		"level": 1
+	},
+	{
+		"id": 196,
+		"name": "Icy Wind",
+		"type": "level",
+		"level": 1
+	},
+	{
+		"id": 204,
+		"name": "Charm",
+		"type": "level",
+		"level": 1
+	},
+	{
+		"id": 226,
+		"name": "Baton Pass",
+		"type": "level",
+		"level": 1
+	},
+	{
+		"id": 270,
+		"name": "Helping Hand",
+		"type": "level",
+		"level": 1
+	},
+	{
+		"id": 343,
+		"name": "Covet",
+		"type": "level",
+		"level": 1
+	},
+	{
+		"id": 383,
+		"name": "Copycat",
+		"type": "level",
+		"level": 1
+	},
+	{
+		"id": 28,
+		"name": "Sand-Attack",
+		"type": "level",
+		"level": 5
+	},
+	{
+		"id": 196,
+		"name": "Icy Wind",
+		"type": "level",
+		"level": 9
+	},
+	{
+		"id": 98,
+		"name": "Quick Attack",
+		"type": "level",
+		"level": 10
+	},
+	{
+		"id": 129,
+		"name": "Swift",
+		"type": "level",
+		"level": 11
+	},
+	{
+		"id": 420,
+		"name": "Ice Shard",
+		"type": "level",
+		"level": 20
+	},
+	{
+		"id": 44,
+		"name": "Bite",
+		"type": "level",
+		"level": 25
+	},
+	{
+		"id": 102,
+		"name": "Mimic",
+		"type": "level",
+		"level": 25
+	},
+	{
+		"id": 58,
+		"name": "Ice Beam",
+		"type": "level",
+		"level": 25
+	},
+	{
+		"id": 112,
+		"name": "Barrier",
+		"type": "level",
+		"level": 29
+	},
+	{
+		"id": 423,
+		"name": "Ice Fang",
+		"type": "level",
+		"level": 30
+	},
+	{
+		"id": 347,
+		"name": "Calm Mind",
+		"type": "level",
+		"level": 34
+	},
+	{
+		"id": 258,
+		"name": "Snowscape",
+		"type": "level",
+		"level": 35
+	},
+	{
+		"id": 38,
+		"name": "Double-Edge",
+		"type": "level",
+		"level": 43
+	},
+	{
+		"id": 243,
+		"name": "Mirror Coat",
+		"type": "level",
+		"level": 45
+	},
+	{
+		"id": 59,
+		"name": "Blizzard",
+		"type": "level",
+		"level": 50
+	},
+	{
+		"id": 387,
+		"name": "Last Resort",
+		"type": "level",
+		"level": 55
+	},
+	{
+		"id": 173,
+		"name": "Snore",
+		"type": "move_tutor"
+	},
+	{
+		"id": 215,
+		"name": "Heal Bell",
+		"type": "move_tutor"
+	},
+	{
+		"id": 324,
+		"name": "Signal Beam",
+		"type": "move_tutor"
+	},
+	{
+		"id": 343,
+		"name": "Covet",
+		"type": "move_tutor"
+	},
+	{
+		"id": 387,
+		"name": "Last Resort",
+		"type": "move_tutor"
+	},
+	{
+		"id": 401,
+		"name": "Aqua Tail",
+		"type": "move_tutor"
+	},
+	{
+		"id": 47,
+		"name": "Sing",
+		"type": "special_moves"
+	},
+	{
+		"id": 74,
+		"name": "Growth",
+		"type": "special_moves"
+	},
+	{
+		"id": 24,
+		"name": "Double Kick",
+		"type": "prevo_moves"
+	},
+	{
+		"id": 116,
+		"name": "Focus Energy",
+		"type": "prevo_moves"
+	},
+	{
+		"id": 287,
+		"name": "Refresh",
+		"type": "prevo_moves"
+	},
+	{
+		"id": 376,
+		"name": "Trump Card",
+		"type": "prevo_moves"
+	},
+	{
+		"id": 6,
+		"name": "Pay Day",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 29,
+		"name": "Headbutt",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 34,
+		"name": "Body Slam",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 36,
+		"name": "Take Down",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 38,
+		"name": "Double-Edge",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 46,
+		"name": "Roar",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 58,
+		"name": "Ice Beam",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 59,
+		"name": "Blizzard",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 63,
+		"name": "Hyper Beam",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 70,
+		"name": "Strength",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 91,
+		"name": "Dig",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 92,
+		"name": "Toxic",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 99,
+		"name": "Rage",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 102,
+		"name": "Mimic",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 104,
+		"name": "Double Team",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 115,
+		"name": "Reflect",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 116,
+		"name": "Focus Energy",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 117,
+		"name": "Bide",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 129,
+		"name": "Swift",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 130,
+		"name": "Skull Bash",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 156,
+		"name": "Rest",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 164,
+		"name": "Substitute",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 174,
+		"name": "Curse",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 182,
+		"name": "Protect",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 189,
+		"name": "Mud-Slap",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 196,
+		"name": "Icy Wind",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 197,
+		"name": "Detect",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 203,
+		"name": "Endure",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 204,
+		"name": "Charm",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 207,
+		"name": "Swagger",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 213,
+		"name": "Attract",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 214,
+		"name": "Sleep Talk",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 216,
+		"name": "Return",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 218,
+		"name": "Frustration",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 226,
+		"name": "Baton Pass",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 231,
+		"name": "Iron Tail",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 237,
+		"name": "Hidden Power",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 240,
+		"name": "Rain Dance",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 241,
+		"name": "Sunny Day",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 247,
+		"name": "Shadow Ball",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 249,
+		"name": "Rock Smash",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 258,
+		"name": "Snowscape",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 263,
+		"name": "Facade",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 270,
+		"name": "Helping Hand",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 290,
+		"name": "Secret Power",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 304,
+		"name": "Hyper Voice",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 311,
+		"name": "Weather Ball",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 313,
+		"name": "Fake Tears",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 333,
+		"name": "Icicle Spear",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 341,
+		"name": "Mud Shot",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 347,
+		"name": "Calm Mind",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 352,
+		"name": "Water Pulse",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 363,
+		"name": "Natural Gift",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 416,
+		"name": "Giga Impact",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 419,
+		"name": "Avalanche",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 423,
+		"name": "Ice Fang",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 445,
+		"name": "Captivate",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 496,
+		"name": "Round",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 497,
+		"name": "Echoed Voice",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 500,
+		"name": "Stored Power",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 514,
+		"name": "Retaliate",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 524,
+		"name": "Frost Breath",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 526,
+		"name": "Work Up",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 181,
+		"name": "Powder Snow",
+		"type": "on_evolution"
+	},
+	{
+		"id": 196,
+		"name": "Icy Wind",
+		"type": "on_evolution"
+	}
+],
+"types": [
+	"ICE",
+	"ICE"
+],
+"stats": {
+	"hp": 65,
+	"attack": 60,
+	"defense": 110,
+	"speed": 65,
+	"sp_attack": 130,
+	"sp_defense": 95
+},
+"yields": {
+	"exp": 184,
+	"ev_hp": 0,
+	"ev_attack": 0,
+	"ev_defense": 0,
+	"ev_speed": 0,
+	"ev_sp_attack": 2,
+	"ev_sp_defense": 0
+},
+"tiers": [
+	"Untiered"
+],
+"held_items": [],
+"locations": [
+	{
+		"type": "Grass",
+		"region_id": 3,
+		"region_name": "Sinnoh",
+		"location": "Route 217",
+		"min_level": 40,
+		"max_level": 40,
+		"rarity": "Lure"
+	}
+]
+}

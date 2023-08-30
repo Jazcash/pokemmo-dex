@@ -1,0 +1,12 @@
+{
+"id": 549,
+"name": "Glaciate",
+"skill_damage_type": "SPECIAL",
+"base_power": 65,
+"base_accuracy": 95,
+"base_pp": 10,
+"priority": 0,
+"type": "ICE",
+"target_type": 5,
+"true_damage": false
+}

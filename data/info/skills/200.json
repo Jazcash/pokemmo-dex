@@ -1,0 +1,12 @@
+{
+"id": 200,
+"name": "Outrage",
+"skill_damage_type": "PHYSICAL",
+"base_power": 90,
+"base_accuracy": 100,
+"base_pp": 10,
+"priority": 0,
+"type": "DRAGON",
+"target_type": 9,
+"true_damage": false
+}

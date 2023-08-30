@@ -1,0 +1,12 @@
+{
+"id": 301,
+"name": "Ice Ball",
+"skill_damage_type": "PHYSICAL",
+"base_power": 30,
+"base_accuracy": 90,
+"base_pp": 20,
+"priority": 0,
+"type": "ICE",
+"target_type": 0,
+"true_damage": false
+}

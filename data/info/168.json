@@ -1,0 +1,584 @@
+{
+"id": 168,
+"name": "Ariados",
+"exp_type": "FAST",
+"obtainable": true,
+"gender_ratio": 127,
+"height": 11,
+"weight": 335,
+"egg_groups": [
+	"bug"
+],
+"abilities": [
+	{
+		"id": 68,
+		"name": "Swarm"
+	},
+	{
+		"id": 15,
+		"name": "Insomnia"
+	},
+	{
+		"id": 97,
+		"name": "Sniper"
+	}
+],
+"forms": [
+	{
+		"form_id": 0,
+		"id": 168,
+		"name": "Ariados"
+	}
+],
+"evolutions": [],
+"moves": [
+	{
+		"id": 14,
+		"name": "Swords Dance",
+		"type": "level",
+		"level": 1
+	},
+	{
+		"id": 40,
+		"name": "Poison Sting",
+		"type": "level",
+		"level": 1
+	},
+	{
+		"id": 71,
+		"name": "Absorb",
+		"type": "level",
+		"level": 1
+	},
+	{
+		"id": 81,
+		"name": "String Shot",
+		"type": "level",
+		"level": 1
+	},
+	{
+		"id": 116,
+		"name": "Focus Energy",
+		"type": "level",
+		"level": 1
+	},
+	{
+		"id": 132,
+		"name": "Constrict",
+		"type": "level",
+		"level": 1
+	},
+	{
+		"id": 450,
+		"name": "Bug Bite",
+		"type": "level",
+		"level": 1
+	},
+	{
+		"id": 71,
+		"name": "Absorb",
+		"type": "level",
+		"level": 5
+	},
+	{
+		"id": 184,
+		"name": "Scary Face",
+		"type": "level",
+		"level": 12
+	},
+	{
+		"id": 101,
+		"name": "Night Shade",
+		"type": "level",
+		"level": 15
+	},
+	{
+		"id": 425,
+		"name": "Shadow Sneak",
+		"type": "level",
+		"level": 19
+	},
+	{
+		"id": 154,
+		"name": "Fury Swipes",
+		"type": "level",
+		"level": 23
+	},
+	{
+		"id": 389,
+		"name": "Sucker Punch",
+		"type": "level",
+		"level": 28
+	},
+	{
+		"id": 169,
+		"name": "Spider Web",
+		"type": "level",
+		"level": 32
+	},
+	{
+		"id": 141,
+		"name": "Leech Life",
+		"type": "level",
+		"level": 32
+	},
+	{
+		"id": 97,
+		"name": "Agility",
+		"type": "level",
+		"level": 37
+	},
+	{
+		"id": 42,
+		"name": "Pin Missile",
+		"type": "level",
+		"level": 41
+	},
+	{
+		"id": 94,
+		"name": "Psychic",
+		"type": "level",
+		"level": 46
+	},
+	{
+		"id": 398,
+		"name": "Poison Jab",
+		"type": "level",
+		"level": 50
+	},
+	{
+		"id": 103,
+		"name": "Screech",
+		"type": "level",
+		"level": 53
+	},
+	{
+		"id": 440,
+		"name": "Cross Poison",
+		"type": "level",
+		"level": 55
+	},
+	{
+		"id": 81,
+		"name": "String Shot",
+		"type": "move_tutor"
+	},
+	{
+		"id": 173,
+		"name": "Snore",
+		"type": "move_tutor"
+	},
+	{
+		"id": 324,
+		"name": "Signal Beam",
+		"type": "move_tutor"
+	},
+	{
+		"id": 340,
+		"name": "Bounce",
+		"type": "move_tutor"
+	},
+	{
+		"id": 389,
+		"name": "Sucker Punch",
+		"type": "move_tutor"
+	},
+	{
+		"id": 450,
+		"name": "Bug Bite",
+		"type": "move_tutor"
+	},
+	{
+		"id": 527,
+		"name": "Electroweb",
+		"type": "move_tutor"
+	},
+	{
+		"id": 74,
+		"name": "Growth",
+		"type": "special_moves"
+	},
+	{
+		"id": 287,
+		"name": "Refresh",
+		"type": "special_moves"
+	},
+	{
+		"id": 14,
+		"name": "Swords Dance",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 34,
+		"name": "Body Slam",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 38,
+		"name": "Double-Edge",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 42,
+		"name": "Pin Missile",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 60,
+		"name": "Psybeam",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 63,
+		"name": "Hyper Beam",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 76,
+		"name": "SolarBeam",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 91,
+		"name": "Dig",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 92,
+		"name": "Toxic",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 94,
+		"name": "Psychic",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 97,
+		"name": "Agility",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 101,
+		"name": "Night Shade",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 102,
+		"name": "Mimic",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 103,
+		"name": "Screech",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 104,
+		"name": "Double Team",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 116,
+		"name": "Focus Energy",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 141,
+		"name": "Leech Life",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 148,
+		"name": "Flash",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 156,
+		"name": "Rest",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 164,
+		"name": "Substitute",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 168,
+		"name": "Thief",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 174,
+		"name": "Curse",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 182,
+		"name": "Protect",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 184,
+		"name": "Scary Face",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 188,
+		"name": "Sludge Bomb",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 202,
+		"name": "Giga Drain",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 203,
+		"name": "Endure",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 207,
+		"name": "Swagger",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 213,
+		"name": "Attract",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 214,
+		"name": "Sleep Talk",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 216,
+		"name": "Return",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 218,
+		"name": "Frustration",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 224,
+		"name": "Megahorn",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 226,
+		"name": "Baton Pass",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 237,
+		"name": "Hidden Power",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 241,
+		"name": "Sunny Day",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 263,
+		"name": "Facade",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 290,
+		"name": "Secret Power",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 363,
+		"name": "Natural Gift",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 390,
+		"name": "Toxic Spikes",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 398,
+		"name": "Poison Jab",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 404,
+		"name": "X-Scissor",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 405,
+		"name": "Bug Buzz",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 416,
+		"name": "Giga Impact",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 440,
+		"name": "Cross Poison",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 445,
+		"name": "Captivate",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 468,
+		"name": "Hone Claws",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 474,
+		"name": "Venoshock",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 492,
+		"name": "Foul Play",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 496,
+		"name": "Round",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 522,
+		"name": "Struggle Bug",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 14,
+		"name": "Swords Dance",
+		"type": "on_evolution"
+	}
+],
+"types": [
+	"BUG",
+	"POISON"
+],
+"stats": {
+	"hp": 70,
+	"attack": 90,
+	"defense": 70,
+	"speed": 40,
+	"sp_attack": 60,
+	"sp_defense": 70
+},
+"yields": {
+	"exp": 137,
+	"ev_hp": 0,
+	"ev_attack": 2,
+	"ev_defense": 0,
+	"ev_speed": 0,
+	"ev_sp_attack": 0,
+	"ev_sp_defense": 0
+},
+"tiers": [
+	"Untiered"
+],
+"held_items": [],
+"locations": [
+	{
+		"type": "Grass",
+		"region_id": 0,
+		"region_name": "Kanto",
+		"location": "PATTERN BUSH (Night)",
+		"min_level": 50,
+		"max_level": 52,
+		"rarity": "Uncommon"
+	},
+	{
+		"type": "Cave",
+		"region_id": 1,
+		"region_name": "Hoenn",
+		"location": "SKY PILLAR (Night)",
+		"min_level": 35,
+		"max_level": 37,
+		"rarity": "Horde"
+	},
+	{
+		"type": "Cave",
+		"region_id": 1,
+		"region_name": "Hoenn",
+		"location": "SKY PILLAR (Night)",
+		"min_level": 37,
+		"max_level": 38,
+		"rarity": "Uncommon"
+	},
+	{
+		"type": "Dark Grass",
+		"region_id": 2,
+		"region_name": "Unova",
+		"location": "Dreamyard (Night)",
+		"min_level": 49,
+		"max_level": 49,
+		"rarity": "Uncommon"
+	},
+	{
+		"type": "Grass",
+		"region_id": 3,
+		"region_name": "Sinnoh",
+		"location": "Route 229 (Night)",
+		"min_level": 51,
+		"max_level": 52,
+		"rarity": "Uncommon"
+	},
+	{
+		"type": "Grass",
+		"region_id": 4,
+		"region_name": "Johto",
+		"location": "Route 37 (Night)",
+		"min_level": 22,
+		"max_level": 22,
+		"rarity": "Rare"
+	},
+	{
+		"type": "Headbutt",
+		"region_id": 4,
+		"region_name": "Johto",
+		"location": "Route 47",
+		"min_level": 27,
+		"max_level": 30,
+		"rarity": "Very Common"
+	},
+	{
+		"type": "Headbutt",
+		"region_id": 4,
+		"region_name": "Johto",
+		"location": "Route 48",
+		"min_level": 27,
+		"max_level": 30,
+		"rarity": "Very Common"
+	},
+	{
+		"type": "Headbutt",
+		"region_id": 4,
+		"region_name": "Johto",
+		"location": "Safari Zone",
+		"min_level": 28,
+		"max_level": 31,
+		"rarity": "Rare"
+	},
+	{
+		"type": "Headbutt",
+		"region_id": 4,
+		"region_name": "Johto",
+		"location": "Safari Zone Gate",
+		"min_level": 27,
+		"max_level": 30,
+		"rarity": "Common"
+	}
+]
+}

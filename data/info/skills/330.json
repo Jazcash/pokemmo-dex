@@ -1,0 +1,12 @@
+{
+"id": 330,
+"name": "Muddy Water",
+"skill_damage_type": "SPECIAL",
+"base_power": 90,
+"base_accuracy": 85,
+"base_pp": 10,
+"priority": 0,
+"type": "WATER",
+"target_type": 5,
+"true_damage": false
+}

@@ -1,0 +1,12 @@
+{
+"id": 120,
+"name": "Selfdestruct",
+"skill_damage_type": "PHYSICAL",
+"base_power": 200,
+"base_accuracy": 100,
+"base_pp": 5,
+"priority": 0,
+"type": "NORMAL",
+"target_type": 4,
+"true_damage": false
+}

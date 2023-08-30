@@ -1,0 +1,12 @@
+{
+"id": 329,
+"name": "Sheer Cold",
+"skill_damage_type": "SPECIAL",
+"base_power": 1,
+"base_accuracy": 30,
+"base_pp": 5,
+"priority": 0,
+"type": "ICE",
+"target_type": 0,
+"true_damage": true
+}

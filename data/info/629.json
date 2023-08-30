@@ -1,0 +1,590 @@
+{
+"id": 629,
+"name": "Vullaby",
+"exp_type": "SLOW",
+"obtainable": true,
+"gender_ratio": 254,
+"height": 5,
+"weight": 90,
+"egg_groups": [
+	"flying"
+],
+"abilities": [
+	{
+		"id": 145,
+		"name": "Big Pecks"
+	},
+	{
+		"id": 142,
+		"name": "Overcoat"
+	},
+	{
+		"id": 133,
+		"name": "Weak Armor"
+	}
+],
+"forms": [
+	{
+		"form_id": 0,
+		"id": 629,
+		"name": "Vullaby"
+	}
+],
+"evolutions": [
+	{
+		"id": 630,
+		"name": "Mandibuzz",
+		"type": "LEVEL",
+		"val": 54
+	}
+],
+"moves": [
+	{
+		"id": 16,
+		"name": "Gust",
+		"type": "level",
+		"level": 1
+	},
+	{
+		"id": 43,
+		"name": "Leer",
+		"type": "level",
+		"level": 1
+	},
+	{
+		"id": 31,
+		"name": "Fury Attack",
+		"type": "level",
+		"level": 5
+	},
+	{
+		"id": 260,
+		"name": "Flatter",
+		"type": "level",
+		"level": 6
+	},
+	{
+		"id": 365,
+		"name": "Pluck",
+		"type": "level",
+		"level": 12
+	},
+	{
+		"id": 366,
+		"name": "Tailwind",
+		"type": "level",
+		"level": 18
+	},
+	{
+		"id": 185,
+		"name": "Faint Attack",
+		"type": "level",
+		"level": 23
+	},
+	{
+		"id": 282,
+		"name": "Knock Off",
+		"type": "level",
+		"level": 24
+	},
+	{
+		"id": 386,
+		"name": "Punishment",
+		"type": "level",
+		"level": 28
+	},
+	{
+		"id": 334,
+		"name": "Iron Defense",
+		"type": "level",
+		"level": 30
+	},
+	{
+		"id": 18,
+		"name": "Whirlwind",
+		"type": "level",
+		"level": 36
+	},
+	{
+		"id": 403,
+		"name": "Air Slash",
+		"type": "level",
+		"level": 42
+	},
+	{
+		"id": 399,
+		"name": "Dark Pulse",
+		"type": "level",
+		"level": 48
+	},
+	{
+		"id": 373,
+		"name": "Embargo",
+		"type": "level",
+		"level": 50
+	},
+	{
+		"id": 417,
+		"name": "Nasty Plot",
+		"type": "level",
+		"level": 54
+	},
+	{
+		"id": 432,
+		"name": "Defog",
+		"type": "level",
+		"level": 60
+	},
+	{
+		"id": 119,
+		"name": "Mirror Move",
+		"type": "level",
+		"level": 64
+	},
+	{
+		"id": 213,
+		"name": "Attract",
+		"type": "level",
+		"level": 66
+	},
+	{
+		"id": 413,
+		"name": "Brave Bird",
+		"type": "level",
+		"level": 72
+	},
+	{
+		"id": 212,
+		"name": "Mean Look",
+		"type": "egg_moves"
+	},
+	{
+		"id": 173,
+		"name": "Snore",
+		"type": "move_tutor"
+	},
+	{
+		"id": 185,
+		"name": "Faint Attack",
+		"type": "move_tutor"
+	},
+	{
+		"id": 282,
+		"name": "Knock Off",
+		"type": "move_tutor"
+	},
+	{
+		"id": 335,
+		"name": "Block",
+		"type": "move_tutor"
+	},
+	{
+		"id": 15,
+		"name": "Cut",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 18,
+		"name": "Whirlwind",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 19,
+		"name": "Fly",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 92,
+		"name": "Toxic",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 104,
+		"name": "Double Team",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 129,
+		"name": "Swift",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 156,
+		"name": "Rest",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 164,
+		"name": "Substitute",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 168,
+		"name": "Thief",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 182,
+		"name": "Protect",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 184,
+		"name": "Scary Face",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 203,
+		"name": "Endure",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 207,
+		"name": "Swagger",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 211,
+		"name": "Steel Wing",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 213,
+		"name": "Attract",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 214,
+		"name": "Sleep Talk",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 216,
+		"name": "Return",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 218,
+		"name": "Frustration",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 237,
+		"name": "Hidden Power",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 240,
+		"name": "Rain Dance",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 241,
+		"name": "Sunny Day",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 244,
+		"name": "Psych Up",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 247,
+		"name": "Shadow Ball",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 249,
+		"name": "Rock Smash",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 257,
+		"name": "Heat Wave",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 259,
+		"name": "Torment",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 263,
+		"name": "Facade",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 269,
+		"name": "Taunt",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 289,
+		"name": "Snatch",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 290,
+		"name": "Secret Power",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 313,
+		"name": "Fake Tears",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 317,
+		"name": "Rock Tomb",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 332,
+		"name": "Aerial Ace",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 334,
+		"name": "Iron Defense",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 355,
+		"name": "Roost",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 365,
+		"name": "Pluck",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 366,
+		"name": "Tailwind",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 369,
+		"name": "U-turn",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 371,
+		"name": "Payback",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 372,
+		"name": "Assurance",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 373,
+		"name": "Embargo",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 399,
+		"name": "Dark Pulse",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 403,
+		"name": "Air Slash",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 413,
+		"name": "Brave Bird",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 417,
+		"name": "Nasty Plot",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 432,
+		"name": "Defog",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 492,
+		"name": "Foul Play",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 496,
+		"name": "Round",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 510,
+		"name": "Incinerate",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 514,
+		"name": "Retaliate",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 555,
+		"name": "Snarl",
+		"type": "move_learner_tools"
+	}
+],
+"types": [
+	"DARK",
+	"FLYING"
+],
+"stats": {
+	"hp": 70,
+	"attack": 55,
+	"defense": 75,
+	"speed": 60,
+	"sp_attack": 45,
+	"sp_defense": 65
+},
+"yields": {
+	"exp": 74,
+	"ev_hp": 0,
+	"ev_attack": 0,
+	"ev_defense": 1,
+	"ev_speed": 0,
+	"ev_sp_attack": 0,
+	"ev_sp_defense": 0
+},
+"tiers": [
+	"Untiered"
+],
+"held_items": [],
+"locations": [
+	{
+		"type": "Shadow",
+		"region_id": 2,
+		"region_name": "Unova",
+		"location": "Desert Resort",
+		"min_level": 22,
+		"max_level": 24,
+		"rarity": "Special"
+	},
+	{
+		"type": "Shadow",
+		"region_id": 2,
+		"region_name": "Unova",
+		"location": "Dreamyard",
+		"min_level": 6,
+		"max_level": 7,
+		"rarity": "Special"
+	},
+	{
+		"type": "Shadow",
+		"region_id": 2,
+		"region_name": "Unova",
+		"location": "Pinwheel Forest",
+		"min_level": 13,
+		"max_level": 15,
+		"rarity": "Special"
+	},
+	{
+		"type": "Shadow",
+		"region_id": 2,
+		"region_name": "Unova",
+		"location": "Route 1",
+		"min_level": 34,
+		"max_level": 38,
+		"rarity": "Special"
+	},
+	{
+		"type": "Shadow",
+		"region_id": 2,
+		"region_name": "Unova",
+		"location": "Route 2",
+		"min_level": 6,
+		"max_level": 7,
+		"rarity": "Special"
+	},
+	{
+		"type": "Shadow",
+		"region_id": 2,
+		"region_name": "Unova",
+		"location": "Route 4",
+		"min_level": 19,
+		"max_level": 21,
+		"rarity": "Special"
+	},
+	{
+		"type": "Grass",
+		"region_id": 2,
+		"region_name": "Unova",
+		"location": "Route 10",
+		"min_level": 34,
+		"max_level": 36,
+		"rarity": "Uncommon"
+	},
+	{
+		"type": "Dark Grass",
+		"region_id": 2,
+		"region_name": "Unova",
+		"location": "Route 10",
+		"min_level": 39,
+		"max_level": 41,
+		"rarity": "Uncommon"
+	},
+	{
+		"type": "Grass",
+		"region_id": 2,
+		"region_name": "Unova",
+		"location": "Route 11",
+		"min_level": 48,
+		"max_level": 50,
+		"rarity": "Uncommon"
+	},
+	{
+		"type": "Shadow",
+		"region_id": 2,
+		"region_name": "Unova",
+		"location": "Route 18",
+		"min_level": 36,
+		"max_level": 38,
+		"rarity": "Special"
+	},
+	{
+		"type": "Grass",
+		"region_id": 2,
+		"region_name": "Unova",
+		"location": "Victory Road",
+		"min_level": 37,
+		"max_level": 40,
+		"rarity": "Common"
+	},
+	{
+		"type": "Grass",
+		"region_id": 2,
+		"region_name": "Unova",
+		"location": "Village Bridge",
+		"min_level": 45,
+		"max_level": 47,
+		"rarity": "Horde"
+	},
+	{
+		"type": "Grass",
+		"region_id": 2,
+		"region_name": "Unova",
+		"location": "Village Bridge",
+		"min_level": 48,
+		"max_level": 50,
+		"rarity": "Common"
+	},
+	{
+		"type": "Dark Grass",
+		"region_id": 2,
+		"region_name": "Unova",
+		"location": "Village Bridge",
+		"min_level": 53,
+		"max_level": 55,
+		"rarity": "Common"
+	}
+]
+}

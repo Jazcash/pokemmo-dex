@@ -1,0 +1,12 @@
+{
+"id": 68,
+"name": "Counter",
+"skill_damage_type": "PHYSICAL",
+"base_power": 1,
+"base_accuracy": 100,
+"base_pp": 20,
+"priority": -5,
+"type": "FIGHTING",
+"target_type": 13,
+"true_damage": true
+}

@@ -1,0 +1,12 @@
+{
+"id": 78,
+"name": "Stun Spore",
+"skill_damage_type": "STATUS",
+"base_power": 0,
+"base_accuracy": 75,
+"base_pp": 30,
+"priority": 0,
+"type": "GRASS",
+"target_type": 0,
+"true_damage": false
+}

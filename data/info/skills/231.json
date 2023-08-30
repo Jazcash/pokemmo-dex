@@ -1,0 +1,12 @@
+{
+"id": 231,
+"name": "Iron Tail",
+"skill_damage_type": "PHYSICAL",
+"base_power": 100,
+"base_accuracy": 75,
+"base_pp": 15,
+"priority": 0,
+"type": "STEEL",
+"target_type": 0,
+"true_damage": false
+}

@@ -1,0 +1,12 @@
+{
+"id": 377,
+"name": "Heal Block",
+"skill_damage_type": "STATUS",
+"base_power": 0,
+"base_accuracy": 100,
+"base_pp": 15,
+"priority": 0,
+"type": "PSYCHIC",
+"target_type": 5,
+"true_damage": false
+}

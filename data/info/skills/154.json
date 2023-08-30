@@ -1,0 +1,12 @@
+{
+"id": 154,
+"name": "Fury Swipes",
+"skill_damage_type": "PHYSICAL",
+"base_power": 18,
+"base_accuracy": 80,
+"base_pp": 15,
+"priority": 0,
+"type": "NORMAL",
+"target_type": 0,
+"true_damage": false
+}

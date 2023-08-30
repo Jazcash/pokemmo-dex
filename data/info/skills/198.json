@@ -1,0 +1,12 @@
+{
+"id": 198,
+"name": "Bone Rush",
+"skill_damage_type": "PHYSICAL",
+"base_power": 25,
+"base_accuracy": 90,
+"base_pp": 10,
+"priority": 0,
+"type": "GROUND",
+"target_type": 0,
+"true_damage": false
+}

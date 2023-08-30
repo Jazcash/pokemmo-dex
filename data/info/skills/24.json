@@ -1,0 +1,12 @@
+{
+"id": 24,
+"name": "Double Kick",
+"skill_damage_type": "PHYSICAL",
+"base_power": 30,
+"base_accuracy": 100,
+"base_pp": 30,
+"priority": 0,
+"type": "FIGHTING",
+"target_type": 0,
+"true_damage": false
+}

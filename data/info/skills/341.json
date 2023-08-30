@@ -1,0 +1,12 @@
+{
+"id": 341,
+"name": "Mud Shot",
+"skill_damage_type": "SPECIAL",
+"base_power": 55,
+"base_accuracy": 95,
+"base_pp": 15,
+"priority": 0,
+"type": "GROUND",
+"target_type": 0,
+"true_damage": false
+}

@@ -1,0 +1,12 @@
+{
+"id": 101,
+"name": "Night Shade",
+"skill_damage_type": "SPECIAL",
+"base_power": 1,
+"base_accuracy": 100,
+"base_pp": 15,
+"priority": 0,
+"type": "GHOST",
+"target_type": 0,
+"true_damage": true
+}

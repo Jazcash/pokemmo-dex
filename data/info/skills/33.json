@@ -1,0 +1,12 @@
+{
+"id": 33,
+"name": "Tackle",
+"skill_damage_type": "PHYSICAL",
+"base_power": 40,
+"base_accuracy": 100,
+"base_pp": 35,
+"priority": 0,
+"type": "NORMAL",
+"target_type": 0,
+"true_damage": false
+}

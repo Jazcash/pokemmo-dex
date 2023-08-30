@@ -1,0 +1,238 @@
+{
+"id": 202,
+"name": "Wobbuffet",
+"exp_type": "MEDIUM_FAST",
+"obtainable": true,
+"gender_ratio": 127,
+"height": 13,
+"weight": 285,
+"egg_groups": [
+	"chaos"
+],
+"abilities": [
+	{
+		"id": 23,
+		"name": "Shadow Tag"
+	},
+	{
+		"id": 0,
+		"name": "--"
+	},
+	{
+		"id": 140,
+		"name": "Telepathy"
+	}
+],
+"forms": [
+	{
+		"form_id": 0,
+		"id": 202,
+		"name": "Wobbuffet"
+	}
+],
+"evolutions": [],
+"moves": [
+	{
+		"id": 68,
+		"name": "Counter",
+		"type": "level",
+		"level": 1
+	},
+	{
+		"id": 133,
+		"name": "Amnesia",
+		"type": "level",
+		"level": 1
+	},
+	{
+		"id": 150,
+		"name": "Splash",
+		"type": "level",
+		"level": 1
+	},
+	{
+		"id": 194,
+		"name": "Destiny Bond",
+		"type": "level",
+		"level": 1
+	},
+	{
+		"id": 204,
+		"name": "Charm",
+		"type": "level",
+		"level": 1
+	},
+	{
+		"id": 219,
+		"name": "Safeguard",
+		"type": "level",
+		"level": 1
+	},
+	{
+		"id": 227,
+		"name": "Encore",
+		"type": "level",
+		"level": 1
+	},
+	{
+		"id": 243,
+		"name": "Mirror Coat",
+		"type": "level",
+		"level": 1
+	},
+	{
+		"id": 321,
+		"name": "Tickle",
+		"type": "special_moves"
+	},
+	{
+		"id": 68,
+		"name": "Counter",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 102,
+		"name": "Mimic",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 133,
+		"name": "Amnesia",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 204,
+		"name": "Charm",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 219,
+		"name": "Safeguard",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 227,
+		"name": "Encore",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 68,
+		"name": "Counter",
+		"type": "on_evolution"
+	},
+	{
+		"id": 194,
+		"name": "Destiny Bond",
+		"type": "on_evolution"
+	},
+	{
+		"id": 219,
+		"name": "Safeguard",
+		"type": "on_evolution"
+	},
+	{
+		"id": 243,
+		"name": "Mirror Coat",
+		"type": "on_evolution"
+	}
+],
+"types": [
+	"PSYCHIC",
+	"PSYCHIC"
+],
+"stats": {
+	"hp": 190,
+	"attack": 33,
+	"defense": 58,
+	"speed": 33,
+	"sp_attack": 33,
+	"sp_defense": 58
+},
+"yields": {
+	"exp": 142,
+	"ev_hp": 2,
+	"ev_attack": 0,
+	"ev_defense": 0,
+	"ev_speed": 0,
+	"ev_sp_attack": 0,
+	"ev_sp_defense": 0
+},
+"tiers": [
+	"Untiered"
+],
+"held_items": [],
+"locations": [
+	{
+		"type": "Cave",
+		"region_id": 0,
+		"region_name": "Kanto",
+		"location": "CERULEAN CAVE",
+		"min_level": 52,
+		"max_level": 54,
+		"rarity": "Horde"
+	},
+	{
+		"type": "Cave",
+		"region_id": 0,
+		"region_name": "Kanto",
+		"location": "CERULEAN CAVE",
+		"min_level": 54,
+		"max_level": 60,
+		"rarity": "Rare"
+	},
+	{
+		"type": "Grass",
+		"region_id": 0,
+		"region_name": "Kanto",
+		"location": "RUIN VALLEY",
+		"min_level": 50,
+		"max_level": 52,
+		"rarity": "Rare"
+	},
+	{
+		"type": "Cave",
+		"region_id": 1,
+		"region_name": "Hoenn",
+		"location": "ARTISAN CAVE",
+		"min_level": 53,
+		"max_level": 53,
+		"rarity": "Lure"
+	},
+	{
+		"type": "Grass",
+		"region_id": 1,
+		"region_name": "Hoenn",
+		"location": "SAFARI ZONE",
+		"min_level": 28,
+		"max_level": 30,
+		"rarity": "Very Rare"
+	},
+	{
+		"type": "Cave",
+		"region_id": 4,
+		"region_name": "Johto",
+		"location": "Dark Cave",
+		"min_level": 19,
+		"max_level": 22,
+		"rarity": "Horde"
+	},
+	{
+		"type": "Cave",
+		"region_id": 4,
+		"region_name": "Johto",
+		"location": "Dark Cave",
+		"min_level": 22,
+		"max_level": 25,
+		"rarity": "Uncommon"
+	},
+	{
+		"type": "Cave",
+		"region_id": 4,
+		"region_name": "Johto",
+		"location": "Safari Zone (Night)",
+		"min_level": 28,
+		"max_level": 31,
+		"rarity": "Rare"
+	}
+]
+}

@@ -1,0 +1,520 @@
+{
+"id": 100,
+"name": "Voltorb",
+"exp_type": "MEDIUM_FAST",
+"obtainable": true,
+"gender_ratio": 255,
+"height": 5,
+"weight": 104,
+"egg_groups": [
+	"genderless"
+],
+"abilities": [
+	{
+		"id": 43,
+		"name": "Soundproof"
+	},
+	{
+		"id": 9,
+		"name": "Static"
+	},
+	{
+		"id": 106,
+		"name": "Aftermath"
+	}
+],
+"forms": [
+	{
+		"form_id": 0,
+		"id": 100,
+		"name": "Voltorb"
+	}
+],
+"evolutions": [
+	{
+		"id": 101,
+		"name": "Electrode",
+		"type": "LEVEL",
+		"val": 30
+	}
+],
+"moves": [
+	{
+		"id": 33,
+		"name": "Tackle",
+		"type": "level",
+		"level": 1
+	},
+	{
+		"id": 268,
+		"name": "Charge",
+		"type": "level",
+		"level": 1
+	},
+	{
+		"id": 113,
+		"name": "Light Screen",
+		"type": "level",
+		"level": 3
+	},
+	{
+		"id": 49,
+		"name": "SonicBoom",
+		"type": "level",
+		"level": 4
+	},
+	{
+		"id": 84,
+		"name": "ThunderShock",
+		"type": "level",
+		"level": 4
+	},
+	{
+		"id": 209,
+		"name": "Spark",
+		"type": "level",
+		"level": 9
+	},
+	{
+		"id": 205,
+		"name": "Rollout",
+		"type": "level",
+		"level": 11
+	},
+	{
+		"id": 103,
+		"name": "Screech",
+		"type": "level",
+		"level": 13
+	},
+	{
+		"id": 129,
+		"name": "Swift",
+		"type": "level",
+		"level": 14
+	},
+	{
+		"id": 451,
+		"name": "Charge Beam",
+		"type": "level",
+		"level": 16
+	},
+	{
+		"id": 120,
+		"name": "Selfdestruct",
+		"type": "level",
+		"level": 19
+	},
+	{
+		"id": 486,
+		"name": "Electro Ball",
+		"type": "level",
+		"level": 22
+	},
+	{
+		"id": 85,
+		"name": "Thunderbolt",
+		"type": "level",
+		"level": 31
+	},
+	{
+		"id": 393,
+		"name": "Magnet Rise",
+		"type": "level",
+		"level": 34
+	},
+	{
+		"id": 435,
+		"name": "Discharge",
+		"type": "level",
+		"level": 37
+	},
+	{
+		"id": 243,
+		"name": "Mirror Coat",
+		"type": "level",
+		"level": 38
+	},
+	{
+		"id": 153,
+		"name": "Explosion",
+		"type": "level",
+		"level": 41
+	},
+	{
+		"id": 360,
+		"name": "Gyro Ball",
+		"type": "level",
+		"level": 46
+	},
+	{
+		"id": 173,
+		"name": "Snore",
+		"type": "move_tutor"
+	},
+	{
+		"id": 277,
+		"name": "Magic Coat",
+		"type": "move_tutor"
+	},
+	{
+		"id": 324,
+		"name": "Signal Beam",
+		"type": "move_tutor"
+	},
+	{
+		"id": 389,
+		"name": "Sucker Punch",
+		"type": "move_tutor"
+	},
+	{
+		"id": 393,
+		"name": "Magnet Rise",
+		"type": "move_tutor"
+	},
+	{
+		"id": 287,
+		"name": "Refresh",
+		"type": "special_moves"
+	},
+	{
+		"id": 319,
+		"name": "Metal Sound",
+		"type": "special_moves"
+	},
+	{
+		"id": 29,
+		"name": "Headbutt",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 36,
+		"name": "Take Down",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 85,
+		"name": "Thunderbolt",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 86,
+		"name": "Thunder Wave",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 87,
+		"name": "Thunder",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 92,
+		"name": "Toxic",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 97,
+		"name": "Agility",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 100,
+		"name": "Teleport",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 102,
+		"name": "Mimic",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 103,
+		"name": "Screech",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 104,
+		"name": "Double Team",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 113,
+		"name": "Light Screen",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 115,
+		"name": "Reflect",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 117,
+		"name": "Bide",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 120,
+		"name": "Selfdestruct",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 129,
+		"name": "Swift",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 148,
+		"name": "Flash",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 153,
+		"name": "Explosion",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 156,
+		"name": "Rest",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 164,
+		"name": "Substitute",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 168,
+		"name": "Thief",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 174,
+		"name": "Curse",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 182,
+		"name": "Protect",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 192,
+		"name": "Zap Cannon",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 203,
+		"name": "Endure",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 205,
+		"name": "Rollout",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 207,
+		"name": "Swagger",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 214,
+		"name": "Sleep Talk",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 216,
+		"name": "Return",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 218,
+		"name": "Frustration",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 237,
+		"name": "Hidden Power",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 240,
+		"name": "Rain Dance",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 259,
+		"name": "Torment",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 263,
+		"name": "Facade",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 269,
+		"name": "Taunt",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 270,
+		"name": "Helping Hand",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 278,
+		"name": "Recycle",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 290,
+		"name": "Secret Power",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 351,
+		"name": "Shock Wave",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 360,
+		"name": "Gyro Ball",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 363,
+		"name": "Natural Gift",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 451,
+		"name": "Charge Beam",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 486,
+		"name": "Electro Ball",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 492,
+		"name": "Foul Play",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 496,
+		"name": "Round",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 521,
+		"name": "Volt Switch",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 528,
+		"name": "Wild Charge",
+		"type": "move_learner_tools"
+	}
+],
+"types": [
+	"ELECTRIC",
+	"ELECTRIC"
+],
+"stats": {
+	"hp": 40,
+	"attack": 30,
+	"defense": 50,
+	"speed": 100,
+	"sp_attack": 55,
+	"sp_defense": 55
+},
+"yields": {
+	"exp": 66,
+	"ev_hp": 0,
+	"ev_attack": 0,
+	"ev_defense": 0,
+	"ev_speed": 1,
+	"ev_sp_attack": 0,
+	"ev_sp_defense": 0
+},
+"tiers": [
+	"Untiered"
+],
+"held_items": [],
+"locations": [
+	{
+		"type": "Inside",
+		"region_id": 0,
+		"region_name": "Kanto",
+		"location": "POWER PLANT",
+		"min_level": 28,
+		"max_level": 30,
+		"rarity": "Uncommon"
+	},
+	{
+		"type": "Grass",
+		"region_id": 0,
+		"region_name": "Kanto",
+		"location": "ROUTE 10",
+		"min_level": 12,
+		"max_level": 13,
+		"rarity": "Horde"
+	},
+	{
+		"type": "Grass",
+		"region_id": 0,
+		"region_name": "Kanto",
+		"location": "ROUTE 10",
+		"min_level": 14,
+		"max_level": 17,
+		"rarity": "Uncommon"
+	},
+	{
+		"type": "Cave",
+		"region_id": 1,
+		"region_name": "Hoenn",
+		"location": "NEW MAUVILLE",
+		"min_level": 20,
+		"max_level": 24,
+		"rarity": "Horde"
+	},
+	{
+		"type": "Cave",
+		"region_id": 1,
+		"region_name": "Hoenn",
+		"location": "NEW MAUVILLE",
+		"min_level": 22,
+		"max_level": 26,
+		"rarity": "Very Common"
+	},
+	{
+		"type": "Grass",
+		"region_id": 1,
+		"region_name": "Hoenn",
+		"location": "ROUTE 110",
+		"min_level": 13,
+		"max_level": 13,
+		"rarity": "Rare"
+	},
+	{
+		"type": "Cave",
+		"region_id": 4,
+		"region_name": "Johto",
+		"location": "Team Rocket HQ",
+		"min_level": 22,
+		"max_level": 24,
+		"rarity": "Horde"
+	},
+	{
+		"type": "Cave",
+		"region_id": 4,
+		"region_name": "Johto",
+		"location": "Team Rocket HQ",
+		"min_level": 25,
+		"max_level": 28,
+		"rarity": "Very Common"
+	}
+]
+}

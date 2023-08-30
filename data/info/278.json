@@ -1,0 +1,2225 @@
+{
+"id": 278,
+"name": "Wingull",
+"exp_type": "MEDIUM_FAST",
+"obtainable": true,
+"gender_ratio": 127,
+"height": 6,
+"weight": 95,
+"egg_groups": [
+	"water a",
+	"flying"
+],
+"abilities": [
+	{
+		"id": 51,
+		"name": "Keen Eye"
+	},
+	{
+		"id": 93,
+		"name": "Hydration"
+	},
+	{
+		"id": 44,
+		"name": "Rain Dish"
+	}
+],
+"forms": [
+	{
+		"form_id": 0,
+		"id": 278,
+		"name": "Wingull"
+	}
+],
+"evolutions": [
+	{
+		"id": 279,
+		"name": "Pelipper",
+		"type": "LEVEL",
+		"val": 25
+	}
+],
+"moves": [
+	{
+		"id": 45,
+		"name": "Growl",
+		"type": "level",
+		"level": 1
+	},
+	{
+		"id": 55,
+		"name": "Water Gun",
+		"type": "level",
+		"level": 1
+	},
+	{
+		"id": 98,
+		"name": "Quick Attack",
+		"type": "level",
+		"level": 5
+	},
+	{
+		"id": 48,
+		"name": "Supersonic",
+		"type": "level",
+		"level": 10
+	},
+	{
+		"id": 17,
+		"name": "Wing Attack",
+		"type": "level",
+		"level": 15
+	},
+	{
+		"id": 352,
+		"name": "Water Pulse",
+		"type": "level",
+		"level": 20
+	},
+	{
+		"id": 314,
+		"name": "Air Cutter",
+		"type": "level",
+		"level": 22
+	},
+	{
+		"id": 97,
+		"name": "Agility",
+		"type": "level",
+		"level": 26
+	},
+	{
+		"id": 228,
+		"name": "Pursuit",
+		"type": "level",
+		"level": 26
+	},
+	{
+		"id": 332,
+		"name": "Aerial Ace",
+		"type": "level",
+		"level": 29
+	},
+	{
+		"id": 403,
+		"name": "Air Slash",
+		"type": "level",
+		"level": 30
+	},
+	{
+		"id": 54,
+		"name": "Mist",
+		"type": "level",
+		"level": 35
+	},
+	{
+		"id": 355,
+		"name": "Roost",
+		"type": "level",
+		"level": 40
+	},
+	{
+		"id": 542,
+		"name": "Hurricane",
+		"type": "level",
+		"level": 45
+	},
+	{
+		"id": 16,
+		"name": "Gust",
+		"type": "egg_moves"
+	},
+	{
+		"id": 346,
+		"name": "Water Sport",
+		"type": "egg_moves"
+	},
+	{
+		"id": 392,
+		"name": "Aqua Ring",
+		"type": "egg_moves"
+	},
+	{
+		"id": 469,
+		"name": "Wide Guard",
+		"type": "egg_moves"
+	},
+	{
+		"id": 487,
+		"name": "Soak",
+		"type": "egg_moves"
+	},
+	{
+		"id": 143,
+		"name": "Sky Attack",
+		"type": "move_tutor"
+	},
+	{
+		"id": 173,
+		"name": "Snore",
+		"type": "move_tutor"
+	},
+	{
+		"id": 239,
+		"name": "Twister",
+		"type": "move_tutor"
+	},
+	{
+		"id": 253,
+		"name": "Uproar",
+		"type": "move_tutor"
+	},
+	{
+		"id": 282,
+		"name": "Knock Off",
+		"type": "move_tutor"
+	},
+	{
+		"id": 466,
+		"name": "Ominous Wind",
+		"type": "move_tutor"
+	},
+	{
+		"id": 19,
+		"name": "Fly",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 36,
+		"name": "Take Down",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 38,
+		"name": "Double-Edge",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 55,
+		"name": "Water Gun",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 56,
+		"name": "Hydro Pump",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 57,
+		"name": "Surf",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 58,
+		"name": "Ice Beam",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 59,
+		"name": "Blizzard",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 92,
+		"name": "Toxic",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 97,
+		"name": "Agility",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 102,
+		"name": "Mimic",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 104,
+		"name": "Double Team",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 127,
+		"name": "Waterfall",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 129,
+		"name": "Swift",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 156,
+		"name": "Rest",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 164,
+		"name": "Substitute",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 168,
+		"name": "Thief",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 182,
+		"name": "Protect",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 189,
+		"name": "Mud-Slap",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 196,
+		"name": "Icy Wind",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 203,
+		"name": "Endure",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 207,
+		"name": "Swagger",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 211,
+		"name": "Steel Wing",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 213,
+		"name": "Attract",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 214,
+		"name": "Sleep Talk",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 216,
+		"name": "Return",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 218,
+		"name": "Frustration",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 237,
+		"name": "Hidden Power",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 240,
+		"name": "Rain Dance",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 258,
+		"name": "Snowscape",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 263,
+		"name": "Facade",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 270,
+		"name": "Helping Hand",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 290,
+		"name": "Secret Power",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 314,
+		"name": "Air Cutter",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 332,
+		"name": "Aerial Ace",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 351,
+		"name": "Shock Wave",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 352,
+		"name": "Water Pulse",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 355,
+		"name": "Roost",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 362,
+		"name": "Brine",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 363,
+		"name": "Natural Gift",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 365,
+		"name": "Pluck",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 366,
+		"name": "Tailwind",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 369,
+		"name": "U-turn",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 403,
+		"name": "Air Slash",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 413,
+		"name": "Brave Bird",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 432,
+		"name": "Defog",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 445,
+		"name": "Captivate",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 496,
+		"name": "Round",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 497,
+		"name": "Echoed Voice",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 503,
+		"name": "Scald",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 512,
+		"name": "Acrobatics",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 542,
+		"name": "Hurricane",
+		"type": "move_learner_tools"
+	}
+],
+"types": [
+	"WATER",
+	"FLYING"
+],
+"stats": {
+	"hp": 40,
+	"attack": 30,
+	"defense": 30,
+	"speed": 85,
+	"sp_attack": 55,
+	"sp_defense": 30
+},
+"yields": {
+	"exp": 54,
+	"ev_hp": 0,
+	"ev_attack": 0,
+	"ev_defense": 0,
+	"ev_speed": 1,
+	"ev_sp_attack": 0,
+	"ev_sp_defense": 0
+},
+"tiers": [
+	"Untiered"
+],
+"held_items": [
+	{
+		"id": 5571,
+		"name": "Pretty Wing"
+	},
+	{
+		"id": 5285,
+		"name": "Damp Rock"
+	}
+],
+"locations": [
+	{
+		"type": "Water",
+		"region_id": 1,
+		"region_name": "Hoenn",
+		"location": "DEWFORD TOWN",
+		"min_level": 20,
+		"max_level": 30,
+		"rarity": "Very Common"
+	},
+	{
+		"type": "Water",
+		"region_id": 1,
+		"region_name": "Hoenn",
+		"location": "DEWFORD TOWN",
+		"min_level": 20,
+		"max_level": 30,
+		"rarity": "Very Common"
+	},
+	{
+		"type": "Water",
+		"region_id": 1,
+		"region_name": "Hoenn",
+		"location": "DEWFORD TOWN",
+		"min_level": 20,
+		"max_level": 30,
+		"rarity": "Very Common"
+	},
+	{
+		"type": "Water",
+		"region_id": 1,
+		"region_name": "Hoenn",
+		"location": "DEWFORD TOWN",
+		"min_level": 20,
+		"max_level": 30,
+		"rarity": "Uncommon"
+	},
+	{
+		"type": "Water",
+		"region_id": 1,
+		"region_name": "Hoenn",
+		"location": "LILYCOVE CITY",
+		"min_level": 25,
+		"max_level": 30,
+		"rarity": "Very Common"
+	},
+	{
+		"type": "Water",
+		"region_id": 1,
+		"region_name": "Hoenn",
+		"location": "LILYCOVE CITY",
+		"min_level": 25,
+		"max_level": 30,
+		"rarity": "Horde"
+	},
+	{
+		"type": "Water",
+		"region_id": 1,
+		"region_name": "Hoenn",
+		"location": "LILYCOVE CITY",
+		"min_level": 25,
+		"max_level": 30,
+		"rarity": "Very Common"
+	},
+	{
+		"type": "Water",
+		"region_id": 1,
+		"region_name": "Hoenn",
+		"location": "LILYCOVE CITY",
+		"min_level": 25,
+		"max_level": 30,
+		"rarity": "Very Common"
+	},
+	{
+		"type": "Water",
+		"region_id": 1,
+		"region_name": "Hoenn",
+		"location": "LILYCOVE CITY",
+		"min_level": 25,
+		"max_level": 30,
+		"rarity": "Uncommon"
+	},
+	{
+		"type": "Grass",
+		"region_id": 1,
+		"region_name": "Hoenn",
+		"location": "MT. PYRE",
+		"min_level": 30,
+		"max_level": 30,
+		"rarity": "Uncommon"
+	},
+	{
+		"type": "Grass",
+		"region_id": 1,
+		"region_name": "Hoenn",
+		"location": "ROUTE 103",
+		"min_level": 2,
+		"max_level": 4,
+		"rarity": "Common"
+	},
+	{
+		"type": "Grass",
+		"region_id": 1,
+		"region_name": "Hoenn",
+		"location": "ROUTE 103",
+		"min_level": 2,
+		"max_level": 4,
+		"rarity": "Common"
+	},
+	{
+		"type": "Grass",
+		"region_id": 1,
+		"region_name": "Hoenn",
+		"location": "ROUTE 103",
+		"min_level": 2,
+		"max_level": 4,
+		"rarity": "Common"
+	},
+	{
+		"type": "Grass",
+		"region_id": 1,
+		"region_name": "Hoenn",
+		"location": "ROUTE 103",
+		"min_level": 2,
+		"max_level": 4,
+		"rarity": "Uncommon"
+	},
+	{
+		"type": "Water",
+		"region_id": 1,
+		"region_name": "Hoenn",
+		"location": "ROUTE 103",
+		"min_level": 20,
+		"max_level": 30,
+		"rarity": "Very Common"
+	},
+	{
+		"type": "Water",
+		"region_id": 1,
+		"region_name": "Hoenn",
+		"location": "ROUTE 103",
+		"min_level": 20,
+		"max_level": 30,
+		"rarity": "Horde"
+	},
+	{
+		"type": "Water",
+		"region_id": 1,
+		"region_name": "Hoenn",
+		"location": "ROUTE 103",
+		"min_level": 20,
+		"max_level": 30,
+		"rarity": "Very Common"
+	},
+	{
+		"type": "Water",
+		"region_id": 1,
+		"region_name": "Hoenn",
+		"location": "ROUTE 103",
+		"min_level": 20,
+		"max_level": 30,
+		"rarity": "Very Common"
+	},
+	{
+		"type": "Water",
+		"region_id": 1,
+		"region_name": "Hoenn",
+		"location": "ROUTE 103",
+		"min_level": 20,
+		"max_level": 30,
+		"rarity": "Common"
+	},
+	{
+		"type": "Grass",
+		"region_id": 1,
+		"region_name": "Hoenn",
+		"location": "ROUTE 104",
+		"min_level": 3,
+		"max_level": 5,
+		"rarity": "Uncommon"
+	},
+	{
+		"type": "Grass",
+		"region_id": 1,
+		"region_name": "Hoenn",
+		"location": "ROUTE 104",
+		"min_level": 3,
+		"max_level": 5,
+		"rarity": "Uncommon"
+	},
+	{
+		"type": "Grass",
+		"region_id": 1,
+		"region_name": "Hoenn",
+		"location": "ROUTE 104",
+		"min_level": 3,
+		"max_level": 5,
+		"rarity": "Uncommon"
+	},
+	{
+		"type": "Grass",
+		"region_id": 1,
+		"region_name": "Hoenn",
+		"location": "ROUTE 104",
+		"min_level": 3,
+		"max_level": 5,
+		"rarity": "Uncommon"
+	},
+	{
+		"type": "Water",
+		"region_id": 1,
+		"region_name": "Hoenn",
+		"location": "ROUTE 104",
+		"min_level": 20,
+		"max_level": 30,
+		"rarity": "Very Common"
+	},
+	{
+		"type": "Water",
+		"region_id": 1,
+		"region_name": "Hoenn",
+		"location": "ROUTE 104",
+		"min_level": 20,
+		"max_level": 30,
+		"rarity": "Horde"
+	},
+	{
+		"type": "Water",
+		"region_id": 1,
+		"region_name": "Hoenn",
+		"location": "ROUTE 104",
+		"min_level": 20,
+		"max_level": 30,
+		"rarity": "Very Common"
+	},
+	{
+		"type": "Water",
+		"region_id": 1,
+		"region_name": "Hoenn",
+		"location": "ROUTE 104",
+		"min_level": 20,
+		"max_level": 30,
+		"rarity": "Very Common"
+	},
+	{
+		"type": "Water",
+		"region_id": 1,
+		"region_name": "Hoenn",
+		"location": "ROUTE 104",
+		"min_level": 20,
+		"max_level": 30,
+		"rarity": "Very Common"
+	},
+	{
+		"type": "Water",
+		"region_id": 1,
+		"region_name": "Hoenn",
+		"location": "ROUTE 105",
+		"min_level": 20,
+		"max_level": 30,
+		"rarity": "Very Common"
+	},
+	{
+		"type": "Water",
+		"region_id": 1,
+		"region_name": "Hoenn",
+		"location": "ROUTE 105",
+		"min_level": 20,
+		"max_level": 30,
+		"rarity": "Horde"
+	},
+	{
+		"type": "Water",
+		"region_id": 1,
+		"region_name": "Hoenn",
+		"location": "ROUTE 105",
+		"min_level": 20,
+		"max_level": 30,
+		"rarity": "Very Common"
+	},
+	{
+		"type": "Water",
+		"region_id": 1,
+		"region_name": "Hoenn",
+		"location": "ROUTE 105",
+		"min_level": 20,
+		"max_level": 30,
+		"rarity": "Very Common"
+	},
+	{
+		"type": "Water",
+		"region_id": 1,
+		"region_name": "Hoenn",
+		"location": "ROUTE 105",
+		"min_level": 20,
+		"max_level": 30,
+		"rarity": "Uncommon"
+	},
+	{
+		"type": "Water",
+		"region_id": 1,
+		"region_name": "Hoenn",
+		"location": "ROUTE 106",
+		"min_level": 20,
+		"max_level": 30,
+		"rarity": "Very Common"
+	},
+	{
+		"type": "Water",
+		"region_id": 1,
+		"region_name": "Hoenn",
+		"location": "ROUTE 106",
+		"min_level": 20,
+		"max_level": 30,
+		"rarity": "Horde"
+	},
+	{
+		"type": "Water",
+		"region_id": 1,
+		"region_name": "Hoenn",
+		"location": "ROUTE 106",
+		"min_level": 20,
+		"max_level": 30,
+		"rarity": "Very Common"
+	},
+	{
+		"type": "Water",
+		"region_id": 1,
+		"region_name": "Hoenn",
+		"location": "ROUTE 106",
+		"min_level": 20,
+		"max_level": 30,
+		"rarity": "Very Common"
+	},
+	{
+		"type": "Water",
+		"region_id": 1,
+		"region_name": "Hoenn",
+		"location": "ROUTE 106",
+		"min_level": 20,
+		"max_level": 30,
+		"rarity": "Uncommon"
+	},
+	{
+		"type": "Water",
+		"region_id": 1,
+		"region_name": "Hoenn",
+		"location": "ROUTE 107",
+		"min_level": 20,
+		"max_level": 30,
+		"rarity": "Very Common"
+	},
+	{
+		"type": "Water",
+		"region_id": 1,
+		"region_name": "Hoenn",
+		"location": "ROUTE 107",
+		"min_level": 20,
+		"max_level": 30,
+		"rarity": "Very Common"
+	},
+	{
+		"type": "Water",
+		"region_id": 1,
+		"region_name": "Hoenn",
+		"location": "ROUTE 107",
+		"min_level": 20,
+		"max_level": 30,
+		"rarity": "Very Common"
+	},
+	{
+		"type": "Water",
+		"region_id": 1,
+		"region_name": "Hoenn",
+		"location": "ROUTE 107",
+		"min_level": 20,
+		"max_level": 30,
+		"rarity": "Uncommon"
+	},
+	{
+		"type": "Water",
+		"region_id": 1,
+		"region_name": "Hoenn",
+		"location": "ROUTE 108",
+		"min_level": 20,
+		"max_level": 30,
+		"rarity": "Very Common"
+	},
+	{
+		"type": "Water",
+		"region_id": 1,
+		"region_name": "Hoenn",
+		"location": "ROUTE 108",
+		"min_level": 20,
+		"max_level": 30,
+		"rarity": "Horde"
+	},
+	{
+		"type": "Water",
+		"region_id": 1,
+		"region_name": "Hoenn",
+		"location": "ROUTE 108",
+		"min_level": 20,
+		"max_level": 30,
+		"rarity": "Very Common"
+	},
+	{
+		"type": "Water",
+		"region_id": 1,
+		"region_name": "Hoenn",
+		"location": "ROUTE 108",
+		"min_level": 20,
+		"max_level": 30,
+		"rarity": "Very Common"
+	},
+	{
+		"type": "Water",
+		"region_id": 1,
+		"region_name": "Hoenn",
+		"location": "ROUTE 108",
+		"min_level": 20,
+		"max_level": 30,
+		"rarity": "Uncommon"
+	},
+	{
+		"type": "Water",
+		"region_id": 1,
+		"region_name": "Hoenn",
+		"location": "ROUTE 109",
+		"min_level": 20,
+		"max_level": 30,
+		"rarity": "Very Common"
+	},
+	{
+		"type": "Water",
+		"region_id": 1,
+		"region_name": "Hoenn",
+		"location": "ROUTE 109",
+		"min_level": 20,
+		"max_level": 30,
+		"rarity": "Horde"
+	},
+	{
+		"type": "Water",
+		"region_id": 1,
+		"region_name": "Hoenn",
+		"location": "ROUTE 109",
+		"min_level": 20,
+		"max_level": 30,
+		"rarity": "Very Common"
+	},
+	{
+		"type": "Water",
+		"region_id": 1,
+		"region_name": "Hoenn",
+		"location": "ROUTE 109",
+		"min_level": 20,
+		"max_level": 30,
+		"rarity": "Very Common"
+	},
+	{
+		"type": "Water",
+		"region_id": 1,
+		"region_name": "Hoenn",
+		"location": "ROUTE 109",
+		"min_level": 20,
+		"max_level": 30,
+		"rarity": "Uncommon"
+	},
+	{
+		"type": "Grass",
+		"region_id": 1,
+		"region_name": "Hoenn",
+		"location": "ROUTE 110",
+		"min_level": 13,
+		"max_level": 13,
+		"rarity": "Uncommon"
+	},
+	{
+		"type": "Water",
+		"region_id": 1,
+		"region_name": "Hoenn",
+		"location": "ROUTE 110",
+		"min_level": 20,
+		"max_level": 30,
+		"rarity": "Very Common"
+	},
+	{
+		"type": "Water",
+		"region_id": 1,
+		"region_name": "Hoenn",
+		"location": "ROUTE 110",
+		"min_level": 20,
+		"max_level": 30,
+		"rarity": "Very Common"
+	},
+	{
+		"type": "Water",
+		"region_id": 1,
+		"region_name": "Hoenn",
+		"location": "ROUTE 110",
+		"min_level": 20,
+		"max_level": 30,
+		"rarity": "Very Common"
+	},
+	{
+		"type": "Water",
+		"region_id": 1,
+		"region_name": "Hoenn",
+		"location": "ROUTE 110",
+		"min_level": 20,
+		"max_level": 30,
+		"rarity": "Uncommon"
+	},
+	{
+		"type": "Grass",
+		"region_id": 1,
+		"region_name": "Hoenn",
+		"location": "ROUTE 115",
+		"min_level": 24,
+		"max_level": 26,
+		"rarity": "Uncommon"
+	},
+	{
+		"type": "Water",
+		"region_id": 1,
+		"region_name": "Hoenn",
+		"location": "ROUTE 115",
+		"min_level": 20,
+		"max_level": 30,
+		"rarity": "Very Common"
+	},
+	{
+		"type": "Water",
+		"region_id": 1,
+		"region_name": "Hoenn",
+		"location": "ROUTE 115",
+		"min_level": 20,
+		"max_level": 30,
+		"rarity": "Horde"
+	},
+	{
+		"type": "Water",
+		"region_id": 1,
+		"region_name": "Hoenn",
+		"location": "ROUTE 115",
+		"min_level": 20,
+		"max_level": 30,
+		"rarity": "Very Common"
+	},
+	{
+		"type": "Water",
+		"region_id": 1,
+		"region_name": "Hoenn",
+		"location": "ROUTE 115",
+		"min_level": 20,
+		"max_level": 30,
+		"rarity": "Very Common"
+	},
+	{
+		"type": "Water",
+		"region_id": 1,
+		"region_name": "Hoenn",
+		"location": "ROUTE 115",
+		"min_level": 20,
+		"max_level": 30,
+		"rarity": "Uncommon"
+	},
+	{
+		"type": "Grass",
+		"region_id": 1,
+		"region_name": "Hoenn",
+		"location": "ROUTE 118",
+		"min_level": 25,
+		"max_level": 27,
+		"rarity": "Uncommon"
+	},
+	{
+		"type": "Grass",
+		"region_id": 1,
+		"region_name": "Hoenn",
+		"location": "ROUTE 118",
+		"min_level": 25,
+		"max_level": 27,
+		"rarity": "Uncommon"
+	},
+	{
+		"type": "Grass",
+		"region_id": 1,
+		"region_name": "Hoenn",
+		"location": "ROUTE 118",
+		"min_level": 25,
+		"max_level": 27,
+		"rarity": "Uncommon"
+	},
+	{
+		"type": "Grass",
+		"region_id": 1,
+		"region_name": "Hoenn",
+		"location": "ROUTE 118",
+		"min_level": 25,
+		"max_level": 27,
+		"rarity": "Uncommon"
+	},
+	{
+		"type": "Water",
+		"region_id": 1,
+		"region_name": "Hoenn",
+		"location": "ROUTE 118",
+		"min_level": 20,
+		"max_level": 30,
+		"rarity": "Very Common"
+	},
+	{
+		"type": "Water",
+		"region_id": 1,
+		"region_name": "Hoenn",
+		"location": "ROUTE 118",
+		"min_level": 20,
+		"max_level": 30,
+		"rarity": "Very Common"
+	},
+	{
+		"type": "Water",
+		"region_id": 1,
+		"region_name": "Hoenn",
+		"location": "ROUTE 118",
+		"min_level": 20,
+		"max_level": 30,
+		"rarity": "Very Common"
+	},
+	{
+		"type": "Water",
+		"region_id": 1,
+		"region_name": "Hoenn",
+		"location": "ROUTE 118",
+		"min_level": 20,
+		"max_level": 30,
+		"rarity": "Uncommon"
+	},
+	{
+		"type": "Water",
+		"region_id": 1,
+		"region_name": "Hoenn",
+		"location": "ROUTE 119",
+		"min_level": 20,
+		"max_level": 30,
+		"rarity": "Very Common"
+	},
+	{
+		"type": "Water",
+		"region_id": 1,
+		"region_name": "Hoenn",
+		"location": "ROUTE 119",
+		"min_level": 20,
+		"max_level": 30,
+		"rarity": "Very Common"
+	},
+	{
+		"type": "Water",
+		"region_id": 1,
+		"region_name": "Hoenn",
+		"location": "ROUTE 119",
+		"min_level": 20,
+		"max_level": 30,
+		"rarity": "Very Common"
+	},
+	{
+		"type": "Water",
+		"region_id": 1,
+		"region_name": "Hoenn",
+		"location": "ROUTE 119",
+		"min_level": 20,
+		"max_level": 30,
+		"rarity": "Uncommon"
+	},
+	{
+		"type": "Grass",
+		"region_id": 1,
+		"region_name": "Hoenn",
+		"location": "ROUTE 121",
+		"min_level": 27,
+		"max_level": 29,
+		"rarity": "Uncommon"
+	},
+	{
+		"type": "Water",
+		"region_id": 1,
+		"region_name": "Hoenn",
+		"location": "ROUTE 121",
+		"min_level": 25,
+		"max_level": 30,
+		"rarity": "Very Common"
+	},
+	{
+		"type": "Water",
+		"region_id": 1,
+		"region_name": "Hoenn",
+		"location": "ROUTE 121",
+		"min_level": 25,
+		"max_level": 30,
+		"rarity": "Very Common"
+	},
+	{
+		"type": "Water",
+		"region_id": 1,
+		"region_name": "Hoenn",
+		"location": "ROUTE 121",
+		"min_level": 25,
+		"max_level": 30,
+		"rarity": "Very Common"
+	},
+	{
+		"type": "Water",
+		"region_id": 1,
+		"region_name": "Hoenn",
+		"location": "ROUTE 121",
+		"min_level": 25,
+		"max_level": 30,
+		"rarity": "Uncommon"
+	},
+	{
+		"type": "Water",
+		"region_id": 1,
+		"region_name": "Hoenn",
+		"location": "ROUTE 122",
+		"min_level": 25,
+		"max_level": 30,
+		"rarity": "Very Common"
+	},
+	{
+		"type": "Water",
+		"region_id": 1,
+		"region_name": "Hoenn",
+		"location": "ROUTE 122",
+		"min_level": 25,
+		"max_level": 30,
+		"rarity": "Horde"
+	},
+	{
+		"type": "Water",
+		"region_id": 1,
+		"region_name": "Hoenn",
+		"location": "ROUTE 122",
+		"min_level": 25,
+		"max_level": 30,
+		"rarity": "Very Common"
+	},
+	{
+		"type": "Water",
+		"region_id": 1,
+		"region_name": "Hoenn",
+		"location": "ROUTE 122",
+		"min_level": 25,
+		"max_level": 30,
+		"rarity": "Very Common"
+	},
+	{
+		"type": "Water",
+		"region_id": 1,
+		"region_name": "Hoenn",
+		"location": "ROUTE 122",
+		"min_level": 25,
+		"max_level": 30,
+		"rarity": "Uncommon"
+	},
+	{
+		"type": "Grass",
+		"region_id": 1,
+		"region_name": "Hoenn",
+		"location": "ROUTE 123",
+		"min_level": 28,
+		"max_level": 30,
+		"rarity": "Rare"
+	},
+	{
+		"type": "Water",
+		"region_id": 1,
+		"region_name": "Hoenn",
+		"location": "ROUTE 134",
+		"min_level": 20,
+		"max_level": 30,
+		"rarity": "Very Common"
+	},
+	{
+		"type": "Water",
+		"region_id": 1,
+		"region_name": "Hoenn",
+		"location": "ROUTE 134",
+		"min_level": 20,
+		"max_level": 30,
+		"rarity": "Horde"
+	},
+	{
+		"type": "Water",
+		"region_id": 1,
+		"region_name": "Hoenn",
+		"location": "ROUTE 134",
+		"min_level": 20,
+		"max_level": 30,
+		"rarity": "Very Common"
+	},
+	{
+		"type": "Water",
+		"region_id": 1,
+		"region_name": "Hoenn",
+		"location": "ROUTE 134",
+		"min_level": 20,
+		"max_level": 30,
+		"rarity": "Very Common"
+	},
+	{
+		"type": "Water",
+		"region_id": 1,
+		"region_name": "Hoenn",
+		"location": "ROUTE 134",
+		"min_level": 20,
+		"max_level": 30,
+		"rarity": "Uncommon"
+	},
+	{
+		"type": "Water",
+		"region_id": 1,
+		"region_name": "Hoenn",
+		"location": "SLATEPORT CITY",
+		"min_level": 20,
+		"max_level": 30,
+		"rarity": "Very Common"
+	},
+	{
+		"type": "Water",
+		"region_id": 1,
+		"region_name": "Hoenn",
+		"location": "SLATEPORT CITY",
+		"min_level": 20,
+		"max_level": 30,
+		"rarity": "Horde"
+	},
+	{
+		"type": "Water",
+		"region_id": 1,
+		"region_name": "Hoenn",
+		"location": "SLATEPORT CITY",
+		"min_level": 20,
+		"max_level": 30,
+		"rarity": "Very Common"
+	},
+	{
+		"type": "Water",
+		"region_id": 1,
+		"region_name": "Hoenn",
+		"location": "SLATEPORT CITY",
+		"min_level": 20,
+		"max_level": 30,
+		"rarity": "Very Common"
+	},
+	{
+		"type": "Water",
+		"region_id": 1,
+		"region_name": "Hoenn",
+		"location": "SLATEPORT CITY",
+		"min_level": 20,
+		"max_level": 30,
+		"rarity": "Uncommon"
+	},
+	{
+		"type": "Shadow",
+		"region_id": 2,
+		"region_name": "Unova",
+		"location": "Driftveil Drawbridge",
+		"min_level": 27,
+		"max_level": 28,
+		"rarity": "Special"
+	},
+	{
+		"type": "Grass",
+		"region_id": 2,
+		"region_name": "Unova",
+		"location": "Route 1",
+		"min_level": 7,
+		"max_level": 7,
+		"rarity": "Lure"
+	},
+	{
+		"type": "Shadow",
+		"region_id": 2,
+		"region_name": "Unova",
+		"location": "Route 1",
+		"min_level": 34,
+		"max_level": 38,
+		"rarity": "Special"
+	},
+	{
+		"type": "Water",
+		"region_id": 2,
+		"region_name": "Unova",
+		"location": "Route 13",
+		"min_level": 35,
+		"max_level": 55,
+		"rarity": "Very Common"
+	},
+	{
+		"type": "Water",
+		"region_id": 2,
+		"region_name": "Unova",
+		"location": "Route 13",
+		"min_level": 35,
+		"max_level": 55,
+		"rarity": "Very Common"
+	},
+	{
+		"type": "Water",
+		"region_id": 2,
+		"region_name": "Unova",
+		"location": "Route 13",
+		"min_level": 35,
+		"max_level": 55,
+		"rarity": "Very Common"
+	},
+	{
+		"type": "Water",
+		"region_id": 2,
+		"region_name": "Unova",
+		"location": "Route 13",
+		"min_level": 35,
+		"max_level": 55,
+		"rarity": "Very Common"
+	},
+	{
+		"type": "Water",
+		"region_id": 2,
+		"region_name": "Unova",
+		"location": "Undella Bay",
+		"min_level": 35,
+		"max_level": 55,
+		"rarity": "Very Common"
+	},
+	{
+		"type": "Water",
+		"region_id": 2,
+		"region_name": "Unova",
+		"location": "Undella Bay",
+		"min_level": 35,
+		"max_level": 55,
+		"rarity": "Very Common"
+	},
+	{
+		"type": "Water",
+		"region_id": 2,
+		"region_name": "Unova",
+		"location": "Undella Bay",
+		"min_level": 35,
+		"max_level": 55,
+		"rarity": "Very Common"
+	},
+	{
+		"type": "Water",
+		"region_id": 2,
+		"region_name": "Unova",
+		"location": "Undella Bay",
+		"min_level": 35,
+		"max_level": 55,
+		"rarity": "Very Common"
+	},
+	{
+		"type": "Water",
+		"region_id": 2,
+		"region_name": "Unova",
+		"location": "Undella Town",
+		"min_level": 35,
+		"max_level": 55,
+		"rarity": "Very Common"
+	},
+	{
+		"type": "Water",
+		"region_id": 2,
+		"region_name": "Unova",
+		"location": "Undella Town",
+		"min_level": 35,
+		"max_level": 55,
+		"rarity": "Very Common"
+	},
+	{
+		"type": "Water",
+		"region_id": 2,
+		"region_name": "Unova",
+		"location": "Undella Town",
+		"min_level": 35,
+		"max_level": 55,
+		"rarity": "Very Common"
+	},
+	{
+		"type": "Water",
+		"region_id": 2,
+		"region_name": "Unova",
+		"location": "Undella Town",
+		"min_level": 35,
+		"max_level": 55,
+		"rarity": "Very Common"
+	},
+	{
+		"type": "Water",
+		"region_id": 3,
+		"region_name": "Sinnoh",
+		"location": "Canalave City",
+		"min_level": 20,
+		"max_level": 30,
+		"rarity": "Common"
+	},
+	{
+		"type": "Water",
+		"region_id": 3,
+		"region_name": "Sinnoh",
+		"location": "Canalave City",
+		"min_level": 20,
+		"max_level": 30,
+		"rarity": "Common"
+	},
+	{
+		"type": "Water",
+		"region_id": 3,
+		"region_name": "Sinnoh",
+		"location": "Canalave City",
+		"min_level": 20,
+		"max_level": 30,
+		"rarity": "Common"
+	},
+	{
+		"type": "Water",
+		"region_id": 3,
+		"region_name": "Sinnoh",
+		"location": "Canalave City",
+		"min_level": 20,
+		"max_level": 30,
+		"rarity": "Uncommon"
+	},
+	{
+		"type": "Grass",
+		"region_id": 3,
+		"region_name": "Sinnoh",
+		"location": "Fuego Ironworks",
+		"min_level": 29,
+		"max_level": 29,
+		"rarity": "Uncommon"
+	},
+	{
+		"type": "Water",
+		"region_id": 3,
+		"region_name": "Sinnoh",
+		"location": "Fuego Ironworks",
+		"min_level": 20,
+		"max_level": 30,
+		"rarity": "Common"
+	},
+	{
+		"type": "Water",
+		"region_id": 3,
+		"region_name": "Sinnoh",
+		"location": "Fuego Ironworks",
+		"min_level": 20,
+		"max_level": 30,
+		"rarity": "Common"
+	},
+	{
+		"type": "Water",
+		"region_id": 3,
+		"region_name": "Sinnoh",
+		"location": "Fuego Ironworks",
+		"min_level": 20,
+		"max_level": 30,
+		"rarity": "Common"
+	},
+	{
+		"type": "Water",
+		"region_id": 3,
+		"region_name": "Sinnoh",
+		"location": "Fuego Ironworks",
+		"min_level": 20,
+		"max_level": 30,
+		"rarity": "Uncommon"
+	},
+	{
+		"type": "Water",
+		"region_id": 3,
+		"region_name": "Sinnoh",
+		"location": "Iron Island",
+		"min_level": 20,
+		"max_level": 30,
+		"rarity": "Very Common"
+	},
+	{
+		"type": "Water",
+		"region_id": 3,
+		"region_name": "Sinnoh",
+		"location": "Iron Island",
+		"min_level": 20,
+		"max_level": 30,
+		"rarity": "Very Common"
+	},
+	{
+		"type": "Water",
+		"region_id": 3,
+		"region_name": "Sinnoh",
+		"location": "Iron Island",
+		"min_level": 20,
+		"max_level": 30,
+		"rarity": "Very Common"
+	},
+	{
+		"type": "Water",
+		"region_id": 3,
+		"region_name": "Sinnoh",
+		"location": "Iron Island",
+		"min_level": 20,
+		"max_level": 30,
+		"rarity": "Common"
+	},
+	{
+		"type": "Water",
+		"region_id": 3,
+		"region_name": "Sinnoh",
+		"location": "Pastoria City",
+		"min_level": 20,
+		"max_level": 30,
+		"rarity": "Common"
+	},
+	{
+		"type": "Water",
+		"region_id": 3,
+		"region_name": "Sinnoh",
+		"location": "Pastoria City",
+		"min_level": 20,
+		"max_level": 30,
+		"rarity": "Common"
+	},
+	{
+		"type": "Water",
+		"region_id": 3,
+		"region_name": "Sinnoh",
+		"location": "Pastoria City",
+		"min_level": 20,
+		"max_level": 30,
+		"rarity": "Common"
+	},
+	{
+		"type": "Water",
+		"region_id": 3,
+		"region_name": "Sinnoh",
+		"location": "Pastoria City",
+		"min_level": 20,
+		"max_level": 30,
+		"rarity": "Uncommon"
+	},
+	{
+		"type": "Water",
+		"region_id": 3,
+		"region_name": "Sinnoh",
+		"location": "Pokémon League",
+		"min_level": 30,
+		"max_level": 40,
+		"rarity": "Very Common"
+	},
+	{
+		"type": "Water",
+		"region_id": 3,
+		"region_name": "Sinnoh",
+		"location": "Pokémon League",
+		"min_level": 30,
+		"max_level": 40,
+		"rarity": "Very Common"
+	},
+	{
+		"type": "Water",
+		"region_id": 3,
+		"region_name": "Sinnoh",
+		"location": "Pokémon League",
+		"min_level": 30,
+		"max_level": 40,
+		"rarity": "Very Common"
+	},
+	{
+		"type": "Water",
+		"region_id": 3,
+		"region_name": "Sinnoh",
+		"location": "Pokémon League",
+		"min_level": 30,
+		"max_level": 40,
+		"rarity": "Common"
+	},
+	{
+		"type": "Water",
+		"region_id": 3,
+		"region_name": "Sinnoh",
+		"location": "Route 205",
+		"min_level": 20,
+		"max_level": 30,
+		"rarity": "Common"
+	},
+	{
+		"type": "Water",
+		"region_id": 3,
+		"region_name": "Sinnoh",
+		"location": "Route 205",
+		"min_level": 20,
+		"max_level": 30,
+		"rarity": "Common"
+	},
+	{
+		"type": "Water",
+		"region_id": 3,
+		"region_name": "Sinnoh",
+		"location": "Route 205",
+		"min_level": 20,
+		"max_level": 30,
+		"rarity": "Common"
+	},
+	{
+		"type": "Water",
+		"region_id": 3,
+		"region_name": "Sinnoh",
+		"location": "Route 205",
+		"min_level": 20,
+		"max_level": 30,
+		"rarity": "Uncommon"
+	},
+	{
+		"type": "Grass",
+		"region_id": 3,
+		"region_name": "Sinnoh",
+		"location": "Route 213",
+		"min_level": 24,
+		"max_level": 26,
+		"rarity": "Uncommon"
+	},
+	{
+		"type": "Grass",
+		"region_id": 3,
+		"region_name": "Sinnoh",
+		"location": "Route 213",
+		"min_level": 24,
+		"max_level": 26,
+		"rarity": "Uncommon"
+	},
+	{
+		"type": "Grass",
+		"region_id": 3,
+		"region_name": "Sinnoh",
+		"location": "Route 213",
+		"min_level": 24,
+		"max_level": 26,
+		"rarity": "Uncommon"
+	},
+	{
+		"type": "Grass",
+		"region_id": 3,
+		"region_name": "Sinnoh",
+		"location": "Route 213",
+		"min_level": 24,
+		"max_level": 26,
+		"rarity": "Uncommon"
+	},
+	{
+		"type": "Water",
+		"region_id": 3,
+		"region_name": "Sinnoh",
+		"location": "Route 213",
+		"min_level": 20,
+		"max_level": 30,
+		"rarity": "Common"
+	},
+	{
+		"type": "Water",
+		"region_id": 3,
+		"region_name": "Sinnoh",
+		"location": "Route 213",
+		"min_level": 20,
+		"max_level": 30,
+		"rarity": "Horde"
+	},
+	{
+		"type": "Water",
+		"region_id": 3,
+		"region_name": "Sinnoh",
+		"location": "Route 213",
+		"min_level": 20,
+		"max_level": 30,
+		"rarity": "Common"
+	},
+	{
+		"type": "Water",
+		"region_id": 3,
+		"region_name": "Sinnoh",
+		"location": "Route 213",
+		"min_level": 20,
+		"max_level": 30,
+		"rarity": "Horde"
+	},
+	{
+		"type": "Water",
+		"region_id": 3,
+		"region_name": "Sinnoh",
+		"location": "Route 213",
+		"min_level": 20,
+		"max_level": 30,
+		"rarity": "Common"
+	},
+	{
+		"type": "Water",
+		"region_id": 3,
+		"region_name": "Sinnoh",
+		"location": "Route 213",
+		"min_level": 20,
+		"max_level": 30,
+		"rarity": "Horde"
+	},
+	{
+		"type": "Water",
+		"region_id": 3,
+		"region_name": "Sinnoh",
+		"location": "Route 213",
+		"min_level": 20,
+		"max_level": 30,
+		"rarity": "Uncommon"
+	},
+	{
+		"type": "Grass",
+		"region_id": 3,
+		"region_name": "Sinnoh",
+		"location": "Route 218",
+		"min_level": 29,
+		"max_level": 29,
+		"rarity": "Uncommon"
+	},
+	{
+		"type": "Water",
+		"region_id": 3,
+		"region_name": "Sinnoh",
+		"location": "Route 218",
+		"min_level": 20,
+		"max_level": 30,
+		"rarity": "Common"
+	},
+	{
+		"type": "Water",
+		"region_id": 3,
+		"region_name": "Sinnoh",
+		"location": "Route 218",
+		"min_level": 20,
+		"max_level": 30,
+		"rarity": "Common"
+	},
+	{
+		"type": "Water",
+		"region_id": 3,
+		"region_name": "Sinnoh",
+		"location": "Route 218",
+		"min_level": 20,
+		"max_level": 30,
+		"rarity": "Common"
+	},
+	{
+		"type": "Water",
+		"region_id": 3,
+		"region_name": "Sinnoh",
+		"location": "Route 218",
+		"min_level": 20,
+		"max_level": 30,
+		"rarity": "Uncommon"
+	},
+	{
+		"type": "Water",
+		"region_id": 3,
+		"region_name": "Sinnoh",
+		"location": "Route 219",
+		"min_level": 20,
+		"max_level": 30,
+		"rarity": "Very Common"
+	},
+	{
+		"type": "Water",
+		"region_id": 3,
+		"region_name": "Sinnoh",
+		"location": "Route 219",
+		"min_level": 20,
+		"max_level": 30,
+		"rarity": "Horde"
+	},
+	{
+		"type": "Water",
+		"region_id": 3,
+		"region_name": "Sinnoh",
+		"location": "Route 219",
+		"min_level": 20,
+		"max_level": 30,
+		"rarity": "Very Common"
+	},
+	{
+		"type": "Water",
+		"region_id": 3,
+		"region_name": "Sinnoh",
+		"location": "Route 219",
+		"min_level": 20,
+		"max_level": 30,
+		"rarity": "Very Common"
+	},
+	{
+		"type": "Water",
+		"region_id": 3,
+		"region_name": "Sinnoh",
+		"location": "Route 219",
+		"min_level": 20,
+		"max_level": 30,
+		"rarity": "Uncommon"
+	},
+	{
+		"type": "Water",
+		"region_id": 3,
+		"region_name": "Sinnoh",
+		"location": "Route 220",
+		"min_level": 20,
+		"max_level": 30,
+		"rarity": "Very Common"
+	},
+	{
+		"type": "Water",
+		"region_id": 3,
+		"region_name": "Sinnoh",
+		"location": "Route 220",
+		"min_level": 20,
+		"max_level": 30,
+		"rarity": "Very Common"
+	},
+	{
+		"type": "Water",
+		"region_id": 3,
+		"region_name": "Sinnoh",
+		"location": "Route 220",
+		"min_level": 20,
+		"max_level": 30,
+		"rarity": "Very Common"
+	},
+	{
+		"type": "Water",
+		"region_id": 3,
+		"region_name": "Sinnoh",
+		"location": "Route 220",
+		"min_level": 20,
+		"max_level": 30,
+		"rarity": "Uncommon"
+	},
+	{
+		"type": "Grass",
+		"region_id": 3,
+		"region_name": "Sinnoh",
+		"location": "Route 221",
+		"min_level": 29,
+		"max_level": 29,
+		"rarity": "Uncommon"
+	},
+	{
+		"type": "Water",
+		"region_id": 3,
+		"region_name": "Sinnoh",
+		"location": "Route 221",
+		"min_level": 20,
+		"max_level": 30,
+		"rarity": "Common"
+	},
+	{
+		"type": "Water",
+		"region_id": 3,
+		"region_name": "Sinnoh",
+		"location": "Route 221",
+		"min_level": 20,
+		"max_level": 30,
+		"rarity": "Horde"
+	},
+	{
+		"type": "Water",
+		"region_id": 3,
+		"region_name": "Sinnoh",
+		"location": "Route 221",
+		"min_level": 20,
+		"max_level": 30,
+		"rarity": "Common"
+	},
+	{
+		"type": "Water",
+		"region_id": 3,
+		"region_name": "Sinnoh",
+		"location": "Route 221",
+		"min_level": 20,
+		"max_level": 30,
+		"rarity": "Common"
+	},
+	{
+		"type": "Water",
+		"region_id": 3,
+		"region_name": "Sinnoh",
+		"location": "Route 221",
+		"min_level": 20,
+		"max_level": 30,
+		"rarity": "Uncommon"
+	},
+	{
+		"type": "Grass",
+		"region_id": 3,
+		"region_name": "Sinnoh",
+		"location": "Route 222",
+		"min_level": 38,
+		"max_level": 41,
+		"rarity": "Uncommon"
+	},
+	{
+		"type": "Water",
+		"region_id": 3,
+		"region_name": "Sinnoh",
+		"location": "Route 222",
+		"min_level": 30,
+		"max_level": 40,
+		"rarity": "Common"
+	},
+	{
+		"type": "Water",
+		"region_id": 3,
+		"region_name": "Sinnoh",
+		"location": "Route 222",
+		"min_level": 30,
+		"max_level": 40,
+		"rarity": "Common"
+	},
+	{
+		"type": "Water",
+		"region_id": 3,
+		"region_name": "Sinnoh",
+		"location": "Route 222",
+		"min_level": 30,
+		"max_level": 40,
+		"rarity": "Common"
+	},
+	{
+		"type": "Water",
+		"region_id": 3,
+		"region_name": "Sinnoh",
+		"location": "Route 222",
+		"min_level": 30,
+		"max_level": 40,
+		"rarity": "Uncommon"
+	},
+	{
+		"type": "Grass",
+		"region_id": 3,
+		"region_name": "Sinnoh",
+		"location": "Route 226",
+		"min_level": 47,
+		"max_level": 49,
+		"rarity": "Uncommon"
+	},
+	{
+		"type": "Grass",
+		"region_id": 3,
+		"region_name": "Sinnoh",
+		"location": "Route 226",
+		"min_level": 47,
+		"max_level": 49,
+		"rarity": "Uncommon"
+	},
+	{
+		"type": "Grass",
+		"region_id": 3,
+		"region_name": "Sinnoh",
+		"location": "Route 226",
+		"min_level": 47,
+		"max_level": 49,
+		"rarity": "Uncommon"
+	},
+	{
+		"type": "Grass",
+		"region_id": 3,
+		"region_name": "Sinnoh",
+		"location": "Route 226",
+		"min_level": 47,
+		"max_level": 49,
+		"rarity": "Uncommon"
+	},
+	{
+		"type": "Water",
+		"region_id": 3,
+		"region_name": "Sinnoh",
+		"location": "Route 226",
+		"min_level": 35,
+		"max_level": 45,
+		"rarity": "Common"
+	},
+	{
+		"type": "Water",
+		"region_id": 3,
+		"region_name": "Sinnoh",
+		"location": "Route 226",
+		"min_level": 35,
+		"max_level": 45,
+		"rarity": "Common"
+	},
+	{
+		"type": "Water",
+		"region_id": 3,
+		"region_name": "Sinnoh",
+		"location": "Route 226",
+		"min_level": 35,
+		"max_level": 45,
+		"rarity": "Common"
+	},
+	{
+		"type": "Water",
+		"region_id": 3,
+		"region_name": "Sinnoh",
+		"location": "Route 226",
+		"min_level": 35,
+		"max_level": 45,
+		"rarity": "Uncommon"
+	},
+	{
+		"type": "Water",
+		"region_id": 3,
+		"region_name": "Sinnoh",
+		"location": "Route 229",
+		"min_level": 40,
+		"max_level": 55,
+		"rarity": "Very Common"
+	},
+	{
+		"type": "Water",
+		"region_id": 3,
+		"region_name": "Sinnoh",
+		"location": "Route 229",
+		"min_level": 40,
+		"max_level": 55,
+		"rarity": "Horde"
+	},
+	{
+		"type": "Water",
+		"region_id": 3,
+		"region_name": "Sinnoh",
+		"location": "Route 229",
+		"min_level": 40,
+		"max_level": 55,
+		"rarity": "Very Common"
+	},
+	{
+		"type": "Water",
+		"region_id": 3,
+		"region_name": "Sinnoh",
+		"location": "Route 229",
+		"min_level": 40,
+		"max_level": 55,
+		"rarity": "Very Common"
+	},
+	{
+		"type": "Water",
+		"region_id": 3,
+		"region_name": "Sinnoh",
+		"location": "Route 229",
+		"min_level": 40,
+		"max_level": 55,
+		"rarity": "Uncommon"
+	},
+	{
+		"type": "Grass",
+		"region_id": 3,
+		"region_name": "Sinnoh",
+		"location": "Route 230",
+		"min_level": 48,
+		"max_level": 48,
+		"rarity": "Rare"
+	},
+	{
+		"type": "Water",
+		"region_id": 3,
+		"region_name": "Sinnoh",
+		"location": "Sunyshore City",
+		"min_level": 30,
+		"max_level": 40,
+		"rarity": "Common"
+	},
+	{
+		"type": "Water",
+		"region_id": 3,
+		"region_name": "Sinnoh",
+		"location": "Sunyshore City",
+		"min_level": 30,
+		"max_level": 40,
+		"rarity": "Common"
+	},
+	{
+		"type": "Water",
+		"region_id": 3,
+		"region_name": "Sinnoh",
+		"location": "Sunyshore City",
+		"min_level": 30,
+		"max_level": 40,
+		"rarity": "Common"
+	},
+	{
+		"type": "Water",
+		"region_id": 3,
+		"region_name": "Sinnoh",
+		"location": "Sunyshore City",
+		"min_level": 30,
+		"max_level": 40,
+		"rarity": "Uncommon"
+	},
+	{
+		"type": "Water",
+		"region_id": 3,
+		"region_name": "Sinnoh",
+		"location": "Valley Windworks",
+		"min_level": 20,
+		"max_level": 30,
+		"rarity": "Common"
+	},
+	{
+		"type": "Water",
+		"region_id": 3,
+		"region_name": "Sinnoh",
+		"location": "Valley Windworks",
+		"min_level": 20,
+		"max_level": 30,
+		"rarity": "Common"
+	},
+	{
+		"type": "Water",
+		"region_id": 3,
+		"region_name": "Sinnoh",
+		"location": "Valley Windworks",
+		"min_level": 20,
+		"max_level": 30,
+		"rarity": "Common"
+	},
+	{
+		"type": "Water",
+		"region_id": 3,
+		"region_name": "Sinnoh",
+		"location": "Valley Windworks",
+		"min_level": 20,
+		"max_level": 30,
+		"rarity": "Uncommon"
+	}
+]
+}

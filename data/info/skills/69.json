@@ -1,0 +1,12 @@
+{
+"id": 69,
+"name": "Seismic Toss",
+"skill_damage_type": "PHYSICAL",
+"base_power": 1,
+"base_accuracy": 100,
+"base_pp": 20,
+"priority": 0,
+"type": "FIGHTING",
+"target_type": 0,
+"true_damage": true
+}

@@ -1,0 +1,12 @@
+{
+"id": 49,
+"name": "SonicBoom",
+"skill_damage_type": "SPECIAL",
+"base_power": 1,
+"base_accuracy": 90,
+"base_pp": 20,
+"priority": 0,
+"type": "NORMAL",
+"target_type": 0,
+"true_damage": true
+}

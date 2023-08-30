@@ -1,0 +1,714 @@
+{
+"id": 43,
+"name": "Oddish",
+"exp_type": "MEDIUM_SLOW",
+"obtainable": true,
+"gender_ratio": 127,
+"height": 5,
+"weight": 54,
+"egg_groups": [
+	"plant"
+],
+"abilities": [
+	{
+		"id": 34,
+		"name": "Chlorophyll"
+	},
+	{
+		"id": 0,
+		"name": "--"
+	},
+	{
+		"id": 50,
+		"name": "Run Away"
+	}
+],
+"forms": [
+	{
+		"form_id": 0,
+		"id": 43,
+		"name": "Oddish"
+	}
+],
+"evolutions": [
+	{
+		"id": 44,
+		"name": "Gloom",
+		"type": "LEVEL",
+		"val": 21
+	}
+],
+"moves": [
+	{
+		"id": 71,
+		"name": "Absorb",
+		"type": "level",
+		"level": 1
+	},
+	{
+		"id": 74,
+		"name": "Growth",
+		"type": "level",
+		"level": 1
+	},
+	{
+		"id": 51,
+		"name": "Acid",
+		"type": "level",
+		"level": 4
+	},
+	{
+		"id": 230,
+		"name": "Sweet Scent",
+		"type": "level",
+		"level": 8
+	},
+	{
+		"id": 72,
+		"name": "Mega Drain",
+		"type": "level",
+		"level": 12
+	},
+	{
+		"id": 77,
+		"name": "PoisonPowder",
+		"type": "level",
+		"level": 12
+	},
+	{
+		"id": 78,
+		"name": "Stun Spore",
+		"type": "level",
+		"level": 13
+	},
+	{
+		"id": 79,
+		"name": "Sleep Powder",
+		"type": "level",
+		"level": 14
+	},
+	{
+		"id": 75,
+		"name": "Razor Leaf",
+		"type": "level",
+		"level": 18
+	},
+	{
+		"id": 202,
+		"name": "Giga Drain",
+		"type": "level",
+		"level": 20
+	},
+	{
+		"id": 381,
+		"name": "Lucky Chant",
+		"type": "level",
+		"level": 23
+	},
+	{
+		"id": 92,
+		"name": "Toxic",
+		"type": "level",
+		"level": 24
+	},
+	{
+		"id": 236,
+		"name": "Moonlight",
+		"type": "level",
+		"level": 36
+	},
+	{
+		"id": 363,
+		"name": "Natural Gift",
+		"type": "level",
+		"level": 39
+	},
+	{
+		"id": 80,
+		"name": "Petal Dance",
+		"type": "level",
+		"level": 40
+	},
+	{
+		"id": 76,
+		"name": "SolarBeam",
+		"type": "level",
+		"level": 46
+	},
+	{
+		"id": 175,
+		"name": "Flail",
+		"type": "egg_moves"
+	},
+	{
+		"id": 275,
+		"name": "Ingrain",
+		"type": "egg_moves"
+	},
+	{
+		"id": 298,
+		"name": "Teeter Dance",
+		"type": "egg_moves"
+	},
+	{
+		"id": 321,
+		"name": "Tickle",
+		"type": "egg_moves"
+	},
+	{
+		"id": 173,
+		"name": "Snore",
+		"type": "move_tutor"
+	},
+	{
+		"id": 235,
+		"name": "Synthesis",
+		"type": "move_tutor"
+	},
+	{
+		"id": 380,
+		"name": "Gastro Acid",
+		"type": "move_tutor"
+	},
+	{
+		"id": 388,
+		"name": "Worry Seed",
+		"type": "move_tutor"
+	},
+	{
+		"id": 495,
+		"name": "After You",
+		"type": "move_tutor"
+	},
+	{
+		"id": 73,
+		"name": "Leech Seed",
+		"type": "special_moves"
+	},
+	{
+		"id": 14,
+		"name": "Swords Dance",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 15,
+		"name": "Cut",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 29,
+		"name": "Headbutt",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 36,
+		"name": "Take Down",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 38,
+		"name": "Double-Edge",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 72,
+		"name": "Mega Drain",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 76,
+		"name": "SolarBeam",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 92,
+		"name": "Toxic",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 99,
+		"name": "Rage",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 102,
+		"name": "Mimic",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 104,
+		"name": "Double Team",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 115,
+		"name": "Reflect",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 117,
+		"name": "Bide",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 148,
+		"name": "Flash",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 156,
+		"name": "Rest",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 164,
+		"name": "Substitute",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 174,
+		"name": "Curse",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 182,
+		"name": "Protect",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 188,
+		"name": "Sludge Bomb",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 202,
+		"name": "Giga Drain",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 203,
+		"name": "Endure",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 204,
+		"name": "Charm",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 207,
+		"name": "Swagger",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 213,
+		"name": "Attract",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 214,
+		"name": "Sleep Talk",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 216,
+		"name": "Return",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 218,
+		"name": "Frustration",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 230,
+		"name": "Sweet Scent",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 237,
+		"name": "Hidden Power",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 241,
+		"name": "Sunny Day",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 263,
+		"name": "Facade",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 267,
+		"name": "Nature Power",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 290,
+		"name": "Secret Power",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 331,
+		"name": "Bullet Seed",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 363,
+		"name": "Natural Gift",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 402,
+		"name": "Seed Bomb",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 412,
+		"name": "Energy Ball",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 445,
+		"name": "Captivate",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 447,
+		"name": "Grass Knot",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 474,
+		"name": "Venoshock",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 496,
+		"name": "Round",
+		"type": "move_learner_tools"
+	}
+],
+"types": [
+	"GRASS",
+	"POISON"
+],
+"stats": {
+	"hp": 45,
+	"attack": 50,
+	"defense": 55,
+	"speed": 30,
+	"sp_attack": 75,
+	"sp_defense": 65
+},
+"yields": {
+	"exp": 64,
+	"ev_hp": 0,
+	"ev_attack": 0,
+	"ev_defense": 0,
+	"ev_speed": 0,
+	"ev_sp_attack": 1,
+	"ev_sp_defense": 0
+},
+"tiers": [
+	"Untiered"
+],
+"held_items": [
+	{
+		"id": 5545,
+		"name": "Absorb Bulb"
+	}
+],
+"locations": [
+	{
+		"type": "Grass",
+		"region_id": 0,
+		"region_name": "Kanto",
+		"location": "BERRY FOREST",
+		"min_level": 41,
+		"max_level": 43,
+		"rarity": "Rare"
+	},
+	{
+		"type": "Grass",
+		"region_id": 0,
+		"region_name": "Kanto",
+		"location": "BOND BRIDGE",
+		"min_level": 40,
+		"max_level": 42,
+		"rarity": "Uncommon"
+	},
+	{
+		"type": "Grass",
+		"region_id": 0,
+		"region_name": "Kanto",
+		"location": "CAPE BRINK",
+		"min_level": 39,
+		"max_level": 41,
+		"rarity": "Rare"
+	},
+	{
+		"type": "Grass",
+		"region_id": 0,
+		"region_name": "Kanto",
+		"location": "ROUTE 2",
+		"min_level": 3,
+		"max_level": 4,
+		"rarity": "Uncommon"
+	},
+	{
+		"type": "Grass",
+		"region_id": 0,
+		"region_name": "Kanto",
+		"location": "ROUTE 5",
+		"min_level": 12,
+		"max_level": 15,
+		"rarity": "Uncommon"
+	},
+	{
+		"type": "Grass",
+		"region_id": 0,
+		"region_name": "Kanto",
+		"location": "ROUTE 6",
+		"min_level": 12,
+		"max_level": 15,
+		"rarity": "Uncommon"
+	},
+	{
+		"type": "Grass",
+		"region_id": 0,
+		"region_name": "Kanto",
+		"location": "ROUTE 7",
+		"min_level": 18,
+		"max_level": 20,
+		"rarity": "Uncommon"
+	},
+	{
+		"type": "Grass",
+		"region_id": 0,
+		"region_name": "Kanto",
+		"location": "ROUTE 12",
+		"min_level": 22,
+		"max_level": 26,
+		"rarity": "Uncommon"
+	},
+	{
+		"type": "Grass",
+		"region_id": 0,
+		"region_name": "Kanto",
+		"location": "ROUTE 13",
+		"min_level": 22,
+		"max_level": 26,
+		"rarity": "Uncommon"
+	},
+	{
+		"type": "Grass",
+		"region_id": 0,
+		"region_name": "Kanto",
+		"location": "ROUTE 13 (Night/Morning)",
+		"min_level": 22,
+		"max_level": 23,
+		"rarity": "Horde"
+	},
+	{
+		"type": "Grass",
+		"region_id": 0,
+		"region_name": "Kanto",
+		"location": "ROUTE 14",
+		"min_level": 24,
+		"max_level": 26,
+		"rarity": "Rare"
+	},
+	{
+		"type": "Grass",
+		"region_id": 0,
+		"region_name": "Kanto",
+		"location": "ROUTE 15",
+		"min_level": 24,
+		"max_level": 26,
+		"rarity": "Rare"
+	},
+	{
+		"type": "Grass",
+		"region_id": 0,
+		"region_name": "Kanto",
+		"location": "ROUTE 21",
+		"min_level": 27,
+		"max_level": 29,
+		"rarity": "Uncommon"
+	},
+	{
+		"type": "Grass",
+		"region_id": 0,
+		"region_name": "Kanto",
+		"location": "ROUTE 24",
+		"min_level": 12,
+		"max_level": 14,
+		"rarity": "Uncommon"
+	},
+	{
+		"type": "Grass",
+		"region_id": 0,
+		"region_name": "Kanto",
+		"location": "ROUTE 25",
+		"min_level": 12,
+		"max_level": 14,
+		"rarity": "Uncommon"
+	},
+	{
+		"type": "Grass",
+		"region_id": 0,
+		"region_name": "Kanto",
+		"location": "ROUTE 25 (Night/Morning)",
+		"min_level": 8,
+		"max_level": 10,
+		"rarity": "Horde"
+	},
+	{
+		"type": "Grass",
+		"region_id": 0,
+		"region_name": "Kanto",
+		"location": "VIRIDIAN FOREST",
+		"min_level": 4,
+		"max_level": 6,
+		"rarity": "Uncommon"
+	},
+	{
+		"type": "Grass",
+		"region_id": 0,
+		"region_name": "Kanto",
+		"location": "WATER PATH",
+		"min_level": 48,
+		"max_level": 50,
+		"rarity": "Rare"
+	},
+	{
+		"type": "Grass",
+		"region_id": 1,
+		"region_name": "Hoenn",
+		"location": "ROUTE 102",
+		"min_level": 7,
+		"max_level": 7,
+		"rarity": "Lure"
+	},
+	{
+		"type": "Grass",
+		"region_id": 1,
+		"region_name": "Hoenn",
+		"location": "ROUTE 110",
+		"min_level": 13,
+		"max_level": 13,
+		"rarity": "Uncommon"
+	},
+	{
+		"type": "Grass",
+		"region_id": 1,
+		"region_name": "Hoenn",
+		"location": "ROUTE 117",
+		"min_level": 14,
+		"max_level": 14,
+		"rarity": "Uncommon"
+	},
+	{
+		"type": "Grass",
+		"region_id": 1,
+		"region_name": "Hoenn",
+		"location": "ROUTE 117 (Night)",
+		"min_level": 11,
+		"max_level": 12,
+		"rarity": "Horde"
+	},
+	{
+		"type": "Grass",
+		"region_id": 1,
+		"region_name": "Hoenn",
+		"location": "ROUTE 119",
+		"min_level": 24,
+		"max_level": 27,
+		"rarity": "Common"
+	},
+	{
+		"type": "Grass",
+		"region_id": 1,
+		"region_name": "Hoenn",
+		"location": "ROUTE 120",
+		"min_level": 25,
+		"max_level": 27,
+		"rarity": "Uncommon"
+	},
+	{
+		"type": "Grass",
+		"region_id": 1,
+		"region_name": "Hoenn",
+		"location": "ROUTE 121",
+		"min_level": 27,
+		"max_level": 29,
+		"rarity": "Uncommon"
+	},
+	{
+		"type": "Grass",
+		"region_id": 1,
+		"region_name": "Hoenn",
+		"location": "ROUTE 123",
+		"min_level": 28,
+		"max_level": 30,
+		"rarity": "Rare"
+	},
+	{
+		"type": "Grass",
+		"region_id": 1,
+		"region_name": "Hoenn",
+		"location": "SAFARI ZONE",
+		"min_level": 27,
+		"max_level": 29,
+		"rarity": "Common"
+	},
+	{
+		"type": "Grass",
+		"region_id": 3,
+		"region_name": "Sinnoh",
+		"location": "Route 224 (Night)",
+		"min_level": 49,
+		"max_level": 49,
+		"rarity": "Uncommon"
+	},
+	{
+		"type": "Grass",
+		"region_id": 3,
+		"region_name": "Sinnoh",
+		"location": "Route 229",
+		"min_level": 47,
+		"max_level": 50,
+		"rarity": "Rare"
+	},
+	{
+		"type": "Grass",
+		"region_id": 3,
+		"region_name": "Sinnoh",
+		"location": "Route 230 (Night)",
+		"min_level": 47,
+		"max_level": 47,
+		"rarity": "Uncommon"
+	},
+	{
+		"type": "Cave",
+		"region_id": 4,
+		"region_name": "Johto",
+		"location": "Ilex Forest (Night)",
+		"min_level": 12,
+		"max_level": 14,
+		"rarity": "Very Common"
+	},
+	{
+		"type": "Cave",
+		"region_id": 4,
+		"region_name": "Johto",
+		"location": "Safari Zone (Night)",
+		"min_level": 28,
+		"max_level": 31,
+		"rarity": "Very Rare"
+	}
+]
+}

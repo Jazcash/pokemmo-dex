@@ -1,0 +1,12 @@
+{
+"id": 314,
+"name": "Air Cutter",
+"skill_damage_type": "SPECIAL",
+"base_power": 60,
+"base_accuracy": 95,
+"base_pp": 25,
+"priority": 0,
+"type": "FLYING",
+"target_type": 5,
+"true_damage": false
+}

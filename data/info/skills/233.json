@@ -1,0 +1,12 @@
+{
+"id": 233,
+"name": "Vital Throw",
+"skill_damage_type": "PHYSICAL",
+"base_power": 70,
+"base_accuracy": 101,
+"base_pp": 10,
+"priority": -1,
+"type": "FIGHTING",
+"target_type": 0,
+"true_damage": false
+}

@@ -1,0 +1,3419 @@
+{
+"id": 72,
+"name": "Tentacool",
+"exp_type": "SLOW",
+"obtainable": true,
+"gender_ratio": 127,
+"height": 9,
+"weight": 455,
+"egg_groups": [
+	"water c"
+],
+"abilities": [
+	{
+		"id": 29,
+		"name": "Clear Body"
+	},
+	{
+		"id": 64,
+		"name": "Liquid Ooze"
+	},
+	{
+		"id": 44,
+		"name": "Rain Dish"
+	}
+],
+"forms": [
+	{
+		"form_id": 0,
+		"id": 72,
+		"name": "Tentacool"
+	}
+],
+"evolutions": [
+	{
+		"id": 73,
+		"name": "Tentacruel",
+		"type": "LEVEL",
+		"val": 30
+	}
+],
+"moves": [
+	{
+		"id": 40,
+		"name": "Poison Sting",
+		"type": "level",
+		"level": 1
+	},
+	{
+		"id": 55,
+		"name": "Water Gun",
+		"type": "level",
+		"level": 1
+	},
+	{
+		"id": 51,
+		"name": "Acid",
+		"type": "level",
+		"level": 4
+	},
+	{
+		"id": 132,
+		"name": "Constrict",
+		"type": "level",
+		"level": 4
+	},
+	{
+		"id": 145,
+		"name": "Bubble",
+		"type": "level",
+		"level": 6
+	},
+	{
+		"id": 35,
+		"name": "Wrap",
+		"type": "level",
+		"level": 8
+	},
+	{
+		"id": 48,
+		"name": "Supersonic",
+		"type": "level",
+		"level": 9
+	},
+	{
+		"id": 390,
+		"name": "Toxic Spikes",
+		"type": "level",
+		"level": 13
+	},
+	{
+		"id": 352,
+		"name": "Water Pulse",
+		"type": "level",
+		"level": 16
+	},
+	{
+		"id": 61,
+		"name": "BubbleBeam",
+		"type": "level",
+		"level": 18
+	},
+	{
+		"id": 103,
+		"name": "Screech",
+		"type": "level",
+		"level": 20
+	},
+	{
+		"id": 55,
+		"name": "Water Gun",
+		"type": "level",
+		"level": 22
+	},
+	{
+		"id": 491,
+		"name": "Acid Spray",
+		"type": "level",
+		"level": 22
+	},
+	{
+		"id": 57,
+		"name": "Surf",
+		"type": "level",
+		"level": 27
+	},
+	{
+		"id": 112,
+		"name": "Barrier",
+		"type": "level",
+		"level": 28
+	},
+	{
+		"id": 506,
+		"name": "Hex",
+		"type": "level",
+		"level": 28
+	},
+	{
+		"id": 151,
+		"name": "Acid Armor",
+		"type": "level",
+		"level": 32
+	},
+	{
+		"id": 362,
+		"name": "Brine",
+		"type": "level",
+		"level": 34
+	},
+	{
+		"id": 398,
+		"name": "Poison Jab",
+		"type": "level",
+		"level": 36
+	},
+	{
+		"id": 482,
+		"name": "Sludge Wave",
+		"type": "level",
+		"level": 44
+	},
+	{
+		"id": 56,
+		"name": "Hydro Pump",
+		"type": "level",
+		"level": 45
+	},
+	{
+		"id": 378,
+		"name": "Wring Out",
+		"type": "level",
+		"level": 49
+	},
+	{
+		"id": 62,
+		"name": "Aurora Beam",
+		"type": "egg_moves"
+	},
+	{
+		"id": 114,
+		"name": "Haze",
+		"type": "egg_moves"
+	},
+	{
+		"id": 229,
+		"name": "Rapid Spin",
+		"type": "egg_moves"
+	},
+	{
+		"id": 243,
+		"name": "Mirror Coat",
+		"type": "egg_moves"
+	},
+	{
+		"id": 321,
+		"name": "Tickle",
+		"type": "egg_moves"
+	},
+	{
+		"id": 367,
+		"name": "Acupressure",
+		"type": "egg_moves"
+	},
+	{
+		"id": 392,
+		"name": "Aqua Ring",
+		"type": "egg_moves"
+	},
+	{
+		"id": 20,
+		"name": "Bind",
+		"type": "move_tutor"
+	},
+	{
+		"id": 173,
+		"name": "Snore",
+		"type": "move_tutor"
+	},
+	{
+		"id": 277,
+		"name": "Magic Coat",
+		"type": "move_tutor"
+	},
+	{
+		"id": 282,
+		"name": "Knock Off",
+		"type": "move_tutor"
+	},
+	{
+		"id": 14,
+		"name": "Swords Dance",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 15,
+		"name": "Cut",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 29,
+		"name": "Headbutt",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 36,
+		"name": "Take Down",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 38,
+		"name": "Double-Edge",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 55,
+		"name": "Water Gun",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 56,
+		"name": "Hydro Pump",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 57,
+		"name": "Surf",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 58,
+		"name": "Ice Beam",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 59,
+		"name": "Blizzard",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 61,
+		"name": "BubbleBeam",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 72,
+		"name": "Mega Drain",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 92,
+		"name": "Toxic",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 99,
+		"name": "Rage",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 102,
+		"name": "Mimic",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 103,
+		"name": "Screech",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 104,
+		"name": "Double Team",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 109,
+		"name": "Confuse Ray",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 115,
+		"name": "Reflect",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 117,
+		"name": "Bide",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 127,
+		"name": "Waterfall",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 130,
+		"name": "Skull Bash",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 156,
+		"name": "Rest",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 164,
+		"name": "Substitute",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 168,
+		"name": "Thief",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 174,
+		"name": "Curse",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 182,
+		"name": "Protect",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 188,
+		"name": "Sludge Bomb",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 196,
+		"name": "Icy Wind",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 202,
+		"name": "Giga Drain",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 203,
+		"name": "Endure",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 207,
+		"name": "Swagger",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 213,
+		"name": "Attract",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 214,
+		"name": "Sleep Talk",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 216,
+		"name": "Return",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 218,
+		"name": "Frustration",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 219,
+		"name": "Safeguard",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 237,
+		"name": "Hidden Power",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 240,
+		"name": "Rain Dance",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 250,
+		"name": "Whirlpool",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 258,
+		"name": "Snowscape",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 263,
+		"name": "Facade",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 290,
+		"name": "Secret Power",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 291,
+		"name": "Dive",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 330,
+		"name": "Muddy Water",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 352,
+		"name": "Water Pulse",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 362,
+		"name": "Brine",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 363,
+		"name": "Natural Gift",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 371,
+		"name": "Payback",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 390,
+		"name": "Toxic Spikes",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 398,
+		"name": "Poison Jab",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 440,
+		"name": "Cross Poison",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 445,
+		"name": "Captivate",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 474,
+		"name": "Venoshock",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 482,
+		"name": "Sludge Wave",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 491,
+		"name": "Acid Spray",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 496,
+		"name": "Round",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 503,
+		"name": "Scald",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 506,
+		"name": "Hex",
+		"type": "move_learner_tools"
+	}
+],
+"types": [
+	"WATER",
+	"POISON"
+],
+"stats": {
+	"hp": 40,
+	"attack": 40,
+	"defense": 35,
+	"speed": 70,
+	"sp_attack": 50,
+	"sp_defense": 100
+},
+"yields": {
+	"exp": 67,
+	"ev_hp": 0,
+	"ev_attack": 0,
+	"ev_defense": 0,
+	"ev_speed": 0,
+	"ev_sp_attack": 0,
+	"ev_sp_defense": 1
+},
+"tiers": [
+	"Untiered"
+],
+"held_items": [
+	{
+		"id": 5245,
+		"name": "Poison Barb"
+	}
+],
+"locations": [
+	{
+		"type": "Water",
+		"region_id": 0,
+		"region_name": "Kanto",
+		"location": "BOND BRIDGE",
+		"min_level": 30,
+		"max_level": 40,
+		"rarity": "Very Common"
+	},
+	{
+		"type": "Water",
+		"region_id": 0,
+		"region_name": "Kanto",
+		"location": "BOND BRIDGE",
+		"min_level": 30,
+		"max_level": 40,
+		"rarity": "Horde"
+	},
+	{
+		"type": "Water",
+		"region_id": 0,
+		"region_name": "Kanto",
+		"location": "CERULEAN CITY",
+		"min_level": 30,
+		"max_level": 35,
+		"rarity": "Common"
+	},
+	{
+		"type": "Water",
+		"region_id": 0,
+		"region_name": "Kanto",
+		"location": "CINNABAR ISLAND",
+		"min_level": 30,
+		"max_level": 35,
+		"rarity": "Very Common"
+	},
+	{
+		"type": "Water",
+		"region_id": 0,
+		"region_name": "Kanto",
+		"location": "CINNABAR ISLAND",
+		"min_level": 30,
+		"max_level": 35,
+		"rarity": "Horde"
+	},
+	{
+		"type": "Old Rod",
+		"region_id": 0,
+		"region_name": "Kanto",
+		"location": "CINNABAR ISLAND",
+		"min_level": 5,
+		"max_level": 10,
+		"rarity": "Uncommon"
+	},
+	{
+		"type": "Water",
+		"region_id": 0,
+		"region_name": "Kanto",
+		"location": "FIVE ISLAND",
+		"min_level": 40,
+		"max_level": 50,
+		"rarity": "Very Common"
+	},
+	{
+		"type": "Water",
+		"region_id": 0,
+		"region_name": "Kanto",
+		"location": "FIVE ISLE MEADOW",
+		"min_level": 40,
+		"max_level": 50,
+		"rarity": "Very Common"
+	},
+	{
+		"type": "Water",
+		"region_id": 0,
+		"region_name": "Kanto",
+		"location": "GREEN PATH",
+		"min_level": 40,
+		"max_level": 50,
+		"rarity": "Very Common"
+	},
+	{
+		"type": "Water",
+		"region_id": 0,
+		"region_name": "Kanto",
+		"location": "ICEFALL CAVE",
+		"min_level": 40,
+		"max_level": 50,
+		"rarity": "Common"
+	},
+	{
+		"type": "Water",
+		"region_id": 0,
+		"region_name": "Kanto",
+		"location": "ICEFALL CAVE",
+		"min_level": 40,
+		"max_level": 50,
+		"rarity": "Horde"
+	},
+	{
+		"type": "Water",
+		"region_id": 0,
+		"region_name": "Kanto",
+		"location": "KINDLE ROAD",
+		"min_level": 30,
+		"max_level": 40,
+		"rarity": "Very Common"
+	},
+	{
+		"type": "Water",
+		"region_id": 0,
+		"region_name": "Kanto",
+		"location": "KINDLE ROAD",
+		"min_level": 30,
+		"max_level": 40,
+		"rarity": "Horde"
+	},
+	{
+		"type": "Water",
+		"region_id": 0,
+		"region_name": "Kanto",
+		"location": "MEMORIAL PILLAR",
+		"min_level": 40,
+		"max_level": 50,
+		"rarity": "Very Common"
+	},
+	{
+		"type": "Water",
+		"region_id": 0,
+		"region_name": "Kanto",
+		"location": "ONE ISLAND",
+		"min_level": 30,
+		"max_level": 40,
+		"rarity": "Very Common"
+	},
+	{
+		"type": "Water",
+		"region_id": 0,
+		"region_name": "Kanto",
+		"location": "ONE ISLAND",
+		"min_level": 30,
+		"max_level": 40,
+		"rarity": "Horde"
+	},
+	{
+		"type": "Water",
+		"region_id": 0,
+		"region_name": "Kanto",
+		"location": "OUTCAST ISLAND",
+		"min_level": 40,
+		"max_level": 50,
+		"rarity": "Very Common"
+	},
+	{
+		"type": "Water",
+		"region_id": 0,
+		"region_name": "Kanto",
+		"location": "PALLET TOWN",
+		"min_level": 30,
+		"max_level": 35,
+		"rarity": "Very Common"
+	},
+	{
+		"type": "Water",
+		"region_id": 0,
+		"region_name": "Kanto",
+		"location": "PALLET TOWN",
+		"min_level": 30,
+		"max_level": 35,
+		"rarity": "Horde"
+	},
+	{
+		"type": "Old Rod",
+		"region_id": 0,
+		"region_name": "Kanto",
+		"location": "PALLET TOWN",
+		"min_level": 5,
+		"max_level": 10,
+		"rarity": "Uncommon"
+	},
+	{
+		"type": "Good Rod",
+		"region_id": 0,
+		"region_name": "Kanto",
+		"location": "PALLET TOWN",
+		"min_level": 10,
+		"max_level": 25,
+		"rarity": "Uncommon"
+	},
+	{
+		"type": "Water",
+		"region_id": 0,
+		"region_name": "Kanto",
+		"location": "RESORT GORGEOUS",
+		"min_level": 40,
+		"max_level": 50,
+		"rarity": "Very Common"
+	},
+	{
+		"type": "Water",
+		"region_id": 0,
+		"region_name": "Kanto",
+		"location": "ROUTE 4",
+		"min_level": 30,
+		"max_level": 35,
+		"rarity": "Very Common"
+	},
+	{
+		"type": "Water",
+		"region_id": 0,
+		"region_name": "Kanto",
+		"location": "ROUTE 4",
+		"min_level": 30,
+		"max_level": 35,
+		"rarity": "Horde"
+	},
+	{
+		"type": "Water",
+		"region_id": 0,
+		"region_name": "Kanto",
+		"location": "ROUTE 10",
+		"min_level": 30,
+		"max_level": 35,
+		"rarity": "Very Common"
+	},
+	{
+		"type": "Water",
+		"region_id": 0,
+		"region_name": "Kanto",
+		"location": "ROUTE 11",
+		"min_level": 30,
+		"max_level": 35,
+		"rarity": "Very Common"
+	},
+	{
+		"type": "Water",
+		"region_id": 0,
+		"region_name": "Kanto",
+		"location": "ROUTE 11",
+		"min_level": 30,
+		"max_level": 35,
+		"rarity": "Horde"
+	},
+	{
+		"type": "Super Rod",
+		"region_id": 0,
+		"region_name": "Kanto",
+		"location": "ROUTE 11",
+		"min_level": 25,
+		"max_level": 40,
+		"rarity": "Rare"
+	},
+	{
+		"type": "Water",
+		"region_id": 0,
+		"region_name": "Kanto",
+		"location": "ROUTE 12",
+		"min_level": 30,
+		"max_level": 35,
+		"rarity": "Very Common"
+	},
+	{
+		"type": "Old Rod",
+		"region_id": 0,
+		"region_name": "Kanto",
+		"location": "ROUTE 12",
+		"min_level": 5,
+		"max_level": 10,
+		"rarity": "Uncommon"
+	},
+	{
+		"type": "Good Rod",
+		"region_id": 0,
+		"region_name": "Kanto",
+		"location": "ROUTE 12",
+		"min_level": 10,
+		"max_level": 25,
+		"rarity": "Uncommon"
+	},
+	{
+		"type": "Super Rod",
+		"region_id": 0,
+		"region_name": "Kanto",
+		"location": "ROUTE 12",
+		"min_level": 25,
+		"max_level": 40,
+		"rarity": "Uncommon"
+	},
+	{
+		"type": "Water",
+		"region_id": 0,
+		"region_name": "Kanto",
+		"location": "ROUTE 13",
+		"min_level": 30,
+		"max_level": 35,
+		"rarity": "Very Common"
+	},
+	{
+		"type": "Old Rod",
+		"region_id": 0,
+		"region_name": "Kanto",
+		"location": "ROUTE 13",
+		"min_level": 5,
+		"max_level": 10,
+		"rarity": "Uncommon"
+	},
+	{
+		"type": "Good Rod",
+		"region_id": 0,
+		"region_name": "Kanto",
+		"location": "ROUTE 13",
+		"min_level": 10,
+		"max_level": 25,
+		"rarity": "Uncommon"
+	},
+	{
+		"type": "Super Rod",
+		"region_id": 0,
+		"region_name": "Kanto",
+		"location": "ROUTE 13",
+		"min_level": 25,
+		"max_level": 40,
+		"rarity": "Uncommon"
+	},
+	{
+		"type": "Water",
+		"region_id": 0,
+		"region_name": "Kanto",
+		"location": "ROUTE 19",
+		"min_level": 30,
+		"max_level": 35,
+		"rarity": "Very Common"
+	},
+	{
+		"type": "Water",
+		"region_id": 0,
+		"region_name": "Kanto",
+		"location": "ROUTE 19",
+		"min_level": 30,
+		"max_level": 35,
+		"rarity": "Horde"
+	},
+	{
+		"type": "Water",
+		"region_id": 0,
+		"region_name": "Kanto",
+		"location": "ROUTE 20",
+		"min_level": 30,
+		"max_level": 35,
+		"rarity": "Very Common"
+	},
+	{
+		"type": "Water",
+		"region_id": 0,
+		"region_name": "Kanto",
+		"location": "ROUTE 20",
+		"min_level": 30,
+		"max_level": 35,
+		"rarity": "Horde"
+	},
+	{
+		"type": "Old Rod",
+		"region_id": 0,
+		"region_name": "Kanto",
+		"location": "ROUTE 20",
+		"min_level": 5,
+		"max_level": 10,
+		"rarity": "Uncommon"
+	},
+	{
+		"type": "Good Rod",
+		"region_id": 0,
+		"region_name": "Kanto",
+		"location": "ROUTE 20",
+		"min_level": 10,
+		"max_level": 25,
+		"rarity": "Common"
+	},
+	{
+		"type": "Water",
+		"region_id": 0,
+		"region_name": "Kanto",
+		"location": "ROUTE 21",
+		"min_level": 30,
+		"max_level": 35,
+		"rarity": "Very Common"
+	},
+	{
+		"type": "Water",
+		"region_id": 0,
+		"region_name": "Kanto",
+		"location": "ROUTE 21",
+		"min_level": 30,
+		"max_level": 35,
+		"rarity": "Horde"
+	},
+	{
+		"type": "Old Rod",
+		"region_id": 0,
+		"region_name": "Kanto",
+		"location": "ROUTE 21",
+		"min_level": 5,
+		"max_level": 10,
+		"rarity": "Uncommon"
+	},
+	{
+		"type": "Good Rod",
+		"region_id": 0,
+		"region_name": "Kanto",
+		"location": "ROUTE 21",
+		"min_level": 10,
+		"max_level": 25,
+		"rarity": "Uncommon"
+	},
+	{
+		"type": "Water",
+		"region_id": 0,
+		"region_name": "Kanto",
+		"location": "ROUTE 24",
+		"min_level": 30,
+		"max_level": 35,
+		"rarity": "Very Common"
+	},
+	{
+		"type": "Water",
+		"region_id": 0,
+		"region_name": "Kanto",
+		"location": "ROUTE 24",
+		"min_level": 30,
+		"max_level": 35,
+		"rarity": "Horde"
+	},
+	{
+		"type": "Water",
+		"region_id": 0,
+		"region_name": "Kanto",
+		"location": "S.S. ANNE",
+		"min_level": 30,
+		"max_level": 35,
+		"rarity": "Very Common"
+	},
+	{
+		"type": "Water",
+		"region_id": 0,
+		"region_name": "Kanto",
+		"location": "S.S. ANNE",
+		"min_level": 30,
+		"max_level": 35,
+		"rarity": "Horde"
+	},
+	{
+		"type": "Old Rod",
+		"region_id": 0,
+		"region_name": "Kanto",
+		"location": "S.S. ANNE",
+		"min_level": 5,
+		"max_level": 10,
+		"rarity": "Uncommon"
+	},
+	{
+		"type": "Super Rod",
+		"region_id": 0,
+		"region_name": "Kanto",
+		"location": "S.S. ANNE",
+		"min_level": 25,
+		"max_level": 40,
+		"rarity": "Rare"
+	},
+	{
+		"type": "Water",
+		"region_id": 0,
+		"region_name": "Kanto",
+		"location": "TANOBY RUINS",
+		"min_level": 40,
+		"max_level": 50,
+		"rarity": "Very Common"
+	},
+	{
+		"type": "Water",
+		"region_id": 0,
+		"region_name": "Kanto",
+		"location": "TRAINER TOWER",
+		"min_level": 40,
+		"max_level": 50,
+		"rarity": "Very Common"
+	},
+	{
+		"type": "Water",
+		"region_id": 0,
+		"region_name": "Kanto",
+		"location": "TREASURE BEACH",
+		"min_level": 30,
+		"max_level": 40,
+		"rarity": "Very Common"
+	},
+	{
+		"type": "Water",
+		"region_id": 0,
+		"region_name": "Kanto",
+		"location": "VERMILION CITY",
+		"min_level": 30,
+		"max_level": 35,
+		"rarity": "Very Common"
+	},
+	{
+		"type": "Water",
+		"region_id": 0,
+		"region_name": "Kanto",
+		"location": "VERMILION CITY",
+		"min_level": 30,
+		"max_level": 35,
+		"rarity": "Horde"
+	},
+	{
+		"type": "Old Rod",
+		"region_id": 0,
+		"region_name": "Kanto",
+		"location": "VERMILION CITY",
+		"min_level": 5,
+		"max_level": 10,
+		"rarity": "Uncommon"
+	},
+	{
+		"type": "Super Rod",
+		"region_id": 0,
+		"region_name": "Kanto",
+		"location": "VERMILION CITY",
+		"min_level": 25,
+		"max_level": 40,
+		"rarity": "Rare"
+	},
+	{
+		"type": "Super Rod",
+		"region_id": 0,
+		"region_name": "Kanto",
+		"location": "VIRIDIAN CITY",
+		"min_level": 25,
+		"max_level": 40,
+		"rarity": "Rare"
+	},
+	{
+		"type": "Water",
+		"region_id": 0,
+		"region_name": "Kanto",
+		"location": "WATER LABYRINTH",
+		"min_level": 40,
+		"max_level": 50,
+		"rarity": "Very Common"
+	},
+	{
+		"type": "Water",
+		"region_id": 0,
+		"region_name": "Kanto",
+		"location": "WATER PATH",
+		"min_level": 40,
+		"max_level": 50,
+		"rarity": "Very Common"
+	},
+	{
+		"type": "Water",
+		"region_id": 1,
+		"region_name": "Hoenn",
+		"location": "ABANDONED SHIP",
+		"min_level": 20,
+		"max_level": 30,
+		"rarity": "Very Common"
+	},
+	{
+		"type": "Water",
+		"region_id": 1,
+		"region_name": "Hoenn",
+		"location": "ABANDONED SHIP",
+		"min_level": 20,
+		"max_level": 30,
+		"rarity": "Horde"
+	},
+	{
+		"type": "Old Rod",
+		"region_id": 1,
+		"region_name": "Hoenn",
+		"location": "ABANDONED SHIP",
+		"min_level": 5,
+		"max_level": 15,
+		"rarity": "Very Common"
+	},
+	{
+		"type": "Good Rod",
+		"region_id": 1,
+		"region_name": "Hoenn",
+		"location": "ABANDONED SHIP",
+		"min_level": 15,
+		"max_level": 30,
+		"rarity": "Very Common"
+	},
+	{
+		"type": "Super Rod",
+		"region_id": 1,
+		"region_name": "Hoenn",
+		"location": "ABANDONED SHIP",
+		"min_level": 30,
+		"max_level": 40,
+		"rarity": "Very Common"
+	},
+	{
+		"type": "Water",
+		"region_id": 1,
+		"region_name": "Hoenn",
+		"location": "AQUA HIDEOUT",
+		"min_level": 20,
+		"max_level": 30,
+		"rarity": "Very Common"
+	},
+	{
+		"type": "Water",
+		"region_id": 1,
+		"region_name": "Hoenn",
+		"location": "AQUA HIDEOUT",
+		"min_level": 25,
+		"max_level": 30,
+		"rarity": "Horde"
+	},
+	{
+		"type": "Old Rod",
+		"region_id": 1,
+		"region_name": "Hoenn",
+		"location": "AQUA HIDEOUT",
+		"min_level": 5,
+		"max_level": 15,
+		"rarity": "Very Common"
+	},
+	{
+		"type": "Good Rod",
+		"region_id": 1,
+		"region_name": "Hoenn",
+		"location": "AQUA HIDEOUT",
+		"min_level": 15,
+		"max_level": 30,
+		"rarity": "Common"
+	},
+	{
+		"type": "Old Rod",
+		"region_id": 1,
+		"region_name": "Hoenn",
+		"location": "BATTLE FRONTIER",
+		"min_level": 5,
+		"max_level": 15,
+		"rarity": "Very Common"
+	},
+	{
+		"type": "Good Rod",
+		"region_id": 1,
+		"region_name": "Hoenn",
+		"location": "BATTLE FRONTIER",
+		"min_level": 15,
+		"max_level": 30,
+		"rarity": "Common"
+	},
+	{
+		"type": "Water",
+		"region_id": 1,
+		"region_name": "Hoenn",
+		"location": "DEWFORD TOWN",
+		"min_level": 20,
+		"max_level": 30,
+		"rarity": "Very Common"
+	},
+	{
+		"type": "Water",
+		"region_id": 1,
+		"region_name": "Hoenn",
+		"location": "DEWFORD TOWN",
+		"min_level": 20,
+		"max_level": 30,
+		"rarity": "Horde"
+	},
+	{
+		"type": "Water",
+		"region_id": 1,
+		"region_name": "Hoenn",
+		"location": "DEWFORD TOWN",
+		"min_level": 20,
+		"max_level": 30,
+		"rarity": "Very Common"
+	},
+	{
+		"type": "Water",
+		"region_id": 1,
+		"region_name": "Hoenn",
+		"location": "DEWFORD TOWN",
+		"min_level": 20,
+		"max_level": 30,
+		"rarity": "Very Common"
+	},
+	{
+		"type": "Water",
+		"region_id": 1,
+		"region_name": "Hoenn",
+		"location": "DEWFORD TOWN",
+		"min_level": 20,
+		"max_level": 30,
+		"rarity": "Very Common"
+	},
+	{
+		"type": "Old Rod",
+		"region_id": 1,
+		"region_name": "Hoenn",
+		"location": "DEWFORD TOWN",
+		"min_level": 5,
+		"max_level": 15,
+		"rarity": "Very Common"
+	},
+	{
+		"type": "Good Rod",
+		"region_id": 1,
+		"region_name": "Hoenn",
+		"location": "DEWFORD TOWN",
+		"min_level": 15,
+		"max_level": 30,
+		"rarity": "Common"
+	},
+	{
+		"type": "Water",
+		"region_id": 1,
+		"region_name": "Hoenn",
+		"location": "EVER GRANDE CITY",
+		"min_level": 30,
+		"max_level": 40,
+		"rarity": "Very Common"
+	},
+	{
+		"type": "Old Rod",
+		"region_id": 1,
+		"region_name": "Hoenn",
+		"location": "EVER GRANDE CITY",
+		"min_level": 5,
+		"max_level": 15,
+		"rarity": "Very Common"
+	},
+	{
+		"type": "Water",
+		"region_id": 1,
+		"region_name": "Hoenn",
+		"location": "LILYCOVE CITY",
+		"min_level": 25,
+		"max_level": 30,
+		"rarity": "Very Common"
+	},
+	{
+		"type": "Water",
+		"region_id": 1,
+		"region_name": "Hoenn",
+		"location": "LILYCOVE CITY",
+		"min_level": 25,
+		"max_level": 30,
+		"rarity": "Very Common"
+	},
+	{
+		"type": "Water",
+		"region_id": 1,
+		"region_name": "Hoenn",
+		"location": "LILYCOVE CITY",
+		"min_level": 25,
+		"max_level": 30,
+		"rarity": "Very Common"
+	},
+	{
+		"type": "Water",
+		"region_id": 1,
+		"region_name": "Hoenn",
+		"location": "LILYCOVE CITY",
+		"min_level": 25,
+		"max_level": 30,
+		"rarity": "Very Common"
+	},
+	{
+		"type": "Old Rod",
+		"region_id": 1,
+		"region_name": "Hoenn",
+		"location": "LILYCOVE CITY",
+		"min_level": 5,
+		"max_level": 15,
+		"rarity": "Very Common"
+	},
+	{
+		"type": "Good Rod",
+		"region_id": 1,
+		"region_name": "Hoenn",
+		"location": "LILYCOVE CITY",
+		"min_level": 15,
+		"max_level": 30,
+		"rarity": "Common"
+	},
+	{
+		"type": "Water",
+		"region_id": 1,
+		"region_name": "Hoenn",
+		"location": "MOSSDEEP CITY",
+		"min_level": 25,
+		"max_level": 35,
+		"rarity": "Very Common"
+	},
+	{
+		"type": "Old Rod",
+		"region_id": 1,
+		"region_name": "Hoenn",
+		"location": "MOSSDEEP CITY",
+		"min_level": 5,
+		"max_level": 15,
+		"rarity": "Very Common"
+	},
+	{
+		"type": "Good Rod",
+		"region_id": 1,
+		"region_name": "Hoenn",
+		"location": "MOSSDEEP CITY",
+		"min_level": 15,
+		"max_level": 30,
+		"rarity": "Common"
+	},
+	{
+		"type": "Water",
+		"region_id": 1,
+		"region_name": "Hoenn",
+		"location": "PACIFIDLOG TOWN",
+		"min_level": 30,
+		"max_level": 40,
+		"rarity": "Very Common"
+	},
+	{
+		"type": "Old Rod",
+		"region_id": 1,
+		"region_name": "Hoenn",
+		"location": "PACIFIDLOG TOWN",
+		"min_level": 5,
+		"max_level": 15,
+		"rarity": "Very Common"
+	},
+	{
+		"type": "Good Rod",
+		"region_id": 1,
+		"region_name": "Hoenn",
+		"location": "PACIFIDLOG TOWN",
+		"min_level": 15,
+		"max_level": 30,
+		"rarity": "Common"
+	},
+	{
+		"type": "Water",
+		"region_id": 1,
+		"region_name": "Hoenn",
+		"location": "ROUTE 103",
+		"min_level": 20,
+		"max_level": 30,
+		"rarity": "Very Common"
+	},
+	{
+		"type": "Water",
+		"region_id": 1,
+		"region_name": "Hoenn",
+		"location": "ROUTE 103",
+		"min_level": 20,
+		"max_level": 30,
+		"rarity": "Very Common"
+	},
+	{
+		"type": "Water",
+		"region_id": 1,
+		"region_name": "Hoenn",
+		"location": "ROUTE 103",
+		"min_level": 20,
+		"max_level": 30,
+		"rarity": "Very Common"
+	},
+	{
+		"type": "Water",
+		"region_id": 1,
+		"region_name": "Hoenn",
+		"location": "ROUTE 103",
+		"min_level": 20,
+		"max_level": 30,
+		"rarity": "Very Common"
+	},
+	{
+		"type": "Old Rod",
+		"region_id": 1,
+		"region_name": "Hoenn",
+		"location": "ROUTE 103",
+		"min_level": 5,
+		"max_level": 15,
+		"rarity": "Very Common"
+	},
+	{
+		"type": "Good Rod",
+		"region_id": 1,
+		"region_name": "Hoenn",
+		"location": "ROUTE 103",
+		"min_level": 15,
+		"max_level": 30,
+		"rarity": "Common"
+	},
+	{
+		"type": "Water",
+		"region_id": 1,
+		"region_name": "Hoenn",
+		"location": "ROUTE 105",
+		"min_level": 20,
+		"max_level": 30,
+		"rarity": "Very Common"
+	},
+	{
+		"type": "Water",
+		"region_id": 1,
+		"region_name": "Hoenn",
+		"location": "ROUTE 105",
+		"min_level": 20,
+		"max_level": 30,
+		"rarity": "Very Common"
+	},
+	{
+		"type": "Water",
+		"region_id": 1,
+		"region_name": "Hoenn",
+		"location": "ROUTE 105",
+		"min_level": 20,
+		"max_level": 30,
+		"rarity": "Very Common"
+	},
+	{
+		"type": "Water",
+		"region_id": 1,
+		"region_name": "Hoenn",
+		"location": "ROUTE 105",
+		"min_level": 20,
+		"max_level": 30,
+		"rarity": "Very Common"
+	},
+	{
+		"type": "Old Rod",
+		"region_id": 1,
+		"region_name": "Hoenn",
+		"location": "ROUTE 105",
+		"min_level": 5,
+		"max_level": 15,
+		"rarity": "Very Common"
+	},
+	{
+		"type": "Good Rod",
+		"region_id": 1,
+		"region_name": "Hoenn",
+		"location": "ROUTE 105",
+		"min_level": 15,
+		"max_level": 30,
+		"rarity": "Common"
+	},
+	{
+		"type": "Water",
+		"region_id": 1,
+		"region_name": "Hoenn",
+		"location": "ROUTE 106",
+		"min_level": 20,
+		"max_level": 30,
+		"rarity": "Very Common"
+	},
+	{
+		"type": "Water",
+		"region_id": 1,
+		"region_name": "Hoenn",
+		"location": "ROUTE 106",
+		"min_level": 20,
+		"max_level": 30,
+		"rarity": "Horde"
+	},
+	{
+		"type": "Water",
+		"region_id": 1,
+		"region_name": "Hoenn",
+		"location": "ROUTE 106",
+		"min_level": 20,
+		"max_level": 30,
+		"rarity": "Very Common"
+	},
+	{
+		"type": "Water",
+		"region_id": 1,
+		"region_name": "Hoenn",
+		"location": "ROUTE 106",
+		"min_level": 20,
+		"max_level": 30,
+		"rarity": "Very Common"
+	},
+	{
+		"type": "Water",
+		"region_id": 1,
+		"region_name": "Hoenn",
+		"location": "ROUTE 106",
+		"min_level": 20,
+		"max_level": 30,
+		"rarity": "Very Common"
+	},
+	{
+		"type": "Old Rod",
+		"region_id": 1,
+		"region_name": "Hoenn",
+		"location": "ROUTE 106",
+		"min_level": 5,
+		"max_level": 15,
+		"rarity": "Very Common"
+	},
+	{
+		"type": "Good Rod",
+		"region_id": 1,
+		"region_name": "Hoenn",
+		"location": "ROUTE 106",
+		"min_level": 15,
+		"max_level": 30,
+		"rarity": "Common"
+	},
+	{
+		"type": "Water",
+		"region_id": 1,
+		"region_name": "Hoenn",
+		"location": "ROUTE 107",
+		"min_level": 20,
+		"max_level": 30,
+		"rarity": "Very Common"
+	},
+	{
+		"type": "Water",
+		"region_id": 1,
+		"region_name": "Hoenn",
+		"location": "ROUTE 107",
+		"min_level": 20,
+		"max_level": 30,
+		"rarity": "Horde"
+	},
+	{
+		"type": "Water",
+		"region_id": 1,
+		"region_name": "Hoenn",
+		"location": "ROUTE 107",
+		"min_level": 20,
+		"max_level": 30,
+		"rarity": "Very Common"
+	},
+	{
+		"type": "Water",
+		"region_id": 1,
+		"region_name": "Hoenn",
+		"location": "ROUTE 107",
+		"min_level": 20,
+		"max_level": 30,
+		"rarity": "Very Common"
+	},
+	{
+		"type": "Water",
+		"region_id": 1,
+		"region_name": "Hoenn",
+		"location": "ROUTE 107",
+		"min_level": 20,
+		"max_level": 30,
+		"rarity": "Very Common"
+	},
+	{
+		"type": "Old Rod",
+		"region_id": 1,
+		"region_name": "Hoenn",
+		"location": "ROUTE 107",
+		"min_level": 5,
+		"max_level": 15,
+		"rarity": "Very Common"
+	},
+	{
+		"type": "Good Rod",
+		"region_id": 1,
+		"region_name": "Hoenn",
+		"location": "ROUTE 107",
+		"min_level": 15,
+		"max_level": 30,
+		"rarity": "Common"
+	},
+	{
+		"type": "Water",
+		"region_id": 1,
+		"region_name": "Hoenn",
+		"location": "ROUTE 108",
+		"min_level": 20,
+		"max_level": 30,
+		"rarity": "Very Common"
+	},
+	{
+		"type": "Water",
+		"region_id": 1,
+		"region_name": "Hoenn",
+		"location": "ROUTE 108",
+		"min_level": 20,
+		"max_level": 30,
+		"rarity": "Very Common"
+	},
+	{
+		"type": "Water",
+		"region_id": 1,
+		"region_name": "Hoenn",
+		"location": "ROUTE 108",
+		"min_level": 20,
+		"max_level": 30,
+		"rarity": "Very Common"
+	},
+	{
+		"type": "Water",
+		"region_id": 1,
+		"region_name": "Hoenn",
+		"location": "ROUTE 108",
+		"min_level": 20,
+		"max_level": 30,
+		"rarity": "Very Common"
+	},
+	{
+		"type": "Old Rod",
+		"region_id": 1,
+		"region_name": "Hoenn",
+		"location": "ROUTE 108",
+		"min_level": 5,
+		"max_level": 15,
+		"rarity": "Very Common"
+	},
+	{
+		"type": "Good Rod",
+		"region_id": 1,
+		"region_name": "Hoenn",
+		"location": "ROUTE 108",
+		"min_level": 15,
+		"max_level": 30,
+		"rarity": "Common"
+	},
+	{
+		"type": "Water",
+		"region_id": 1,
+		"region_name": "Hoenn",
+		"location": "ROUTE 109",
+		"min_level": 20,
+		"max_level": 30,
+		"rarity": "Very Common"
+	},
+	{
+		"type": "Water",
+		"region_id": 1,
+		"region_name": "Hoenn",
+		"location": "ROUTE 109",
+		"min_level": 20,
+		"max_level": 30,
+		"rarity": "Horde"
+	},
+	{
+		"type": "Water",
+		"region_id": 1,
+		"region_name": "Hoenn",
+		"location": "ROUTE 109",
+		"min_level": 20,
+		"max_level": 30,
+		"rarity": "Very Common"
+	},
+	{
+		"type": "Water",
+		"region_id": 1,
+		"region_name": "Hoenn",
+		"location": "ROUTE 109",
+		"min_level": 20,
+		"max_level": 30,
+		"rarity": "Very Common"
+	},
+	{
+		"type": "Water",
+		"region_id": 1,
+		"region_name": "Hoenn",
+		"location": "ROUTE 109",
+		"min_level": 20,
+		"max_level": 30,
+		"rarity": "Very Common"
+	},
+	{
+		"type": "Old Rod",
+		"region_id": 1,
+		"region_name": "Hoenn",
+		"location": "ROUTE 109",
+		"min_level": 5,
+		"max_level": 15,
+		"rarity": "Very Common"
+	},
+	{
+		"type": "Good Rod",
+		"region_id": 1,
+		"region_name": "Hoenn",
+		"location": "ROUTE 109",
+		"min_level": 15,
+		"max_level": 30,
+		"rarity": "Common"
+	},
+	{
+		"type": "Water",
+		"region_id": 1,
+		"region_name": "Hoenn",
+		"location": "ROUTE 110",
+		"min_level": 20,
+		"max_level": 30,
+		"rarity": "Very Common"
+	},
+	{
+		"type": "Water",
+		"region_id": 1,
+		"region_name": "Hoenn",
+		"location": "ROUTE 110",
+		"min_level": 20,
+		"max_level": 30,
+		"rarity": "Horde"
+	},
+	{
+		"type": "Water",
+		"region_id": 1,
+		"region_name": "Hoenn",
+		"location": "ROUTE 110",
+		"min_level": 20,
+		"max_level": 30,
+		"rarity": "Very Common"
+	},
+	{
+		"type": "Water",
+		"region_id": 1,
+		"region_name": "Hoenn",
+		"location": "ROUTE 110",
+		"min_level": 20,
+		"max_level": 30,
+		"rarity": "Very Common"
+	},
+	{
+		"type": "Water",
+		"region_id": 1,
+		"region_name": "Hoenn",
+		"location": "ROUTE 110",
+		"min_level": 20,
+		"max_level": 30,
+		"rarity": "Very Common"
+	},
+	{
+		"type": "Old Rod",
+		"region_id": 1,
+		"region_name": "Hoenn",
+		"location": "ROUTE 110",
+		"min_level": 5,
+		"max_level": 15,
+		"rarity": "Very Common"
+	},
+	{
+		"type": "Good Rod",
+		"region_id": 1,
+		"region_name": "Hoenn",
+		"location": "ROUTE 110",
+		"min_level": 15,
+		"max_level": 30,
+		"rarity": "Common"
+	},
+	{
+		"type": "Water",
+		"region_id": 1,
+		"region_name": "Hoenn",
+		"location": "ROUTE 115",
+		"min_level": 20,
+		"max_level": 30,
+		"rarity": "Very Common"
+	},
+	{
+		"type": "Water",
+		"region_id": 1,
+		"region_name": "Hoenn",
+		"location": "ROUTE 115",
+		"min_level": 20,
+		"max_level": 30,
+		"rarity": "Very Common"
+	},
+	{
+		"type": "Water",
+		"region_id": 1,
+		"region_name": "Hoenn",
+		"location": "ROUTE 115",
+		"min_level": 20,
+		"max_level": 30,
+		"rarity": "Very Common"
+	},
+	{
+		"type": "Water",
+		"region_id": 1,
+		"region_name": "Hoenn",
+		"location": "ROUTE 115",
+		"min_level": 20,
+		"max_level": 30,
+		"rarity": "Very Common"
+	},
+	{
+		"type": "Old Rod",
+		"region_id": 1,
+		"region_name": "Hoenn",
+		"location": "ROUTE 115",
+		"min_level": 5,
+		"max_level": 15,
+		"rarity": "Very Common"
+	},
+	{
+		"type": "Good Rod",
+		"region_id": 1,
+		"region_name": "Hoenn",
+		"location": "ROUTE 115",
+		"min_level": 15,
+		"max_level": 30,
+		"rarity": "Common"
+	},
+	{
+		"type": "Water",
+		"region_id": 1,
+		"region_name": "Hoenn",
+		"location": "ROUTE 118",
+		"min_level": 20,
+		"max_level": 30,
+		"rarity": "Very Common"
+	},
+	{
+		"type": "Water",
+		"region_id": 1,
+		"region_name": "Hoenn",
+		"location": "ROUTE 118",
+		"min_level": 20,
+		"max_level": 30,
+		"rarity": "Horde"
+	},
+	{
+		"type": "Water",
+		"region_id": 1,
+		"region_name": "Hoenn",
+		"location": "ROUTE 118",
+		"min_level": 20,
+		"max_level": 30,
+		"rarity": "Very Common"
+	},
+	{
+		"type": "Water",
+		"region_id": 1,
+		"region_name": "Hoenn",
+		"location": "ROUTE 118",
+		"min_level": 20,
+		"max_level": 30,
+		"rarity": "Very Common"
+	},
+	{
+		"type": "Water",
+		"region_id": 1,
+		"region_name": "Hoenn",
+		"location": "ROUTE 118",
+		"min_level": 20,
+		"max_level": 30,
+		"rarity": "Very Common"
+	},
+	{
+		"type": "Old Rod",
+		"region_id": 1,
+		"region_name": "Hoenn",
+		"location": "ROUTE 118",
+		"min_level": 5,
+		"max_level": 15,
+		"rarity": "Very Common"
+	},
+	{
+		"type": "Good Rod",
+		"region_id": 1,
+		"region_name": "Hoenn",
+		"location": "ROUTE 118",
+		"min_level": 15,
+		"max_level": 30,
+		"rarity": "Common"
+	},
+	{
+		"type": "Water",
+		"region_id": 1,
+		"region_name": "Hoenn",
+		"location": "ROUTE 119",
+		"min_level": 20,
+		"max_level": 30,
+		"rarity": "Very Common"
+	},
+	{
+		"type": "Water",
+		"region_id": 1,
+		"region_name": "Hoenn",
+		"location": "ROUTE 119",
+		"min_level": 20,
+		"max_level": 30,
+		"rarity": "Horde"
+	},
+	{
+		"type": "Water",
+		"region_id": 1,
+		"region_name": "Hoenn",
+		"location": "ROUTE 119",
+		"min_level": 20,
+		"max_level": 30,
+		"rarity": "Very Common"
+	},
+	{
+		"type": "Water",
+		"region_id": 1,
+		"region_name": "Hoenn",
+		"location": "ROUTE 119",
+		"min_level": 20,
+		"max_level": 30,
+		"rarity": "Very Common"
+	},
+	{
+		"type": "Water",
+		"region_id": 1,
+		"region_name": "Hoenn",
+		"location": "ROUTE 119",
+		"min_level": 20,
+		"max_level": 30,
+		"rarity": "Very Common"
+	},
+	{
+		"type": "Old Rod",
+		"region_id": 1,
+		"region_name": "Hoenn",
+		"location": "ROUTE 119",
+		"min_level": 5,
+		"max_level": 15,
+		"rarity": "Very Common"
+	},
+	{
+		"type": "Water",
+		"region_id": 1,
+		"region_name": "Hoenn",
+		"location": "ROUTE 121",
+		"min_level": 25,
+		"max_level": 30,
+		"rarity": "Very Common"
+	},
+	{
+		"type": "Water",
+		"region_id": 1,
+		"region_name": "Hoenn",
+		"location": "ROUTE 121",
+		"min_level": 25,
+		"max_level": 30,
+		"rarity": "Horde"
+	},
+	{
+		"type": "Water",
+		"region_id": 1,
+		"region_name": "Hoenn",
+		"location": "ROUTE 121",
+		"min_level": 25,
+		"max_level": 30,
+		"rarity": "Very Common"
+	},
+	{
+		"type": "Water",
+		"region_id": 1,
+		"region_name": "Hoenn",
+		"location": "ROUTE 121",
+		"min_level": 25,
+		"max_level": 30,
+		"rarity": "Very Common"
+	},
+	{
+		"type": "Water",
+		"region_id": 1,
+		"region_name": "Hoenn",
+		"location": "ROUTE 121",
+		"min_level": 25,
+		"max_level": 30,
+		"rarity": "Very Common"
+	},
+	{
+		"type": "Old Rod",
+		"region_id": 1,
+		"region_name": "Hoenn",
+		"location": "ROUTE 121",
+		"min_level": 5,
+		"max_level": 15,
+		"rarity": "Very Common"
+	},
+	{
+		"type": "Good Rod",
+		"region_id": 1,
+		"region_name": "Hoenn",
+		"location": "ROUTE 121",
+		"min_level": 15,
+		"max_level": 30,
+		"rarity": "Common"
+	},
+	{
+		"type": "Water",
+		"region_id": 1,
+		"region_name": "Hoenn",
+		"location": "ROUTE 122",
+		"min_level": 25,
+		"max_level": 30,
+		"rarity": "Very Common"
+	},
+	{
+		"type": "Water",
+		"region_id": 1,
+		"region_name": "Hoenn",
+		"location": "ROUTE 122",
+		"min_level": 25,
+		"max_level": 30,
+		"rarity": "Horde"
+	},
+	{
+		"type": "Water",
+		"region_id": 1,
+		"region_name": "Hoenn",
+		"location": "ROUTE 122",
+		"min_level": 25,
+		"max_level": 30,
+		"rarity": "Very Common"
+	},
+	{
+		"type": "Water",
+		"region_id": 1,
+		"region_name": "Hoenn",
+		"location": "ROUTE 122",
+		"min_level": 25,
+		"max_level": 30,
+		"rarity": "Very Common"
+	},
+	{
+		"type": "Water",
+		"region_id": 1,
+		"region_name": "Hoenn",
+		"location": "ROUTE 122",
+		"min_level": 25,
+		"max_level": 30,
+		"rarity": "Very Common"
+	},
+	{
+		"type": "Old Rod",
+		"region_id": 1,
+		"region_name": "Hoenn",
+		"location": "ROUTE 122",
+		"min_level": 5,
+		"max_level": 15,
+		"rarity": "Very Common"
+	},
+	{
+		"type": "Good Rod",
+		"region_id": 1,
+		"region_name": "Hoenn",
+		"location": "ROUTE 122",
+		"min_level": 15,
+		"max_level": 30,
+		"rarity": "Common"
+	},
+	{
+		"type": "Water",
+		"region_id": 1,
+		"region_name": "Hoenn",
+		"location": "ROUTE 124",
+		"min_level": 25,
+		"max_level": 30,
+		"rarity": "Very Common"
+	},
+	{
+		"type": "Water",
+		"region_id": 1,
+		"region_name": "Hoenn",
+		"location": "ROUTE 124",
+		"min_level": 25,
+		"max_level": 30,
+		"rarity": "Horde"
+	},
+	{
+		"type": "Old Rod",
+		"region_id": 1,
+		"region_name": "Hoenn",
+		"location": "ROUTE 124",
+		"min_level": 5,
+		"max_level": 15,
+		"rarity": "Very Common"
+	},
+	{
+		"type": "Good Rod",
+		"region_id": 1,
+		"region_name": "Hoenn",
+		"location": "ROUTE 124",
+		"min_level": 15,
+		"max_level": 30,
+		"rarity": "Common"
+	},
+	{
+		"type": "Water",
+		"region_id": 1,
+		"region_name": "Hoenn",
+		"location": "ROUTE 125",
+		"min_level": 25,
+		"max_level": 35,
+		"rarity": "Very Common"
+	},
+	{
+		"type": "Old Rod",
+		"region_id": 1,
+		"region_name": "Hoenn",
+		"location": "ROUTE 125",
+		"min_level": 5,
+		"max_level": 15,
+		"rarity": "Very Common"
+	},
+	{
+		"type": "Good Rod",
+		"region_id": 1,
+		"region_name": "Hoenn",
+		"location": "ROUTE 125",
+		"min_level": 15,
+		"max_level": 30,
+		"rarity": "Common"
+	},
+	{
+		"type": "Water",
+		"region_id": 1,
+		"region_name": "Hoenn",
+		"location": "ROUTE 126",
+		"min_level": 30,
+		"max_level": 35,
+		"rarity": "Very Common"
+	},
+	{
+		"type": "Water",
+		"region_id": 1,
+		"region_name": "Hoenn",
+		"location": "ROUTE 126",
+		"min_level": 30,
+		"max_level": 35,
+		"rarity": "Horde"
+	},
+	{
+		"type": "Old Rod",
+		"region_id": 1,
+		"region_name": "Hoenn",
+		"location": "ROUTE 126",
+		"min_level": 5,
+		"max_level": 15,
+		"rarity": "Very Common"
+	},
+	{
+		"type": "Good Rod",
+		"region_id": 1,
+		"region_name": "Hoenn",
+		"location": "ROUTE 126",
+		"min_level": 15,
+		"max_level": 30,
+		"rarity": "Common"
+	},
+	{
+		"type": "Water",
+		"region_id": 1,
+		"region_name": "Hoenn",
+		"location": "ROUTE 127",
+		"min_level": 25,
+		"max_level": 35,
+		"rarity": "Very Common"
+	},
+	{
+		"type": "Old Rod",
+		"region_id": 1,
+		"region_name": "Hoenn",
+		"location": "ROUTE 127",
+		"min_level": 5,
+		"max_level": 15,
+		"rarity": "Very Common"
+	},
+	{
+		"type": "Good Rod",
+		"region_id": 1,
+		"region_name": "Hoenn",
+		"location": "ROUTE 127",
+		"min_level": 15,
+		"max_level": 30,
+		"rarity": "Common"
+	},
+	{
+		"type": "Water",
+		"region_id": 1,
+		"region_name": "Hoenn",
+		"location": "ROUTE 128",
+		"min_level": 30,
+		"max_level": 35,
+		"rarity": "Very Common"
+	},
+	{
+		"type": "Old Rod",
+		"region_id": 1,
+		"region_name": "Hoenn",
+		"location": "ROUTE 128",
+		"min_level": 5,
+		"max_level": 15,
+		"rarity": "Very Common"
+	},
+	{
+		"type": "Water",
+		"region_id": 1,
+		"region_name": "Hoenn",
+		"location": "ROUTE 129",
+		"min_level": 30,
+		"max_level": 40,
+		"rarity": "Very Common"
+	},
+	{
+		"type": "Old Rod",
+		"region_id": 1,
+		"region_name": "Hoenn",
+		"location": "ROUTE 129",
+		"min_level": 5,
+		"max_level": 15,
+		"rarity": "Very Common"
+	},
+	{
+		"type": "Good Rod",
+		"region_id": 1,
+		"region_name": "Hoenn",
+		"location": "ROUTE 129",
+		"min_level": 15,
+		"max_level": 30,
+		"rarity": "Common"
+	},
+	{
+		"type": "Water",
+		"region_id": 1,
+		"region_name": "Hoenn",
+		"location": "ROUTE 130",
+		"min_level": 30,
+		"max_level": 40,
+		"rarity": "Very Common"
+	},
+	{
+		"type": "Old Rod",
+		"region_id": 1,
+		"region_name": "Hoenn",
+		"location": "ROUTE 130",
+		"min_level": 5,
+		"max_level": 15,
+		"rarity": "Very Common"
+	},
+	{
+		"type": "Good Rod",
+		"region_id": 1,
+		"region_name": "Hoenn",
+		"location": "ROUTE 130",
+		"min_level": 15,
+		"max_level": 30,
+		"rarity": "Common"
+	},
+	{
+		"type": "Water",
+		"region_id": 1,
+		"region_name": "Hoenn",
+		"location": "ROUTE 131",
+		"min_level": 30,
+		"max_level": 40,
+		"rarity": "Very Common"
+	},
+	{
+		"type": "Old Rod",
+		"region_id": 1,
+		"region_name": "Hoenn",
+		"location": "ROUTE 131",
+		"min_level": 5,
+		"max_level": 15,
+		"rarity": "Very Common"
+	},
+	{
+		"type": "Good Rod",
+		"region_id": 1,
+		"region_name": "Hoenn",
+		"location": "ROUTE 131",
+		"min_level": 15,
+		"max_level": 30,
+		"rarity": "Common"
+	},
+	{
+		"type": "Water",
+		"region_id": 1,
+		"region_name": "Hoenn",
+		"location": "ROUTE 132",
+		"min_level": 30,
+		"max_level": 40,
+		"rarity": "Very Common"
+	},
+	{
+		"type": "Old Rod",
+		"region_id": 1,
+		"region_name": "Hoenn",
+		"location": "ROUTE 132",
+		"min_level": 5,
+		"max_level": 15,
+		"rarity": "Very Common"
+	},
+	{
+		"type": "Good Rod",
+		"region_id": 1,
+		"region_name": "Hoenn",
+		"location": "ROUTE 132",
+		"min_level": 15,
+		"max_level": 30,
+		"rarity": "Common"
+	},
+	{
+		"type": "Water",
+		"region_id": 1,
+		"region_name": "Hoenn",
+		"location": "ROUTE 133",
+		"min_level": 30,
+		"max_level": 40,
+		"rarity": "Very Common"
+	},
+	{
+		"type": "Old Rod",
+		"region_id": 1,
+		"region_name": "Hoenn",
+		"location": "ROUTE 133",
+		"min_level": 5,
+		"max_level": 15,
+		"rarity": "Very Common"
+	},
+	{
+		"type": "Good Rod",
+		"region_id": 1,
+		"region_name": "Hoenn",
+		"location": "ROUTE 133",
+		"min_level": 15,
+		"max_level": 30,
+		"rarity": "Common"
+	},
+	{
+		"type": "Water",
+		"region_id": 1,
+		"region_name": "Hoenn",
+		"location": "ROUTE 134",
+		"min_level": 20,
+		"max_level": 30,
+		"rarity": "Very Common"
+	},
+	{
+		"type": "Water",
+		"region_id": 1,
+		"region_name": "Hoenn",
+		"location": "ROUTE 134",
+		"min_level": 20,
+		"max_level": 30,
+		"rarity": "Horde"
+	},
+	{
+		"type": "Water",
+		"region_id": 1,
+		"region_name": "Hoenn",
+		"location": "ROUTE 134",
+		"min_level": 20,
+		"max_level": 30,
+		"rarity": "Very Common"
+	},
+	{
+		"type": "Water",
+		"region_id": 1,
+		"region_name": "Hoenn",
+		"location": "ROUTE 134",
+		"min_level": 20,
+		"max_level": 30,
+		"rarity": "Very Common"
+	},
+	{
+		"type": "Water",
+		"region_id": 1,
+		"region_name": "Hoenn",
+		"location": "ROUTE 134",
+		"min_level": 20,
+		"max_level": 30,
+		"rarity": "Very Common"
+	},
+	{
+		"type": "Old Rod",
+		"region_id": 1,
+		"region_name": "Hoenn",
+		"location": "ROUTE 134",
+		"min_level": 5,
+		"max_level": 15,
+		"rarity": "Very Common"
+	},
+	{
+		"type": "Good Rod",
+		"region_id": 1,
+		"region_name": "Hoenn",
+		"location": "ROUTE 134",
+		"min_level": 15,
+		"max_level": 30,
+		"rarity": "Common"
+	},
+	{
+		"type": "Water",
+		"region_id": 1,
+		"region_name": "Hoenn",
+		"location": "SEAFLOOR CAVERN",
+		"min_level": 30,
+		"max_level": 35,
+		"rarity": "Uncommon"
+	},
+	{
+		"type": "Old Rod",
+		"region_id": 1,
+		"region_name": "Hoenn",
+		"location": "SEAFLOOR CAVERN",
+		"min_level": 5,
+		"max_level": 15,
+		"rarity": "Very Common"
+	},
+	{
+		"type": "Good Rod",
+		"region_id": 1,
+		"region_name": "Hoenn",
+		"location": "SEAFLOOR CAVERN",
+		"min_level": 15,
+		"max_level": 30,
+		"rarity": "Common"
+	},
+	{
+		"type": "Water",
+		"region_id": 1,
+		"region_name": "Hoenn",
+		"location": "SEALED CHAMBER",
+		"min_level": 30,
+		"max_level": 40,
+		"rarity": "Uncommon"
+	},
+	{
+		"type": "Old Rod",
+		"region_id": 1,
+		"region_name": "Hoenn",
+		"location": "SEALED CHAMBER",
+		"min_level": 5,
+		"max_level": 15,
+		"rarity": "Very Common"
+	},
+	{
+		"type": "Good Rod",
+		"region_id": 1,
+		"region_name": "Hoenn",
+		"location": "SEALED CHAMBER",
+		"min_level": 15,
+		"max_level": 30,
+		"rarity": "Common"
+	},
+	{
+		"type": "Water",
+		"region_id": 1,
+		"region_name": "Hoenn",
+		"location": "SHOAL CAVE",
+		"min_level": 30,
+		"max_level": 35,
+		"rarity": "Very Common"
+	},
+	{
+		"type": "Water",
+		"region_id": 1,
+		"region_name": "Hoenn",
+		"location": "SHOAL CAVE",
+		"min_level": 30,
+		"max_level": 35,
+		"rarity": "Very Common"
+	},
+	{
+		"type": "Water",
+		"region_id": 1,
+		"region_name": "Hoenn",
+		"location": "SHOAL CAVE",
+		"min_level": 30,
+		"max_level": 35,
+		"rarity": "Very Common"
+	},
+	{
+		"type": "Water",
+		"region_id": 1,
+		"region_name": "Hoenn",
+		"location": "SHOAL CAVE",
+		"min_level": 30,
+		"max_level": 35,
+		"rarity": "Very Common"
+	},
+	{
+		"type": "Old Rod",
+		"region_id": 1,
+		"region_name": "Hoenn",
+		"location": "SHOAL CAVE",
+		"min_level": 5,
+		"max_level": 15,
+		"rarity": "Very Common"
+	},
+	{
+		"type": "Good Rod",
+		"region_id": 1,
+		"region_name": "Hoenn",
+		"location": "SHOAL CAVE",
+		"min_level": 15,
+		"max_level": 30,
+		"rarity": "Common"
+	},
+	{
+		"type": "Water",
+		"region_id": 1,
+		"region_name": "Hoenn",
+		"location": "SLATEPORT CITY",
+		"min_level": 20,
+		"max_level": 30,
+		"rarity": "Very Common"
+	},
+	{
+		"type": "Water",
+		"region_id": 1,
+		"region_name": "Hoenn",
+		"location": "SLATEPORT CITY",
+		"min_level": 20,
+		"max_level": 30,
+		"rarity": "Very Common"
+	},
+	{
+		"type": "Water",
+		"region_id": 1,
+		"region_name": "Hoenn",
+		"location": "SLATEPORT CITY",
+		"min_level": 20,
+		"max_level": 30,
+		"rarity": "Very Common"
+	},
+	{
+		"type": "Water",
+		"region_id": 1,
+		"region_name": "Hoenn",
+		"location": "SLATEPORT CITY",
+		"min_level": 20,
+		"max_level": 30,
+		"rarity": "Very Common"
+	},
+	{
+		"type": "Old Rod",
+		"region_id": 1,
+		"region_name": "Hoenn",
+		"location": "SLATEPORT CITY",
+		"min_level": 5,
+		"max_level": 15,
+		"rarity": "Very Common"
+	},
+	{
+		"type": "Good Rod",
+		"region_id": 1,
+		"region_name": "Hoenn",
+		"location": "SLATEPORT CITY",
+		"min_level": 15,
+		"max_level": 30,
+		"rarity": "Common"
+	},
+	{
+		"type": "Water",
+		"region_id": 3,
+		"region_name": "Sinnoh",
+		"location": "Canalave City",
+		"min_level": 20,
+		"max_level": 30,
+		"rarity": "Very Common"
+	},
+	{
+		"type": "Water",
+		"region_id": 3,
+		"region_name": "Sinnoh",
+		"location": "Canalave City",
+		"min_level": 20,
+		"max_level": 30,
+		"rarity": "Horde"
+	},
+	{
+		"type": "Water",
+		"region_id": 3,
+		"region_name": "Sinnoh",
+		"location": "Canalave City",
+		"min_level": 20,
+		"max_level": 30,
+		"rarity": "Very Common"
+	},
+	{
+		"type": "Water",
+		"region_id": 3,
+		"region_name": "Sinnoh",
+		"location": "Canalave City",
+		"min_level": 20,
+		"max_level": 30,
+		"rarity": "Very Common"
+	},
+	{
+		"type": "Water",
+		"region_id": 3,
+		"region_name": "Sinnoh",
+		"location": "Canalave City",
+		"min_level": 20,
+		"max_level": 30,
+		"rarity": "Very Common"
+	},
+	{
+		"type": "Water",
+		"region_id": 3,
+		"region_name": "Sinnoh",
+		"location": "Fuego Ironworks",
+		"min_level": 20,
+		"max_level": 30,
+		"rarity": "Very Common"
+	},
+	{
+		"type": "Water",
+		"region_id": 3,
+		"region_name": "Sinnoh",
+		"location": "Fuego Ironworks",
+		"min_level": 20,
+		"max_level": 30,
+		"rarity": "Horde"
+	},
+	{
+		"type": "Water",
+		"region_id": 3,
+		"region_name": "Sinnoh",
+		"location": "Fuego Ironworks",
+		"min_level": 20,
+		"max_level": 30,
+		"rarity": "Very Common"
+	},
+	{
+		"type": "Water",
+		"region_id": 3,
+		"region_name": "Sinnoh",
+		"location": "Fuego Ironworks",
+		"min_level": 20,
+		"max_level": 30,
+		"rarity": "Very Common"
+	},
+	{
+		"type": "Water",
+		"region_id": 3,
+		"region_name": "Sinnoh",
+		"location": "Fuego Ironworks",
+		"min_level": 20,
+		"max_level": 30,
+		"rarity": "Very Common"
+	},
+	{
+		"type": "Water",
+		"region_id": 3,
+		"region_name": "Sinnoh",
+		"location": "Iron Island",
+		"min_level": 20,
+		"max_level": 30,
+		"rarity": "Very Common"
+	},
+	{
+		"type": "Water",
+		"region_id": 3,
+		"region_name": "Sinnoh",
+		"location": "Iron Island",
+		"min_level": 20,
+		"max_level": 30,
+		"rarity": "Very Common"
+	},
+	{
+		"type": "Water",
+		"region_id": 3,
+		"region_name": "Sinnoh",
+		"location": "Iron Island",
+		"min_level": 20,
+		"max_level": 30,
+		"rarity": "Very Common"
+	},
+	{
+		"type": "Water",
+		"region_id": 3,
+		"region_name": "Sinnoh",
+		"location": "Iron Island",
+		"min_level": 20,
+		"max_level": 30,
+		"rarity": "Very Common"
+	},
+	{
+		"type": "Water",
+		"region_id": 3,
+		"region_name": "Sinnoh",
+		"location": "Pastoria City",
+		"min_level": 20,
+		"max_level": 30,
+		"rarity": "Very Common"
+	},
+	{
+		"type": "Water",
+		"region_id": 3,
+		"region_name": "Sinnoh",
+		"location": "Pastoria City",
+		"min_level": 20,
+		"max_level": 30,
+		"rarity": "Horde"
+	},
+	{
+		"type": "Water",
+		"region_id": 3,
+		"region_name": "Sinnoh",
+		"location": "Pastoria City",
+		"min_level": 20,
+		"max_level": 30,
+		"rarity": "Very Common"
+	},
+	{
+		"type": "Water",
+		"region_id": 3,
+		"region_name": "Sinnoh",
+		"location": "Pastoria City",
+		"min_level": 20,
+		"max_level": 30,
+		"rarity": "Very Common"
+	},
+	{
+		"type": "Water",
+		"region_id": 3,
+		"region_name": "Sinnoh",
+		"location": "Pastoria City",
+		"min_level": 20,
+		"max_level": 30,
+		"rarity": "Very Common"
+	},
+	{
+		"type": "Water",
+		"region_id": 3,
+		"region_name": "Sinnoh",
+		"location": "Route 205",
+		"min_level": 20,
+		"max_level": 30,
+		"rarity": "Very Common"
+	},
+	{
+		"type": "Water",
+		"region_id": 3,
+		"region_name": "Sinnoh",
+		"location": "Route 205",
+		"min_level": 20,
+		"max_level": 30,
+		"rarity": "Horde"
+	},
+	{
+		"type": "Water",
+		"region_id": 3,
+		"region_name": "Sinnoh",
+		"location": "Route 205",
+		"min_level": 20,
+		"max_level": 30,
+		"rarity": "Very Common"
+	},
+	{
+		"type": "Water",
+		"region_id": 3,
+		"region_name": "Sinnoh",
+		"location": "Route 205",
+		"min_level": 20,
+		"max_level": 30,
+		"rarity": "Very Common"
+	},
+	{
+		"type": "Water",
+		"region_id": 3,
+		"region_name": "Sinnoh",
+		"location": "Route 205",
+		"min_level": 20,
+		"max_level": 30,
+		"rarity": "Very Common"
+	},
+	{
+		"type": "Water",
+		"region_id": 3,
+		"region_name": "Sinnoh",
+		"location": "Route 212",
+		"min_level": 20,
+		"max_level": 30,
+		"rarity": "Uncommon"
+	},
+	{
+		"type": "Water",
+		"region_id": 3,
+		"region_name": "Sinnoh",
+		"location": "Route 213",
+		"min_level": 20,
+		"max_level": 30,
+		"rarity": "Very Common"
+	},
+	{
+		"type": "Water",
+		"region_id": 3,
+		"region_name": "Sinnoh",
+		"location": "Route 213",
+		"min_level": 20,
+		"max_level": 30,
+		"rarity": "Horde"
+	},
+	{
+		"type": "Water",
+		"region_id": 3,
+		"region_name": "Sinnoh",
+		"location": "Route 218",
+		"min_level": 20,
+		"max_level": 30,
+		"rarity": "Very Common"
+	},
+	{
+		"type": "Water",
+		"region_id": 3,
+		"region_name": "Sinnoh",
+		"location": "Route 218",
+		"min_level": 20,
+		"max_level": 30,
+		"rarity": "Horde"
+	},
+	{
+		"type": "Water",
+		"region_id": 3,
+		"region_name": "Sinnoh",
+		"location": "Route 219",
+		"min_level": 20,
+		"max_level": 30,
+		"rarity": "Very Common"
+	},
+	{
+		"type": "Water",
+		"region_id": 3,
+		"region_name": "Sinnoh",
+		"location": "Route 219",
+		"min_level": 20,
+		"max_level": 30,
+		"rarity": "Very Common"
+	},
+	{
+		"type": "Water",
+		"region_id": 3,
+		"region_name": "Sinnoh",
+		"location": "Route 219",
+		"min_level": 20,
+		"max_level": 30,
+		"rarity": "Very Common"
+	},
+	{
+		"type": "Water",
+		"region_id": 3,
+		"region_name": "Sinnoh",
+		"location": "Route 219",
+		"min_level": 20,
+		"max_level": 30,
+		"rarity": "Very Common"
+	},
+	{
+		"type": "Water",
+		"region_id": 3,
+		"region_name": "Sinnoh",
+		"location": "Route 220",
+		"min_level": 20,
+		"max_level": 30,
+		"rarity": "Very Common"
+	},
+	{
+		"type": "Water",
+		"region_id": 3,
+		"region_name": "Sinnoh",
+		"location": "Route 220",
+		"min_level": 20,
+		"max_level": 30,
+		"rarity": "Horde"
+	},
+	{
+		"type": "Water",
+		"region_id": 3,
+		"region_name": "Sinnoh",
+		"location": "Route 220",
+		"min_level": 20,
+		"max_level": 30,
+		"rarity": "Very Common"
+	},
+	{
+		"type": "Water",
+		"region_id": 3,
+		"region_name": "Sinnoh",
+		"location": "Route 220",
+		"min_level": 20,
+		"max_level": 30,
+		"rarity": "Very Common"
+	},
+	{
+		"type": "Water",
+		"region_id": 3,
+		"region_name": "Sinnoh",
+		"location": "Route 220",
+		"min_level": 20,
+		"max_level": 30,
+		"rarity": "Very Common"
+	},
+	{
+		"type": "Water",
+		"region_id": 3,
+		"region_name": "Sinnoh",
+		"location": "Route 221",
+		"min_level": 20,
+		"max_level": 30,
+		"rarity": "Very Common"
+	},
+	{
+		"type": "Water",
+		"region_id": 3,
+		"region_name": "Sinnoh",
+		"location": "Route 221",
+		"min_level": 20,
+		"max_level": 30,
+		"rarity": "Very Common"
+	},
+	{
+		"type": "Water",
+		"region_id": 3,
+		"region_name": "Sinnoh",
+		"location": "Route 221",
+		"min_level": 20,
+		"max_level": 30,
+		"rarity": "Very Common"
+	},
+	{
+		"type": "Water",
+		"region_id": 3,
+		"region_name": "Sinnoh",
+		"location": "Route 221",
+		"min_level": 20,
+		"max_level": 30,
+		"rarity": "Very Common"
+	},
+	{
+		"type": "Water",
+		"region_id": 3,
+		"region_name": "Sinnoh",
+		"location": "Route 222",
+		"min_level": 30,
+		"max_level": 40,
+		"rarity": "Very Common"
+	},
+	{
+		"type": "Water",
+		"region_id": 3,
+		"region_name": "Sinnoh",
+		"location": "Route 222",
+		"min_level": 30,
+		"max_level": 40,
+		"rarity": "Very Common"
+	},
+	{
+		"type": "Water",
+		"region_id": 3,
+		"region_name": "Sinnoh",
+		"location": "Route 222",
+		"min_level": 30,
+		"max_level": 40,
+		"rarity": "Very Common"
+	},
+	{
+		"type": "Water",
+		"region_id": 3,
+		"region_name": "Sinnoh",
+		"location": "Route 222",
+		"min_level": 30,
+		"max_level": 40,
+		"rarity": "Very Common"
+	},
+	{
+		"type": "Water",
+		"region_id": 3,
+		"region_name": "Sinnoh",
+		"location": "Sunyshore City",
+		"min_level": 30,
+		"max_level": 40,
+		"rarity": "Very Common"
+	},
+	{
+		"type": "Water",
+		"region_id": 3,
+		"region_name": "Sinnoh",
+		"location": "Valley Windworks",
+		"min_level": 20,
+		"max_level": 30,
+		"rarity": "Very Common"
+	},
+	{
+		"type": "Water",
+		"region_id": 3,
+		"region_name": "Sinnoh",
+		"location": "Valley Windworks",
+		"min_level": 20,
+		"max_level": 30,
+		"rarity": "Horde"
+	},
+	{
+		"type": "Water",
+		"region_id": 3,
+		"region_name": "Sinnoh",
+		"location": "Valley Windworks",
+		"min_level": 20,
+		"max_level": 30,
+		"rarity": "Very Common"
+	},
+	{
+		"type": "Water",
+		"region_id": 3,
+		"region_name": "Sinnoh",
+		"location": "Valley Windworks",
+		"min_level": 20,
+		"max_level": 30,
+		"rarity": "Very Common"
+	},
+	{
+		"type": "Water",
+		"region_id": 3,
+		"region_name": "Sinnoh",
+		"location": "Valley Windworks",
+		"min_level": 20,
+		"max_level": 30,
+		"rarity": "Very Common"
+	},
+	{
+		"type": "Water",
+		"region_id": 4,
+		"region_name": "Johto",
+		"location": "Cherrygrove City",
+		"min_level": 18,
+		"max_level": 22,
+		"rarity": "Horde"
+	},
+	{
+		"type": "Water",
+		"region_id": 4,
+		"region_name": "Johto",
+		"location": "Cherrygrove City",
+		"min_level": 20,
+		"max_level": 25,
+		"rarity": "Very Common"
+	},
+	{
+		"type": "Water",
+		"region_id": 4,
+		"region_name": "Johto",
+		"location": "Cianwood City",
+		"min_level": 19,
+		"max_level": 22,
+		"rarity": "Horde"
+	},
+	{
+		"type": "Water",
+		"region_id": 4,
+		"region_name": "Johto",
+		"location": "Cianwood City",
+		"min_level": 22,
+		"max_level": 25,
+		"rarity": "Very Common"
+	},
+	{
+		"type": "Water",
+		"region_id": 4,
+		"region_name": "Johto",
+		"location": "New Bark Town",
+		"min_level": 18,
+		"max_level": 22,
+		"rarity": "Horde"
+	},
+	{
+		"type": "Water",
+		"region_id": 4,
+		"region_name": "Johto",
+		"location": "New Bark Town",
+		"min_level": 20,
+		"max_level": 25,
+		"rarity": "Very Common"
+	},
+	{
+		"type": "Old Rod",
+		"region_id": 4,
+		"region_name": "Johto",
+		"location": "New Bark Town",
+		"min_level": 10,
+		"max_level": 10,
+		"rarity": "Uncommon"
+	},
+	{
+		"type": "Good Rod",
+		"region_id": 4,
+		"region_name": "Johto",
+		"location": "New Bark Town",
+		"min_level": 20,
+		"max_level": 20,
+		"rarity": "Very Common"
+	},
+	{
+		"type": "Water",
+		"region_id": 4,
+		"region_name": "Johto",
+		"location": "Olivine City",
+		"min_level": 19,
+		"max_level": 22,
+		"rarity": "Horde"
+	},
+	{
+		"type": "Water",
+		"region_id": 4,
+		"region_name": "Johto",
+		"location": "Olivine City",
+		"min_level": 22,
+		"max_level": 25,
+		"rarity": "Very Common"
+	},
+	{
+		"type": "Water",
+		"region_id": 4,
+		"region_name": "Johto",
+		"location": "Route 26",
+		"min_level": 38,
+		"max_level": 40,
+		"rarity": "Very Common"
+	},
+	{
+		"type": "Old Rod",
+		"region_id": 4,
+		"region_name": "Johto",
+		"location": "Route 26",
+		"min_level": 10,
+		"max_level": 10,
+		"rarity": "Rare"
+	},
+	{
+		"type": "Good Rod",
+		"region_id": 4,
+		"region_name": "Johto",
+		"location": "Route 26",
+		"min_level": 20,
+		"max_level": 20,
+		"rarity": "Very Common"
+	},
+	{
+		"type": "Water",
+		"region_id": 4,
+		"region_name": "Johto",
+		"location": "Route 27",
+		"min_level": 18,
+		"max_level": 22,
+		"rarity": "Horde"
+	},
+	{
+		"type": "Water",
+		"region_id": 4,
+		"region_name": "Johto",
+		"location": "Route 27",
+		"min_level": 20,
+		"max_level": 25,
+		"rarity": "Very Common"
+	},
+	{
+		"type": "Old Rod",
+		"region_id": 4,
+		"region_name": "Johto",
+		"location": "Route 27",
+		"min_level": 10,
+		"max_level": 10,
+		"rarity": "Rare"
+	},
+	{
+		"type": "Good Rod",
+		"region_id": 4,
+		"region_name": "Johto",
+		"location": "Route 27",
+		"min_level": 20,
+		"max_level": 20,
+		"rarity": "Very Common"
+	},
+	{
+		"type": "Water",
+		"region_id": 4,
+		"region_name": "Johto",
+		"location": "Route 32",
+		"min_level": 20,
+		"max_level": 25,
+		"rarity": "Very Common"
+	},
+	{
+		"type": "Old Rod",
+		"region_id": 4,
+		"region_name": "Johto",
+		"location": "Route 32",
+		"min_level": 10,
+		"max_level": 10,
+		"rarity": "Uncommon"
+	},
+	{
+		"type": "Good Rod",
+		"region_id": 4,
+		"region_name": "Johto",
+		"location": "Route 32",
+		"min_level": 20,
+		"max_level": 20,
+		"rarity": "Very Common"
+	},
+	{
+		"type": "Super Rod",
+		"region_id": 4,
+		"region_name": "Johto",
+		"location": "Route 32",
+		"min_level": 40,
+		"max_level": 40,
+		"rarity": "Very Common"
+	},
+	{
+		"type": "Water",
+		"region_id": 4,
+		"region_name": "Johto",
+		"location": "Route 34",
+		"min_level": 18,
+		"max_level": 22,
+		"rarity": "Horde"
+	},
+	{
+		"type": "Water",
+		"region_id": 4,
+		"region_name": "Johto",
+		"location": "Route 34",
+		"min_level": 20,
+		"max_level": 25,
+		"rarity": "Very Common"
+	},
+	{
+		"type": "Water",
+		"region_id": 4,
+		"region_name": "Johto",
+		"location": "Route 40",
+		"min_level": 19,
+		"max_level": 22,
+		"rarity": "Horde"
+	},
+	{
+		"type": "Water",
+		"region_id": 4,
+		"region_name": "Johto",
+		"location": "Route 40",
+		"min_level": 22,
+		"max_level": 25,
+		"rarity": "Very Common"
+	},
+	{
+		"type": "Water",
+		"region_id": 4,
+		"region_name": "Johto",
+		"location": "Route 41",
+		"min_level": 22,
+		"max_level": 25,
+		"rarity": "Very Common"
+	},
+	{
+		"type": "Old Rod",
+		"region_id": 4,
+		"region_name": "Johto",
+		"location": "Route 41",
+		"min_level": 10,
+		"max_level": 10,
+		"rarity": "Uncommon"
+	},
+	{
+		"type": "Good Rod",
+		"region_id": 4,
+		"region_name": "Johto",
+		"location": "Route 41",
+		"min_level": 20,
+		"max_level": 20,
+		"rarity": "Very Common"
+	},
+	{
+		"type": "Water",
+		"region_id": 4,
+		"region_name": "Johto",
+		"location": "Route 47",
+		"min_level": 24,
+		"max_level": 28,
+		"rarity": "Very Common"
+	},
+	{
+		"type": "Old Rod",
+		"region_id": 4,
+		"region_name": "Johto",
+		"location": "Route 47",
+		"min_level": 10,
+		"max_level": 10,
+		"rarity": "Uncommon"
+	},
+	{
+		"type": "Good Rod",
+		"region_id": 4,
+		"region_name": "Johto",
+		"location": "Route 47",
+		"min_level": 20,
+		"max_level": 20,
+		"rarity": "Common"
+	},
+	{
+		"type": "Good Rod",
+		"region_id": 4,
+		"region_name": "Johto",
+		"location": "Route 47",
+		"min_level": 20,
+		"max_level": 20,
+		"rarity": "Common"
+	},
+	{
+		"type": "Good Rod",
+		"region_id": 4,
+		"region_name": "Johto",
+		"location": "Route 47",
+		"min_level": 20,
+		"max_level": 20,
+		"rarity": "Common"
+	},
+	{
+		"type": "Good Rod",
+		"region_id": 4,
+		"region_name": "Johto",
+		"location": "Route 47",
+		"min_level": 20,
+		"max_level": 20,
+		"rarity": "Very Common"
+	},
+	{
+		"type": "Water",
+		"region_id": 4,
+		"region_name": "Johto",
+		"location": "Union Cave",
+		"min_level": 20,
+		"max_level": 25,
+		"rarity": "Very Common"
+	},
+	{
+		"type": "Water",
+		"region_id": 4,
+		"region_name": "Johto",
+		"location": "Whirl Islands",
+		"min_level": 24,
+		"max_level": 27,
+		"rarity": "Horde"
+	},
+	{
+		"type": "Water",
+		"region_id": 4,
+		"region_name": "Johto",
+		"location": "Whirl Islands",
+		"min_level": 26,
+		"max_level": 30,
+		"rarity": "Very Common"
+	}
+]
+}

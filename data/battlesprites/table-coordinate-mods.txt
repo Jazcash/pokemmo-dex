@@ -1,0 +1,9 @@
+;Table which determines coordinate modifications for battle sprites.
+;Lines starting with ; will be ignored
+;Please only include values for overriden sprites!
+;Each entry should be a separate line and contain ID,(FRONT/BACK)=X,Y,Z. Scale is clamped from -1 to 1. Default values for all fields are 0.
+;X: Negative values push left, positive values push right.
+;Y: Higher values push up, lower values push down.
+;Z: Higher values push away from the camera, lower values push towards the camera.
+;Scale is clamped from -1 to 1.
+;Example (Altitude mod only, increasing Y by 0.31): 1,front=0,0.31,0

@@ -1,0 +1,12 @@
+{
+"id": 241,
+"name": "Sunny Day",
+"skill_damage_type": "STATUS",
+"base_power": 0,
+"base_accuracy": 101,
+"base_pp": 5,
+"priority": 0,
+"type": "FIRE",
+"target_type": 10,
+"true_damage": false
+}

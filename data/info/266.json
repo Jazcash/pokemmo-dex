@@ -1,0 +1,175 @@
+{
+"id": 266,
+"name": "Silcoon",
+"exp_type": "MEDIUM_FAST",
+"obtainable": true,
+"gender_ratio": 127,
+"height": 6,
+"weight": 100,
+"egg_groups": [
+	"bug"
+],
+"abilities": [
+	{
+		"id": 61,
+		"name": "Shed Skin"
+	},
+	{
+		"id": 0,
+		"name": "--"
+	},
+	{
+		"id": 61,
+		"name": "Shed Skin"
+	}
+],
+"forms": [
+	{
+		"form_id": 0,
+		"id": 266,
+		"name": "Silcoon"
+	}
+],
+"evolutions": [
+	{
+		"id": 267,
+		"name": "Beautifly",
+		"type": "LEVEL",
+		"val": 10
+	}
+],
+"moves": [
+	{
+		"id": 106,
+		"name": "Harden",
+		"type": "level",
+		"level": 1
+	},
+	{
+		"id": 40,
+		"name": "Poison Sting",
+		"type": "level",
+		"level": 1
+	},
+	{
+		"id": 33,
+		"name": "Tackle",
+		"type": "level",
+		"level": 6
+	},
+	{
+		"id": 106,
+		"name": "Harden",
+		"type": "level",
+		"level": 7
+	},
+	{
+		"id": 81,
+		"name": "String Shot",
+		"type": "move_tutor"
+	},
+	{
+		"id": 173,
+		"name": "Snore",
+		"type": "move_tutor"
+	},
+	{
+		"id": 450,
+		"name": "Bug Bite",
+		"type": "move_tutor"
+	},
+	{
+		"id": 527,
+		"name": "Electroweb",
+		"type": "move_tutor"
+	},
+	{
+		"id": 81,
+		"name": "String Shot",
+		"type": "prevo_moves"
+	},
+	{
+		"id": 450,
+		"name": "Bug Bite",
+		"type": "prevo_moves"
+	},
+	{
+		"id": 334,
+		"name": "Iron Defense",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 106,
+		"name": "Harden",
+		"type": "on_evolution"
+	},
+	{
+		"id": 334,
+		"name": "Iron Defense",
+		"type": "on_evolution"
+	}
+],
+"types": [
+	"BUG",
+	"BUG"
+],
+"stats": {
+	"hp": 50,
+	"attack": 35,
+	"defense": 55,
+	"speed": 15,
+	"sp_attack": 25,
+	"sp_defense": 25
+},
+"yields": {
+	"exp": 72,
+	"ev_hp": 0,
+	"ev_attack": 0,
+	"ev_defense": 2,
+	"ev_speed": 0,
+	"ev_sp_attack": 0,
+	"ev_sp_defense": 0
+},
+"tiers": [
+	"Untiered"
+],
+"held_items": [],
+"locations": [
+	{
+		"type": "Grass",
+		"region_id": 1,
+		"region_name": "Hoenn",
+		"location": "PETALBURG WOODS",
+		"min_level": 7,
+		"max_level": 7,
+		"rarity": "Uncommon"
+	},
+	{
+		"type": "Grass",
+		"region_id": 3,
+		"region_name": "Sinnoh",
+		"location": "Eterna Forest",
+		"min_level": 10,
+		"max_level": 12,
+		"rarity": "Rare"
+	},
+	{
+		"type": "Honey Tree",
+		"region_id": 3,
+		"region_name": "Sinnoh",
+		"location": "Honey Tree",
+		"min_level": 15,
+		"max_level": 20,
+		"rarity": "Rare"
+	},
+	{
+		"type": "Grass",
+		"region_id": 3,
+		"region_name": "Sinnoh",
+		"location": "Route 205",
+		"min_level": 14,
+		"max_level": 14,
+		"rarity": "Very Rare"
+	}
+]
+}

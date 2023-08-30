@@ -1,0 +1,12 @@
+{
+"id": 299,
+"name": "Blaze Kick",
+"skill_damage_type": "PHYSICAL",
+"base_power": 85,
+"base_accuracy": 90,
+"base_pp": 10,
+"priority": 0,
+"type": "FIRE",
+"target_type": 0,
+"true_damage": false
+}

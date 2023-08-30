@@ -1,0 +1,12 @@
+{
+"id": 382,
+"name": "Me First",
+"skill_damage_type": "STATUS",
+"base_power": 1,
+"base_accuracy": 101,
+"base_pp": 20,
+"priority": 0,
+"type": "NORMAL",
+"target_type": 3,
+"true_damage": false
+}

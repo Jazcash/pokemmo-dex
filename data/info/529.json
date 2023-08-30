@@ -1,0 +1,469 @@
+{
+"id": 529,
+"name": "Drilbur",
+"exp_type": "MEDIUM_FAST",
+"obtainable": true,
+"gender_ratio": 127,
+"height": 3,
+"weight": 85,
+"egg_groups": [
+	"field"
+],
+"abilities": [
+	{
+		"id": 146,
+		"name": "Sand Rush"
+	},
+	{
+		"id": 159,
+		"name": "Sand Force"
+	},
+	{
+		"id": 104,
+		"name": "Mold Breaker"
+	}
+],
+"forms": [
+	{
+		"form_id": 0,
+		"id": 529,
+		"name": "Drilbur"
+	}
+],
+"evolutions": [
+	{
+		"id": 530,
+		"name": "Excadrill",
+		"type": "LEVEL",
+		"val": 31
+	}
+],
+"moves": [
+	{
+		"id": 10,
+		"name": "Scratch",
+		"type": "level",
+		"level": 1
+	},
+	{
+		"id": 189,
+		"name": "Mud-Slap",
+		"type": "level",
+		"level": 1
+	},
+	{
+		"id": 229,
+		"name": "Rapid Spin",
+		"type": "level",
+		"level": 1
+	},
+	{
+		"id": 300,
+		"name": "Mud Sport",
+		"type": "level",
+		"level": 1
+	},
+	{
+		"id": 10,
+		"name": "Scratch",
+		"type": "level",
+		"level": 4
+	},
+	{
+		"id": 229,
+		"name": "Rapid Spin",
+		"type": "level",
+		"level": 5
+	},
+	{
+		"id": 189,
+		"name": "Mud-Slap",
+		"type": "level",
+		"level": 8
+	},
+	{
+		"id": 468,
+		"name": "Hone Claws",
+		"type": "level",
+		"level": 8
+	},
+	{
+		"id": 154,
+		"name": "Fury Swipes",
+		"type": "level",
+		"level": 12
+	},
+	{
+		"id": 232,
+		"name": "Metal Claw",
+		"type": "level",
+		"level": 16
+	},
+	{
+		"id": 201,
+		"name": "Sandstorm",
+		"type": "level",
+		"level": 20
+	},
+	{
+		"id": 306,
+		"name": "Crush Claw",
+		"type": "level",
+		"level": 24
+	},
+	{
+		"id": 163,
+		"name": "Slash",
+		"type": "level",
+		"level": 26
+	},
+	{
+		"id": 157,
+		"name": "Rock Slide",
+		"type": "level",
+		"level": 28
+	},
+	{
+		"id": 91,
+		"name": "Dig",
+		"type": "level",
+		"level": 32
+	},
+	{
+		"id": 14,
+		"name": "Swords Dance",
+		"type": "level",
+		"level": 36
+	},
+	{
+		"id": 529,
+		"name": "Drill Run",
+		"type": "level",
+		"level": 40
+	},
+	{
+		"id": 89,
+		"name": "Earthquake",
+		"type": "level",
+		"level": 44
+	},
+	{
+		"id": 90,
+		"name": "Fissure",
+		"type": "level",
+		"level": 48
+	},
+	{
+		"id": 319,
+		"name": "Metal Sound",
+		"type": "egg_moves"
+	},
+	{
+		"id": 173,
+		"name": "Snore",
+		"type": "move_tutor"
+	},
+	{
+		"id": 14,
+		"name": "Swords Dance",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 15,
+		"name": "Cut",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 66,
+		"name": "Submission",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 70,
+		"name": "Strength",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 89,
+		"name": "Earthquake",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 90,
+		"name": "Fissure",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 91,
+		"name": "Dig",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 92,
+		"name": "Toxic",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 104,
+		"name": "Double Team",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 130,
+		"name": "Skull Bash",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 156,
+		"name": "Rest",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 157,
+		"name": "Rock Slide",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 164,
+		"name": "Substitute",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 182,
+		"name": "Protect",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 188,
+		"name": "Sludge Bomb",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 189,
+		"name": "Mud-Slap",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 201,
+		"name": "Sandstorm",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 203,
+		"name": "Endure",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 207,
+		"name": "Swagger",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 213,
+		"name": "Attract",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 214,
+		"name": "Sleep Talk",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 216,
+		"name": "Return",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 218,
+		"name": "Frustration",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 232,
+		"name": "Metal Claw",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 237,
+		"name": "Hidden Power",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 249,
+		"name": "Rock Smash",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 263,
+		"name": "Facade",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 280,
+		"name": "Brick Break",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 290,
+		"name": "Secret Power",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 317,
+		"name": "Rock Tomb",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 328,
+		"name": "Sand Tomb",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 332,
+		"name": "Aerial Ace",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 334,
+		"name": "Iron Defense",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 341,
+		"name": "Mud Shot",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 374,
+		"name": "Fling",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 398,
+		"name": "Poison Jab",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 404,
+		"name": "X-Scissor",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 414,
+		"name": "Earth Power",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 421,
+		"name": "Shadow Claw",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 431,
+		"name": "Rock Climb",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 446,
+		"name": "Stealth Rock",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 468,
+		"name": "Hone Claws",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 496,
+		"name": "Round",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 523,
+		"name": "Bulldoze",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 529,
+		"name": "Drill Run",
+		"type": "move_learner_tools"
+	}
+],
+"types": [
+	"GROUND",
+	"GROUND"
+],
+"stats": {
+	"hp": 60,
+	"attack": 85,
+	"defense": 40,
+	"speed": 68,
+	"sp_attack": 30,
+	"sp_defense": 45
+},
+"yields": {
+	"exp": 66,
+	"ev_hp": 0,
+	"ev_attack": 1,
+	"ev_defense": 0,
+	"ev_speed": 0,
+	"ev_sp_attack": 0,
+	"ev_sp_defense": 0
+},
+"tiers": [
+	"Untiered"
+],
+"held_items": [
+	{
+		"id": 5035,
+		"name": "Energy Root"
+	}
+],
+"locations": [
+	{
+		"type": "Dust Cloud",
+		"region_id": 2,
+		"region_name": "Unova",
+		"location": "Chargestone Cave",
+		"min_level": 30,
+		"max_level": 31,
+		"rarity": "Special"
+	},
+	{
+		"type": "Dust Cloud",
+		"region_id": 2,
+		"region_name": "Unova",
+		"location": "Guidance Chamber",
+		"min_level": 36,
+		"max_level": 41,
+		"rarity": "Special"
+	},
+	{
+		"type": "Dust Cloud",
+		"region_id": 2,
+		"region_name": "Unova",
+		"location": "Mistralton Cave",
+		"min_level": 35,
+		"max_level": 40,
+		"rarity": "Special"
+	},
+	{
+		"type": "Dust Cloud",
+		"region_id": 2,
+		"region_name": "Unova",
+		"location": "Twist Mountain",
+		"min_level": 33,
+		"max_level": 34,
+		"rarity": "Special"
+	},
+	{
+		"type": "Dust Cloud",
+		"region_id": 2,
+		"region_name": "Unova",
+		"location": "Wellspring Cave",
+		"min_level": 10,
+		"max_level": 15,
+		"rarity": "Special"
+	}
+]
+}

@@ -1,0 +1,773 @@
+{
+"id": 319,
+"name": "Sharpedo",
+"exp_type": "SLOW",
+"obtainable": true,
+"gender_ratio": 127,
+"height": 18,
+"weight": 888,
+"egg_groups": [
+	"water b"
+],
+"abilities": [
+	{
+		"id": 24,
+		"name": "Rough Skin"
+	},
+	{
+		"id": 0,
+		"name": "--"
+	},
+	{
+		"id": 3,
+		"name": "Speed Boost"
+	}
+],
+"forms": [
+	{
+		"form_id": 0,
+		"id": 319,
+		"name": "Sharpedo"
+	}
+],
+"evolutions": [],
+"moves": [
+	{
+		"id": 43,
+		"name": "Leer",
+		"type": "level",
+		"level": 1
+	},
+	{
+		"id": 44,
+		"name": "Bite",
+		"type": "level",
+		"level": 1
+	},
+	{
+		"id": 99,
+		"name": "Rage",
+		"type": "level",
+		"level": 1
+	},
+	{
+		"id": 116,
+		"name": "Focus Energy",
+		"type": "level",
+		"level": 1
+	},
+	{
+		"id": 163,
+		"name": "Slash",
+		"type": "level",
+		"level": 1
+	},
+	{
+		"id": 305,
+		"name": "Poison Fang",
+		"type": "level",
+		"level": 1
+	},
+	{
+		"id": 364,
+		"name": "Feint",
+		"type": "level",
+		"level": 1
+	},
+	{
+		"id": 400,
+		"name": "Night Slash",
+		"type": "level",
+		"level": 1
+	},
+	{
+		"id": 453,
+		"name": "Aqua Jet",
+		"type": "level",
+		"level": 1
+	},
+	{
+		"id": 99,
+		"name": "Rage",
+		"type": "level",
+		"level": 4
+	},
+	{
+		"id": 116,
+		"name": "Focus Energy",
+		"type": "level",
+		"level": 8
+	},
+	{
+		"id": 453,
+		"name": "Aqua Jet",
+		"type": "level",
+		"level": 11
+	},
+	{
+		"id": 184,
+		"name": "Scary Face",
+		"type": "level",
+		"level": 12
+	},
+	{
+		"id": 372,
+		"name": "Assurance",
+		"type": "level",
+		"level": 15
+	},
+	{
+		"id": 44,
+		"name": "Bite",
+		"type": "level",
+		"level": 16
+	},
+	{
+		"id": 423,
+		"name": "Ice Fang",
+		"type": "level",
+		"level": 20
+	},
+	{
+		"id": 103,
+		"name": "Screech",
+		"type": "level",
+		"level": 24
+	},
+	{
+		"id": 207,
+		"name": "Swagger",
+		"type": "level",
+		"level": 28
+	},
+	{
+		"id": 163,
+		"name": "Slash",
+		"type": "level",
+		"level": 30
+	},
+	{
+		"id": 242,
+		"name": "Crunch",
+		"type": "level",
+		"level": 34
+	},
+	{
+		"id": 305,
+		"name": "Poison Fang",
+		"type": "level",
+		"level": 34
+	},
+	{
+		"id": 97,
+		"name": "Agility",
+		"type": "level",
+		"level": 40
+	},
+	{
+		"id": 130,
+		"name": "Skull Bash",
+		"type": "level",
+		"level": 51
+	},
+	{
+		"id": 36,
+		"name": "Take Down",
+		"type": "level",
+		"level": 52
+	},
+	{
+		"id": 269,
+		"name": "Taunt",
+		"type": "level",
+		"level": 56
+	},
+	{
+		"id": 400,
+		"name": "Night Slash",
+		"type": "level",
+		"level": 62
+	},
+	{
+		"id": 162,
+		"name": "Super Fang",
+		"type": "move_tutor"
+	},
+	{
+		"id": 173,
+		"name": "Snore",
+		"type": "move_tutor"
+	},
+	{
+		"id": 180,
+		"name": "Spite",
+		"type": "move_tutor"
+	},
+	{
+		"id": 246,
+		"name": "AncientPower",
+		"type": "move_tutor"
+	},
+	{
+		"id": 253,
+		"name": "Uproar",
+		"type": "move_tutor"
+	},
+	{
+		"id": 340,
+		"name": "Bounce",
+		"type": "move_tutor"
+	},
+	{
+		"id": 287,
+		"name": "Refresh",
+		"type": "special_moves"
+	},
+	{
+		"id": 36,
+		"name": "Take Down",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 38,
+		"name": "Double-Edge",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 46,
+		"name": "Roar",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 56,
+		"name": "Hydro Pump",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 57,
+		"name": "Surf",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 58,
+		"name": "Ice Beam",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 59,
+		"name": "Blizzard",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 63,
+		"name": "Hyper Beam",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 70,
+		"name": "Strength",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 89,
+		"name": "Earthquake",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 92,
+		"name": "Toxic",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 97,
+		"name": "Agility",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 99,
+		"name": "Rage",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 102,
+		"name": "Mimic",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 103,
+		"name": "Screech",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 104,
+		"name": "Double Team",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 116,
+		"name": "Focus Energy",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 127,
+		"name": "Waterfall",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 129,
+		"name": "Swift",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 130,
+		"name": "Skull Bash",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 156,
+		"name": "Rest",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 164,
+		"name": "Substitute",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 168,
+		"name": "Thief",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 182,
+		"name": "Protect",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 184,
+		"name": "Scary Face",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 189,
+		"name": "Mud-Slap",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 196,
+		"name": "Icy Wind",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 203,
+		"name": "Endure",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 207,
+		"name": "Swagger",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 210,
+		"name": "Fury Cutter",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 213,
+		"name": "Attract",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 214,
+		"name": "Sleep Talk",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 216,
+		"name": "Return",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 218,
+		"name": "Frustration",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 237,
+		"name": "Hidden Power",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 240,
+		"name": "Rain Dance",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 242,
+		"name": "Crunch",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 249,
+		"name": "Rock Smash",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 250,
+		"name": "Whirlpool",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 258,
+		"name": "Snowscape",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 259,
+		"name": "Torment",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 263,
+		"name": "Facade",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 269,
+		"name": "Taunt",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 290,
+		"name": "Secret Power",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 291,
+		"name": "Dive",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 317,
+		"name": "Rock Tomb",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 352,
+		"name": "Water Pulse",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 362,
+		"name": "Brine",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 363,
+		"name": "Natural Gift",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 370,
+		"name": "Close Combat",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 371,
+		"name": "Payback",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 372,
+		"name": "Assurance",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 398,
+		"name": "Poison Jab",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 399,
+		"name": "Dark Pulse",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 416,
+		"name": "Giga Impact",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 419,
+		"name": "Avalanche",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 423,
+		"name": "Ice Fang",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 428,
+		"name": "Zen Headbutt",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 445,
+		"name": "Captivate",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 496,
+		"name": "Round",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 503,
+		"name": "Scald",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 514,
+		"name": "Retaliate",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 523,
+		"name": "Bulldoze",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 555,
+		"name": "Snarl",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 163,
+		"name": "Slash",
+		"type": "on_evolution"
+	}
+],
+"types": [
+	"WATER",
+	"DARK"
+],
+"stats": {
+	"hp": 70,
+	"attack": 120,
+	"defense": 40,
+	"speed": 95,
+	"sp_attack": 95,
+	"sp_defense": 40
+},
+"yields": {
+	"exp": 161,
+	"ev_hp": 0,
+	"ev_attack": 2,
+	"ev_defense": 0,
+	"ev_speed": 0,
+	"ev_sp_attack": 0,
+	"ev_sp_defense": 0
+},
+"tiers": [
+	"Never Used"
+],
+"held_items": [
+	{
+		"id": 5226,
+		"name": "DeepSeaTooth"
+	}
+],
+"locations": [
+	{
+		"type": "Super Rod",
+		"region_id": 1,
+		"region_name": "Hoenn",
+		"location": "MOSSDEEP CITY",
+		"min_level": 30,
+		"max_level": 40,
+		"rarity": "Very Common"
+	},
+	{
+		"type": "Super Rod",
+		"region_id": 1,
+		"region_name": "Hoenn",
+		"location": "PACIFIDLOG TOWN",
+		"min_level": 30,
+		"max_level": 40,
+		"rarity": "Very Common"
+	},
+	{
+		"type": "Super Rod",
+		"region_id": 1,
+		"region_name": "Hoenn",
+		"location": "ROUTE 103",
+		"min_level": 30,
+		"max_level": 40,
+		"rarity": "Very Common"
+	},
+	{
+		"type": "Super Rod",
+		"region_id": 1,
+		"region_name": "Hoenn",
+		"location": "ROUTE 118",
+		"min_level": 30,
+		"max_level": 40,
+		"rarity": "Rare"
+	},
+	{
+		"type": "Super Rod",
+		"region_id": 1,
+		"region_name": "Hoenn",
+		"location": "ROUTE 119",
+		"min_level": 30,
+		"max_level": 40,
+		"rarity": "Very Common"
+	},
+	{
+		"type": "Super Rod",
+		"region_id": 1,
+		"region_name": "Hoenn",
+		"location": "ROUTE 122",
+		"min_level": 30,
+		"max_level": 40,
+		"rarity": "Very Common"
+	},
+	{
+		"type": "Super Rod",
+		"region_id": 1,
+		"region_name": "Hoenn",
+		"location": "ROUTE 124",
+		"min_level": 30,
+		"max_level": 40,
+		"rarity": "Very Common"
+	},
+	{
+		"type": "Super Rod",
+		"region_id": 1,
+		"region_name": "Hoenn",
+		"location": "ROUTE 125",
+		"min_level": 30,
+		"max_level": 40,
+		"rarity": "Very Common"
+	},
+	{
+		"type": "Super Rod",
+		"region_id": 1,
+		"region_name": "Hoenn",
+		"location": "ROUTE 126",
+		"min_level": 30,
+		"max_level": 40,
+		"rarity": "Very Common"
+	},
+	{
+		"type": "Super Rod",
+		"region_id": 1,
+		"region_name": "Hoenn",
+		"location": "ROUTE 127",
+		"min_level": 30,
+		"max_level": 40,
+		"rarity": "Very Common"
+	},
+	{
+		"type": "Super Rod",
+		"region_id": 1,
+		"region_name": "Hoenn",
+		"location": "ROUTE 130",
+		"min_level": 30,
+		"max_level": 40,
+		"rarity": "Common"
+	},
+	{
+		"type": "Super Rod",
+		"region_id": 1,
+		"region_name": "Hoenn",
+		"location": "ROUTE 131",
+		"min_level": 30,
+		"max_level": 40,
+		"rarity": "Common"
+	},
+	{
+		"type": "Super Rod",
+		"region_id": 1,
+		"region_name": "Hoenn",
+		"location": "ROUTE 132",
+		"min_level": 30,
+		"max_level": 40,
+		"rarity": "Common"
+	},
+	{
+		"type": "Super Rod",
+		"region_id": 1,
+		"region_name": "Hoenn",
+		"location": "ROUTE 133",
+		"min_level": 30,
+		"max_level": 40,
+		"rarity": "Common"
+	},
+	{
+		"type": "Super Rod",
+		"region_id": 1,
+		"region_name": "Hoenn",
+		"location": "ROUTE 134",
+		"min_level": 30,
+		"max_level": 40,
+		"rarity": "Common"
+	},
+	{
+		"type": "Super Rod",
+		"region_id": 1,
+		"region_name": "Hoenn",
+		"location": "SEALED CHAMBER",
+		"min_level": 30,
+		"max_level": 40,
+		"rarity": "Common"
+	},
+	{
+		"type": "Water",
+		"region_id": 2,
+		"region_name": "Unova",
+		"location": "Route 14",
+		"min_level": 58,
+		"max_level": 58,
+		"rarity": "Lure"
+	},
+	{
+		"type": "Fishing",
+		"region_id": 2,
+		"region_name": "Unova",
+		"location": "Village Bridge",
+		"min_level": 60,
+		"max_level": 65,
+		"rarity": "Special"
+	},
+	{
+		"type": "Water",
+		"region_id": 3,
+		"region_name": "Sinnoh",
+		"location": "Great Marsh",
+		"min_level": 43,
+		"max_level": 43,
+		"rarity": "Lure"
+	},
+	{
+		"type": "Super Rod",
+		"region_id": 3,
+		"region_name": "Sinnoh",
+		"location": "Route 213",
+		"min_level": 40,
+		"max_level": 55,
+		"rarity": "Rare"
+	},
+	{
+		"type": "Super Rod",
+		"region_id": 3,
+		"region_name": "Sinnoh",
+		"location": "Route 222",
+		"min_level": 40,
+		"max_level": 55,
+		"rarity": "Rare"
+	}
+]
+}

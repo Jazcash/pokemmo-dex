@@ -1,0 +1,548 @@
+{
+"id": 133,
+"name": "Eevee",
+"exp_type": "MEDIUM_FAST",
+"obtainable": true,
+"gender_ratio": 31,
+"height": 3,
+"weight": 65,
+"egg_groups": [
+	"field"
+],
+"abilities": [
+	{
+		"id": 50,
+		"name": "Run Away"
+	},
+	{
+		"id": 91,
+		"name": "Adaptability"
+	},
+	{
+		"id": 107,
+		"name": "Anticipation"
+	}
+],
+"forms": [
+	{
+		"form_id": 0,
+		"id": 133,
+		"name": "Eevee"
+	}
+],
+"evolutions": [
+	{
+		"id": 470,
+		"name": "Leafeon",
+		"type": "LEVEL_LOCATION_2",
+		"val": 0
+	},
+	{
+		"id": 471,
+		"name": "Glaceon",
+		"type": "LEVEL_LOCATION_3",
+		"val": 0
+	},
+	{
+		"id": 135,
+		"name": "Jolteon",
+		"type": "ITEM",
+		"val": 5083,
+		"item_name": "Thunderstone"
+	},
+	{
+		"id": 134,
+		"name": "Vaporeon",
+		"type": "ITEM",
+		"val": 5084,
+		"item_name": "Water Stone"
+	},
+	{
+		"id": 136,
+		"name": "Flareon",
+		"type": "ITEM",
+		"val": 5082,
+		"item_name": "Fire Stone"
+	},
+	{
+		"id": 196,
+		"name": "Espeon",
+		"type": "HAPPINESS_DAY",
+		"val": 0
+	},
+	{
+		"id": 197,
+		"name": "Umbreon",
+		"type": "HAPPINESS_NIGHT",
+		"val": 0
+	}
+],
+"moves": [
+	{
+		"id": 33,
+		"name": "Tackle",
+		"type": "level",
+		"level": 1
+	},
+	{
+		"id": 39,
+		"name": "Tail Whip",
+		"type": "level",
+		"level": 1
+	},
+	{
+		"id": 45,
+		"name": "Growl",
+		"type": "level",
+		"level": 1
+	},
+	{
+		"id": 270,
+		"name": "Helping Hand",
+		"type": "level",
+		"level": 1
+	},
+	{
+		"id": 343,
+		"name": "Covet",
+		"type": "level",
+		"level": 1
+	},
+	{
+		"id": 28,
+		"name": "Sand-Attack",
+		"type": "level",
+		"level": 5
+	},
+	{
+		"id": 98,
+		"name": "Quick Attack",
+		"type": "level",
+		"level": 6
+	},
+	{
+		"id": 24,
+		"name": "Double Kick",
+		"type": "level",
+		"level": 10
+	},
+	{
+		"id": 44,
+		"name": "Bite",
+		"type": "level",
+		"level": 17
+	},
+	{
+		"id": 129,
+		"name": "Swift",
+		"type": "level",
+		"level": 20
+	},
+	{
+		"id": 287,
+		"name": "Refresh",
+		"type": "level",
+		"level": 20
+	},
+	{
+		"id": 36,
+		"name": "Take Down",
+		"type": "level",
+		"level": 24
+	},
+	{
+		"id": 102,
+		"name": "Mimic",
+		"type": "level",
+		"level": 25
+	},
+	{
+		"id": 38,
+		"name": "Double-Edge",
+		"type": "level",
+		"level": 28
+	},
+	{
+		"id": 383,
+		"name": "Copycat",
+		"type": "level",
+		"level": 30
+	},
+	{
+		"id": 347,
+		"name": "Calm Mind",
+		"type": "level",
+		"level": 34
+	},
+	{
+		"id": 226,
+		"name": "Baton Pass",
+		"type": "level",
+		"level": 35
+	},
+	{
+		"id": 116,
+		"name": "Focus Energy",
+		"type": "level",
+		"level": 36
+	},
+	{
+		"id": 204,
+		"name": "Charm",
+		"type": "level",
+		"level": 45
+	},
+	{
+		"id": 376,
+		"name": "Trump Card",
+		"type": "level",
+		"level": 45
+	},
+	{
+		"id": 387,
+		"name": "Last Resort",
+		"type": "level",
+		"level": 55
+	},
+	{
+		"id": 175,
+		"name": "Flail",
+		"type": "egg_moves"
+	},
+	{
+		"id": 273,
+		"name": "Wish",
+		"type": "egg_moves"
+	},
+	{
+		"id": 281,
+		"name": "Yawn",
+		"type": "egg_moves"
+	},
+	{
+		"id": 321,
+		"name": "Tickle",
+		"type": "egg_moves"
+	},
+	{
+		"id": 485,
+		"name": "Synchronoise",
+		"type": "egg_moves"
+	},
+	{
+		"id": 173,
+		"name": "Snore",
+		"type": "move_tutor"
+	},
+	{
+		"id": 215,
+		"name": "Heal Bell",
+		"type": "move_tutor"
+	},
+	{
+		"id": 343,
+		"name": "Covet",
+		"type": "move_tutor"
+	},
+	{
+		"id": 387,
+		"name": "Last Resort",
+		"type": "move_tutor"
+	},
+	{
+		"id": 47,
+		"name": "Sing",
+		"type": "special_moves"
+	},
+	{
+		"id": 74,
+		"name": "Growth",
+		"type": "special_moves"
+	},
+	{
+		"id": 6,
+		"name": "Pay Day",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 29,
+		"name": "Headbutt",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 34,
+		"name": "Body Slam",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 36,
+		"name": "Take Down",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 38,
+		"name": "Double-Edge",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 91,
+		"name": "Dig",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 92,
+		"name": "Toxic",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 99,
+		"name": "Rage",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 102,
+		"name": "Mimic",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 104,
+		"name": "Double Team",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 115,
+		"name": "Reflect",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 116,
+		"name": "Focus Energy",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 117,
+		"name": "Bide",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 129,
+		"name": "Swift",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 130,
+		"name": "Skull Bash",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 156,
+		"name": "Rest",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 164,
+		"name": "Substitute",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 174,
+		"name": "Curse",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 182,
+		"name": "Protect",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 189,
+		"name": "Mud-Slap",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 197,
+		"name": "Detect",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 203,
+		"name": "Endure",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 204,
+		"name": "Charm",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 207,
+		"name": "Swagger",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 213,
+		"name": "Attract",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 214,
+		"name": "Sleep Talk",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 216,
+		"name": "Return",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 218,
+		"name": "Frustration",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 226,
+		"name": "Baton Pass",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 231,
+		"name": "Iron Tail",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 237,
+		"name": "Hidden Power",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 240,
+		"name": "Rain Dance",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 241,
+		"name": "Sunny Day",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 247,
+		"name": "Shadow Ball",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 263,
+		"name": "Facade",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 270,
+		"name": "Helping Hand",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 290,
+		"name": "Secret Power",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 304,
+		"name": "Hyper Voice",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 311,
+		"name": "Weather Ball",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 313,
+		"name": "Fake Tears",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 347,
+		"name": "Calm Mind",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 363,
+		"name": "Natural Gift",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 445,
+		"name": "Captivate",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 496,
+		"name": "Round",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 497,
+		"name": "Echoed Voice",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 500,
+		"name": "Stored Power",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 514,
+		"name": "Retaliate",
+		"type": "move_learner_tools"
+	},
+	{
+		"id": 526,
+		"name": "Work Up",
+		"type": "move_learner_tools"
+	}
+],
+"types": [
+	"NORMAL",
+	"NORMAL"
+],
+"stats": {
+	"hp": 55,
+	"attack": 55,
+	"defense": 50,
+	"speed": 55,
+	"sp_attack": 45,
+	"sp_defense": 65
+},
+"yields": {
+	"exp": 65,
+	"ev_hp": 0,
+	"ev_attack": 0,
+	"ev_defense": 0,
+	"ev_speed": 0,
+	"ev_sp_attack": 0,
+	"ev_sp_defense": 1
+},
+"tiers": [
+	"Untiered"
+],
+"held_items": [],
+"locations": [
+	{
+		"type": "Grass",
+		"region_id": 0,
+		"region_name": "Kanto",
+		"location": "ROUTE 17",
+		"min_level": 22,
+		"max_level": 22,
+		"rarity": "Rare"
+	},
+	{
+		"type": "Grass",
+		"region_id": 3,
+		"region_name": "Sinnoh",
+		"location": "Route 203",
+		"min_level": 10,
+		"max_level": 10,
+		"rarity": "Lure"
+	}
+]
+}

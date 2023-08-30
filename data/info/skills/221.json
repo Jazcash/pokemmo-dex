@@ -1,0 +1,12 @@
+{
+"id": 221,
+"name": "Sacred Fire",
+"skill_damage_type": "PHYSICAL",
+"base_power": 100,
+"base_accuracy": 95,
+"base_pp": 5,
+"priority": 0,
+"type": "FIRE",
+"target_type": 0,
+"true_damage": false
+}

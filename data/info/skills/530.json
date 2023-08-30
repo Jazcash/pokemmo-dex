@@ -1,0 +1,12 @@
+{
+"id": 530,
+"name": "Dual Chop",
+"skill_damage_type": "PHYSICAL",
+"base_power": 40,
+"base_accuracy": 90,
+"base_pp": 15,
+"priority": 0,
+"type": "DRAGON",
+"target_type": 0,
+"true_damage": false
+}

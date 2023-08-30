@@ -1,0 +1,12 @@
+{
+"id": 534,
+"name": "Razor Shell",
+"skill_damage_type": "PHYSICAL",
+"base_power": 75,
+"base_accuracy": 95,
+"base_pp": 10,
+"priority": 0,
+"type": "WATER",
+"target_type": 0,
+"true_damage": false
+}

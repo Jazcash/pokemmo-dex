@@ -1,0 +1,12 @@
+{
+"id": 368,
+"name": "Metal Burst",
+"skill_damage_type": "PHYSICAL",
+"base_power": 1,
+"base_accuracy": 100,
+"base_pp": 10,
+"priority": 0,
+"type": "STEEL",
+"target_type": 13,
+"true_damage": true
+}
