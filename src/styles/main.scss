@@ -1,0 +1,38 @@
+h1, h2, h3, h4, h5, h6, p {
+    margin: 0;
+}
+
+.p-datatable {
+    border: 1px solid rgba(255, 255, 255, 0.1);
+}
+
+.p-datatable .p-datatable-tbody > tr > td {
+    padding: 3px 10px;
+}
+
+.p-datatable .p-datatable-thead > tr > th {
+    padding: 7px 10px;
+}
+
+.p-tabview-panels {
+    padding: 0 !important;
+    border: none !important;
+}
+
+.p-tabview-nav {
+    border: none !important;
+    gap: 5px;
+}
+
+.p-tabview-header {
+    border: 1px solid rgba(255, 255, 255, 0.1);
+    border-bottom: none;
+    border-radius: 3px 3px 0 0;
+    overflow: hidden;
+}
+
+.p-datatable.p-datatable-hoverable-rows .p-datatable-tbody > tr:not(.p-highlight):hover,
+.p-datatable th:hover,
+.p-datatable .p-sortable-column.p-highlight {
+    background: #1f3149 !important;
+}

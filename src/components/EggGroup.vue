@@ -1,6 +1,6 @@
 <template>
     <div class="egg-group" :style="{ 'background-color': getEggGroupColor(eggGroup) }">
-        <img class="egg" src="/monstericons/650.png">
+        <div :class="`monstericon-650 pixelart egg`"></div>
         {{ eggGroup }}
     </div>
 </template>
@@ -34,7 +34,7 @@ defineProps<{
 .egg {
     position: absolute;
     left: 9px;
-    top: 8px;
+    top: 7px;
     transform: translateX(-50%) translateY(-50%);
 }
 </style>

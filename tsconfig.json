@@ -24,6 +24,13 @@
         "noUnusedParameters": true,
         "noFallthroughCasesInSwitch": true
     },
-    "include": ["src/**/*"],
-    "references": [{ "path": "./tsconfig.node.json" }]
+    "include": ["src/**/*", "typed-router.d.ts"],
+    "ts-node": {
+        "esm": true,
+        "swc": true,
+        "compilerOptions": {
+            "module": "esnext",
+            "target": "esnext"
+        }
+    }
 }
