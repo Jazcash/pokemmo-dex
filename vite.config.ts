@@ -11,6 +11,9 @@ export default defineConfig({
             "@": path.join(__dirname, "src"),
         },
     },
+    build: {
+        outDir: "docs",
+    },
     plugins: [
         VueRouter(),
         VueMacros({
