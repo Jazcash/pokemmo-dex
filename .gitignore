@@ -40,3 +40,4 @@ thumbs.db
 /tsconfig.node.tsbuildinfo
 /tsconfig.web.tsbuildinfo
 debug.log
+dist
