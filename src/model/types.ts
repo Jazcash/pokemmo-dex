@@ -94,7 +94,7 @@ export interface Move {
     base_accuracy: number;
     base_pp: number;
     priority: number;
-    type: string;
+    type: Type;
     target_type: number;
     true_damage: boolean;
     learnedBy: number[];

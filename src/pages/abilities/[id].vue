@@ -4,7 +4,11 @@
 
 <template>
     <div>
-        <h1>{{ ability.name }}</h1>
+        <h1>
+            <a :href="`https://pokemondb.net/ability/${ability.name.replace(' ', '-')}`">
+                {{ ability.name }}
+            </a>
+        </h1>
         <div>{{ ability.description }}</div>
         <PokemonList :pokemon="pokemon" />
     </div>
@@ -43,21 +47,6 @@ const pokemon = computed(() => ability.value.learnedBy.map(id => pokedexLookups.
         left: 7px;
         display: flex;
         gap: 5px;
-    }
-}
-
-h1 {
-    font-size: 48px;
-    width: 100%;
-    display: flex;
-}
-
-a {
-    text-decoration: underline;
-    color: #eee;
-
-    &:hover {
-        color: #fff;
     }
 }
 

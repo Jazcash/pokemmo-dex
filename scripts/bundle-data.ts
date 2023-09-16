@@ -7,6 +7,8 @@ import path from "path";
 const pokemon: any[] = [];
 const moves: any[] = [];
 
+const exlusions = [650, 651, 667, 666];
+
 const pokedexFiles = await fs.promises.readdir("data/info");
 const catchRatesStr = await fs.promises.readFile("data/catch_rates.json", { encoding: "utf-8" });
 const catchRates = JSON.parse(catchRatesStr);
@@ -22,6 +24,10 @@ for (const file of pokedexFiles) {
     if (file.endsWith("json")) {
         const pokedexEntryStr = await fs.promises.readFile(`data/info/${file}`, { encoding: "utf-8" });
         const pokedexEntry = JSON.parse(pokedexEntryStr);
+
+        if (exlusions.includes(pokedexEntry.id)) {
+            continue;
+        }
 
         pokedexEntry.tier = pokedexEntry.tiers[0];
         delete pokedexEntry.tiers;

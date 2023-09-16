@@ -18,18 +18,11 @@
 
 <style lang="scss" scoped>
 .wrapper {
-  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-  font-size: 18px;
-  color: #eee;
-  padding: 10px;
   display: flex;
   flex-direction: column;
-  // align-items: center;
 }
 
-.container {
-  min-width: 1440px;
-}
+.container {}
 
 .nav {
   display: flex;

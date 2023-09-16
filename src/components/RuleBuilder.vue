@@ -11,7 +11,17 @@
 <script lang="ts" setup>
 import { ref } from "vue";
 
-const fields = ref();
+const fields = ref([{ value: "" }]);
+
+function addField() {
+    fields.value.push({ value: "" });
+}
+
+function removeField() {
+    if (fields.value.length > 1) {
+        fields.value.pop();
+    }
+}
 </script>
 
 <style lang="scss" scoped></style>

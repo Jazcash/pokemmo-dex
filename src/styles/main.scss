@@ -14,6 +14,13 @@ h1, h2, h3, h4, h5, h6, p {
     padding: 7px 10px;
 }
 
+body {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 18px;
+    color: #eee;
+    padding: 10px;
+}
+
 .p-tabview-panels {
     padding: 0 !important;
     border: none !important;
@@ -35,4 +42,23 @@ h1, h2, h3, h4, h5, h6, p {
 .p-datatable th:hover,
 .p-datatable .p-sortable-column.p-highlight {
     background: #1f3149 !important;
+}
+
+.p-dropdown-item {
+    padding: 7px 10px !important;
+}
+
+h1 {
+    font-size: 42px;
+    width: 100%;
+    display: flex;
+}
+
+a {
+    text-decoration: underline;
+    color: #eee;
+
+    &:hover {
+        color: #bbe0ff;
+    }
 }

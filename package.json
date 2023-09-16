@@ -11,6 +11,7 @@
   },
   "dependencies": {
     "@pencil.js/spritesheet": "^1.5.1",
+    "@vueuse/core": "^10.4.1",
     "fast-glob": "^3.3.1",
     "gamefroot-texture-packer": "^1.1.2",
     "node-sprite-generator": "^0.10.2",
@@ -28,6 +29,7 @@
     "regenerator-runtime": "^0.14.0",
     "ts-node": "^10.9.1",
     "typescript": "^5.0.2",
+    "unplugin-vue-macros": "^2.4.14",
     "unplugin-vue-router": "^0.6.4",
     "vite": "^4.4.5",
     "vue-tsc": "^1.8.5"

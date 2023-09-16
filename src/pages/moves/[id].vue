@@ -4,7 +4,11 @@
 
 <template>
     <div>
-        <h1>{{ move.name }}</h1>
+        <h1>
+            <a :href="`https://pokemondb.net/move/${move.name.replace(' ', '-')}`">
+                {{ move.name }}
+            </a>
+        </h1>
         <div class="gridform">
             <div>ID</div>
             <div>{{ move.id }}</div>

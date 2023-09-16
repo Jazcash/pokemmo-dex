@@ -1,10 +1,10 @@
 import pokedex from "@/assets/pokedex.json";
-import { Pokemon, Move, Ability, Location } from "@/model/types";
+import { Pokemon, Move, Ability, Location, LearnMoveType, Type } from "@/model/types";
 
-const pokemon: Record<number, Pokemon> = {};
-const moves: Record<number, Move> = {};
-const abilities: Record<number, Ability> = {};
-const locations: Record<string, Location> = {};
+const pokemonLookup: Record<number, Pokemon> = {};
+const movesLookup: Record<number, Move> = {};
+const abilitiesLookup: Record<number, Ability> = {};
+const locationsLookup: Record<string, Location> = {};
 
 const pokemonArr = pokedex.pokemon as Pokemon[];
 const abilitiesArr: Ability[] = [];
@@ -12,36 +12,31 @@ const locationsArr: Location[] = [];
 const movesArr: Move[] = [];
 
 for (const move of pokedex.moves) {
-    const mov = {
+    const mov: Move = {
         ...move,
+        type: move.type as Type,
         learnedBy: [],
     };
 
-    moves[move.id] = mov;
+    movesLookup[move.id] = mov;
     movesArr.push(mov);
 }
 
 for (const poke of pokemonArr) {
-    for (const move of poke.moves) {
-        if (!moves[move.id].learnedBy.includes(poke.id)) {
-            moves[move.id].learnedBy.push(poke.id);
-        }
-    }
-
     for (const ability of poke.abilities) {
         if (ability.description) {
-            if (!abilities[ability.id]) {
+            if (!abilitiesLookup[ability.id]) {
                 const abil: Ability = {
                     id: ability.id,
                     name: ability.name,
                     description: ability.description,
                     learnedBy: [],
                 };
-                abilities[ability.id] = abil;
+                abilitiesLookup[ability.id] = abil;
                 abilitiesArr.push(abil);
-                abilities[ability.id].learnedBy = [];
+                abilitiesLookup[ability.id].learnedBy = [];
             }
-            abilities[ability.id].learnedBy.push(poke.id);
+            abilitiesLookup[ability.id].learnedBy.push(poke.id);
         }
     }
 
@@ -50,8 +45,8 @@ for (const poke of pokemonArr) {
             .toLowerCase()
             .replace(/[ \/]/g, "-")
             .replace(/[\(\)\.']/g, "");
-        if (locations[locationId]) {
-            locations[locationId].pokemonFound.push({
+        if (locationsLookup[locationId]) {
+            locationsLookup[locationId].pokemonFound.push({
                 pokemonId: poke.id,
                 ...location,
             });
@@ -68,13 +63,30 @@ for (const poke of pokemonArr) {
                     },
                 ],
             };
-            locations[locationId] = loc;
+            locationsLookup[locationId] = loc;
             locationsArr.push(loc);
         }
     }
 
-    pokemon[poke.id] = poke;
+    pokemonLookup[poke.id] = poke;
 }
+
+for (const poke of pokemonArr) {
+    for (const move of poke.moves) {
+        const evolutions = getAllEvolutions(poke.id);
+        evolutions.forEach((ev, i) => {
+            if (!movesLookup[move.id].learnedBy.includes(ev.id)) {
+                movesLookup[move.id].learnedBy.push(ev.id);
+
+                if (i > 0 && move.learnType === LearnMoveType.EGG_MOVE) {
+                    ev.moves.push(move);
+                }
+            }
+        });
+    }
+}
+
+movesArr.sort((a, b) => a.name.localeCompare(b.name));
 
 export const pokedexArrays = {
     pokemon: pokemonArr,
@@ -83,4 +95,20 @@ export const pokedexArrays = {
     locations: locationsArr,
 };
 
-export const pokedexLookups = { pokemon, moves, abilities, locations };
+export const pokedexLookups = {
+    pokemon: pokemonLookup,
+    moves: movesLookup,
+    abilities: abilitiesLookup,
+    locations: locationsLookup,
+};
+
+export function getAllEvolutions(id: number): Pokemon[] {
+    const poke = pokemonLookup[id]!;
+    const evolutions: Pokemon[] = [poke];
+
+    for (const ev of poke.evolutions) {
+        evolutions.push(...getAllEvolutions(ev.id));
+    }
+
+    return evolutions;
+}

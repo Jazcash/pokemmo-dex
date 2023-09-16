@@ -1,4 +1,4 @@
-import { EggGroup, Type } from "@/model/types";
+import { EggGroup } from "@/model/types";
 
 export function getEggGroupColor(eggGroup: EggGroup) {
     return {

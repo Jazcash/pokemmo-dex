@@ -1,7 +1,7 @@
 <template>
     <div v-if="locations.length">
         <DataTable :value="locations" dataKey="id" sortField="id" :sortOrder="1" paginator :rows="20"
-            :rowsPerPageOptions="[20, 50, 1000]" filterDisplay="menu" @row-click="onRowClicked" selectionMode="single"
+            :rowsPerPageOptions="[20, 50, 1000]" filterDisplay="menu" @row-select="onRowSelected" selectionMode="single"
             stripedRows>
             <Column header="Region" field="region_name" sortable filter style="width: 200px"></Column>
             <Column header="Area" field="location" sortable filter style="width: 200px"></Column>
@@ -20,7 +20,7 @@
 </template>
 
 <script lang="ts" setup>
-import DataTable, { DataTableRowClickEvent } from "primevue/datatable";
+import DataTable, { DataTableRowSelectEvent } from "primevue/datatable";
 import { useRouter } from "vue-router/auto";
 import Column from "primevue/column";
 import { Location, PokemonLocation } from "@/model/types";
@@ -31,9 +31,14 @@ defineProps<{
 
 const router = useRouter();
 
-function onRowClicked(event: DataTableRowClickEvent) {
-    router.push(`/locations/${event.data.id}`);
+function onRowSelected(event: DataTableRowSelectEvent) {
+    if ("ctrlKey" in event.originalEvent && event.originalEvent.ctrlKey) {
+        window.open(`/locations/${event.data.id}`);
+    } else {
+        router.push(`/locations/${event.data.id}`);
+    }
 }
+
 </script>
 
 <style lang="scss" scoped>

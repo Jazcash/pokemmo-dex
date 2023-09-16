@@ -1,8 +1,8 @@
 <template>
     <div>
         <DataTable :value="moves" dataKey="id" sortField="name" :sortOrder="1" paginator :rows="20"
-            :rowsPerPageOptions="[20, 50, 1000]" filterDisplay="menu" @row-click="onRowClicked" selectionMode="single"
-            stripedRows>
+            :rowsPerPageOptions="[20, 50, 1000]" filterDisplay="menu" @row-select="onRowSelected" selectionMode="single"
+            @mousedown.middle.prevent.stop stripedRows>
             <Column header="Name" field="name" sortable filter style="width: 200px"></Column>
             <Column header="Type" field="type" sortable style="width: 85px">
                 <template #body="slotProps">
@@ -15,7 +15,12 @@
                 </template>
             </Column>
             <Column header="Power" field="base_power" sortable style="width: 1px"></Column>
-            <Column header="Accuracy" field="base_accuracy" sortable style="width: 1px"></Column>
+            <Column header="Accuracy" field="base_accuracy" sortable style="width: 1px">
+                <template #body="slotProps">
+                    <span v-if="slotProps.data.base_accuracy !== 101">{{ slotProps.data.base_accuracy }}</span>
+                    <span v-else>∞</span>
+                </template>
+            </Column>
             <Column header="PP" field="base_pp" sortable style="width: 1px"></Column>
             <Column header="Priority" field="priority" sortable style="width: 1px"></Column>
             <Column header="Targets" field="target_type" sortable>
@@ -36,7 +41,7 @@
 </template>
 
 <script lang="ts" setup>
-import DataTable, { DataTableRowClickEvent } from "primevue/datatable";
+import DataTable, { DataTableRowSelectEvent } from "primevue/datatable";
 import { useRouter } from "vue-router/auto";
 import Column from "primevue/column";
 import DamageType from "@/components/DamageType.vue";
@@ -50,8 +55,12 @@ defineProps<{
 
 const router = useRouter();
 
-function onRowClicked(event: DataTableRowClickEvent) {
-    router.push(`/moves/${event.data.id}`);
+function onRowSelected(event: DataTableRowSelectEvent) {
+    if ("ctrlKey" in event.originalEvent && event.originalEvent.ctrlKey) {
+        window.open(`/moves/${event.data.id}`);
+    } else {
+        router.push(`/moves/${event.data.id}`);
+    }
 }
 </script>
 

@@ -1,0 +1,1 @@
+import{L as e}from"./Locations-2efc9af4.js";import{p as a}from"./store-74b8450a.js";import{d as n,o as t,c as s,a as r,b as c}from"./index-28d703e3.js";const f=n({__name:"index",setup(i){const o=a.locations;return(l,p)=>(t(),s("div",null,[r(e,{locations:c(o)},null,8,["locations"])]))}});export{f as default};

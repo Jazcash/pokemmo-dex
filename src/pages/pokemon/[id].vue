@@ -16,7 +16,7 @@
             <div class="flex-col fullwidth gap-sm">
                 <h1 class="flex-row flex-space-between">
                     <a :href="`https://pokemondb.net/pokedex/${pokemon.name}`">
-                        <span>{{ pokemon.name }}</span>
+                        {{ pokemon.name }}
                     </a>
                     <span>#{{ String(pokemon.id).padStart(3, "0") }}</span>
                 </h1>
@@ -94,12 +94,13 @@
         <div class="flex-col gap-md">
             <h2>Abilities</h2>
 
-            <template v-for="ability of pokemon.abilities" class="flex-col">
+            <template v-for="(ability, i) of pokemon.abilities" class="flex-col">
                 <div v-if="ability.description">
                     <h3>
                         <router-link :to="`/abilities/${ability.id}`">
                             {{ ability.name }}
                         </router-link>
+                        <span v-if="i === 2"> (Hidden Ability)</span>
                     </h3>
                     <p>{{ ability.description }}</p>
                 </div>
@@ -171,21 +172,6 @@ const levellingRate = computed(() => pokemon.value.exp_type.toLocaleLowerCase().
         left: 7px;
         display: flex;
         gap: 5px;
-    }
-}
-
-h1 {
-    font-size: 48px;
-    width: 100%;
-    display: flex;
-}
-
-a {
-    text-decoration: underline;
-    color: #eee;
-
-    &:hover {
-        color: #42739b;
     }
 }
 
