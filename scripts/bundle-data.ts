@@ -51,22 +51,23 @@ for (const file of pokedexFiles) {
             delete move.type;
         }
 
-        const uniqueLocationHashes: string[] = [];
+        // some entries in pokemmo's exported location data are duped for some reason, so we remove dupes here
+        const locations = new Map<string, any>();
         for (const location of pokedexEntry.locations) {
-            location.id = `${location.region_name}_${location.location}`
-                .toLowerCase()
-                .replace(/[ \/]/g, "-")
-                .replace(/[\(\)\.']/g, "");
-
             const locationHash = hash(location);
-
-            // some entries in pokemmo's exported location data is duped for some reason, so we ignore dupes here
-            if (uniqueLocationHashes.includes(locationHash)) {
-                removeFromArray(pokedexEntry.locations, location);
-                continue;
+            if (!locations.has(locationHash)) {
+                locations.set(locationHash, location);
+                location.id = `${location.region_name}_${location.location}`
+                    .toLowerCase()
+                    .replace(/[ \/]/g, "-")
+                    .replace(/[\(\)\.']/g, "");
             }
+        }
 
-            uniqueLocationHashes.push(locationHash);
+        pokedexEntry.locations = Array.from(locations.values());
+
+        if (pokedexEntry.name === "Kakuna") {
+            console.log(pokedexEntry.locations);
         }
 
         pokemon.push(pokedexEntry);
