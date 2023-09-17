@@ -3,6 +3,8 @@
 import fs from "fs";
 import nsg from "node-sprite-generator";
 import path from "path";
+import hash from "object-hash";
+import { removeFromArray } from "jaz-ts-utils";
 
 const pokemon: any[] = [];
 const moves: any[] = [];
@@ -47,6 +49,24 @@ for (const file of pokedexFiles) {
         for (const move of pokedexEntry.moves) {
             move.learnType = move.type;
             delete move.type;
+        }
+
+        const uniqueLocationHashes: string[] = [];
+        for (const location of pokedexEntry.locations) {
+            location.id = `${location.region_name}_${location.location}`
+                .toLowerCase()
+                .replace(/[ \/]/g, "-")
+                .replace(/[\(\)\.']/g, "");
+
+            const locationHash = hash(location);
+
+            // some entries in pokemmo's exported location data is duped for some reason, so we ignore dupes here
+            if (uniqueLocationHashes.includes(locationHash)) {
+                removeFromArray(pokedexEntry.locations, location);
+                continue;
+            }
+
+            uniqueLocationHashes.push(locationHash);
         }
 
         pokemon.push(pokedexEntry);

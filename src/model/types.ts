@@ -69,6 +69,7 @@ export interface Yields {
 }
 
 export interface PokemonLocation {
+    id: string;
     type: string;
     region_id: number;
     region_name: string;

@@ -41,18 +41,14 @@ for (const poke of pokemonArr) {
     }
 
     for (const location of poke.locations) {
-        const locationId = `${location.region_name}_${location.location}`
-            .toLowerCase()
-            .replace(/[ \/]/g, "-")
-            .replace(/[\(\)\.']/g, "");
-        if (locationsLookup[locationId]) {
-            locationsLookup[locationId].pokemonFound.push({
+        if (locationsLookup[location.id]) {
+            locationsLookup[location.id].pokemonFound.push({
                 pokemonId: poke.id,
                 ...location,
             });
         } else {
-            const loc = {
-                id: locationId,
+            const loc: Location = {
+                id: location.id,
                 region_id: location.region_id,
                 region_name: location.region_name,
                 location: location.location,
@@ -63,7 +59,7 @@ for (const poke of pokemonArr) {
                     },
                 ],
             };
-            locationsLookup[locationId] = loc;
+            locationsLookup[location.id] = loc;
             locationsArr.push(loc);
         }
     }

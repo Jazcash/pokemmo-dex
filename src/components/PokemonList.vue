@@ -102,20 +102,6 @@
                         </template>
                     </Column>
                 </template>
-
-                <!-- <template v-if="move">
-                    <Column header="Learn Type">
-                        <template #body="{ data }">
-                            {{ getMoveLearnTypeText(getPokemonMove(data.id, move.id)!.learnType) }}
-                        </template>
-                    </Column>
-                    <Column header="Level">
-                        <template #body="{ data }">
-                            <span v-if="getPokemonMove(data.id, move.id)">
-                                {{ getPokemonMove(data.id, move.id)!.level }}</span>
-                        </template>
-                    </Column>
-                </template> -->
             </DataTable>
         </div>
     </div>
@@ -132,7 +118,6 @@ import MultiSelect from 'primevue/multiselect';
 import { ref } from "vue";
 import { useRouter } from "vue-router/auto";
 import { Move, Pokemon } from "@/model/types";
-//import { getMoveLearnTypeText } from "@/utils/get-move-learn-type-text";
 import { pokedexLookups } from "@/store/store";
 import InputText from "primevue/inputtext";
 import { FilterMatchMode, FilterService } from 'primevue/api';
@@ -206,10 +191,6 @@ function onRowSelected(event: DataTableRowSelectEvent) {
         router.push(`/pokemon/${event.data.id}`);
     }
 }
-
-// function getPokemonMove(pokemonId: number, moveId: number) {
-//     return pokedexLookups.pokemon[pokemonId].moves.find(mov => mov.id === moveId);
-// }
 </script>
 
 <style lang="scss" scoped>
