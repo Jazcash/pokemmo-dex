@@ -1,0 +1,1 @@
+import{M as o}from"./Moves-3cbbf9a8.js";import{p as s}from"./store-a910cdbb.js";import{d as r,o as a,c as t,a as m,b as n}from"./index-e1d471cd.js";import"./status-5af2ebee.js";const u=r({__name:"index",setup(p){const e=s.moves;return(c,i)=>(a(),t("div",null,[m(o,{moves:n(e)},null,8,["moves"])]))}});export{u as default};

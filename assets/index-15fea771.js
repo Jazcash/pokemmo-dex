@@ -1,0 +1,1 @@
+import{p as e}from"./store-a910cdbb.js";import{P as n}from"./PokemonList-8e49f48f.js";import{d as r,o as t,c as m,a as p,b as a}from"./index-e1d471cd.js";import"./status-5af2ebee.js";import"./GenderRatio-9dda7515.js";const u=r({__name:"index",setup(s){const o=e.pokemon;return(c,i)=>(t(),m("div",null,[p(n,{pokemon:a(o)},null,8,["pokemon"])]))}});export{u as default};
