@@ -57,7 +57,7 @@ const router = useRouter();
 
 function onRowSelected(event: DataTableRowSelectEvent) {
     if ("ctrlKey" in event.originalEvent && event.originalEvent.ctrlKey) {
-        window.open(`/#/moves/${event.data.id}`, "_blank");
+        window.open(`${window.location.origin}${window.location.pathname}#/moves/${event.data.id}`, "_blank");
     } else {
         router.push(`/moves/${event.data.id}`);
     }

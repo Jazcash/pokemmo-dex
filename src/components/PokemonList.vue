@@ -201,7 +201,7 @@ const filters = ref<DataTableFilterMeta>({
 
 function onRowSelected(event: DataTableRowSelectEvent) {
     if ("ctrlKey" in event.originalEvent && event.originalEvent.ctrlKey) {
-        window.open(`/#/pokemon/${event.data.id}`, "_blank");
+        window.open(`${window.location.origin}${window.location.pathname}#/pokemon/${event.data.id}`, "_blank");
     } else {
         router.push(`/pokemon/${event.data.id}`);
     }
